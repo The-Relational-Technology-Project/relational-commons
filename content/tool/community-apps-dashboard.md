@@ -9,7 +9,7 @@ topics: ["relational-tech"]
 attribution_source: "Relational Tech Studio library"
 web: "https://relationalbuilder.org/commons/e/community-apps-dashboard"
 created: "2026-06-10"
-updated: "2026-08-11"
+updated: "2026-08-12"
 rtp_id: "b1baee12-ae65-449d-b32f-744376421656"
 ---
 # Community Apps Dashboard

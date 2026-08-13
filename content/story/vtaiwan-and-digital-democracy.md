@@ -9,7 +9,7 @@ topics: ["builder-story"]
 author: "Radical xChange paper / CivicHall article on vTaiwan"
 web: "https://relationalbuilder.org/commons/e/vtaiwan-and-digital-democracy"
 created: "2026-06-10"
-updated: "2026-08-11"
+updated: "2026-08-12"
 rtp_id: "881eeaec-f8a6-40d3-8b1f-97c33cf26435"
 ---
 # vTaiwan and Digital Democracy

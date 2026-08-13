@@ -10,7 +10,7 @@ attribution_source: "Relational Tech Studio library"
 parent: "../tool/our-neighborhood-today.md"
 web: "https://relationalbuilder.org/commons/e/neighborhood-today-calendar"
 created: "2026-06-10"
-updated: "2026-08-11"
+updated: "2026-08-12"
 rtp_id: "6c092e57-7875-4966-8913-fae80a4733fc"
 ---
 # Neighborhood Today Calendar

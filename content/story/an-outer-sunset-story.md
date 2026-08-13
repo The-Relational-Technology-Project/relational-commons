@@ -9,7 +9,7 @@ topics: ["builder-story"]
 author: "Josh Nesbit"
 web: "https://relationalbuilder.org/commons/e/an-outer-sunset-story"
 created: "2026-06-10"
-updated: "2026-08-11"
+updated: "2026-08-12"
 rtp_id: "c8f698e2-3032-4b20-9b5e-4e827c83d7fe"
 ---
 # An Outer Sunset Story

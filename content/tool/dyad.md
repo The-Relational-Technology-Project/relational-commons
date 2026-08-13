@@ -10,7 +10,7 @@ attribution_source: "Relational Tech Studio library"
 source_url: "https://www.dyad.sh/"
 web: "https://relationalbuilder.org/commons/e/dyad"
 created: "2026-06-10"
-updated: "2026-08-11"
+updated: "2026-08-12"
 rtp_id: "2dfa296e-050c-4156-a63a-bc0e73e9ec1d"
 ---
 # Dyad

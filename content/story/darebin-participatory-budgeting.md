@@ -9,7 +9,7 @@ topics: ["builder-story"]
 author: "newDemocracy Foundation / Participedia / City of Darebin"
 web: "https://relationalbuilder.org/commons/e/darebin-participatory-budgeting"
 created: "2026-06-10"
-updated: "2026-08-11"
+updated: "2026-08-12"
 rtp_id: "fb9b2cfd-46f0-4098-bb8d-572cf4ce81b2"
 ---
 # Darebin Participatory Budgeting

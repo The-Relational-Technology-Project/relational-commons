@@ -9,7 +9,7 @@ topics: ["builder-story"]
 author: "Supernuclear Substack / supernuclear.substack.com"
 web: "https://relationalbuilder.org/commons/e/savannah-kruger-and-the-neighborhood-accelerator-boulder"
 created: "2026-06-10"
-updated: "2026-08-11"
+updated: "2026-08-12"
 rtp_id: "6e409f69-af95-48b6-b6d7-b3722198cfe0"
 ---
 # Savannah Kruger and The Neighborhood Accelerator, Boulder

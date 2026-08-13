@@ -10,7 +10,7 @@ attribution_source: "Relational Tech Studio library"
 parent: "../tool/privacy-and-terms-page.md"
 web: "https://relationalbuilder.org/commons/e/privacy-and-terms-page"
 created: "2026-06-10"
-updated: "2026-08-11"
+updated: "2026-08-12"
 rtp_id: "d32ca7c8-2fec-4f14-bfe1-732024876862"
 ---
 # Privacy & Terms Page
