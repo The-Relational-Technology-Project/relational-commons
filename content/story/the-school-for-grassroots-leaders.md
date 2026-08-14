@@ -9,7 +9,7 @@ topics: ["builder-story"]
 author: "Hillary Do, BOLT Founder"
 web: "https://relationalbuilder.org/commons/e/the-school-for-grassroots-leaders"
 created: "2026-06-10"
-updated: "2026-08-12"
+updated: "2026-08-13"
 rtp_id: "7df7d619-34e0-483d-a359-2e64c5168a59"
 ---
 # The School for Grassroots Leaders

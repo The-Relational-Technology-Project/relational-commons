@@ -10,7 +10,7 @@ attribution_source: "Relational Tech Studio library"
 source_url: "https://withneighbors.org"
 web: "https://relationalbuilder.org/commons/e/microgrant-management"
 created: "2026-06-10"
-updated: "2026-08-12"
+updated: "2026-08-13"
 rtp_id: "30486a0f-7b0b-4ec3-974a-e878ea48783b"
 ---
 # Microgrant Management

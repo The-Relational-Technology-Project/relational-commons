@@ -10,7 +10,7 @@ attribution_source: "Relational Tech Studio library"
 parent: "../tool/community-income-sharing.md"
 web: "https://relationalbuilder.org/commons/e/community-income-sharing"
 created: "2026-06-11"
-updated: "2026-08-12"
+updated: "2026-08-13"
 rtp_id: "180eb412-4b86-4650-939d-1b4078deee8d"
 ---
 # Community Income Sharing

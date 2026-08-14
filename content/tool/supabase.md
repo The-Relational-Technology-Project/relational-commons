@@ -10,7 +10,7 @@ attribution_source: "Relational Tech Studio library"
 source_url: "https://supabase.com"
 web: "https://relationalbuilder.org/commons/e/supabase"
 created: "2026-06-10"
-updated: "2026-08-12"
+updated: "2026-08-13"
 rtp_id: "229b5244-a77a-4781-8090-e5801e5db65b"
 ---
 # Supabase

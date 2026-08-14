@@ -10,7 +10,7 @@ attribution_source: "Relational Tech Studio library"
 parent: "../tool/neighborhood-association-hub.md"
 web: "https://relationalbuilder.org/commons/e/neighborhood-association-hub"
 created: "2026-06-10"
-updated: "2026-08-12"
+updated: "2026-08-13"
 rtp_id: "269caca9-5af1-409e-b320-104fd2f76d32"
 ---
 # Neighborhood Association Hub

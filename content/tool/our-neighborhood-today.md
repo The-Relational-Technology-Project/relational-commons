@@ -10,7 +10,7 @@ attribution_source: "Relational Tech Studio library"
 source_url: "https://outersunset.today"
 web: "https://relationalbuilder.org/commons/e/our-neighborhood-today"
 created: "2026-06-10"
-updated: "2026-08-12"
+updated: "2026-08-13"
 rtp_id: "e4b889c5-57a2-4ee8-b93e-704f5f3f7012"
 ---
 # Our Neighborhood Today

@@ -9,7 +9,7 @@ topics: ["builder-story"]
 author: "Gerrel Jones, Neighborhood Rebuilder"
 web: "https://relationalbuilder.org/commons/e/yard-parties-and-sweat-equity"
 created: "2026-06-10"
-updated: "2026-08-12"
+updated: "2026-08-13"
 rtp_id: "29c17120-3052-44e4-bc39-bd441a0fc157"
 ---
 # Yard Parties and Sweat Equity

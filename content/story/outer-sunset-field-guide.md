@@ -9,7 +9,7 @@ topics: ["builder-story"]
 author: "Josh Nesbit / outersunset.place"
 web: "https://relationalbuilder.org/commons/e/outer-sunset-field-guide"
 created: "2026-06-10"
-updated: "2026-08-12"
+updated: "2026-08-13"
 rtp_id: "46cc3d09-d3db-405b-b070-dc8d0848811d"
 ---
 # Outer Sunset Field Guide

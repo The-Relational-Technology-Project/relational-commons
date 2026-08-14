@@ -9,7 +9,7 @@ topics: ["relational-tech"]
 attribution_source: "Relational Tech Studio library"
 web: "https://relationalbuilder.org/commons/e/neighbor-story-sharing"
 created: "2026-06-10"
-updated: "2026-08-12"
+updated: "2026-08-13"
 rtp_id: "72fe17c8-e153-459b-b1d8-9ce88267e35d"
 ---
 # Neighbor Story Sharing

@@ -10,7 +10,7 @@ attribution_source: "Relational Tech Studio library"
 parent: "../tool/hyperlocal-neighbor-hub.md"
 web: "https://relationalbuilder.org/commons/e/hyperlocal-neighbor-hubs"
 created: "2026-06-10"
-updated: "2026-08-12"
+updated: "2026-08-13"
 rtp_id: "5b792d46-140b-4f50-b52c-664018f21f59"
 ---
 # Hyperlocal Neighbor Hubs
