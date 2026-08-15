@@ -10,7 +10,7 @@ attribution_source: "Relational Tech Studio library"
 source_url: "https://www.firecrawl.dev/"
 web: "https://relationalbuilder.org/commons/e/firecrawl"
 created: "2026-06-10"
-updated: "2026-08-13"
+updated: "2026-08-14"
 rtp_id: "58ede827-4d88-465a-bd6e-6426d76ef6e3"
 ---
 # Firecrawl

@@ -9,7 +9,7 @@ topics: ["builder-story"]
 author: "newDemocracy Foundation / South Australia Nuclear Fuel Cycle Engagement"
 web: "https://relationalbuilder.org/commons/e/south-australia-citizens-jury-on-nuclear-waste"
 created: "2026-06-10"
-updated: "2026-08-13"
+updated: "2026-08-14"
 rtp_id: "70359b77-6d9f-4447-9c5f-4c7d31970247"
 ---
 # South Australia Citizens' Jury on Nuclear Waste

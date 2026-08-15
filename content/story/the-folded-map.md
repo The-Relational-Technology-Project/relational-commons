@@ -9,7 +9,7 @@ topics: ["builder-story"]
 author: "Tonika Lewis Johnson, Visual Artist and Community Connector"
 web: "https://relationalbuilder.org/commons/e/the-folded-map"
 created: "2026-06-10"
-updated: "2026-08-13"
+updated: "2026-08-14"
 rtp_id: "9cb4fe91-4ca7-41ae-a988-80a1cfd4c1b5"
 ---
 # The Folded Map

@@ -10,7 +10,7 @@ attribution_source: "Relational Tech Studio library"
 source_url: "https://outersunset.today/privacy-terms"
 web: "https://relationalbuilder.org/commons/e/privacy-and-terms-page"
 created: "2026-06-10"
-updated: "2026-08-13"
+updated: "2026-08-14"
 rtp_id: "f39f2360-7044-45e7-82bf-1274a10496cd"
 ---
 # Privacy & Terms Page

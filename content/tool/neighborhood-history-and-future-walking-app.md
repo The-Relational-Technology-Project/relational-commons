@@ -10,7 +10,7 @@ attribution_source: "Relational Tech Studio library"
 source_url: "https://outersunset.place/"
 web: "https://relationalbuilder.org/commons/e/neighborhood-history-and-future-walking-app"
 created: "2026-06-10"
-updated: "2026-08-13"
+updated: "2026-08-14"
 rtp_id: "0d6983b7-b0ef-4705-886b-803e57e64f8d"
 ---
 # Neighborhood History (and Future) Walking App
