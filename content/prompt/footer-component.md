@@ -10,7 +10,7 @@ attribution_source: "Relational Tech Studio library"
 parent: "../tool/footer-component.md"
 web: "https://relationalbuilder.org/commons/e/footer-component"
 created: "2026-06-10"
-updated: "2026-08-14"
+updated: "2026-08-15"
 rtp_id: "8117c5a2-a57b-4de8-91e0-f061f8409c92"
 ---
 # Footer Component

@@ -10,7 +10,7 @@ attribution_source: "Relational Tech Studio library"
 parent: "../tool/local-supplies-sharing.md"
 web: "https://relationalbuilder.org/commons/e/community-supplies"
 created: "2026-06-10"
-updated: "2026-08-14"
+updated: "2026-08-15"
 rtp_id: "7ab37b9a-3190-43ca-86b1-31b90d668093"
 ---
 # Community Supplies

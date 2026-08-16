@@ -9,7 +9,7 @@ topics: ["builder-story"]
 author: "Sam Pressler, Civic Experimenter"
 web: "https://relationalbuilder.org/commons/e/the-neighbor-gathering-microgrant"
 created: "2026-06-10"
-updated: "2026-08-14"
+updated: "2026-08-15"
 rtp_id: "aa9802f3-9028-44d4-845a-f3f3d51bd7e6"
 ---
 # The Neighbor Gathering Microgrant

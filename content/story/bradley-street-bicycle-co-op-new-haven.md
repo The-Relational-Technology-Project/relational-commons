@@ -9,7 +9,7 @@ topics: ["builder-story"]
 author: "Referenced in Jesse Evers' guide / bsbc.co"
 web: "https://relationalbuilder.org/commons/e/bradley-street-bicycle-co-op-new-haven"
 created: "2026-06-10"
-updated: "2026-08-14"
+updated: "2026-08-15"
 rtp_id: "40116fb5-ce7a-4742-a6b7-d8603bd8e484"
 ---
 # Bradley Street Bicycle Co-op, New Haven

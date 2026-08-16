@@ -10,7 +10,7 @@ attribution_source: "Relational Tech Studio library"
 parent: "../tool/neighborhood-connector-site.md"
 web: "https://relationalbuilder.org/commons/e/neighborhood-connector-site"
 created: "2026-06-10"
-updated: "2026-08-14"
+updated: "2026-08-15"
 rtp_id: "d4c33761-2bf6-4b17-aa0e-27bf9727d77f"
 ---
 # Neighborhood Connector Site

@@ -9,7 +9,7 @@ topics: ["builder-story"]
 author: "Daniel Marshall, Camp Co-Founder"
 web: "https://relationalbuilder.org/commons/e/lamplight-summer-camp"
 created: "2026-06-10"
-updated: "2026-08-14"
+updated: "2026-08-15"
 rtp_id: "267d00c2-df1d-4d19-a9fc-0b14a8493bd8"
 ---
 # Lamplight Summer Camp
