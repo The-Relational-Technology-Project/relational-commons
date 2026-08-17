@@ -9,7 +9,7 @@ topics: ["builder-story"]
 author: "camerados.org / Atlas of the Future"
 web: "https://relationalbuilder.org/commons/e/camerados-and-public-living-rooms"
 created: "2026-06-10"
-updated: "2026-08-15"
+updated: "2026-08-16"
 rtp_id: "4ef1f7b1-e289-4bfc-a836-93d40392fb16"
 ---
 # Camerados and Public Living Rooms

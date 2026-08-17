@@ -10,7 +10,7 @@ attribution_source: "Relational Tech Studio library"
 source_url: "https://cozycorner.place/block-party-2025"
 web: "https://relationalbuilder.org/commons/e/block-party-organizing"
 created: "2026-06-10"
-updated: "2026-08-15"
+updated: "2026-08-16"
 rtp_id: "8c17c54f-be31-4aa6-98a2-7085c4a60441"
 ---
 # Block Party Organizing

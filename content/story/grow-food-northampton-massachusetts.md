@@ -9,7 +9,7 @@ topics: ["builder-story"]
 author: "Referenced in Jesse Evers' guide / growfoodnorthampton.org"
 web: "https://relationalbuilder.org/commons/e/grow-food-northampton-massachusetts"
 created: "2026-06-10"
-updated: "2026-08-15"
+updated: "2026-08-16"
 rtp_id: "7f1141db-0246-4ced-b0ef-d5ad2ee3b3df"
 ---
 # Grow Food Northampton, Massachusetts

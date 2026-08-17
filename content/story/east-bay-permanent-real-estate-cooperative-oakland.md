@@ -9,7 +9,7 @@ topics: ["builder-story"]
 author: "ebprec.org / Sustainable Economies Law Center"
 web: "https://relationalbuilder.org/commons/e/east-bay-permanent-real-estate-cooperative-oakland"
 created: "2026-06-10"
-updated: "2026-08-15"
+updated: "2026-08-16"
 rtp_id: "494ebb89-9ca4-4a7e-b8a3-904cb3b6e549"
 ---
 # East Bay Permanent Real Estate Cooperative, Oakland

@@ -11,7 +11,7 @@ attribution_source: "Relational Tech Studio library"
 source_url: "https://buildirl.com/"
 web: "https://relationalbuilder.org/commons/e/community-clubs-platform"
 created: "2026-06-11"
-updated: "2026-08-15"
+updated: "2026-08-16"
 rtp_id: "21e37e6c-30fe-4b8e-92f0-dee3c95e8ac6"
 ---
 # Community Clubs Platform

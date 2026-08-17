@@ -9,7 +9,7 @@ topics: ["builder-story"]
 author: "Lawrence CommunityWorks / lawrencecommunityworks.org"
 web: "https://relationalbuilder.org/commons/e/neighborcircles-lawrence-massachusetts"
 created: "2026-06-10"
-updated: "2026-08-15"
+updated: "2026-08-16"
 rtp_id: "b77d9ca2-1c64-4585-b135-37ecd6128954"
 ---
 # NeighborCircles, Lawrence, Massachusetts

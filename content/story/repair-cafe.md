@@ -10,7 +10,7 @@ author: "repaircafe.org / multiple sources"
 neighboring_recipes: "https://github.com/The-Relational-Technology-Project/neighboring-recipes/blob/main/recipes/03-mutual-aid/repair-cafe.md"
 web: "https://relationalbuilder.org/commons/e/repair-cafe"
 created: "2026-06-10"
-updated: "2026-08-15"
+updated: "2026-08-16"
 rtp_id: "275f2b89-2b41-432d-8dc8-1a6d7482520c"
 ---
 # Repair Cafe

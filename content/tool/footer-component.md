@@ -10,7 +10,7 @@ attribution_source: "Relational Tech Studio library"
 source_url: "https://outersunset.us/"
 web: "https://relationalbuilder.org/commons/e/footer-component"
 created: "2026-06-10"
-updated: "2026-08-15"
+updated: "2026-08-16"
 rtp_id: "7be12f16-b977-408a-bee6-8a01f0b76b4c"
 ---
 # Footer Component

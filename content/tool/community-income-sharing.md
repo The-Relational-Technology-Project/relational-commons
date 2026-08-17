@@ -10,7 +10,7 @@ author: "Concept by Alex Zhu; platform co-created by Alex Zhu, Tyler Heath, Debo
 attribution_source: "Relational Tech Studio library"
 web: "https://relationalbuilder.org/commons/e/community-income-sharing"
 created: "2026-06-11"
-updated: "2026-08-15"
+updated: "2026-08-16"
 rtp_id: "a46fc097-d890-4d74-bbb4-ae9e9fa05799"
 ---
 # Community Income Sharing

@@ -9,7 +9,7 @@ topics: ["builder-story"]
 author: "newDemocracy Foundation / MosaicLab / Participedia"
 web: "https://relationalbuilder.org/commons/e/melbourne-people-s-panel"
 created: "2026-06-10"
-updated: "2026-08-15"
+updated: "2026-08-16"
 rtp_id: "26d8d9d1-b113-4d07-bcc3-1008becb638b"
 ---
 # Melbourne People's Panel

@@ -10,7 +10,7 @@ attribution_source: "Relational Tech Studio library"
 parent: "../tool/block-party-organizing.md"
 web: "https://relationalbuilder.org/commons/e/block-party-organizing"
 created: "2026-06-10"
-updated: "2026-08-15"
+updated: "2026-08-16"
 rtp_id: "5dda5f1e-10b8-4eb8-8ad5-45eb88498887"
 ---
 # Block Party Organizing

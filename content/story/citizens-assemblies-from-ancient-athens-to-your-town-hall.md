@@ -9,7 +9,7 @@ topics: ["builder-story"]
 author: "DemocracyNext Assembly Guide / newDemocracy Foundation"
 web: "https://relationalbuilder.org/commons/e/citizens-assemblies-from-ancient-athens-to-your-town-hall"
 created: "2026-06-10"
-updated: "2026-08-15"
+updated: "2026-08-16"
 rtp_id: "046165d5-f485-49fa-8b9a-fcf993e35a23"
 ---
 # Citizens' Assemblies: From Ancient Athens to Your Town Hall

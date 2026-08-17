@@ -9,7 +9,7 @@ topics: ["builder-story"]
 author: "jesseevers.com / CoAuthored"
 web: "https://relationalbuilder.org/commons/e/jesse-evers-and-highside-workshop-brooklyn"
 created: "2026-06-10"
-updated: "2026-08-15"
+updated: "2026-08-16"
 rtp_id: "108082dd-b922-494f-9cab-7702ce01d319"
 ---
 # Jesse Evers and Highside Workshop, Brooklyn
