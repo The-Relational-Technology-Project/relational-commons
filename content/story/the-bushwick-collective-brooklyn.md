@@ -9,7 +9,7 @@ topics: ["builder-story"]
 author: "Referenced in Jesse Evers' guide / multiple sources"
 web: "https://relationalbuilder.org/commons/e/the-bushwick-collective-brooklyn"
 created: "2026-06-10"
-updated: "2026-08-16"
+updated: "2026-08-17"
 rtp_id: "fdfde6e2-a1d2-4c82-9c8c-096f910b83fd"
 ---
 # The Bushwick Collective, Brooklyn

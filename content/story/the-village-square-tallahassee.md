@@ -9,7 +9,7 @@ topics: ["builder-story"]
 author: "villagesquare.us / The Democracy Group"
 web: "https://relationalbuilder.org/commons/e/the-village-square-tallahassee"
 created: "2026-06-10"
-updated: "2026-08-16"
+updated: "2026-08-17"
 rtp_id: "3cb4a71a-0983-4286-bd44-728d23e2aa07"
 ---
 # The Village Square, Tallahassee

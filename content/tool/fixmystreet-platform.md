@@ -10,7 +10,7 @@ attribution_source: "fixmystreet.org"
 source_url: "https://fixmystreet.org/"
 web: "https://relationalbuilder.org/commons/e/fixmystreet-platform"
 created: "2026-08-13"
-updated: "2026-08-13"
+updated: "2026-08-17"
 rtp_id: "82569f1b-8b81-4ae9-b51a-09f60d450ca7"
 ---
 # FixMyStreet Platform
@@ -32,6 +32,7 @@ One honest design lesson rides with it: reporting tools inherit the biases of wh
 - **license:** AGPL-3.0
 - **ctfg url:** https://civictech.guide/listing/fixmystreet
 - **repo url:** https://github.com/mysociety/fixmystreet
+- **image url:** https://texakzqqenzpxawktbgx.supabase.co/storage/v1/object/public/studio-library/tool-screenshots/fixmystreet-platform-2026-08.jpg
 - **remix idea:** FixMyBlock: the public repair ledger, routed to neighbors instead of (or alongside) city hall.
 - **practice kind:** tool
 

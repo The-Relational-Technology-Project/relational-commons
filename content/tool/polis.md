@@ -10,7 +10,7 @@ attribution_source: "compdemocracy.org"
 source_url: "https://compdemocracy.org/polis/"
 web: "https://relationalbuilder.org/commons/e/polis"
 created: "2026-08-13"
-updated: "2026-08-13"
+updated: "2026-08-17"
 rtp_id: "6b9d9bad-1065-4742-882f-74ca6128ae58"
 ---
 # Pol.is
@@ -31,6 +31,7 @@ Maintained by the Computational Democracy Project (a US nonprofit), AGPL-3.0, fr
 - **hosted:** free hosted conversations; self-hostable
 - **license:** AGPL-3.0 (with additional permission)
 - **repo url:** https://github.com/compdemocracy/polis
+- **image url:** https://texakzqqenzpxawktbgx.supabase.co/storage/v1/object/public/studio-library/tool-screenshots/polis-2026-08.jpg
 - **remix idea:** A one-street Polis about one shared question, with results read aloud in person.
 - **practice kind:** tool
 

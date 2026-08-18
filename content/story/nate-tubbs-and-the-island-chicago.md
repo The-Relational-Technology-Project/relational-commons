@@ -9,7 +9,7 @@ topics: ["builder-story"]
 author: "Parish Collective / parishcollective.org"
 web: "https://relationalbuilder.org/commons/e/nate-tubbs-and-the-island-chicago"
 created: "2026-06-10"
-updated: "2026-08-16"
+updated: "2026-08-17"
 rtp_id: "3cea565a-f2c1-4a04-8e53-b96caa0dc4ae"
 ---
 # Nate Tubbs and The Island, Chicago

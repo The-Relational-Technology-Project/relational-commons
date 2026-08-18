@@ -9,7 +9,7 @@ topics: ["Mutual Aid"]
 attribution_source: "Relational Tech Studio library"
 web: "https://relationalbuilder.org/commons/e/faith-community-care-connector"
 created: "2026-06-10"
-updated: "2026-08-16"
+updated: "2026-08-17"
 rtp_id: "4d8fd70e-ee66-4db3-a850-e3c5075fe00a"
 ---
 # Faith Community Care Connector

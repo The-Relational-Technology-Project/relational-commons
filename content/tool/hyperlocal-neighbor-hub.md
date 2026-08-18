@@ -10,7 +10,7 @@ attribution_source: "Relational Tech Studio library"
 source_url: "https://cozycorner.place"
 web: "https://relationalbuilder.org/commons/e/hyperlocal-neighbor-hub"
 created: "2026-06-10"
-updated: "2026-08-16"
+updated: "2026-08-17"
 rtp_id: "ee89c155-7416-4cb9-a161-28db27111b74"
 ---
 # Hyperlocal Neighbor Hub
