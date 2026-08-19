@@ -9,7 +9,7 @@ topics: ["builder-story"]
 author: "Multiple sources / Peter Macfadyen"
 web: "https://relationalbuilder.org/commons/e/flatpack-democracy-frome-england"
 created: "2026-06-10"
-updated: "2026-08-17"
+updated: "2026-08-18"
 rtp_id: "3e1c3577-3916-4c6a-8de0-a3955ec51522"
 ---
 # Flatpack Democracy, Frome, England

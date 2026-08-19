@@ -9,7 +9,7 @@ topics: ["builder-story"]
 author: "JRF paper / ujimaboston.com"
 web: "https://relationalbuilder.org/commons/e/boston-ujima-project"
 created: "2026-06-10"
-updated: "2026-08-17"
+updated: "2026-08-18"
 rtp_id: "6f3b3e77-78b7-4fdb-a5c9-8f0461b63a07"
 ---
 # Boston Ujima Project

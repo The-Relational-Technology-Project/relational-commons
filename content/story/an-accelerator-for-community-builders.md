@@ -9,7 +9,7 @@ topics: ["builder-story"]
 author: "Saumya Gupta and Colton Heward-Mills, Build IRL"
 web: "https://relationalbuilder.org/commons/e/an-accelerator-for-community-builders"
 created: "2026-06-10"
-updated: "2026-08-17"
+updated: "2026-08-18"
 rtp_id: "1f17c5a1-9fec-43de-baa6-194ccfb4fa96"
 ---
 # An Accelerator for Community Builders

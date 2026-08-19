@@ -9,7 +9,7 @@ topics: ["builder-story"]
 author: "Edmonton Federation of Community Leagues / ABCD Institute"
 web: "https://relationalbuilder.org/commons/e/edmonton-s-community-league-system"
 created: "2026-06-10"
-updated: "2026-08-17"
+updated: "2026-08-18"
 rtp_id: "5cc40769-bdb5-4e13-a97e-b23ae3e7b77b"
 ---
 # Edmonton's Community League System

@@ -10,7 +10,7 @@ attribution_source: "Relational Tech Studio library"
 source_url: "https://communitysupplies.org"
 web: "https://relationalbuilder.org/commons/e/local-supplies-sharing"
 created: "2026-06-10"
-updated: "2026-08-17"
+updated: "2026-08-18"
 rtp_id: "1a5f73cb-cca0-467b-96b6-71259beefe5f"
 ---
 # Local Supplies Sharing

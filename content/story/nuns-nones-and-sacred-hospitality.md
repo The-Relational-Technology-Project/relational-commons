@@ -9,7 +9,7 @@ topics: ["builder-story"]
 author: "Casper ter Kuile, Community Ritualist"
 web: "https://relationalbuilder.org/commons/e/nuns-nones-and-sacred-hospitality"
 created: "2026-06-10"
-updated: "2026-08-17"
+updated: "2026-08-18"
 rtp_id: "89995fb1-66bf-4830-9650-5d773a4334ec"
 ---
 # Nuns, Nones, and Sacred Hospitality
