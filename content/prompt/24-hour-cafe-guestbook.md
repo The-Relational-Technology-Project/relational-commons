@@ -9,7 +9,7 @@ topics: ["Gathering"]
 attribution_source: "Relational Tech Studio library"
 web: "https://relationalbuilder.org/commons/e/24-hour-cafe-guestbook"
 created: "2026-06-10"
-updated: "2026-08-18"
+updated: "2026-08-19"
 rtp_id: "4147197c-ebb2-4148-91bd-c1193ca21e25"
 ---
 # 24 Hour Cafe Guestbook

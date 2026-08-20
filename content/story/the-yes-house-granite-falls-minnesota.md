@@ -9,7 +9,7 @@ topics: ["builder-story"]
 author: "theyeshouse.org / Department of Public Transformation"
 web: "https://relationalbuilder.org/commons/e/the-yes-house-granite-falls-minnesota"
 created: "2026-06-10"
-updated: "2026-08-18"
+updated: "2026-08-19"
 rtp_id: "df99d2cd-0f37-4d48-bf77-7cf6198b342f"
 ---
 # The Yes House, Granite Falls, Minnesota

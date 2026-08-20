@@ -10,7 +10,7 @@ attribution_source: "Relational Tech Studio library"
 source_url: "https://lovable.dev"
 web: "https://relationalbuilder.org/commons/e/lovable"
 created: "2026-06-10"
-updated: "2026-08-18"
+updated: "2026-08-19"
 rtp_id: "4f5d2f4a-dda4-4802-a076-aad269bf78f1"
 ---
 # Lovable

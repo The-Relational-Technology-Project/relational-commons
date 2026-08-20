@@ -10,7 +10,7 @@ attribution_source: "Relational Tech Studio library"
 source_url: "https://github.com"
 web: "https://relationalbuilder.org/commons/e/github"
 created: "2026-06-10"
-updated: "2026-08-18"
+updated: "2026-08-19"
 rtp_id: "be06922d-1d3b-4117-a121-6da63149f1c5"
 ---
 # GitHub

@@ -9,7 +9,7 @@ topics: ["builder-story"]
 author: "cityrepair.org / communitecture.net"
 web: "https://relationalbuilder.org/commons/e/city-repair-and-intersection-painting-portland"
 created: "2026-06-10"
-updated: "2026-08-18"
+updated: "2026-08-19"
 rtp_id: "23ea9ccc-e214-4253-8221-c238857ea606"
 ---
 # City Repair and Intersection Painting, Portland

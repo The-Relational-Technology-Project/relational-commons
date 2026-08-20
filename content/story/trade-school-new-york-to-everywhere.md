@@ -9,7 +9,7 @@ topics: ["builder-story"]
 author: "tradeschool.coop"
 web: "https://relationalbuilder.org/commons/e/trade-school-new-york-to-everywhere"
 created: "2026-06-10"
-updated: "2026-08-18"
+updated: "2026-08-19"
 rtp_id: "d8efdf5f-a6dd-4061-9dbb-b51b7463580b"
 ---
 # Trade School, New York to Everywhere
