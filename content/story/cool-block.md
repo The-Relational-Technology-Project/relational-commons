@@ -9,7 +9,7 @@ topics: ["builder-story"]
 author: "coolblock.org / Empowerment Institute"
 web: "https://relationalbuilder.org/commons/e/cool-block"
 created: "2026-06-10"
-updated: "2026-08-19"
+updated: "2026-08-20"
 rtp_id: "6bd5d6a9-448b-4c69-a6b3-91009956d1fb"
 ---
 # Cool Block

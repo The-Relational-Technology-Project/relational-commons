@@ -10,7 +10,7 @@ attribution_source: "Relational Tech Studio library"
 source_url: "https://replit.com"
 web: "https://relationalbuilder.org/commons/e/replit"
 created: "2026-06-10"
-updated: "2026-08-19"
+updated: "2026-08-20"
 rtp_id: "02e95ec5-9d85-49a5-832e-163cd5a17b91"
 ---
 # Replit

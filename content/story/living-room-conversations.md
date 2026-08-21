@@ -9,7 +9,7 @@ topics: ["builder-story"]
 author: "livingroomconversations.org / Joan Blades"
 web: "https://relationalbuilder.org/commons/e/living-room-conversations"
 created: "2026-06-10"
-updated: "2026-08-19"
+updated: "2026-08-20"
 rtp_id: "df777a39-90e1-4141-a78c-4732f69c93aa"
 ---
 # Living Room Conversations

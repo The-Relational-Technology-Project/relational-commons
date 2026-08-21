@@ -10,7 +10,7 @@ attribution_source: "Relational Tech Studio library"
 parent: "../tool/neighborhood-connector-site.md"
 web: "https://relationalbuilder.org/commons/e/neighborhood-groups-directory"
 created: "2026-06-10"
-updated: "2026-08-19"
+updated: "2026-08-20"
 rtp_id: "569f50c7-d5e7-49d4-ac12-82cb38288c0a"
 ---
 # Neighborhood Groups Directory

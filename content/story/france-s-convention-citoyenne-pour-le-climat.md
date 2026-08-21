@@ -9,7 +9,7 @@ topics: ["builder-story"]
 author: "Convention Citoyenne pour le Climat / Involve Foundation"
 web: "https://relationalbuilder.org/commons/e/france-s-convention-citoyenne-pour-le-climat"
 created: "2026-06-10"
-updated: "2026-08-19"
+updated: "2026-08-20"
 rtp_id: "b8e4cf18-f168-4e6b-ab07-c929945e6527"
 ---
 # France's Convention Citoyenne pour le Climat

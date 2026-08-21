@@ -8,7 +8,7 @@
     "canonical": "The database is canonical; this file mirrors it."
   },
   "license_note": "Per-entry licensing lives in each entry’s `license` field (mostly RCL-1.0 — https://relationalbuilder.org/commons/license). Attribution travels with the entry — keep it attached when reusing.",
-  "data_as_of": "2026-08-19T07:59:42.437695+00:00",
+  "data_as_of": "2026-08-20T08:02:29.086408+00:00",
   "counts": {
     "total": 538,
     "by_kind": {
@@ -1576,7 +1576,7 @@
       "license": "RCL-1.0",
       "metadata": {},
       "parent_slug": null,
-      "published_at": "2026-08-19T07:59:41.677+00:00",
+      "published_at": "2026-08-20T08:02:28.857+00:00",
       "slug": "24-hour-cafe-guestbook",
       "sort_order": 50,
       "source_local_id": "7767176d-bef6-4e1f-82a2-d5092a2c11e1",
@@ -1589,7 +1589,7 @@
         "Gathering"
       ],
       "title": "24 Hour Cafe Guestbook",
-      "updated_at": "2026-08-19T07:59:42.437695+00:00"
+      "updated_at": "2026-08-20T08:02:29.086408+00:00"
     },
     {
       "attribution": {
@@ -1603,7 +1603,7 @@
       "license": "RCL-1.0",
       "metadata": {},
       "parent_slug": "block-party-organizing",
-      "published_at": "2026-08-19T07:59:41.677+00:00",
+      "published_at": "2026-08-20T08:02:28.857+00:00",
       "slug": "block-party-organizing",
       "sort_order": 50,
       "source_local_id": "795f759e-c9e3-4d63-8890-21dd8283dcb5",
@@ -1616,7 +1616,7 @@
         "Events & Gatherings"
       ],
       "title": "Block Party Organizing",
-      "updated_at": "2026-08-19T07:59:42.437695+00:00"
+      "updated_at": "2026-08-20T08:02:29.086408+00:00"
     },
     {
       "attribution": {
@@ -2173,7 +2173,7 @@
       "license": "RCL-1.0",
       "metadata": {},
       "parent_slug": "community-clubs-platform",
-      "published_at": "2026-08-19T07:59:41.677+00:00",
+      "published_at": "2026-08-20T08:02:28.857+00:00",
       "slug": "community-clubs-platform",
       "sort_order": 10,
       "source_local_id": "3ea9955b-8430-4cc1-978f-d3b3d6c907c9",
@@ -2186,7 +2186,7 @@
         "Community & Belonging"
       ],
       "title": "Community Clubs Platform",
-      "updated_at": "2026-08-19T07:59:42.437695+00:00"
+      "updated_at": "2026-08-20T08:02:29.086408+00:00"
     },
     {
       "attribution": {
@@ -2200,7 +2200,7 @@
       "license": "RCL-1.0",
       "metadata": {},
       "parent_slug": "community-income-sharing",
-      "published_at": "2026-08-19T07:59:41.677+00:00",
+      "published_at": "2026-08-20T08:02:28.857+00:00",
       "slug": "community-income-sharing",
       "sort_order": 10,
       "source_local_id": "4c35ac64-2cce-45aa-8136-a64a2bf436ae",
@@ -2213,7 +2213,7 @@
         "Mutual Aid & Resource Sharing"
       ],
       "title": "Community Income Sharing",
-      "updated_at": "2026-08-19T07:59:42.437695+00:00"
+      "updated_at": "2026-08-20T08:02:29.086408+00:00"
     },
     {
       "attribution": {
@@ -2227,7 +2227,7 @@
       "license": "RCL-1.0",
       "metadata": {},
       "parent_slug": "local-supplies-sharing",
-      "published_at": "2026-08-19T07:59:41.677+00:00",
+      "published_at": "2026-08-20T08:02:28.857+00:00",
       "slug": "community-supplies",
       "sort_order": 50,
       "source_local_id": "32f40f6c-879c-4269-bee7-01362ed8ea8f",
@@ -2240,7 +2240,7 @@
         "Resource Sharing"
       ],
       "title": "Community Supplies",
-      "updated_at": "2026-08-19T07:59:42.437695+00:00"
+      "updated_at": "2026-08-20T08:02:29.086408+00:00"
     },
     {
       "attribution": {
@@ -2254,7 +2254,7 @@
       "license": "RCL-1.0",
       "metadata": {},
       "parent_slug": null,
-      "published_at": "2026-08-19T07:59:41.677+00:00",
+      "published_at": "2026-08-20T08:02:28.857+00:00",
       "slug": "faith-community-care-connector",
       "sort_order": 50,
       "source_local_id": "28924b4f-30c7-470e-b741-a47ce249c28b",
@@ -2267,7 +2267,7 @@
         "Mutual Aid"
       ],
       "title": "Faith Community Care Connector",
-      "updated_at": "2026-08-19T07:59:42.437695+00:00"
+      "updated_at": "2026-08-20T08:02:29.086408+00:00"
     },
     {
       "attribution": {
@@ -2281,7 +2281,7 @@
       "license": "RCL-1.0",
       "metadata": {},
       "parent_slug": "footer-component",
-      "published_at": "2026-08-19T07:59:41.677+00:00",
+      "published_at": "2026-08-20T08:02:28.857+00:00",
       "slug": "footer-component",
       "sort_order": 50,
       "source_local_id": "65bfd6d7-b686-489e-8934-9261494a8fcf",
@@ -2294,7 +2294,7 @@
         "Site Components"
       ],
       "title": "Footer Component",
-      "updated_at": "2026-08-19T07:59:42.437695+00:00"
+      "updated_at": "2026-08-20T08:02:29.086408+00:00"
     },
     {
       "attribution": {
@@ -2308,7 +2308,7 @@
       "license": "RCL-1.0",
       "metadata": {},
       "parent_slug": "hyperlocal-neighbor-hub",
-      "published_at": "2026-08-19T07:59:41.677+00:00",
+      "published_at": "2026-08-20T08:02:28.857+00:00",
       "slug": "hyperlocal-neighbor-hubs",
       "sort_order": 50,
       "source_local_id": "2285c760-50c0-4175-8b20-e361da86f391",
@@ -2321,7 +2321,7 @@
         "Neighborhood Sites"
       ],
       "title": "Hyperlocal Neighbor Hubs",
-      "updated_at": "2026-08-19T07:59:42.437695+00:00"
+      "updated_at": "2026-08-20T08:02:29.086408+00:00"
     },
     {
       "attribution": {
@@ -2335,7 +2335,7 @@
       "license": "RCL-1.0",
       "metadata": {},
       "parent_slug": "microgrant-management",
-      "published_at": "2026-08-19T07:59:41.677+00:00",
+      "published_at": "2026-08-20T08:02:28.857+00:00",
       "slug": "microgrants-tool",
       "sort_order": 50,
       "source_local_id": "85eb7881-fe38-4a9a-a99f-1808a537cac6",
@@ -2348,7 +2348,7 @@
         "Community Funding"
       ],
       "title": "Microgrants Tool",
-      "updated_at": "2026-08-19T07:59:42.437695+00:00"
+      "updated_at": "2026-08-20T08:02:29.086408+00:00"
     },
     {
       "attribution": {
@@ -2362,7 +2362,7 @@
       "license": "RCL-1.0",
       "metadata": {},
       "parent_slug": "neighbor-story-sharing",
-      "published_at": "2026-08-19T07:59:41.677+00:00",
+      "published_at": "2026-08-20T08:02:28.857+00:00",
       "slug": "neighbor-story-sharing",
       "sort_order": 50,
       "source_local_id": "a51ad35d-afd8-4142-8d58-2aebe90b62d1",
@@ -2375,7 +2375,7 @@
         "Connection & Stories"
       ],
       "title": "Neighbor Story Sharing",
-      "updated_at": "2026-08-19T07:59:42.437695+00:00"
+      "updated_at": "2026-08-20T08:02:29.086408+00:00"
     },
     {
       "attribution": {
@@ -2389,7 +2389,7 @@
       "license": "RCL-1.0",
       "metadata": {},
       "parent_slug": "neighborhood-association-hub",
-      "published_at": "2026-08-19T07:59:41.677+00:00",
+      "published_at": "2026-08-20T08:02:28.857+00:00",
       "slug": "neighborhood-association-hub",
       "sort_order": 50,
       "source_local_id": "de0d5a95-c7aa-4684-b219-8cbe20b88505",
@@ -2402,7 +2402,7 @@
         "Civic Organizations"
       ],
       "title": "Neighborhood Association Hub",
-      "updated_at": "2026-08-19T07:59:42.437695+00:00"
+      "updated_at": "2026-08-20T08:02:29.086408+00:00"
     },
     {
       "attribution": {
@@ -2416,7 +2416,7 @@
       "license": "RCL-1.0",
       "metadata": {},
       "parent_slug": "neighborhood-connector-site",
-      "published_at": "2026-08-19T07:59:41.677+00:00",
+      "published_at": "2026-08-20T08:02:28.857+00:00",
       "slug": "neighborhood-connector-site",
       "sort_order": 50,
       "source_local_id": "19780b02-b616-4994-9678-26bde6868531",
@@ -2429,7 +2429,7 @@
         "Gathering"
       ],
       "title": "Neighborhood Connector Site",
-      "updated_at": "2026-08-19T07:59:42.437695+00:00"
+      "updated_at": "2026-08-20T08:02:29.086408+00:00"
     },
     {
       "attribution": {
@@ -2443,7 +2443,7 @@
       "license": "RCL-1.0",
       "metadata": {},
       "parent_slug": "neighborhood-connector-site",
-      "published_at": "2026-08-19T07:59:41.677+00:00",
+      "published_at": "2026-08-20T08:02:28.857+00:00",
       "slug": "neighborhood-groups-directory",
       "sort_order": 50,
       "source_local_id": "ce4df02f-b74f-4b99-86c3-31ec7f6b7f90",
@@ -2456,7 +2456,7 @@
         "Resource Sharing & Connection"
       ],
       "title": "Neighborhood Groups Directory",
-      "updated_at": "2026-08-19T07:59:42.437695+00:00"
+      "updated_at": "2026-08-20T08:02:29.086408+00:00"
     },
     {
       "attribution": {
@@ -2470,7 +2470,7 @@
       "license": "RCL-1.0",
       "metadata": {},
       "parent_slug": "our-neighborhood-today",
-      "published_at": "2026-08-19T07:59:41.677+00:00",
+      "published_at": "2026-08-20T08:02:28.857+00:00",
       "slug": "neighborhood-today-calendar",
       "sort_order": 50,
       "source_local_id": "3e51e21f-79df-40a3-9a0a-3687e6ab2f1d",
@@ -2483,7 +2483,7 @@
         "Events & Activities"
       ],
       "title": "Neighborhood Today Calendar",
-      "updated_at": "2026-08-19T07:59:42.437695+00:00"
+      "updated_at": "2026-08-20T08:02:29.086408+00:00"
     },
     {
       "attribution": {
@@ -2497,7 +2497,7 @@
       "license": "RCL-1.0",
       "metadata": {},
       "parent_slug": "privacy-and-terms-page",
-      "published_at": "2026-08-19T07:59:41.677+00:00",
+      "published_at": "2026-08-20T08:02:28.857+00:00",
       "slug": "privacy-and-terms-page",
       "sort_order": 50,
       "source_local_id": "479bb82a-7276-4aba-8f6a-0e16f707dd4e",
@@ -2510,7 +2510,7 @@
         "Legal & Policies"
       ],
       "title": "Privacy & Terms Page",
-      "updated_at": "2026-08-19T07:59:42.437695+00:00"
+      "updated_at": "2026-08-20T08:02:29.086408+00:00"
     },
     {
       "attribution": {
@@ -2524,7 +2524,7 @@
       "license": "RCL-1.0",
       "metadata": {},
       "parent_slug": null,
-      "published_at": "2026-08-19T07:59:41.677+00:00",
+      "published_at": "2026-08-20T08:02:28.857+00:00",
       "slug": "street-beat-newsletter-generator",
       "sort_order": 50,
       "source_local_id": "c990f919-41db-4d56-bdd4-21efb4fdb368",
@@ -2537,7 +2537,7 @@
         "Communication"
       ],
       "title": "Street Beat Newsletter Generator",
-      "updated_at": "2026-08-19T07:59:42.437695+00:00"
+      "updated_at": "2026-08-20T08:02:29.086408+00:00"
     },
     {
       "attribution": {
@@ -16270,7 +16270,7 @@
       "license": "RCL-1.0",
       "metadata": {},
       "parent_slug": null,
-      "published_at": "2026-08-19T07:59:41.677+00:00",
+      "published_at": "2026-08-20T08:02:28.857+00:00",
       "slug": "an-accelerator-for-community-builders",
       "sort_order": 50,
       "source_local_id": "94b937a5-4a4d-4904-b1f6-fc19fdbc4069",
@@ -16283,7 +16283,7 @@
         "builder-story"
       ],
       "title": "An Accelerator for Community Builders",
-      "updated_at": "2026-08-19T07:59:42.004301+00:00"
+      "updated_at": "2026-08-20T08:02:28.91335+00:00"
     },
     {
       "attribution": {
@@ -16297,7 +16297,7 @@
       "license": "RCL-1.0",
       "metadata": {},
       "parent_slug": null,
-      "published_at": "2026-08-19T07:59:41.677+00:00",
+      "published_at": "2026-08-20T08:02:28.857+00:00",
       "slug": "an-outer-sunset-story",
       "sort_order": 50,
       "source_local_id": "47aa07be-fc8c-4d92-81ed-8b2041f2f4da",
@@ -16310,7 +16310,7 @@
         "builder-story"
       ],
       "title": "An Outer Sunset Story",
-      "updated_at": "2026-08-19T07:59:42.004301+00:00"
+      "updated_at": "2026-08-20T08:02:28.91335+00:00"
     },
     {
       "attribution": {
@@ -16609,7 +16609,7 @@
       "license": "RCL-1.0",
       "metadata": {},
       "parent_slug": null,
-      "published_at": "2026-08-19T07:59:41.677+00:00",
+      "published_at": "2026-08-20T08:02:28.857+00:00",
       "slug": "boston-ujima-project",
       "sort_order": 50,
       "source_local_id": "47c8b91b-9c33-46bd-8151-ccb2699c2f93",
@@ -16622,7 +16622,7 @@
         "builder-story"
       ],
       "title": "Boston Ujima Project",
-      "updated_at": "2026-08-19T07:59:42.437695+00:00"
+      "updated_at": "2026-08-20T08:02:29.086408+00:00"
     },
     {
       "attribution": {
@@ -16680,7 +16680,7 @@
       "license": "RCL-1.0",
       "metadata": {},
       "parent_slug": null,
-      "published_at": "2026-08-19T07:59:41.677+00:00",
+      "published_at": "2026-08-20T08:02:28.857+00:00",
       "slug": "bradley-street-bicycle-co-op-new-haven",
       "sort_order": 50,
       "source_local_id": "2cdc2824-db6e-4283-8156-2a95560e1bcf",
@@ -16693,7 +16693,7 @@
         "builder-story"
       ],
       "title": "Bradley Street Bicycle Co-op, New Haven",
-      "updated_at": "2026-08-19T07:59:42.004301+00:00"
+      "updated_at": "2026-08-20T08:02:28.91335+00:00"
     },
     {
       "attribution": {
@@ -16707,7 +16707,7 @@
       "license": "RCL-1.0",
       "metadata": {},
       "parent_slug": null,
-      "published_at": "2026-08-19T07:59:41.677+00:00",
+      "published_at": "2026-08-20T08:02:28.857+00:00",
       "slug": "camerados-and-public-living-rooms",
       "sort_order": 50,
       "source_local_id": "d8f5367c-a987-4171-af86-fed9d11507d0",
@@ -16720,7 +16720,7 @@
         "builder-story"
       ],
       "title": "Camerados and Public Living Rooms",
-      "updated_at": "2026-08-19T07:59:42.437695+00:00"
+      "updated_at": "2026-08-20T08:02:29.086408+00:00"
     },
     {
       "attribution": {
@@ -16776,7 +16776,7 @@
       "license": "RCL-1.0",
       "metadata": {},
       "parent_slug": null,
-      "published_at": "2026-08-19T07:59:41.677+00:00",
+      "published_at": "2026-08-20T08:02:28.857+00:00",
       "slug": "citizens-assemblies-from-ancient-athens-to-your-town-hall",
       "sort_order": 50,
       "source_local_id": "3ccc492b-2a63-4869-8c0b-b00b27ace66e",
@@ -16789,7 +16789,7 @@
         "builder-story"
       ],
       "title": "Citizens' Assemblies: From Ancient Athens to Your Town Hall",
-      "updated_at": "2026-08-19T07:59:42.437695+00:00"
+      "updated_at": "2026-08-20T08:02:29.086408+00:00"
     },
     {
       "attribution": {
@@ -16803,7 +16803,7 @@
       "license": "RCL-1.0",
       "metadata": {},
       "parent_slug": null,
-      "published_at": "2026-08-19T07:59:41.677+00:00",
+      "published_at": "2026-08-20T08:02:28.857+00:00",
       "slug": "city-repair-and-intersection-painting-portland",
       "sort_order": 50,
       "source_local_id": "c70add17-8e05-42c2-a358-bbdef84afdf5",
@@ -16816,7 +16816,7 @@
         "builder-story"
       ],
       "title": "City Repair and Intersection Painting, Portland",
-      "updated_at": "2026-08-19T07:59:42.437695+00:00"
+      "updated_at": "2026-08-20T08:02:29.086408+00:00"
     },
     {
       "attribution": {
@@ -17122,7 +17122,7 @@
       "license": "RCL-1.0",
       "metadata": {},
       "parent_slug": null,
-      "published_at": "2026-08-19T07:59:41.677+00:00",
+      "published_at": "2026-08-20T08:02:28.857+00:00",
       "slug": "cool-block",
       "sort_order": 50,
       "source_local_id": "473378a8-80e5-4cb0-b558-5baa8a61a6a0",
@@ -17135,7 +17135,7 @@
         "builder-story"
       ],
       "title": "Cool Block",
-      "updated_at": "2026-08-19T07:59:42.437695+00:00"
+      "updated_at": "2026-08-20T08:02:29.086408+00:00"
     },
     {
       "attribution": {
@@ -17219,7 +17219,7 @@
       "license": "RCL-1.0",
       "metadata": {},
       "parent_slug": null,
-      "published_at": "2026-08-19T07:59:41.677+00:00",
+      "published_at": "2026-08-20T08:02:28.857+00:00",
       "slug": "darebin-participatory-budgeting",
       "sort_order": 50,
       "source_local_id": "15168ab5-3bad-4573-bab9-735c07363ff1",
@@ -17232,7 +17232,7 @@
         "builder-story"
       ],
       "title": "Darebin Participatory Budgeting",
-      "updated_at": "2026-08-19T07:59:42.437695+00:00"
+      "updated_at": "2026-08-20T08:02:29.086408+00:00"
     },
     {
       "attribution": {
@@ -17629,7 +17629,7 @@
       "license": "RCL-1.0",
       "metadata": {},
       "parent_slug": null,
-      "published_at": "2026-08-19T07:59:41.677+00:00",
+      "published_at": "2026-08-20T08:02:28.857+00:00",
       "slug": "east-bay-permanent-real-estate-cooperative-oakland",
       "sort_order": 50,
       "source_local_id": "1f6b60a8-dcaa-422e-927d-6ae4d83f93c5",
@@ -17642,7 +17642,7 @@
         "builder-story"
       ],
       "title": "East Bay Permanent Real Estate Cooperative, Oakland",
-      "updated_at": "2026-08-19T07:59:42.437695+00:00"
+      "updated_at": "2026-08-20T08:02:29.086408+00:00"
     },
     {
       "attribution": {
@@ -17656,7 +17656,7 @@
       "license": "RCL-1.0",
       "metadata": {},
       "parent_slug": null,
-      "published_at": "2026-08-19T07:59:41.677+00:00",
+      "published_at": "2026-08-20T08:02:28.857+00:00",
       "slug": "edmonton-s-community-league-system",
       "sort_order": 50,
       "source_local_id": "9e06c85e-664b-4b81-a246-6a4a533875ad",
@@ -17669,7 +17669,7 @@
         "builder-story"
       ],
       "title": "Edmonton's Community League System",
-      "updated_at": "2026-08-19T07:59:42.437695+00:00"
+      "updated_at": "2026-08-20T08:02:29.086408+00:00"
     },
     {
       "attribution": {
@@ -17725,7 +17725,7 @@
       "license": "RCL-1.0",
       "metadata": {},
       "parent_slug": null,
-      "published_at": "2026-08-19T07:59:41.677+00:00",
+      "published_at": "2026-08-20T08:02:28.857+00:00",
       "slug": "flatpack-democracy-frome-england",
       "sort_order": 50,
       "source_local_id": "a1a04911-2829-43eb-9a5b-69b3b4285707",
@@ -17738,7 +17738,7 @@
         "builder-story"
       ],
       "title": "Flatpack Democracy, Frome, England",
-      "updated_at": "2026-08-19T07:59:42.437695+00:00"
+      "updated_at": "2026-08-20T08:02:29.086408+00:00"
     },
     {
       "attribution": {
@@ -17752,7 +17752,7 @@
       "license": "RCL-1.0",
       "metadata": {},
       "parent_slug": null,
-      "published_at": "2026-08-19T07:59:41.677+00:00",
+      "published_at": "2026-08-20T08:02:28.857+00:00",
       "slug": "france-s-convention-citoyenne-pour-le-climat",
       "sort_order": 50,
       "source_local_id": "b5531701-17c5-40d3-8e41-327253f61ffc",
@@ -17765,7 +17765,7 @@
         "builder-story"
       ],
       "title": "France's Convention Citoyenne pour le Climat",
-      "updated_at": "2026-08-19T07:59:42.004301+00:00"
+      "updated_at": "2026-08-20T08:02:28.91335+00:00"
     },
     {
       "attribution": {
@@ -18002,7 +18002,7 @@
       "license": "RCL-1.0",
       "metadata": {},
       "parent_slug": null,
-      "published_at": "2026-08-19T07:59:41.677+00:00",
+      "published_at": "2026-08-20T08:02:28.857+00:00",
       "slug": "grow-food-northampton-massachusetts",
       "sort_order": 50,
       "source_local_id": "2464dd6a-db5f-4d4e-8e34-6f58763ff6d8",
@@ -18015,7 +18015,7 @@
         "builder-story"
       ],
       "title": "Grow Food Northampton, Massachusetts",
-      "updated_at": "2026-08-19T07:59:42.437695+00:00"
+      "updated_at": "2026-08-20T08:02:29.086408+00:00"
     },
     {
       "attribution": {
@@ -18204,7 +18204,7 @@
       "license": "RCL-1.0",
       "metadata": {},
       "parent_slug": null,
-      "published_at": "2026-08-19T07:59:41.677+00:00",
+      "published_at": "2026-08-20T08:02:28.857+00:00",
       "slug": "ireland-s-citizens-assembly-on-the-eighth-amendment",
       "sort_order": 50,
       "source_local_id": "fe006ab8-1446-4f38-8f83-6a79c00163ab",
@@ -18217,7 +18217,7 @@
         "builder-story"
       ],
       "title": "Ireland's Citizens' Assembly on the Eighth Amendment",
-      "updated_at": "2026-08-19T07:59:42.004301+00:00"
+      "updated_at": "2026-08-20T08:02:28.91335+00:00"
     },
     {
       "attribution": {
@@ -18231,7 +18231,7 @@
       "license": "RCL-1.0",
       "metadata": {},
       "parent_slug": null,
-      "published_at": "2026-08-19T07:59:41.677+00:00",
+      "published_at": "2026-08-20T08:02:28.857+00:00",
       "slug": "jesse-evers-and-highside-workshop-brooklyn",
       "sort_order": 50,
       "source_local_id": "f9894a40-45a0-46ec-b874-2682d5aa85cc",
@@ -18244,7 +18244,7 @@
         "builder-story"
       ],
       "title": "Jesse Evers and Highside Workshop, Brooklyn",
-      "updated_at": "2026-08-19T07:59:42.004301+00:00"
+      "updated_at": "2026-08-20T08:02:28.91335+00:00"
     },
     {
       "attribution": {
@@ -18342,7 +18342,7 @@
       "license": "RCL-1.0",
       "metadata": {},
       "parent_slug": null,
-      "published_at": "2026-08-19T07:59:41.677+00:00",
+      "published_at": "2026-08-20T08:02:28.857+00:00",
       "slug": "lamplight-summer-camp",
       "sort_order": 50,
       "source_local_id": "c40f67cd-486a-4c4e-95d6-c124d8ee854c",
@@ -18355,7 +18355,7 @@
         "builder-story"
       ],
       "title": "Lamplight Summer Camp",
-      "updated_at": "2026-08-19T07:59:42.004301+00:00"
+      "updated_at": "2026-08-20T08:02:28.91335+00:00"
     },
     {
       "attribution": {
@@ -18410,7 +18410,7 @@
       "license": "RCL-1.0",
       "metadata": {},
       "parent_slug": null,
-      "published_at": "2026-08-19T07:59:41.677+00:00",
+      "published_at": "2026-08-20T08:02:28.857+00:00",
       "slug": "living-room-conversations",
       "sort_order": 50,
       "source_local_id": "7149e6a3-197d-4bd8-b721-17d1da04a154",
@@ -18423,7 +18423,7 @@
         "builder-story"
       ],
       "title": "Living Room Conversations",
-      "updated_at": "2026-08-19T07:59:42.437695+00:00"
+      "updated_at": "2026-08-20T08:02:29.086408+00:00"
     },
     {
       "attribution": {
@@ -18571,7 +18571,7 @@
       "license": "RCL-1.0",
       "metadata": {},
       "parent_slug": null,
-      "published_at": "2026-08-19T07:59:41.677+00:00",
+      "published_at": "2026-08-20T08:02:28.857+00:00",
       "slug": "melbourne-people-s-panel",
       "sort_order": 50,
       "source_local_id": "318fe7b8-79c5-46bb-b233-0398046d07a6",
@@ -18584,7 +18584,7 @@
         "builder-story"
       ],
       "title": "Melbourne People's Panel",
-      "updated_at": "2026-08-19T07:59:42.004301+00:00"
+      "updated_at": "2026-08-20T08:02:28.91335+00:00"
     },
     {
       "attribution": {
@@ -18772,7 +18772,7 @@
       "license": "RCL-1.0",
       "metadata": {},
       "parent_slug": null,
-      "published_at": "2026-08-19T07:59:41.677+00:00",
+      "published_at": "2026-08-20T08:02:28.857+00:00",
       "slug": "nate-tubbs-and-the-island-chicago",
       "sort_order": 50,
       "source_local_id": "1358ab34-b5a4-4fcd-b5af-9b121fb46325",
@@ -18785,7 +18785,7 @@
         "builder-story"
       ],
       "title": "Nate Tubbs and The Island, Chicago",
-      "updated_at": "2026-08-19T07:59:42.004301+00:00"
+      "updated_at": "2026-08-20T08:02:28.91335+00:00"
     },
     {
       "attribution": {
@@ -18799,7 +18799,7 @@
       "license": "RCL-1.0",
       "metadata": {},
       "parent_slug": null,
-      "published_at": "2026-08-19T07:59:41.677+00:00",
+      "published_at": "2026-08-20T08:02:28.857+00:00",
       "slug": "neighborcircles-lawrence-massachusetts",
       "sort_order": 50,
       "source_local_id": "ce1ffb49-f093-412f-b185-cc53ffbecf06",
@@ -18812,7 +18812,7 @@
         "builder-story"
       ],
       "title": "NeighborCircles, Lawrence, Massachusetts",
-      "updated_at": "2026-08-19T07:59:42.437695+00:00"
+      "updated_at": "2026-08-20T08:02:29.086408+00:00"
     },
     {
       "attribution": {
@@ -18958,7 +18958,7 @@
       "license": "RCL-1.0",
       "metadata": {},
       "parent_slug": null,
-      "published_at": "2026-08-19T07:59:41.677+00:00",
+      "published_at": "2026-08-20T08:02:28.857+00:00",
       "slug": "nuns-nones-and-sacred-hospitality",
       "sort_order": 50,
       "source_local_id": "546eb8b8-c06f-4a2d-8e81-c8582cd80144",
@@ -18971,7 +18971,7 @@
         "builder-story"
       ],
       "title": "Nuns, Nones, and Sacred Hospitality",
-      "updated_at": "2026-08-19T07:59:42.004301+00:00"
+      "updated_at": "2026-08-20T08:02:28.91335+00:00"
     },
     {
       "attribution": {
@@ -19033,7 +19033,7 @@
       "license": "RCL-1.0",
       "metadata": {},
       "parent_slug": null,
-      "published_at": "2026-08-19T07:59:41.677+00:00",
+      "published_at": "2026-08-20T08:02:28.857+00:00",
       "slug": "outer-sunset-field-guide",
       "sort_order": 50,
       "source_local_id": "c9719de0-5264-4996-b513-43a14096537b",
@@ -19046,7 +19046,7 @@
         "builder-story"
       ],
       "title": "Outer Sunset Field Guide",
-      "updated_at": "2026-08-19T07:59:42.437695+00:00"
+      "updated_at": "2026-08-20T08:02:29.086408+00:00"
     },
     {
       "attribution": {
@@ -19324,7 +19324,7 @@
       "license": "RCL-1.0",
       "metadata": {},
       "parent_slug": null,
-      "published_at": "2026-08-19T07:59:41.677+00:00",
+      "published_at": "2026-08-20T08:02:28.857+00:00",
       "slug": "porchfest-ithaca-to-everywhere",
       "sort_order": 50,
       "source_local_id": "a7ad5dd5-cbf7-4e30-a9fd-07a8e5ae3aa9",
@@ -19337,7 +19337,7 @@
         "builder-story"
       ],
       "title": "Porchfest, Ithaca to Everywhere",
-      "updated_at": "2026-08-19T07:59:42.437695+00:00"
+      "updated_at": "2026-08-20T08:02:29.086408+00:00"
     },
     {
       "attribution": {
@@ -19619,7 +19619,7 @@
       "license": "RCL-1.0",
       "metadata": {},
       "parent_slug": null,
-      "published_at": "2026-08-19T07:59:41.677+00:00",
+      "published_at": "2026-08-20T08:02:28.857+00:00",
       "slug": "repair-cafe",
       "sort_order": 50,
       "source_local_id": "9b2aa2a1-e5e9-44e6-a17b-2b048a13363f",
@@ -19632,7 +19632,7 @@
         "builder-story"
       ],
       "title": "Repair Cafe",
-      "updated_at": "2026-08-19T07:59:42.437695+00:00"
+      "updated_at": "2026-08-20T08:02:29.086408+00:00"
     },
     {
       "attribution": {
@@ -19774,7 +19774,7 @@
       "license": "RCL-1.0",
       "metadata": {},
       "parent_slug": null,
-      "published_at": "2026-08-19T07:59:41.677+00:00",
+      "published_at": "2026-08-20T08:02:28.857+00:00",
       "slug": "savannah-kruger-and-the-neighborhood-accelerator-boulder",
       "sort_order": 50,
       "source_local_id": "4c61e9aa-6419-4e18-9f57-cf431aed0c73",
@@ -19787,7 +19787,7 @@
         "builder-story"
       ],
       "title": "Savannah Kruger and The Neighborhood Accelerator, Boulder",
-      "updated_at": "2026-08-19T07:59:42.004301+00:00"
+      "updated_at": "2026-08-20T08:02:28.91335+00:00"
     },
     {
       "attribution": {
@@ -19887,7 +19887,7 @@
       "license": "RCL-1.0",
       "metadata": {},
       "parent_slug": null,
-      "published_at": "2026-08-19T07:59:41.677+00:00",
+      "published_at": "2026-08-20T08:02:28.857+00:00",
       "slug": "south-australia-citizens-jury-on-nuclear-waste",
       "sort_order": 50,
       "source_local_id": "0d418f2d-b73e-4748-a2b5-0a5bbaee2334",
@@ -19900,7 +19900,7 @@
         "builder-story"
       ],
       "title": "South Australia Citizens' Jury on Nuclear Waste",
-      "updated_at": "2026-08-19T07:59:42.004301+00:00"
+      "updated_at": "2026-08-20T08:02:28.91335+00:00"
     },
     {
       "attribution": {
@@ -20007,7 +20007,7 @@
       "license": "RCL-1.0",
       "metadata": {},
       "parent_slug": null,
-      "published_at": "2026-08-19T07:59:41.677+00:00",
+      "published_at": "2026-08-20T08:02:28.857+00:00",
       "slug": "the-bushwick-collective-brooklyn",
       "sort_order": 50,
       "source_local_id": "106d1a4f-e458-401e-8f63-d65d137b4f58",
@@ -20020,7 +20020,7 @@
         "builder-story"
       ],
       "title": "The Bushwick Collective, Brooklyn",
-      "updated_at": "2026-08-19T07:59:42.004301+00:00"
+      "updated_at": "2026-08-20T08:02:28.91335+00:00"
     },
     {
       "attribution": {
@@ -20034,7 +20034,7 @@
       "license": "RCL-1.0",
       "metadata": {},
       "parent_slug": null,
-      "published_at": "2026-08-19T07:59:41.677+00:00",
+      "published_at": "2026-08-20T08:02:28.857+00:00",
       "slug": "the-claypole-commons",
       "sort_order": 50,
       "source_local_id": "7f6a4286-e9b8-4f90-ab43-45ac834e0a0f",
@@ -20047,7 +20047,7 @@
         "builder-story"
       ],
       "title": "The Claypole Commons",
-      "updated_at": "2026-08-19T07:59:42.004301+00:00"
+      "updated_at": "2026-08-20T08:02:28.91335+00:00"
     },
     {
       "attribution": {
@@ -20103,7 +20103,7 @@
       "license": "RCL-1.0",
       "metadata": {},
       "parent_slug": null,
-      "published_at": "2026-08-19T07:59:41.677+00:00",
+      "published_at": "2026-08-20T08:02:28.857+00:00",
       "slug": "the-folded-map",
       "sort_order": 50,
       "source_local_id": "f6cb7737-688d-4c30-a0f5-fc50e37d60f3",
@@ -20116,7 +20116,7 @@
         "builder-story"
       ],
       "title": "The Folded Map",
-      "updated_at": "2026-08-19T07:59:42.004301+00:00"
+      "updated_at": "2026-08-20T08:02:28.91335+00:00"
     },
     {
       "attribution": {
@@ -20130,7 +20130,7 @@
       "license": "RCL-1.0",
       "metadata": {},
       "parent_slug": null,
-      "published_at": "2026-08-19T07:59:41.677+00:00",
+      "published_at": "2026-08-20T08:02:28.857+00:00",
       "slug": "the-kindness-party",
       "sort_order": 50,
       "source_local_id": "db6c6334-b2c5-4b37-9c0e-ec7f7717ad4d",
@@ -20143,7 +20143,7 @@
         "builder-story"
       ],
       "title": "The Kindness Party",
-      "updated_at": "2026-08-19T07:59:42.004301+00:00"
+      "updated_at": "2026-08-20T08:02:28.91335+00:00"
     },
     {
       "attribution": {
@@ -20157,7 +20157,7 @@
       "license": "RCL-1.0",
       "metadata": {},
       "parent_slug": null,
-      "published_at": "2026-08-19T07:59:41.677+00:00",
+      "published_at": "2026-08-20T08:02:28.857+00:00",
       "slug": "the-neighbor-gathering-microgrant",
       "sort_order": 50,
       "source_local_id": "440aa37e-43bb-46f8-8456-4837df883999",
@@ -20170,7 +20170,7 @@
         "builder-story"
       ],
       "title": "The Neighbor Gathering Microgrant",
-      "updated_at": "2026-08-19T07:59:42.004301+00:00"
+      "updated_at": "2026-08-20T08:02:28.91335+00:00"
     },
     {
       "attribution": {
@@ -20184,7 +20184,7 @@
       "license": "RCL-1.0",
       "metadata": {},
       "parent_slug": null,
-      "published_at": "2026-08-19T07:59:41.677+00:00",
+      "published_at": "2026-08-20T08:02:28.857+00:00",
       "slug": "the-pain-clinic",
       "sort_order": 50,
       "source_local_id": "51d979f9-72ef-45e7-af1b-346b8f68eda7",
@@ -20197,7 +20197,7 @@
         "builder-story"
       ],
       "title": "The Pain Clinic",
-      "updated_at": "2026-08-19T07:59:42.004301+00:00"
+      "updated_at": "2026-08-20T08:02:28.91335+00:00"
     },
     {
       "attribution": {
@@ -20238,7 +20238,7 @@
       "license": "RCL-1.0",
       "metadata": {},
       "parent_slug": null,
-      "published_at": "2026-08-19T07:59:41.677+00:00",
+      "published_at": "2026-08-20T08:02:28.857+00:00",
       "slug": "the-school-for-grassroots-leaders",
       "sort_order": 50,
       "source_local_id": "f138ad22-2f0f-482d-a494-834413df1e4c",
@@ -20251,7 +20251,7 @@
         "builder-story"
       ],
       "title": "The School for Grassroots Leaders",
-      "updated_at": "2026-08-19T07:59:42.004301+00:00"
+      "updated_at": "2026-08-20T08:02:28.91335+00:00"
     },
     {
       "attribution": {
@@ -20292,7 +20292,7 @@
       "license": "RCL-1.0",
       "metadata": {},
       "parent_slug": null,
-      "published_at": "2026-08-19T07:59:41.677+00:00",
+      "published_at": "2026-08-20T08:02:28.857+00:00",
       "slug": "the-village-square-tallahassee",
       "sort_order": 50,
       "source_local_id": "554659a0-2169-4dee-98c4-9e90885a8a2d",
@@ -20305,7 +20305,7 @@
         "builder-story"
       ],
       "title": "The Village Square, Tallahassee",
-      "updated_at": "2026-08-19T07:59:42.437695+00:00"
+      "updated_at": "2026-08-20T08:02:29.086408+00:00"
     },
     {
       "attribution": {
@@ -20367,7 +20367,7 @@
       "license": "RCL-1.0",
       "metadata": {},
       "parent_slug": null,
-      "published_at": "2026-08-19T07:59:41.677+00:00",
+      "published_at": "2026-08-20T08:02:28.857+00:00",
       "slug": "the-yes-house-granite-falls-minnesota",
       "sort_order": 50,
       "source_local_id": "96788abf-8d18-447a-9471-4ea72a21cab9",
@@ -20380,7 +20380,7 @@
         "builder-story"
       ],
       "title": "The Yes House, Granite Falls, Minnesota",
-      "updated_at": "2026-08-19T07:59:42.004301+00:00"
+      "updated_at": "2026-08-20T08:02:28.91335+00:00"
     },
     {
       "attribution": {
@@ -20394,7 +20394,7 @@
       "license": "RCL-1.0",
       "metadata": {},
       "parent_slug": null,
-      "published_at": "2026-08-19T07:59:41.677+00:00",
+      "published_at": "2026-08-20T08:02:28.857+00:00",
       "slug": "trade-school-new-york-to-everywhere",
       "sort_order": 50,
       "source_local_id": "e4acaa1b-b88d-44e6-88ef-5b1232af94bf",
@@ -20407,7 +20407,7 @@
         "builder-story"
       ],
       "title": "Trade School, New York to Everywhere",
-      "updated_at": "2026-08-19T07:59:42.437695+00:00"
+      "updated_at": "2026-08-20T08:02:29.086408+00:00"
     },
     {
       "attribution": {
@@ -20467,7 +20467,7 @@
       "license": "RCL-1.0",
       "metadata": {},
       "parent_slug": null,
-      "published_at": "2026-08-19T07:59:41.677+00:00",
+      "published_at": "2026-08-20T08:02:28.857+00:00",
       "slug": "vtaiwan-and-digital-democracy",
       "sort_order": 50,
       "source_local_id": "0e84ab7a-50e2-4cc6-8e57-2b02250ff261",
@@ -20480,7 +20480,7 @@
         "builder-story"
       ],
       "title": "vTaiwan and Digital Democracy",
-      "updated_at": "2026-08-19T07:59:42.437695+00:00"
+      "updated_at": "2026-08-20T08:02:29.086408+00:00"
     },
     {
       "attribution": {
@@ -20612,7 +20612,7 @@
       "license": "RCL-1.0",
       "metadata": {},
       "parent_slug": null,
-      "published_at": "2026-08-19T07:59:41.677+00:00",
+      "published_at": "2026-08-20T08:02:28.857+00:00",
       "slug": "yard-parties-and-sweat-equity",
       "sort_order": 50,
       "source_local_id": "f903ca98-d4a3-4c54-8a95-568726e1bcb8",
@@ -20625,7 +20625,7 @@
         "builder-story"
       ],
       "title": "Yard Parties and Sweat Equity",
-      "updated_at": "2026-08-19T07:59:42.004301+00:00"
+      "updated_at": "2026-08-20T08:02:28.91335+00:00"
     },
     {
       "attribution": {
@@ -20696,7 +20696,7 @@
         "tool_category": "relational_tech"
       },
       "parent_slug": null,
-      "published_at": "2026-08-19T07:59:41.677+00:00",
+      "published_at": "2026-08-20T08:02:28.857+00:00",
       "slug": "a-community-library-for-my-coworking-space",
       "sort_order": 50,
       "source_local_id": "af82d968-140b-4e7c-8176-2ee7092a31c7",
@@ -20709,7 +20709,7 @@
         "relational-tech"
       ],
       "title": "A community library for my coworking space",
-      "updated_at": "2026-08-19T07:59:42.004301+00:00"
+      "updated_at": "2026-08-20T08:02:28.91335+00:00"
     },
     {
       "attribution": {
@@ -20735,7 +20735,7 @@
         "tool_category": "relational_tech"
       },
       "parent_slug": null,
-      "published_at": "2026-08-19T07:59:41.677+00:00",
+      "published_at": "2026-08-20T08:02:28.857+00:00",
       "slug": "block-party-organizing",
       "sort_order": 13,
       "source_local_id": "50dbf81f-63d6-43f5-8804-d84656b7f4e3",
@@ -20748,7 +20748,7 @@
         "relational-tech"
       ],
       "title": "Block Party Organizing",
-      "updated_at": "2026-08-19T07:59:42.004301+00:00"
+      "updated_at": "2026-08-20T08:02:28.91335+00:00"
     },
     {
       "attribution": {
@@ -20772,7 +20772,7 @@
         "tool_category": "tech_for_building"
       },
       "parent_slug": null,
-      "published_at": "2026-08-19T07:59:41.677+00:00",
+      "published_at": "2026-08-20T08:02:28.857+00:00",
       "slug": "claude-code",
       "sort_order": 50,
       "source_local_id": "448d2194-4514-44ad-a149-d6c1e5423fc9",
@@ -20785,7 +20785,7 @@
         "tech-for-building"
       ],
       "title": "Claude Code",
-      "updated_at": "2026-08-19T07:59:42.004301+00:00"
+      "updated_at": "2026-08-20T08:02:28.91335+00:00"
     },
     {
       "attribution": {
@@ -20850,7 +20850,7 @@
         "tool_category": "relational_tech"
       },
       "parent_slug": null,
-      "published_at": "2026-08-19T07:59:41.677+00:00",
+      "published_at": "2026-08-20T08:02:28.857+00:00",
       "slug": "community-apps-dashboard",
       "sort_order": 11,
       "source_local_id": "187fd801-37fc-47c3-bacd-eb8930707c54",
@@ -20863,7 +20863,7 @@
         "relational-tech"
       ],
       "title": "Community Apps Dashboard",
-      "updated_at": "2026-08-19T07:59:42.004301+00:00"
+      "updated_at": "2026-08-20T08:02:28.91335+00:00"
     },
     {
       "attribution": {
@@ -20890,7 +20890,7 @@
         "tool_category": "relational_tech"
       },
       "parent_slug": null,
-      "published_at": "2026-08-19T07:59:41.677+00:00",
+      "published_at": "2026-08-20T08:02:28.857+00:00",
       "slug": "community-clubs-platform",
       "sort_order": 3,
       "source_local_id": "d7008a59-4d74-4304-a80c-874afb8789d3",
@@ -20903,7 +20903,7 @@
         "relational-tech"
       ],
       "title": "Community Clubs Platform",
-      "updated_at": "2026-08-19T07:59:42.004301+00:00"
+      "updated_at": "2026-08-20T08:02:28.91335+00:00"
     },
     {
       "attribution": {
@@ -20930,7 +20930,7 @@
         "tool_category": "relational_tech"
       },
       "parent_slug": null,
-      "published_at": "2026-08-19T07:59:41.677+00:00",
+      "published_at": "2026-08-20T08:02:28.857+00:00",
       "slug": "community-income-sharing",
       "sort_order": 4,
       "source_local_id": "32d7857d-a7c9-44d5-9f0d-908982cf5032",
@@ -20943,7 +20943,7 @@
         "relational-tech"
       ],
       "title": "Community Income Sharing",
-      "updated_at": "2026-08-19T07:59:42.004301+00:00"
+      "updated_at": "2026-08-20T08:02:28.91335+00:00"
     },
     {
       "attribution": {
@@ -21048,7 +21048,7 @@
         "tool_category": "tech_for_building"
       },
       "parent_slug": null,
-      "published_at": "2026-08-19T07:59:41.677+00:00",
+      "published_at": "2026-08-20T08:02:28.857+00:00",
       "slug": "dyad",
       "sort_order": 50,
       "source_local_id": "38f2433a-7051-490d-ad4a-ec37b2d69692",
@@ -21061,7 +21061,7 @@
         "tech-for-building"
       ],
       "title": "Dyad",
-      "updated_at": "2026-08-19T07:59:42.004301+00:00"
+      "updated_at": "2026-08-20T08:02:28.91335+00:00"
     },
     {
       "attribution": {
@@ -21124,7 +21124,7 @@
         "tool_category": "tech_for_building"
       },
       "parent_slug": null,
-      "published_at": "2026-08-19T07:59:41.677+00:00",
+      "published_at": "2026-08-20T08:02:28.857+00:00",
       "slug": "firecrawl",
       "sort_order": 50,
       "source_local_id": "4b83b697-3669-48eb-813f-0b28a7f3c3a0",
@@ -21137,7 +21137,7 @@
         "tech-for-building"
       ],
       "title": "Firecrawl",
-      "updated_at": "2026-08-19T07:59:42.004301+00:00"
+      "updated_at": "2026-08-20T08:02:28.91335+00:00"
     },
     {
       "attribution": {
@@ -21203,7 +21203,7 @@
         "tool_category": "relational_tech"
       },
       "parent_slug": null,
-      "published_at": "2026-08-19T07:59:41.677+00:00",
+      "published_at": "2026-08-20T08:02:28.857+00:00",
       "slug": "footer-component",
       "sort_order": 50,
       "source_local_id": "08106831-89ba-4afc-a235-d9a70cca62da",
@@ -21216,7 +21216,7 @@
         "relational-tech"
       ],
       "title": "Footer Component",
-      "updated_at": "2026-08-19T07:59:42.004301+00:00"
+      "updated_at": "2026-08-20T08:02:28.91335+00:00"
     },
     {
       "attribution": {
@@ -21279,7 +21279,7 @@
         "tool_category": "tech_for_building"
       },
       "parent_slug": null,
-      "published_at": "2026-08-19T07:59:41.677+00:00",
+      "published_at": "2026-08-20T08:02:28.857+00:00",
       "slug": "github",
       "sort_order": 50,
       "source_local_id": "3b1d4164-4da2-451f-91ec-b9c3bdf5ec5c",
@@ -21292,7 +21292,7 @@
         "tech-for-building"
       ],
       "title": "GitHub",
-      "updated_at": "2026-08-19T07:59:42.004301+00:00"
+      "updated_at": "2026-08-20T08:02:28.91335+00:00"
     },
     {
       "attribution": {
@@ -21357,7 +21357,7 @@
         "tool_category": "relational_tech"
       },
       "parent_slug": null,
-      "published_at": "2026-08-19T07:59:41.677+00:00",
+      "published_at": "2026-08-20T08:02:28.857+00:00",
       "slug": "hyperlocal-neighbor-hub",
       "sort_order": 1,
       "source_local_id": "c7391ea9-c94a-43b7-ab84-6817213f179b",
@@ -21370,7 +21370,7 @@
         "relational-tech"
       ],
       "title": "Hyperlocal Neighbor Hub",
-      "updated_at": "2026-08-19T07:59:42.004301+00:00"
+      "updated_at": "2026-08-20T08:02:28.91335+00:00"
     },
     {
       "attribution": {
@@ -21476,7 +21476,7 @@
         "tool_category": "relational_tech"
       },
       "parent_slug": null,
-      "published_at": "2026-08-19T07:59:41.677+00:00",
+      "published_at": "2026-08-20T08:02:28.857+00:00",
       "slug": "local-supplies-sharing",
       "sort_order": 3,
       "source_local_id": "dcb4d804-a256-4402-b785-00dabbf9635c",
@@ -21489,7 +21489,7 @@
         "relational-tech"
       ],
       "title": "Local Supplies Sharing",
-      "updated_at": "2026-08-19T07:59:42.004301+00:00"
+      "updated_at": "2026-08-20T08:02:28.91335+00:00"
     },
     {
       "attribution": {
@@ -21593,7 +21593,7 @@
         "tool_category": "tech_for_building"
       },
       "parent_slug": null,
-      "published_at": "2026-08-19T07:59:41.677+00:00",
+      "published_at": "2026-08-20T08:02:28.857+00:00",
       "slug": "lovable",
       "sort_order": 50,
       "source_local_id": "3be35a3d-f3ee-4a84-b635-77f9cefac1ee",
@@ -21606,7 +21606,7 @@
         "tech-for-building"
       ],
       "title": "Lovable",
-      "updated_at": "2026-08-19T07:59:42.004301+00:00"
+      "updated_at": "2026-08-20T08:02:28.91335+00:00"
     },
     {
       "attribution": {
@@ -21669,7 +21669,7 @@
         "tool_category": "tech_for_building"
       },
       "parent_slug": null,
-      "published_at": "2026-08-19T07:59:41.677+00:00",
+      "published_at": "2026-08-20T08:02:28.857+00:00",
       "slug": "mcp-servers",
       "sort_order": 50,
       "source_local_id": "301d1176-fa49-4be9-a155-ef73140a6187",
@@ -21682,7 +21682,7 @@
         "tech-for-building"
       ],
       "title": "MCP Servers",
-      "updated_at": "2026-08-19T07:59:42.004301+00:00"
+      "updated_at": "2026-08-20T08:02:28.91335+00:00"
     },
     {
       "attribution": {
@@ -21708,7 +21708,7 @@
         "tool_category": "relational_tech"
       },
       "parent_slug": null,
-      "published_at": "2026-08-19T07:59:41.677+00:00",
+      "published_at": "2026-08-20T08:02:28.857+00:00",
       "slug": "microgrant-management",
       "sort_order": 91,
       "source_local_id": "00878d6f-bd2b-46a1-b650-e838d36d9e03",
@@ -21721,7 +21721,7 @@
         "relational-tech"
       ],
       "title": "Microgrant Management",
-      "updated_at": "2026-08-19T07:59:42.004301+00:00"
+      "updated_at": "2026-08-20T08:02:28.91335+00:00"
     },
     {
       "attribution": {
@@ -21787,7 +21787,7 @@
         "tool_category": "relational_tech"
       },
       "parent_slug": null,
-      "published_at": "2026-08-19T07:59:41.677+00:00",
+      "published_at": "2026-08-20T08:02:28.857+00:00",
       "slug": "neighbor-story-sharing",
       "sort_order": 10,
       "source_local_id": "12850b59-a867-46fe-8235-4382b7d558a0",
@@ -21800,7 +21800,7 @@
         "relational-tech"
       ],
       "title": "Neighbor Story Sharing",
-      "updated_at": "2026-08-19T07:59:42.004301+00:00"
+      "updated_at": "2026-08-20T08:02:28.91335+00:00"
     },
     {
       "attribution": {
@@ -21826,7 +21826,7 @@
         "tool_category": "relational_tech"
       },
       "parent_slug": null,
-      "published_at": "2026-08-19T07:59:41.677+00:00",
+      "published_at": "2026-08-20T08:02:28.857+00:00",
       "slug": "neighborhood-api",
       "sort_order": 90,
       "source_local_id": "3b9ae654-96b8-4430-90d6-d1e50c6d19cf",
@@ -21839,7 +21839,7 @@
         "relational-tech"
       ],
       "title": "Neighborhood API",
-      "updated_at": "2026-08-19T07:59:42.004301+00:00"
+      "updated_at": "2026-08-20T08:02:28.91335+00:00"
     },
     {
       "attribution": {
@@ -21865,7 +21865,7 @@
         "tool_category": "relational_tech"
       },
       "parent_slug": null,
-      "published_at": "2026-08-19T07:59:41.677+00:00",
+      "published_at": "2026-08-20T08:02:28.857+00:00",
       "slug": "neighborhood-association-hub",
       "sort_order": 12,
       "source_local_id": "c1f51e94-870d-448d-a5b0-1537fd3b57b4",
@@ -21878,7 +21878,7 @@
         "relational-tech"
       ],
       "title": "Neighborhood Association Hub",
-      "updated_at": "2026-08-19T07:59:42.004301+00:00"
+      "updated_at": "2026-08-20T08:02:28.91335+00:00"
     },
     {
       "attribution": {
@@ -21904,7 +21904,7 @@
         "tool_category": "relational_tech"
       },
       "parent_slug": null,
-      "published_at": "2026-08-19T07:59:41.677+00:00",
+      "published_at": "2026-08-20T08:02:28.857+00:00",
       "slug": "neighborhood-connector-site",
       "sort_order": 50,
       "source_local_id": "509aadbc-4521-4f3a-87e3-cefbea414581",
@@ -21917,7 +21917,7 @@
         "relational-tech"
       ],
       "title": "Neighborhood Connector Site",
-      "updated_at": "2026-08-19T07:59:42.004301+00:00"
+      "updated_at": "2026-08-20T08:02:28.91335+00:00"
     },
     {
       "attribution": {
@@ -21943,7 +21943,7 @@
         "tool_category": "tools_for_crafting"
       },
       "parent_slug": null,
-      "published_at": "2026-08-19T07:59:41.677+00:00",
+      "published_at": "2026-08-20T08:02:28.857+00:00",
       "slug": "neighborhood-history-and-future-walking-app",
       "sort_order": 93,
       "source_local_id": "062b3b52-a60f-4be7-acb9-6fea4c7e99cf",
@@ -21956,7 +21956,7 @@
         "tools-for-crafting"
       ],
       "title": "Neighborhood History (and Future) Walking App",
-      "updated_at": "2026-08-19T07:59:42.004301+00:00"
+      "updated_at": "2026-08-20T08:02:28.91335+00:00"
     },
     {
       "attribution": {
@@ -22058,7 +22058,7 @@
         "tool_category": "relational_tech"
       },
       "parent_slug": null,
-      "published_at": "2026-08-19T07:59:41.677+00:00",
+      "published_at": "2026-08-20T08:02:28.857+00:00",
       "slug": "our-neighborhood-today",
       "sort_order": 2,
       "source_local_id": "0277b36f-422a-4a62-931a-9298dd7aceab",
@@ -22071,7 +22071,7 @@
         "relational-tech"
       ],
       "title": "Our Neighborhood Today",
-      "updated_at": "2026-08-19T07:59:42.004301+00:00"
+      "updated_at": "2026-08-20T08:02:28.91335+00:00"
     },
     {
       "attribution": {
@@ -22136,7 +22136,7 @@
         "tool_category": "relational_tech"
       },
       "parent_slug": null,
-      "published_at": "2026-08-19T07:59:41.677+00:00",
+      "published_at": "2026-08-20T08:02:28.857+00:00",
       "slug": "privacy-and-terms-page",
       "sort_order": 50,
       "source_local_id": "3b0ad7dc-0afc-41b5-b5fa-45142a4cbe8f",
@@ -22149,7 +22149,7 @@
         "relational-tech"
       ],
       "title": "Privacy & Terms Page",
-      "updated_at": "2026-08-19T07:59:42.004301+00:00"
+      "updated_at": "2026-08-20T08:02:28.91335+00:00"
     },
     {
       "attribution": {
@@ -22174,7 +22174,7 @@
         "tool_category": "tech_for_building"
       },
       "parent_slug": null,
-      "published_at": "2026-08-19T07:59:41.677+00:00",
+      "published_at": "2026-08-20T08:02:28.857+00:00",
       "slug": "relational-tech-process-guide",
       "sort_order": 0,
       "source_local_id": "9939c9e0-5652-4837-bb3b-f9e1b9ba8d12",
@@ -22187,7 +22187,7 @@
         "tech-for-building"
       ],
       "title": "Relational Tech Process Guide",
-      "updated_at": "2026-08-19T07:59:42.004301+00:00"
+      "updated_at": "2026-08-20T08:02:28.91335+00:00"
     },
     {
       "attribution": {
@@ -22211,7 +22211,7 @@
         "tool_category": "tech_for_building"
       },
       "parent_slug": null,
-      "published_at": "2026-08-19T07:59:41.677+00:00",
+      "published_at": "2026-08-20T08:02:28.857+00:00",
       "slug": "replit",
       "sort_order": 50,
       "source_local_id": "3f1769cf-4aac-415f-9dca-0905f6cd2477",
@@ -22224,7 +22224,7 @@
         "tech-for-building"
       ],
       "title": "Replit",
-      "updated_at": "2026-08-19T07:59:42.004301+00:00"
+      "updated_at": "2026-08-20T08:02:28.91335+00:00"
     },
     {
       "attribution": {
@@ -22248,7 +22248,7 @@
         "tool_category": "tech_for_building"
       },
       "parent_slug": null,
-      "published_at": "2026-08-19T07:59:41.677+00:00",
+      "published_at": "2026-08-20T08:02:28.857+00:00",
       "slug": "resend",
       "sort_order": 50,
       "source_local_id": "09ad499b-44b7-486d-9f56-02ff50355f66",
@@ -22261,7 +22261,7 @@
         "tech-for-building"
       ],
       "title": "Resend",
-      "updated_at": "2026-08-19T07:59:42.004301+00:00"
+      "updated_at": "2026-08-20T08:02:28.91335+00:00"
     },
     {
       "attribution": {
@@ -22364,7 +22364,7 @@
         "tool_category": "tech_for_building"
       },
       "parent_slug": null,
-      "published_at": "2026-08-19T07:59:41.677+00:00",
+      "published_at": "2026-08-20T08:02:28.857+00:00",
       "slug": "supabase",
       "sort_order": 50,
       "source_local_id": "561e1965-01d0-4ef3-a255-6547bf7db684",
@@ -22377,7 +22377,7 @@
         "tech-for-building"
       ],
       "title": "Supabase",
-      "updated_at": "2026-08-19T07:59:42.004301+00:00"
+      "updated_at": "2026-08-20T08:02:28.91335+00:00"
     },
     {
       "attribution": {
@@ -22444,7 +22444,7 @@
         "tool_category": "relational_tech"
       },
       "parent_slug": null,
-      "published_at": "2026-08-19T07:59:41.677+00:00",
+      "published_at": "2026-08-20T08:02:28.857+00:00",
       "slug": "text-by-tag",
       "sort_order": 92,
       "source_local_id": "a064d06c-1b60-4b07-9646-cfed5c272e28",
@@ -22457,7 +22457,7 @@
         "relational-tech"
       ],
       "title": "Text-by-Tag",
-      "updated_at": "2026-08-19T07:59:42.004301+00:00"
+      "updated_at": "2026-08-20T08:02:28.91335+00:00"
     },
     {
       "attribution": {
@@ -22481,7 +22481,7 @@
         "tool_category": "tech_for_building"
       },
       "parent_slug": null,
-      "published_at": "2026-08-19T07:59:41.677+00:00",
+      "published_at": "2026-08-20T08:02:28.857+00:00",
       "slug": "twilio",
       "sort_order": 50,
       "source_local_id": "c67485b4-1baf-4848-8a26-352221e0a853",
@@ -22494,7 +22494,7 @@
         "tech-for-building"
       ],
       "title": "Twilio",
-      "updated_at": "2026-08-19T07:59:42.004301+00:00"
+      "updated_at": "2026-08-20T08:02:28.91335+00:00"
     },
     {
       "attribution": {
@@ -22559,7 +22559,7 @@
         "tool_category": "tech_for_building"
       },
       "parent_slug": null,
-      "published_at": "2026-08-19T07:59:41.677+00:00",
+      "published_at": "2026-08-20T08:02:28.857+00:00",
       "slug": "vercel",
       "sort_order": 50,
       "source_local_id": "e69ab1f4-f3d4-468f-92d5-5bfd51b915fc",
@@ -22572,7 +22572,7 @@
         "tech-for-building"
       ],
       "title": "Vercel",
-      "updated_at": "2026-08-19T07:59:42.004301+00:00"
+      "updated_at": "2026-08-20T08:02:28.91335+00:00"
     }
   ]
 }

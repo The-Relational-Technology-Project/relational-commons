@@ -9,7 +9,7 @@ topics: ["relational-tech"]
 attribution_source: "Relational Tech Studio library"
 web: "https://relationalbuilder.org/commons/e/text-by-tag"
 created: "2026-06-10"
-updated: "2026-08-19"
+updated: "2026-08-20"
 rtp_id: "3eabb785-214e-4059-a3b1-e33fd8d70ca2"
 ---
 # Text-by-Tag

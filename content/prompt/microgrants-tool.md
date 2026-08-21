@@ -10,7 +10,7 @@ attribution_source: "Relational Tech Studio library"
 parent: "../tool/microgrant-management.md"
 web: "https://relationalbuilder.org/commons/e/microgrants-tool"
 created: "2026-06-10"
-updated: "2026-08-19"
+updated: "2026-08-20"
 rtp_id: "5da7e659-aee5-432c-85e6-57f74f3b142c"
 ---
 # Microgrants Tool

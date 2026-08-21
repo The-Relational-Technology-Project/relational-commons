@@ -11,7 +11,7 @@ attribution_source: "Relational Tech Studio library"
 source_url: "https://studio.relationaltechproject.org/Builders_Guide_RTP.pdf"
 web: "https://relationalbuilder.org/commons/e/relational-tech-process-guide"
 created: "2026-06-16"
-updated: "2026-08-19"
+updated: "2026-08-20"
 rtp_id: "cba970a9-989f-4d49-80cc-890df1d7291c"
 ---
 # Relational Tech Process Guide

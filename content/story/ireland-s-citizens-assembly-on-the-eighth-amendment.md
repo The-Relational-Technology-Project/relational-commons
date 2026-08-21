@@ -9,7 +9,7 @@ topics: ["builder-story"]
 author: "Electoral Reform Society / Involve Foundation / citizenassembly.ie"
 web: "https://relationalbuilder.org/commons/e/ireland-s-citizens-assembly-on-the-eighth-amendment"
 created: "2026-06-10"
-updated: "2026-08-19"
+updated: "2026-08-20"
 rtp_id: "e11f7934-384b-4462-bdcf-8cde2ffd8a43"
 ---
 # Ireland's Citizens' Assembly on the Eighth Amendment
