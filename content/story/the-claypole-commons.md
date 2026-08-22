@@ -9,7 +9,7 @@ topics: ["builder-story"]
 author: "D.J. Trischler, Neighborhood Designer"
 web: "https://relationalbuilder.org/commons/e/the-claypole-commons"
 created: "2026-06-10"
-updated: "2026-08-20"
+updated: "2026-08-21"
 rtp_id: "9912a547-afbb-4bf8-806d-a2da57c5696d"
 ---
 # The Claypole Commons

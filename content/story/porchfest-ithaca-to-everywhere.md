@@ -9,7 +9,7 @@ topics: ["builder-story"]
 author: "porchfest.org"
 web: "https://relationalbuilder.org/commons/e/porchfest-ithaca-to-everywhere"
 created: "2026-06-10"
-updated: "2026-08-20"
+updated: "2026-08-21"
 rtp_id: "d59f6c3c-7c17-45c0-8bdf-8e30ef7803bc"
 ---
 # Porchfest, Ithaca to Everywhere

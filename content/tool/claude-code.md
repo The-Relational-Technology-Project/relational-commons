@@ -10,7 +10,7 @@ attribution_source: "Relational Tech Studio library"
 source_url: "https://www.anthropic.com/claude-code"
 web: "https://relationalbuilder.org/commons/e/claude-code"
 created: "2026-06-10"
-updated: "2026-08-20"
+updated: "2026-08-21"
 rtp_id: "6ebaf95d-4e11-488d-9036-6accd838e766"
 ---
 # Claude Code

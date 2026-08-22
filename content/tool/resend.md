@@ -10,7 +10,7 @@ attribution_source: "Relational Tech Studio library"
 source_url: "https://resend.com"
 web: "https://relationalbuilder.org/commons/e/resend"
 created: "2026-06-10"
-updated: "2026-08-20"
+updated: "2026-08-21"
 rtp_id: "72318ef6-0f86-4603-9864-34cc0ebcf548"
 ---
 # Resend

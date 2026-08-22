@@ -10,7 +10,7 @@ attribution_source: "Relational Tech Studio library"
 parent: "../tool/community-clubs-platform.md"
 web: "https://relationalbuilder.org/commons/e/community-clubs-platform"
 created: "2026-06-11"
-updated: "2026-08-20"
+updated: "2026-08-21"
 rtp_id: "a8a3beb1-4d0a-464d-9e5d-21832f76e9a8"
 ---
 # Community Clubs Platform

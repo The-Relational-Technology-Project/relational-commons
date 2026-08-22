@@ -10,7 +10,7 @@ attribution_source: "Relational Tech Studio library"
 source_url: "https://vercel.com"
 web: "https://relationalbuilder.org/commons/e/vercel"
 created: "2026-06-10"
-updated: "2026-08-20"
+updated: "2026-08-21"
 rtp_id: "65c19ed8-528e-45a1-bb5a-6a9959053d5a"
 ---
 # Vercel

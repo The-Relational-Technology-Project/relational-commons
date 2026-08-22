@@ -10,7 +10,7 @@ attribution_source: "Relational Tech Studio library"
 source_url: "https://ax0.taddy.org/antler/ZSpace-Library.html"
 web: "https://relationalbuilder.org/commons/e/a-community-library-for-my-coworking-space"
 created: "2026-06-16"
-updated: "2026-08-20"
+updated: "2026-08-21"
 rtp_id: "7bbd901b-55b5-409f-ab91-ebcf5859470b"
 ---
 # A community library for my coworking space

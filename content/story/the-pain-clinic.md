@@ -9,7 +9,7 @@ topics: ["builder-story"]
 author: "Dale King and Community, Portsmouth, OH"
 web: "https://relationalbuilder.org/commons/e/the-pain-clinic"
 created: "2026-06-10"
-updated: "2026-08-20"
+updated: "2026-08-21"
 rtp_id: "336259df-ee44-4165-b2b5-bf4c5f4a07e1"
 ---
 # The Pain Clinic

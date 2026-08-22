@@ -10,7 +10,7 @@ attribution_source: "Relational Tech Studio library"
 source_url: "https://outersunset.us/"
 web: "https://relationalbuilder.org/commons/e/neighborhood-connector-site"
 created: "2026-06-10"
-updated: "2026-08-20"
+updated: "2026-08-21"
 rtp_id: "26ce9e6a-73a9-468b-a674-e290ebecbb74"
 ---
 # Neighborhood Connector Site
