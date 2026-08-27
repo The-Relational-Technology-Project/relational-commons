@@ -7,9 +7,10 @@ license: "RCL-1.0"
 tags: ["commons/prompt", "studio/rt-studio", "Community-Funding"]
 topics: ["Community Funding"]
 attribution_source: "Relational Tech Studio library"
+parent: "../tool/microgrant-management.md"
 web: "https://relationalbuilder.org/commons/e/microgrants-tool"
 created: "2026-06-10"
-updated: "2026-08-25"
+updated: "2026-08-26"
 rtp_id: "5da7e659-aee5-432c-85e6-57f74f3b142c"
 ---
 # Microgrants Tool
@@ -86,6 +87,10 @@ As a parent, I want $50 for snacks and art supplies to host a sidewalk playdate 
 As a renter, I want to host tea for my apartment neighbors to break the ice after years of not knowing each other.  
 As a student, I want to co-host an intergenerational storytelling night with an elder in my neighborhood.  
 As a steward, I want a dashboard to track applications, approvals, and reflections in one place.
+
+## Related in the commons
+
+- Grew from [Microgrant Management](../tool/microgrant-management.md)
 
 ---
 
