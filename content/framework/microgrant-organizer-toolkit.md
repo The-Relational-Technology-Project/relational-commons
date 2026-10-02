@@ -47,6 +47,13 @@ Stages 2–4 shape what your remixed program's public site says; stage 5 is the 
 
 The toolkit distills programs run with With Neighbors partners across the country — parent meetups in Seattle, an island civic association, a city joy fund, Rhode Island driveway parties (Pizza Strip Fund), and Vermont farm dinners (Long-Handled Spoons Dinners, with NOFA-VT). Organizers running larger programs can talk with the With Neighbors crew about hands-on support and matched funding — see [withneighbors.org](https://withneighbors.org).
 
+## Related in the commons
+
+- Related to: [Microgrant Gathering](../recipe/microgrant-gathering.md)
+- Related to: [Microgrant Neighborhood Gathering](../reference/microgrant-neighborhood-gathering.md)
+- Paired with: [Microgrant Program System](../tool/microgrant-program-system.md)
+- Mentions: [The Neighbor Gathering Microgrant](../story/the-neighbor-gathering-microgrant.md)
+
 ## Details
 
 - **maker:** With Neighbors

@@ -4,12 +4,12 @@ slug: "the-neighbor-gathering-microgrant"
 kind: "story"
 studio: "rt-studio"
 license: "RCL-1.0"
-tags: ["commons/story", "studio/rt-studio", "builder-story"]
-topics: ["builder-story"]
+tags: ["commons/story", "studio/rt-studio", "builder-story", "microgrants"]
+topics: ["builder-story", "microgrants"]
 author: "Sam Pressler, Civic Experimenter"
 web: "https://relationalbuilder.org/commons/e/the-neighbor-gathering-microgrant"
 created: "2026-06-10"
-updated: "2026-09-30"
+updated: "2026-10-02"
 rtp_id: "aa9802f3-9028-44d4-845a-f3f3d51bd7e6"
 ---
 # The Neighbor Gathering Microgrant
@@ -31,6 +31,12 @@ rtp_id: "aa9802f3-9028-44d4-845a-f3f3d51bd7e6"
 <p>The pilot's most striking quality was its simplicity. No logic model. No five-year strategic plan. No rigorous reporting. Just a small amount of money, a basic toolkit, a few reminder emails, and trust that neighbors know how to bring their neighbors together.</p>
 
 <p>The initiative has since expanded through a partnership with the Relational Tech Project, relaunching at withneighbors.org with $50 microgrants available nationally. The application is still simple: who you are, where you live, your best guess for a gathering date, and your proposed vision. The long-term hope is that local community foundations, nonprofits, and government offices will adopt and remix the model in their own places. If a self-described "goof" could make it work in a few months with $3,000, anyone can.</p>
+
+## Related in the commons
+
+- Mentioned in: [Microgrant Gathering](../recipe/microgrant-gathering.md)
+- Mentioned in: [Microgrant Organizer Toolkit](../framework/microgrant-organizer-toolkit.md)
+- Mentioned in: [Microgrant Program System](../tool/microgrant-program-system.md)
 
 ---
 

@@ -109,6 +109,13 @@ PEPS Parent Meetups → Island Civic Association → Civic Joy Fund → Front Ya
 - **[Microgrant Gathering](/commons/e/microgrant-gathering)** (recipe) — the one-page version of the practice.
 - **[The Neighbor Gathering Microgrant](/commons/e/the-neighbor-gathering-microgrant)** (story) — Sam Pressler's Charlottesville pilot: 70 applications where five were expected.
 
+## Related in the commons
+
+- Related to: [Microgrant Gathering](../recipe/microgrant-gathering.md)
+- Paired with: [Microgrant Organizer Toolkit](../framework/microgrant-organizer-toolkit.md)
+- Related to: [Microgrants Tool](../prompt/microgrants-tool.md)
+- Mentions: [The Neighbor Gathering Microgrant](../story/the-neighbor-gathering-microgrant.md)
+
 ## Details
 
 - **maker:** With Neighbors

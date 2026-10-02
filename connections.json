@@ -5,7 +5,7 @@
     "table": "gallery_references",
     "filter": "status = 'confirmed' and commons↔commons"
   },
-  "count": 534,
+  "count": 542,
   "references": [
     {
       "from_source": "commons",
@@ -2363,6 +2363,17 @@
     },
     {
       "from_source": "commons",
+      "from_id": "microgrant-gathering",
+      "from_title": "Microgrant Gathering",
+      "from_kind": "recipe",
+      "to_source": "commons",
+      "to_id": "the-neighbor-gathering-microgrant",
+      "to_title": "The Neighbor Gathering Microgrant",
+      "to_kind": "story",
+      "relation": "mentions"
+    },
+    {
+      "from_source": "commons",
       "from_id": "microgrant-neighborhood-gathering",
       "from_title": "Microgrant Neighborhood Gathering",
       "from_kind": "reference",
@@ -2392,6 +2403,83 @@
       "to_id": "participatory-budgeting",
       "to_title": "Participatory Budgeting",
       "to_kind": "recipe",
+      "relation": "mentions"
+    },
+    {
+      "from_source": "commons",
+      "from_id": "microgrant-organizer-toolkit",
+      "from_title": "Microgrant Organizer Toolkit",
+      "from_kind": "framework",
+      "to_source": "commons",
+      "to_id": "microgrant-gathering",
+      "to_title": "Microgrant Gathering",
+      "to_kind": "recipe",
+      "relation": "related"
+    },
+    {
+      "from_source": "commons",
+      "from_id": "microgrant-organizer-toolkit",
+      "from_title": "Microgrant Organizer Toolkit",
+      "from_kind": "framework",
+      "to_source": "commons",
+      "to_id": "microgrant-neighborhood-gathering",
+      "to_title": "Microgrant Neighborhood Gathering",
+      "to_kind": "reference",
+      "relation": "related"
+    },
+    {
+      "from_source": "commons",
+      "from_id": "microgrant-organizer-toolkit",
+      "from_title": "Microgrant Organizer Toolkit",
+      "from_kind": "framework",
+      "to_source": "commons",
+      "to_id": "the-neighbor-gathering-microgrant",
+      "to_title": "The Neighbor Gathering Microgrant",
+      "to_kind": "story",
+      "relation": "mentions"
+    },
+    {
+      "from_source": "commons",
+      "from_id": "microgrant-program-system",
+      "from_title": "Microgrant Program System",
+      "from_kind": "tool",
+      "to_source": "commons",
+      "to_id": "microgrant-gathering",
+      "to_title": "Microgrant Gathering",
+      "to_kind": "recipe",
+      "relation": "related"
+    },
+    {
+      "from_source": "commons",
+      "from_id": "microgrant-program-system",
+      "from_title": "Microgrant Program System",
+      "from_kind": "tool",
+      "to_source": "commons",
+      "to_id": "microgrant-organizer-toolkit",
+      "to_title": "Microgrant Organizer Toolkit",
+      "to_kind": "framework",
+      "relation": "paired_with"
+    },
+    {
+      "from_source": "commons",
+      "from_id": "microgrant-program-system",
+      "from_title": "Microgrant Program System",
+      "from_kind": "tool",
+      "to_source": "commons",
+      "to_id": "microgrants-tool",
+      "to_title": "Microgrants Tool",
+      "to_kind": "prompt",
+      "relation": "related"
+    },
+    {
+      "from_source": "commons",
+      "from_id": "microgrant-program-system",
+      "from_title": "Microgrant Program System",
+      "from_kind": "tool",
+      "to_source": "commons",
+      "to_id": "the-neighbor-gathering-microgrant",
+      "to_title": "The Neighbor Gathering Microgrant",
+      "to_kind": "story",
       "relation": "mentions"
     },
     {

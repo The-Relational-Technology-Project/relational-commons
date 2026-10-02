@@ -4,14 +4,14 @@ slug: "microgrant-gathering"
 kind: "recipe"
 studio: "rtp-canonical"
 license: "RCL-1.0"
-tags: ["commons/recipe", "studio/rtp-canonical", "civic", "rhythms"]
-topics: ["civic", "rhythms"]
+tags: ["commons/recipe", "studio/rtp-canonical", "civic", "rhythms", "microgrants"]
+topics: ["civic", "rhythms", "microgrants"]
 source_repo: "neighboring-recipes"
 source_url: "https://connectivetissue.substack.com/p/a-simple-act-to-strengthen-civic"
 neighboring_recipes: "https://github.com/The-Relational-Technology-Project/neighboring-recipes/blob/main/recipes/11-civic-rhythms/microgrant-gathering.md"
 web: "https://relationalbuilder.org/commons/e/microgrant-gathering"
 created: "2026-05-22"
-updated: "2026-05-22"
+updated: "2026-10-02"
 rtp_id: "7dbf775e-0497-41cb-be11-d76b4fd9a8a1"
 ---
 # Microgrant Gathering
@@ -86,11 +86,14 @@ One host's reflection captured the program's logic: *the barrier wasn't desire o
 ## Related in the commons
 
 - Mentions: [Block Party](../reference/block-party.md)
+- Related to: [Microgrant Organizer Toolkit](../framework/microgrant-organizer-toolkit.md)
+- Related to: [Microgrant Program System](../tool/microgrant-program-system.md)
 - Mentioned in: [Neighborhood Association](../recipe/neighborhood-association.md)
 - Mentioned in: [Participatory Budgeting](../recipe/participatory-budgeting.md)
 - Mentions: [Reinvent the Potluck](../recipe/reinvent-the-potluck.md)
 - Mentioned in: [Sunday Assembly](../recipe/sunday-assembly.md)
 - Mentioned in: [The Abundant Community](../framework/the-abundant-community.md)
+- Mentions: [The Neighbor Gathering Microgrant](../story/the-neighbor-gathering-microgrant.md)
 - Mentioned in: [Topic Index](../framework/topic-index.md)
 
 ## Details

@@ -46,6 +46,7 @@ Builds on ABCD wisdom that people closest to a problem are closest to the soluti
 
 - Mentions: [Block Party](../reference/block-party.md)
 - Mentions: [Front Porch Forum](../reference/front-porch-forum.md)
+- Related to: [Microgrant Organizer Toolkit](../framework/microgrant-organizer-toolkit.md)
 - Mentions: [Participatory Budgeting](../recipe/participatory-budgeting.md)
 
 ## Details
