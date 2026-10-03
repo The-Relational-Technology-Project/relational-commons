@@ -4,8 +4,8 @@ slug: "the-neighbor-gathering-microgrant"
 kind: "story"
 studio: "rt-studio"
 license: "RCL-1.0"
-tags: ["commons/story", "studio/rt-studio", "builder-story", "microgrants"]
-topics: ["builder-story", "microgrants"]
+tags: ["commons/story", "studio/rt-studio", "builder-story"]
+topics: ["builder-story"]
 author: "Sam Pressler, Civic Experimenter"
 web: "https://relationalbuilder.org/commons/e/the-neighbor-gathering-microgrant"
 created: "2026-06-10"
@@ -36,7 +36,6 @@ rtp_id: "aa9802f3-9028-44d4-845a-f3f3d51bd7e6"
 
 - Mentioned in: [Microgrant Gathering](../recipe/microgrant-gathering.md)
 - Mentioned in: [Microgrant Organizer Toolkit](../framework/microgrant-organizer-toolkit.md)
-- Mentioned in: [Microgrant Program System](../tool/microgrant-program-system.md)
 
 ---
 

@@ -8,16 +8,16 @@
     "canonical": "The database is canonical; this file mirrors it."
   },
   "license_note": "Per-entry licensing lives in each entry’s `license` field (mostly RCL-1.0 — https://relationalbuilder.org/commons/license). Attribution travels with the entry — keep it attached when reusing.",
-  "data_as_of": "2026-10-02T05:36:24.402342+00:00",
+  "data_as_of": "2026-10-02T18:38:06.005253+00:00",
   "counts": {
-    "total": 541,
+    "total": 554,
     "by_kind": {
       "framework": 26,
       "methodology": 10,
-      "prompt": 30,
+      "prompt": 31,
       "recipe": 90,
       "reference": 215,
-      "story": 121,
+      "story": 133,
       "tool": 49
     }
   },
@@ -167,7 +167,7 @@
         "url": "https://withneighbors.org",
         "name": "With Neighbors"
       },
-      "body": "With Neighbors' complete guide to designing and running a neighborhood microgrant program — small grants ($50–$200) that fund neighbors to host gatherings. This commons entry summarizes the toolkit and links to the full version, which is free at [withneighbors.org/toolkit](https://withneighbors.org/toolkit), including downloadable worksheets and templates.\n\nIt is the practice half of a pair: the software that manages applications, review, emails, and payouts is the [Microgrant Program System](/commons/e/microgrant-program-system), described feature-by-feature in this same collection so you can remix it for your place.\n\n## Why microgrants\n\nA small grant does three things for a would-be host, beyond covering pizza: it grants **permission** (someone said yes to your idea), creates **accountability** (money received makes the gathering real), and invites **commitment** (hosts who gather once tend to gather again). The money is the smallest part of what changes hands.\n\n## The nine stages\n\n1. **Introduction** — what a neighborhood microgrant program is and why $50–$200 is enough to matter.\n2. **Reflecting on your local context** — reading your place before designing the grant: who gathers already, who doesn't, and what \"gathering\" means here.\n3. **Setting up the grant** — criteria, amounts, eligibility, and the mechanics of how money will actually move.\n4. **Launching + promoting the opportunity** — getting the invitation in front of neighbors who would never call themselves \"organizers.\"\n5. **Grant review + notifying applicants** — deciding well, declining kindly, and telling everyone where they stand.\n6. **Host support** — what hosts need between \"approved\" and \"gathered\": checklists, encouragement, and someone to ask.\n7. **Storytelling, archival + follow-ups** — collecting photos, stories, and reflections; closing the loop with hosts and funders.\n8. **Fund more microgrants!** — sustaining and growing the program after the first round proves the case.\n9. **Case studies + credit for inspiration** — real programs to learn from, and the lineage this work builds on.\n\nThe toolkit recommends roughly a **four-month cycle** from designing the grant to gathered stories.\n\n## Using it with the program system\n\nStages 2–4 shape what your remixed program's public site says; stage 5 is the system's review pipeline and email templates; the money mechanics in stage 3 become your payout rail (PayPal, Venmo, gift cards, or checks); stage 7 is the built-in reflection flow — where your program's own question becomes its theory of change.\n\n## Where this has run\n\nThe toolkit distills programs run with With Neighbors partners across the country — parent meetups in Seattle, an island civic association, a city joy fund, Rhode Island driveway parties (Pizza Strip Fund), and Vermont farm dinners (Long-Handled Spoons Dinners, with NOFA-VT). Organizers running larger programs can talk with the With Neighbors crew about hands-on support and matched funding — see [withneighbors.org](https://withneighbors.org).",
+      "body": "With Neighbors' complete guide to designing and running a neighborhood microgrant program — small grants ($50–$200) that fund neighbors to host gatherings. This commons entry summarizes the toolkit and links to the full version, which is free at [withneighbors.org/toolkit](https://withneighbors.org/toolkit), including downloadable worksheets and templates.\n\nIt is the practice half of a pair: the software that manages applications, review, emails, and payouts is described screen by screen in [Pizza Strip Fund — remix a gathering fund](/commons/e/pizza-strip-fund), in this same collection, so you can remix it for your place.\n\n## Why microgrants\n\nA small grant does three things for a would-be host, beyond covering pizza: it grants **permission** (someone said yes to your idea), creates **accountability** (money received makes the gathering real), and invites **commitment** (hosts who gather once tend to gather again). The money is the smallest part of what changes hands.\n\n## The nine stages\n\n1. **Introduction** — what a neighborhood microgrant program is and why $50–$200 is enough to matter.\n2. **Reflecting on your local context** — reading your place before designing the grant: who gathers already, who doesn't, and what \"gathering\" means here.\n3. **Setting up the grant** — criteria, amounts, eligibility, and the mechanics of how money will actually move.\n4. **Launching + promoting the opportunity** — getting the invitation in front of neighbors who would never call themselves \"organizers.\"\n5. **Grant review + notifying applicants** — deciding well, declining kindly, and telling everyone where they stand.\n6. **Host support** — what hosts need between \"approved\" and \"gathered\": checklists, encouragement, and someone to ask.\n7. **Storytelling, archival + follow-ups** — collecting photos, stories, and reflections; closing the loop with hosts and funders.\n8. **Fund more microgrants!** — sustaining and growing the program after the first round proves the case.\n9. **Case studies + credit for inspiration** — real programs to learn from, and the lineage this work builds on.\n\nThe toolkit recommends roughly a **four-month cycle** from designing the grant to gathered stories.\n\n## Using it with the program system\n\nStages 2–4 shape what your remixed program's public site says; stage 5 is the system's review pipeline and email templates; the money mechanics in stage 3 become your payout rail (PayPal, Venmo, gift cards, or checks); stage 7 is the built-in reflection flow — where your program's own question becomes its theory of change.\n\n## Where this has run\n\nThe toolkit distills programs run with With Neighbors partners across the country — parent meetups in Seattle, an island civic association, a city joy fund, Rhode Island driveway parties (Pizza Strip Fund), and Vermont farm dinners (Long-Handled Spoons Dinners, with NOFA-VT). Organizers running larger programs can talk with the With Neighbors crew about hands-on support and matched funding — see [withneighbors.org](https://withneighbors.org).",
       "created_at": "2026-08-26T05:44:41.018888+00:00",
       "id": "2f4c432a-0204-4819-9855-3f7731f7547e",
       "image_urls": [],
@@ -179,7 +179,6 @@
         "core_model": "permission / accountability / commitment",
         "hosted_url": "https://withneighbors.org/toolkit",
         "related_slugs": [
-          "microgrant-program-system",
           "microgrant-gathering",
           "the-neighbor-gathering-microgrant"
         ]
@@ -187,13 +186,13 @@
       "parent_slug": null,
       "published_at": "2026-08-26T05:44:41.018888+00:00",
       "slug": "microgrant-organizer-toolkit",
-      "sort_order": 20,
+      "sort_order": 21,
       "source_local_id": null,
       "source_studio_slug": "microgrants",
       "source_url": "https://withneighbors.org/toolkit",
       "status": "canonical",
       "steward": null,
-      "summary": "With Neighbors' nine-stage guide to designing and running a neighborhood microgrant program, from reflecting on your local context through funding more rounds — built on the permission / accountability / commitment model, with worksheets and templates, over a roughly four-month cycle. The practice half of the pair; the Microgrant Program System is the software half.",
+      "summary": "With Neighbors' nine-stage guide to designing and running a neighborhood microgrant program, from reflecting on your local context through funding more rounds — built on the permission / accountability / commitment model, with worksheets and templates, over a roughly four-month cycle. The practice half of the pair; the Pizza Strip Fund remix card is the software half.",
       "tags": [
         "microgrants",
         "organizer-guide",
@@ -203,7 +202,7 @@
         "funding"
       ],
       "title": "Microgrant Organizer Toolkit",
-      "updated_at": "2026-08-26T06:03:24.637611+00:00"
+      "updated_at": "2026-10-02T18:38:06.005253+00:00"
     },
     {
       "attribution": {
@@ -1619,7 +1618,7 @@
       "license": "RCL-1.0",
       "metadata": {},
       "parent_slug": null,
-      "published_at": "2026-10-01T14:37:23.231+00:00",
+      "published_at": "2026-10-02T13:58:31.715+00:00",
       "slug": "24-hour-cafe-guestbook",
       "sort_order": 50,
       "source_local_id": "7767176d-bef6-4e1f-82a2-d5092a2c11e1",
@@ -1632,7 +1631,7 @@
         "Gathering"
       ],
       "title": "24 Hour Cafe Guestbook",
-      "updated_at": "2026-10-01T14:37:23.443114+00:00"
+      "updated_at": "2026-10-02T13:58:31.879828+00:00"
     },
     {
       "attribution": {
@@ -1646,7 +1645,7 @@
       "license": "RCL-1.0",
       "metadata": {},
       "parent_slug": "block-party-organizing",
-      "published_at": "2026-10-01T14:37:23.231+00:00",
+      "published_at": "2026-10-02T13:58:31.715+00:00",
       "slug": "block-party-organizing",
       "sort_order": 50,
       "source_local_id": "795f759e-c9e3-4d63-8890-21dd8283dcb5",
@@ -1659,7 +1658,7 @@
         "Events & Gatherings"
       ],
       "title": "Block Party Organizing",
-      "updated_at": "2026-10-01T14:37:23.443114+00:00"
+      "updated_at": "2026-10-02T13:58:31.879828+00:00"
     },
     {
       "attribution": {
@@ -2274,7 +2273,7 @@
       "license": "RCL-1.0",
       "metadata": {},
       "parent_slug": "community-clubs-platform",
-      "published_at": "2026-10-01T14:37:23.231+00:00",
+      "published_at": "2026-10-02T13:58:31.715+00:00",
       "slug": "community-clubs-platform",
       "sort_order": 10,
       "source_local_id": "3ea9955b-8430-4cc1-978f-d3b3d6c907c9",
@@ -2287,7 +2286,7 @@
         "Community & Belonging"
       ],
       "title": "Community Clubs Platform",
-      "updated_at": "2026-10-01T14:37:23.443114+00:00"
+      "updated_at": "2026-10-02T13:58:31.879828+00:00"
     },
     {
       "attribution": {
@@ -2301,7 +2300,7 @@
       "license": "RCL-1.0",
       "metadata": {},
       "parent_slug": "community-income-sharing",
-      "published_at": "2026-10-01T14:37:23.231+00:00",
+      "published_at": "2026-10-02T13:58:31.715+00:00",
       "slug": "community-income-sharing",
       "sort_order": 10,
       "source_local_id": "4c35ac64-2cce-45aa-8136-a64a2bf436ae",
@@ -2314,7 +2313,7 @@
         "Mutual Aid & Resource Sharing"
       ],
       "title": "Community Income Sharing",
-      "updated_at": "2026-10-01T14:37:23.443114+00:00"
+      "updated_at": "2026-10-02T13:58:31.879828+00:00"
     },
     {
       "attribution": {
@@ -2328,7 +2327,7 @@
       "license": "RCL-1.0",
       "metadata": {},
       "parent_slug": "local-supplies-sharing",
-      "published_at": "2026-10-01T14:37:23.231+00:00",
+      "published_at": "2026-10-02T13:58:31.715+00:00",
       "slug": "community-supplies",
       "sort_order": 50,
       "source_local_id": "32f40f6c-879c-4269-bee7-01362ed8ea8f",
@@ -2341,7 +2340,7 @@
         "Resource Sharing"
       ],
       "title": "Community Supplies",
-      "updated_at": "2026-10-01T14:37:23.443114+00:00"
+      "updated_at": "2026-10-02T13:58:31.879828+00:00"
     },
     {
       "attribution": {
@@ -2355,7 +2354,7 @@
       "license": "RCL-1.0",
       "metadata": {},
       "parent_slug": null,
-      "published_at": "2026-10-01T14:37:23.231+00:00",
+      "published_at": "2026-10-02T13:58:31.715+00:00",
       "slug": "faith-community-care-connector",
       "sort_order": 50,
       "source_local_id": "28924b4f-30c7-470e-b741-a47ce249c28b",
@@ -2368,7 +2367,7 @@
         "Mutual Aid"
       ],
       "title": "Faith Community Care Connector",
-      "updated_at": "2026-10-01T14:37:23.443114+00:00"
+      "updated_at": "2026-10-02T13:58:31.879828+00:00"
     },
     {
       "attribution": {
@@ -2382,7 +2381,7 @@
       "license": "RCL-1.0",
       "metadata": {},
       "parent_slug": "footer-component",
-      "published_at": "2026-10-01T14:37:23.231+00:00",
+      "published_at": "2026-10-02T13:58:31.715+00:00",
       "slug": "footer-component",
       "sort_order": 50,
       "source_local_id": "65bfd6d7-b686-489e-8934-9261494a8fcf",
@@ -2395,7 +2394,7 @@
         "Site Components"
       ],
       "title": "Footer Component",
-      "updated_at": "2026-10-01T14:37:23.443114+00:00"
+      "updated_at": "2026-10-02T13:58:31.879828+00:00"
     },
     {
       "attribution": {
@@ -2409,7 +2408,7 @@
       "license": "RCL-1.0",
       "metadata": {},
       "parent_slug": "hyperlocal-neighbor-hub",
-      "published_at": "2026-10-01T14:37:23.231+00:00",
+      "published_at": "2026-10-02T13:58:31.715+00:00",
       "slug": "hyperlocal-neighbor-hubs",
       "sort_order": 50,
       "source_local_id": "2285c760-50c0-4175-8b20-e361da86f391",
@@ -2422,7 +2421,7 @@
         "Neighborhood Sites"
       ],
       "title": "Hyperlocal Neighbor Hubs",
-      "updated_at": "2026-10-01T14:37:23.443114+00:00"
+      "updated_at": "2026-10-02T13:58:31.879828+00:00"
     },
     {
       "attribution": {
@@ -2436,7 +2435,7 @@
       "license": "RCL-1.0",
       "metadata": {},
       "parent_slug": "microgrant-management",
-      "published_at": "2026-10-01T14:37:23.231+00:00",
+      "published_at": "2026-10-02T13:58:31.715+00:00",
       "slug": "microgrants-tool",
       "sort_order": 50,
       "source_local_id": "85eb7881-fe38-4a9a-a99f-1808a537cac6",
@@ -2446,11 +2445,10 @@
       "steward": null,
       "summary": "Create a microgrants system where neighbors can propose and fund small community improvement projects together.",
       "tags": [
-        "Community Funding",
-        "microgrants"
+        "Community Funding"
       ],
       "title": "Microgrants Tool",
-      "updated_at": "2026-10-02T05:36:24.402342+00:00"
+      "updated_at": "2026-10-02T13:58:31.879828+00:00"
     },
     {
       "attribution": {
@@ -2464,7 +2462,7 @@
       "license": "RCL-1.0",
       "metadata": {},
       "parent_slug": "neighbor-story-sharing",
-      "published_at": "2026-10-01T14:37:23.231+00:00",
+      "published_at": "2026-10-02T13:58:31.715+00:00",
       "slug": "neighbor-story-sharing",
       "sort_order": 50,
       "source_local_id": "a51ad35d-afd8-4142-8d58-2aebe90b62d1",
@@ -2477,7 +2475,7 @@
         "Connection & Stories"
       ],
       "title": "Neighbor Story Sharing",
-      "updated_at": "2026-10-01T14:37:23.443114+00:00"
+      "updated_at": "2026-10-02T13:58:31.879828+00:00"
     },
     {
       "attribution": {
@@ -2491,7 +2489,7 @@
       "license": "RCL-1.0",
       "metadata": {},
       "parent_slug": "neighborhood-association-hub",
-      "published_at": "2026-10-01T14:37:23.231+00:00",
+      "published_at": "2026-10-02T13:58:31.715+00:00",
       "slug": "neighborhood-association-hub",
       "sort_order": 50,
       "source_local_id": "de0d5a95-c7aa-4684-b219-8cbe20b88505",
@@ -2504,7 +2502,7 @@
         "Civic Organizations"
       ],
       "title": "Neighborhood Association Hub",
-      "updated_at": "2026-10-01T14:37:23.443114+00:00"
+      "updated_at": "2026-10-02T13:58:31.879828+00:00"
     },
     {
       "attribution": {
@@ -2518,7 +2516,7 @@
       "license": "RCL-1.0",
       "metadata": {},
       "parent_slug": "neighborhood-connector-site",
-      "published_at": "2026-10-01T14:37:23.231+00:00",
+      "published_at": "2026-10-02T13:58:31.715+00:00",
       "slug": "neighborhood-connector-site",
       "sort_order": 50,
       "source_local_id": "19780b02-b616-4994-9678-26bde6868531",
@@ -2531,7 +2529,7 @@
         "Gathering"
       ],
       "title": "Neighborhood Connector Site",
-      "updated_at": "2026-10-01T14:37:23.443114+00:00"
+      "updated_at": "2026-10-02T13:58:31.879828+00:00"
     },
     {
       "attribution": {
@@ -2545,7 +2543,7 @@
       "license": "RCL-1.0",
       "metadata": {},
       "parent_slug": "neighborhood-connector-site",
-      "published_at": "2026-10-01T14:37:23.231+00:00",
+      "published_at": "2026-10-02T13:58:31.715+00:00",
       "slug": "neighborhood-groups-directory",
       "sort_order": 50,
       "source_local_id": "ce4df02f-b74f-4b99-86c3-31ec7f6b7f90",
@@ -2558,7 +2556,7 @@
         "Resource Sharing & Connection"
       ],
       "title": "Neighborhood Groups Directory",
-      "updated_at": "2026-10-01T14:37:23.443114+00:00"
+      "updated_at": "2026-10-02T13:58:31.879828+00:00"
     },
     {
       "attribution": {
@@ -2572,7 +2570,7 @@
       "license": "RCL-1.0",
       "metadata": {},
       "parent_slug": "our-neighborhood-today",
-      "published_at": "2026-10-01T14:37:23.231+00:00",
+      "published_at": "2026-10-02T13:58:31.715+00:00",
       "slug": "neighborhood-today-calendar",
       "sort_order": 50,
       "source_local_id": "3e51e21f-79df-40a3-9a0a-3687e6ab2f1d",
@@ -2585,7 +2583,88 @@
         "Events & Activities"
       ],
       "title": "Neighborhood Today Calendar",
-      "updated_at": "2026-10-01T14:37:23.443114+00:00"
+      "updated_at": "2026-10-02T13:58:31.879828+00:00"
+    },
+    {
+      "attribution": {
+        "name": "With Neighbors",
+        "source": "Pizza Strip Fund (Rhode Island)",
+        "neighborhood": "Rhode Island"
+      },
+      "body": "**Pizza Strip Fund** gives Rhode Islanders $50–$150 to gather their neighbors in a driveway, on a porch, around a firepit — and names itself after the state's party food instead of calling itself a grant. It is the most current With Neighbors program build, and the base other programs remix from. This card is the remix: the story, the screens, the whole system described part by part, and the prompt to start your own.\n\nPress **Plan this** and Relational Builder walks you through four short stages — the story and scope, how the money and questions work, how it looks, and how hosts get paid and emailed — with a suggested answer at every step. Accept all of them and you have a working program; change any of them and it becomes yours.\n\n## The story it tells\n\n\"You've got the *driveway*. We'll cover the pizza strips.\" One screen: a hand-drawn logo, a headline whose place-word rotates (driveway / porch / yard / cul de sac / corner), two short paragraphs about car-dependent suburbs where it's easy to go days only waving, and a wobbly red-and-tan apply button shaped like a pizza strip. The footer answers the five real questions in place: Why pizza strips? · Who are we? · What counts as \"the suburbs\"? · What gatherings qualify? · When and how do I get the money?\n\nThe lesson With Neighbors kept relearning: \"grant\", \"fund\", \"program\", \"eligibility\" make neighbors scroll past. Find your own pizza strip — the local object or tradition that becomes the invitation's face — and write every public word the way one neighbor texts another.\n\n## What neighbors see\n\n- **Apply** (`/apply`): a stepped form in English, Spanish, and Portuguese. Full name · email (\"the one on your Venmo or PayPal\") · phone · neighborhood · gathering date (must land inside the program window) · where it happens · a sentence or two about it · amount tier with hints ($50 coffee & donuts · $100 pizza party · $150 the whole block) · Venmo or PayPal · an \"if funded, do you agree?\" checklist (paid by Venmo/PayPal · gathering by the deadline · open to neighbors or focused on new people meeting · you'll send a short reflection and a photo, quote, or story) · optional \"want help knocking on doors?\" · optional demographics, collapsed. A hidden honeypot and a minimum-seconds check keep bots out with no CAPTCHA.\n- **Thank-you pages** say what happens next and when to expect an answer.\n- **Reflect** (`/reflect/:id`, linked from the funded email): how many neighbors came · the highlight · challenges · commitments or next steps that emerged · how connected you feel to your neighbors now · would you host again · how you heard about it · a quote or story, or photos (uploaded privately, shared only with a separate yes) · did people meet for the first time.\n\n## What organizers see — the desk is standardized, every program the same\n\n- **Pipeline** (`/admin`): kanban and grouped list over `pending → approved → funded → awaiting reflection → completed`, plus `denied` (reopenable). Every move says in plain words whether it emails anyone. Filters by status, payment method, language, gathering date, and text. Each application opens to its answers, admin notes, denial reason, email log, reflection and photos, and a Pay now button.\n- **Funding**: select approved rows → *Export & mark Funded* downloads a CSV named for the program and moves them along (for paying by hand or bulk upload) — or Pay now sends through PayPal Payouts to Venmo or PayPal by email, logged.\n- **Emails** (`/admin/emails`): five editable templates with `{{first_name}}` / `{{amount}}` / `{{reflect_url}}` chips — received · approved · payment on its way · how was your gathering? · update on your application — a reflection-reminder drip (start offset and interval in days), a manual send, and a master log. Sent through Resend from the program's own address.\n- **Analytics**: applications over time, status mix, payment-method mix, \"would gather again\", recent reflections, and four tiles: applied · funded · neighbors gathered · dollars out.\n- **Integrations**: PayPal keys (sandbox or live), Resend key, an applications-open switch with an interest list for when it's closed, and an email allowlist of who can sign in.\n\n## Under the hood\n\nVite + React + TypeScript, shadcn/ui, Supabase (Postgres, auth, storage, edge functions). Tables: `applications`, `reflections`, `reflection_photos`, `email_templates`, `email_logs`, `sequence_settings`, `payout_logs`, `payment_provider_settings`, `program_settings`, `interest_signups`, admin allowlist. Edge functions: submit-application, submit-reflection, send-email, send-payout, send-reflection-reminders, export-approved, claim-admin-role. Look: cream `hsl(39 59% 95%)`, navy `hsl(217 35% 18%)`, tomato `hsl(8 62% 47%)`, a display serif for headlines and DM Sans for body.\n\n## What changes when you remix (and what stays)\n\nChanges: the name and the object · who it's for and where · grant shape (one amount, host-picked tiers, or an organizer-set range) · the window and whether it's rolling · eligibility and how you choose · which application and reflection questions are on (keep the With Neighbors community-of-practice questions so programs can learn from each other: where, a description, first time hosting; neighbors who came, highlight, challenges, next steps, host again, a photo or story) · how hosts get paid (by hand, PayPal Payouts, gift cards or checks, or a CSV) · how emails go out (by hand from the desk, Resend from your domain, or sent for you by RTP) · the organizer allowlist and contact email · colors, fonts, illustration · languages.\n\nStays: the desk layout, the status flow, the five emails, anti-spam, the reflection loop.\n\n**Smaller is fine.** Under about ten gatherings, or if you'd rather not learn a desk, build only the invitation and let applications land in a Google Sheet — choose, pay, and email from there.\n\n## The codebase\n\nPizza Strip Fund's source is held at the Relational Tech Project while past participants are asked for consent to publish it. Once consented, it will be hosted and licensed as a public good and linked from here. Until then this description is the remixable unit — it is what Relational Builder reads when you press Plan this.\n\n## Lineage\n\nBuilt by With Neighbors (Rich Speeney, Tyler Heath) with Rhode Island organizers, on four years of programs: Pizza Club, Donuts in the Driveway, Friendsgiving, Long-Handled Spoons Dinners. The same machinery also ran Long-Handled Spoons Dinners (NOFA-VT) with a completely different local identity on top. The practice half is the [Microgrant Organizer Toolkit](/commons/e/microgrant-organizer-toolkit).",
+      "created_at": "2026-10-02T17:17:49.208759+00:00",
+      "id": "c0c757e0-fa3f-4cb7-b7b7-0ac9399a0ea9",
+      "image_urls": [
+        "https://relationalbuilder.org/media/commons/microgrant-program-landing.jpg",
+        "https://relationalbuilder.org/media/commons/microgrant-program-apply.jpg"
+      ],
+      "kind": "prompt",
+      "license": "RCL-1.0",
+      "metadata": {
+        "maker": "With Neighbors",
+        "image_url": "https://relationalbuilder.org/media/commons/microgrant-program-landing.jpg",
+        "hosted_url": "https://pizza-strips.lovable.app",
+        "remix_idea": "Find your neighborhood's pizza strip.",
+        "plan_stages": [
+          "story and scope",
+          "money and questions",
+          "look",
+          "payments and email"
+        ],
+        "grant_shapes": [
+          "fixed",
+          "host-picked tiers",
+          "organizer-set range"
+        ],
+        "email_options": [
+          "by hand from the desk",
+          "Resend from your domain",
+          "sent for you by RTP"
+        ],
+        "live_examples": [
+          {
+            "url": "https://pizza-strips.lovable.app",
+            "name": "Pizza Strip Fund (Rhode Island)"
+          },
+          {
+            "url": "https://long-handled-spoons.lovable.app",
+            "name": "Long-Handled Spoons Dinners (NOFA-VT)"
+          }
+        ],
+        "related_slugs": [
+          "microgrant-organizer-toolkit",
+          "microgrant-gathering",
+          "the-neighbor-gathering-microgrant"
+        ],
+        "payout_options": [
+          "by hand (Venmo/PayPal/Zelle)",
+          "PayPal Payouts API",
+          "gift card or check",
+          "CSV export"
+        ],
+        "codebase_status": "held at RTP pending participant consent"
+      },
+      "parent_slug": null,
+      "published_at": "2026-10-02T17:17:49.208759+00:00",
+      "slug": "pizza-strip-fund",
+      "sort_order": 0,
+      "source_local_id": null,
+      "source_studio_slug": "microgrants",
+      "source_url": null,
+      "status": "canonical",
+      "steward": null,
+      "summary": "The most current With Neighbors microgrant build, Rhode Island's Pizza Strip Fund ($50–$150 for neighbors who gather in a driveway or on a porch), described screen by screen as a remix prompt. Plan this and Relational Builder walks you through four short stages — story and scope, money and questions, look, payments and email — with suggested answers at every step, so your program ends up named for your neighborhood's own pizza strip.",
+      "tags": [
+        "microgrants",
+        "gathering fund",
+        "with neighbors",
+        "remix",
+        "neighboring",
+        "payments",
+        "email"
+      ],
+      "title": "Pizza Strip Fund — remix a gathering fund",
+      "updated_at": "2026-10-02T18:38:06.005253+00:00"
     },
     {
       "attribution": {
@@ -2599,7 +2678,7 @@
       "license": "RCL-1.0",
       "metadata": {},
       "parent_slug": "privacy-and-terms-page",
-      "published_at": "2026-10-01T14:37:23.231+00:00",
+      "published_at": "2026-10-02T13:58:31.715+00:00",
       "slug": "privacy-and-terms-page",
       "sort_order": 50,
       "source_local_id": "479bb82a-7276-4aba-8f6a-0e16f707dd4e",
@@ -2612,7 +2691,7 @@
         "Legal & Policies"
       ],
       "title": "Privacy & Terms Page",
-      "updated_at": "2026-10-01T14:37:23.443114+00:00"
+      "updated_at": "2026-10-02T13:58:31.879828+00:00"
     },
     {
       "attribution": {
@@ -2626,7 +2705,7 @@
       "license": "RCL-1.0",
       "metadata": {},
       "parent_slug": null,
-      "published_at": "2026-10-01T14:37:23.231+00:00",
+      "published_at": "2026-10-02T13:58:31.715+00:00",
       "slug": "street-beat-newsletter-generator",
       "sort_order": 50,
       "source_local_id": "c990f919-41db-4d56-bdd4-21efb4fdb368",
@@ -2639,7 +2718,7 @@
         "Communication"
       ],
       "title": "Street Beat Newsletter Generator",
-      "updated_at": "2026-10-01T14:37:23.443114+00:00"
+      "updated_at": "2026-10-02T13:58:31.879828+00:00"
     },
     {
       "attribution": {
@@ -16470,7 +16549,7 @@
       "license": "RCL-1.0",
       "metadata": {},
       "parent_slug": null,
-      "published_at": "2026-10-01T14:37:23.231+00:00",
+      "published_at": "2026-10-02T13:58:31.715+00:00",
       "slug": "an-accelerator-for-community-builders",
       "sort_order": 50,
       "source_local_id": "94b937a5-4a4d-4904-b1f6-fc19fdbc4069",
@@ -16483,7 +16562,7 @@
         "builder-story"
       ],
       "title": "An Accelerator for Community Builders",
-      "updated_at": "2026-10-01T14:37:23.27357+00:00"
+      "updated_at": "2026-10-02T13:58:31.750624+00:00"
     },
     {
       "attribution": {
@@ -16497,7 +16576,7 @@
       "license": "RCL-1.0",
       "metadata": {},
       "parent_slug": null,
-      "published_at": "2026-10-01T14:37:23.231+00:00",
+      "published_at": "2026-10-02T13:58:31.715+00:00",
       "slug": "an-outer-sunset-story",
       "sort_order": 50,
       "source_local_id": "47aa07be-fc8c-4d92-81ed-8b2041f2f4da",
@@ -16510,7 +16589,7 @@
         "builder-story"
       ],
       "title": "An Outer Sunset Story",
-      "updated_at": "2026-10-01T14:37:23.27357+00:00"
+      "updated_at": "2026-10-02T13:58:31.750624+00:00"
     },
     {
       "attribution": {
@@ -16809,7 +16888,7 @@
       "license": "RCL-1.0",
       "metadata": {},
       "parent_slug": null,
-      "published_at": "2026-10-01T14:37:23.231+00:00",
+      "published_at": "2026-10-02T13:58:31.715+00:00",
       "slug": "boston-ujima-project",
       "sort_order": 50,
       "source_local_id": "47c8b91b-9c33-46bd-8151-ccb2699c2f93",
@@ -16822,7 +16901,7 @@
         "builder-story"
       ],
       "title": "Boston Ujima Project",
-      "updated_at": "2026-10-01T14:37:23.443114+00:00"
+      "updated_at": "2026-10-02T13:58:31.879828+00:00"
     },
     {
       "attribution": {
@@ -16880,7 +16959,7 @@
       "license": "RCL-1.0",
       "metadata": {},
       "parent_slug": null,
-      "published_at": "2026-10-01T14:37:23.231+00:00",
+      "published_at": "2026-10-02T13:58:31.715+00:00",
       "slug": "bradley-street-bicycle-co-op-new-haven",
       "sort_order": 50,
       "source_local_id": "2cdc2824-db6e-4283-8156-2a95560e1bcf",
@@ -16893,7 +16972,7 @@
         "builder-story"
       ],
       "title": "Bradley Street Bicycle Co-op, New Haven",
-      "updated_at": "2026-10-01T14:37:23.27357+00:00"
+      "updated_at": "2026-10-02T13:58:31.750624+00:00"
     },
     {
       "attribution": {
@@ -16907,7 +16986,7 @@
       "license": "RCL-1.0",
       "metadata": {},
       "parent_slug": null,
-      "published_at": "2026-10-01T14:37:23.231+00:00",
+      "published_at": "2026-10-02T13:58:31.715+00:00",
       "slug": "camerados-and-public-living-rooms",
       "sort_order": 50,
       "source_local_id": "d8f5367c-a987-4171-af86-fed9d11507d0",
@@ -16920,7 +16999,7 @@
         "builder-story"
       ],
       "title": "Camerados and Public Living Rooms",
-      "updated_at": "2026-10-01T14:37:23.443114+00:00"
+      "updated_at": "2026-10-02T13:58:31.879828+00:00"
     },
     {
       "attribution": {
@@ -16976,7 +17055,7 @@
       "license": "RCL-1.0",
       "metadata": {},
       "parent_slug": null,
-      "published_at": "2026-10-01T14:37:23.231+00:00",
+      "published_at": "2026-10-02T13:58:31.715+00:00",
       "slug": "citizens-assemblies-from-ancient-athens-to-your-town-hall",
       "sort_order": 50,
       "source_local_id": "3ccc492b-2a63-4869-8c0b-b00b27ace66e",
@@ -16989,7 +17068,7 @@
         "builder-story"
       ],
       "title": "Citizens' Assemblies: From Ancient Athens to Your Town Hall",
-      "updated_at": "2026-10-01T14:37:23.443114+00:00"
+      "updated_at": "2026-10-02T13:58:31.879828+00:00"
     },
     {
       "attribution": {
@@ -17003,7 +17082,7 @@
       "license": "RCL-1.0",
       "metadata": {},
       "parent_slug": null,
-      "published_at": "2026-10-01T14:37:23.231+00:00",
+      "published_at": "2026-10-02T13:58:31.715+00:00",
       "slug": "city-repair-and-intersection-painting-portland",
       "sort_order": 50,
       "source_local_id": "c70add17-8e05-42c2-a358-bbdef84afdf5",
@@ -17016,7 +17095,7 @@
         "builder-story"
       ],
       "title": "City Repair and Intersection Painting, Portland",
-      "updated_at": "2026-10-01T14:37:23.443114+00:00"
+      "updated_at": "2026-10-02T13:58:31.879828+00:00"
     },
     {
       "attribution": {
@@ -17322,7 +17401,7 @@
       "license": "RCL-1.0",
       "metadata": {},
       "parent_slug": null,
-      "published_at": "2026-10-01T14:37:23.231+00:00",
+      "published_at": "2026-10-02T13:58:31.715+00:00",
       "slug": "cool-block",
       "sort_order": 50,
       "source_local_id": "473378a8-80e5-4cb0-b558-5baa8a61a6a0",
@@ -17335,7 +17414,7 @@
         "builder-story"
       ],
       "title": "Cool Block",
-      "updated_at": "2026-10-01T14:37:23.443114+00:00"
+      "updated_at": "2026-10-02T13:58:31.879828+00:00"
     },
     {
       "attribution": {
@@ -17419,7 +17498,7 @@
       "license": "RCL-1.0",
       "metadata": {},
       "parent_slug": null,
-      "published_at": "2026-10-01T14:37:23.231+00:00",
+      "published_at": "2026-10-02T13:58:31.715+00:00",
       "slug": "darebin-participatory-budgeting",
       "sort_order": 50,
       "source_local_id": "15168ab5-3bad-4573-bab9-735c07363ff1",
@@ -17432,7 +17511,7 @@
         "builder-story"
       ],
       "title": "Darebin Participatory Budgeting",
-      "updated_at": "2026-10-01T14:37:23.443114+00:00"
+      "updated_at": "2026-10-02T13:58:31.879828+00:00"
     },
     {
       "attribution": {
@@ -17829,7 +17908,7 @@
       "license": "RCL-1.0",
       "metadata": {},
       "parent_slug": null,
-      "published_at": "2026-10-01T14:37:23.231+00:00",
+      "published_at": "2026-10-02T13:58:31.715+00:00",
       "slug": "east-bay-permanent-real-estate-cooperative-oakland",
       "sort_order": 50,
       "source_local_id": "1f6b60a8-dcaa-422e-927d-6ae4d83f93c5",
@@ -17842,7 +17921,7 @@
         "builder-story"
       ],
       "title": "East Bay Permanent Real Estate Cooperative, Oakland",
-      "updated_at": "2026-10-01T14:37:23.443114+00:00"
+      "updated_at": "2026-10-02T13:58:31.879828+00:00"
     },
     {
       "attribution": {
@@ -17856,7 +17935,7 @@
       "license": "RCL-1.0",
       "metadata": {},
       "parent_slug": null,
-      "published_at": "2026-10-01T14:37:23.231+00:00",
+      "published_at": "2026-10-02T13:58:31.715+00:00",
       "slug": "edmonton-s-community-league-system",
       "sort_order": 50,
       "source_local_id": "9e06c85e-664b-4b81-a246-6a4a533875ad",
@@ -17869,7 +17948,53 @@
         "builder-story"
       ],
       "title": "Edmonton's Community League System",
-      "updated_at": "2026-10-01T14:37:23.443114+00:00"
+      "updated_at": "2026-10-02T13:58:31.879828+00:00"
+    },
+    {
+      "attribution": {
+        "name": "Falls Church Forward",
+        "source": "https://falls-church-forward-microgrant.lovable.app/home",
+        "neighborhood": "Falls Church, VA"
+      },
+      "body": "## The invitation\nHeadline: \"People in Falls Church are meeting their neighbors. Want in?\" Promise: \"Microgrants from $50 to $150 to help Falls Church neighbors host gatherings August–October.\" It is for residents of the greater Falls Church area. At the time of fetching, \"The application period is now closed\" and submitted applications were still under review; the live call-to-action is a \"Keep me posted\" email signup for a future round.\n\n## The grant\nRange **$50–$150** per gathering, for events in an August to October window. What is asked of hosts afterward is not stated on the fetched page.\n\n## What the landing page does well\n- The headline uses social proof and FOMO in two short sentences: others are already doing this, want in?\n- A four-photo carousel (backyard gathering, a painting activity, welcome bags, a community event) shows the range of what counts before any rules appear.\n- The page keeps working after close: a status notice plus an email signup, so the closed state still collects the next cohort.\n- Grant copy is one sentence with the amounts and the window; nothing else competes with it.\n- Visual feel: candid photographs of neighbors, inclusive and informal; colors not stated on the fetched page.\n\n## Source\nhttps://falls-church-forward-microgrant.lovable.app/home — listed on With Neighbors (https://withneighbors.org/microgrants)",
+      "created_at": "2026-10-02T18:38:06.005253+00:00",
+      "id": "8f51c28e-737c-4769-bcef-222aa21b218e",
+      "image_urls": [],
+      "kind": "story",
+      "license": "RCL-1.0",
+      "metadata": {
+        "maker": "Falls Church Forward",
+        "place": "Falls Church, VA",
+        "amounts": "$50–$150 per gathering",
+        "hosted_url": "https://falls-church-forward-microgrant.lovable.app/home",
+        "grant_shape": "range",
+        "local_object": "welcome bags and backyard gatherings on the block",
+        "inspiration_moves": [
+          "'Want in?' social-proof headline",
+          "Photo carousel of real past gatherings",
+          "Closed-state page that still captures email",
+          "One-sentence grant copy"
+        ]
+      },
+      "parent_slug": null,
+      "published_at": "2026-10-02T18:38:06.005253+00:00",
+      "slug": "falls-church-neighbor-gathering-grants",
+      "sort_order": 30,
+      "source_local_id": null,
+      "source_studio_slug": "microgrants",
+      "source_url": "https://falls-church-forward-microgrant.lovable.app/home",
+      "status": "canonical",
+      "steward": null,
+      "summary": "Falls Church Forward asks 'People in Falls Church are meeting their neighbors. Want in?' and offers microgrants from $50 to $150 for gatherings held August through October. A range grant whose landing page leads with a photo carousel of what past hosts actually did.",
+      "tags": [
+        "falls-church",
+        "landing-page-inspiration",
+        "microgrants",
+        "virginia",
+        "with neighbors"
+      ],
+      "title": "Neighbor Gathering Grants (Falls Church, VA)",
+      "updated_at": "2026-10-02T18:38:06.005253+00:00"
     },
     {
       "attribution": {
@@ -17925,7 +18050,7 @@
       "license": "RCL-1.0",
       "metadata": {},
       "parent_slug": null,
-      "published_at": "2026-10-01T14:37:23.231+00:00",
+      "published_at": "2026-10-02T13:58:31.715+00:00",
       "slug": "flatpack-democracy-frome-england",
       "sort_order": 50,
       "source_local_id": "a1a04911-2829-43eb-9a5b-69b3b4285707",
@@ -17938,7 +18063,7 @@
         "builder-story"
       ],
       "title": "Flatpack Democracy, Frome, England",
-      "updated_at": "2026-10-01T14:37:23.443114+00:00"
+      "updated_at": "2026-10-02T13:58:31.879828+00:00"
     },
     {
       "attribution": {
@@ -17952,7 +18077,7 @@
       "license": "RCL-1.0",
       "metadata": {},
       "parent_slug": null,
-      "published_at": "2026-10-01T14:37:23.231+00:00",
+      "published_at": "2026-10-02T13:58:31.715+00:00",
       "slug": "france-s-convention-citoyenne-pour-le-climat",
       "sort_order": 50,
       "source_local_id": "b5531701-17c5-40d3-8e41-327253f61ffc",
@@ -17965,7 +18090,54 @@
         "builder-story"
       ],
       "title": "France's Convention Citoyenne pour le Climat",
-      "updated_at": "2026-10-01T14:37:23.27357+00:00"
+      "updated_at": "2026-10-02T13:58:31.750624+00:00"
+    },
+    {
+      "attribution": {
+        "name": "Orlando Good Neighbor Week",
+        "source": "https://front-yard-friday.lovable.app/home",
+        "neighborhood": "Orlando, FL"
+      },
+      "body": "## The invitation\nHeadline: \"They wave. You wave. Time to actually meet.\" The promise is a single coordinated evening of front-yard gatherings during Good Neighbor Week, with money attached. The button says **I'm In — Send Me $100**. It is for Orlando-area residents willing to host during the event week.\n\n## The grant\nFixed **$100** per host. The event date is Friday, October 2 (inside the Sept. 28 to Oct. 4, 2026 week). Asked of hosts: hold a front yard, porch, or sidewalk gathering so neighbors can actually meet. Post-event requirements are not stated on the fetched page.\n\n## What the landing page does well\n- The headline names the exact micro-moment everyone recognizes (the wave) and promises to finish it.\n- Button copy is a first-person commitment, not an action label: \"I'm In — Send Me $100\".\n- One shared date does the hard part for hosts; nobody has to pick a night or worry about being the only one.\n- A four-photo carousel (neighbors talking, yard signage, downtown streets, the Orlando skyline) places the program in a real city, not stock suburbia.\n- \"Here's the plan\" section stays short and plain, and an \"alternative participation\" block gives non-hosts a role too.\n- Visual feel: warm, photo-led, conversational (exact colors not stated on the fetched page).\n\n## Source\nhttps://front-yard-friday.lovable.app/home — listed on With Neighbors (https://withneighbors.org/microgrants)",
+      "created_at": "2026-10-02T18:38:06.005253+00:00",
+      "id": "64fe09a0-5d1d-4fd6-a7eb-77fa1a8697d8",
+      "image_urls": [],
+      "kind": "story",
+      "license": "RCL-1.0",
+      "metadata": {
+        "maker": "Orlando Good Neighbor Week",
+        "place": "Orlando, FL",
+        "amounts": "$100 per host",
+        "hosted_url": "https://front-yard-friday.lovable.app/home",
+        "grant_shape": "fixed",
+        "local_object": "the front-yard wave; one Friday evening county-wide",
+        "inspiration_moves": [
+          "Headline built on a recognizable micro-moment (the wave)",
+          "First-person commitment button copy",
+          "One shared date instead of open scheduling",
+          "Photo carousel of the actual city"
+        ]
+      },
+      "parent_slug": null,
+      "published_at": "2026-10-02T18:38:06.005253+00:00",
+      "slug": "front-yard-friday-orlando",
+      "sort_order": 30,
+      "source_local_id": null,
+      "source_studio_slug": "microgrants",
+      "source_url": "https://front-yard-friday.lovable.app/home",
+      "status": "canonical",
+      "steward": null,
+      "summary": "Orlando Good Neighbor Week turns the front-yard wave into a county-wide date: host a front yard, porch, or sidewalk gathering on Friday, October 2 and get $100. Fixed $100 per host, with a button that reads 'I'm In — Send Me $100'.",
+      "tags": [
+        "front-yard",
+        "good-neighbor-week",
+        "landing-page-inspiration",
+        "microgrants",
+        "orlando",
+        "with neighbors"
+      ],
+      "title": "Front Yard Friday (Orlando, FL)",
+      "updated_at": "2026-10-02T18:38:06.005253+00:00"
     },
     {
       "attribution": {
@@ -18202,7 +18374,7 @@
       "license": "RCL-1.0",
       "metadata": {},
       "parent_slug": null,
-      "published_at": "2026-10-01T14:37:23.231+00:00",
+      "published_at": "2026-10-02T13:58:31.715+00:00",
       "slug": "grow-food-northampton-massachusetts",
       "sort_order": 50,
       "source_local_id": "2464dd6a-db5f-4d4e-8e34-6f58763ff6d8",
@@ -18215,7 +18387,53 @@
         "builder-story"
       ],
       "title": "Grow Food Northampton, Massachusetts",
-      "updated_at": "2026-10-01T14:37:23.443114+00:00"
+      "updated_at": "2026-10-02T13:58:31.879828+00:00"
+    },
+    {
+      "attribution": {
+        "name": "Hey, Neighbor! (Bobby Jones)",
+        "source": "https://hey-neighbor-rome.lovable.app/",
+        "neighborhood": "Rome, GA"
+      },
+      "body": "## The invitation\nHeadline: \"WHEN IN ROME... GET TO KNOW YOUR NEIGHBORS\". Promise: \"Every neighborhood has someone worth meeting. You bring the neighbors; we'll cover $50–$150 of the snacks & supplies.\" The button says **I'll Host 🙋**. It is for Rome, Georgia residents, with Old East Rome and South Rome named as neighborhoods of focus. The With Neighbors listing credits Bobby Jones as the organizer; the site itself presents as \"Hey, Neighbor!\".\n\n## The grant\nRange **$50–$150** per event, for \"snacks & supplies\". Applicants propose an event idea and apply through the form. Deadlines and post-event requirements are not stated on the fetched page.\n\n## What the landing page does well\n- The headline is a pun on the town's name, which makes the page unmistakably local in five words.\n- An interactive spinning wheel generates a gathering idea; the page treats \"what would I even do?\" as the real barrier and answers it with play.\n- Thirty-plus idea cards (5-Minute Talent Show, Front-Yard Movie Night, and more) with a \"See all ideas\" expander: a \"grab bag of ideas\", as With Neighbors describes it.\n- Button copy is a volunteer's raised hand, emoji included.\n- The promise sentence splits labor cleanly: you bring the people, we cover the stuff.\n- Visual feel: playful and casual, wheel centered on the page; colors not stated on the fetched page.\n\n## Source\nhttps://hey-neighbor-rome.lovable.app/ — listed on With Neighbors (https://withneighbors.org/microgrants)",
+      "created_at": "2026-10-02T18:38:06.005253+00:00",
+      "id": "8434e61e-d980-408f-baac-7c323bec63ba",
+      "image_urls": [],
+      "kind": "story",
+      "license": "RCL-1.0",
+      "metadata": {
+        "maker": "Hey, Neighbor! (Bobby Jones)",
+        "place": "Rome, GA",
+        "amounts": "$50–$150 per event",
+        "hosted_url": "https://hey-neighbor-rome.lovable.app/",
+        "grant_shape": "range",
+        "local_object": "the 'When in Rome' pun; a spin-the-wheel grab bag of gathering ideas",
+        "inspiration_moves": [
+          "Town-name pun headline",
+          "Interactive idea wheel",
+          "30+ idea cards with expander",
+          "'I'll Host' raised-hand button"
+        ]
+      },
+      "parent_slug": null,
+      "published_at": "2026-10-02T18:38:06.005253+00:00",
+      "slug": "hey-neighbor-rome-ga",
+      "sort_order": 30,
+      "source_local_id": null,
+      "source_studio_slug": "microgrants",
+      "source_url": "https://hey-neighbor-rome.lovable.app/",
+      "status": "canonical",
+      "steward": null,
+      "summary": "'When in Rome... get to know your neighbors': a range grant of $50 to $150 for creative, neighborhood-scale gatherings in Rome, Georgia, with a spinning idea wheel on the landing page. The button says 'I'll Host'.",
+      "tags": [
+        "idea-generator",
+        "landing-page-inspiration",
+        "microgrants",
+        "rome-ga",
+        "with neighbors"
+      ],
+      "title": "Hey, Neighbor! Fund (Rome, GA)",
+      "updated_at": "2026-10-02T18:38:06.005253+00:00"
     },
     {
       "attribution": {
@@ -18404,7 +18622,7 @@
       "license": "RCL-1.0",
       "metadata": {},
       "parent_slug": null,
-      "published_at": "2026-10-01T14:37:23.231+00:00",
+      "published_at": "2026-10-02T13:58:31.715+00:00",
       "slug": "ireland-s-citizens-assembly-on-the-eighth-amendment",
       "sort_order": 50,
       "source_local_id": "fe006ab8-1446-4f38-8f83-6a79c00163ab",
@@ -18417,7 +18635,54 @@
         "builder-story"
       ],
       "title": "Ireland's Citizens' Assembly on the Eighth Amendment",
-      "updated_at": "2026-10-01T14:37:23.27357+00:00"
+      "updated_at": "2026-10-02T13:58:31.750624+00:00"
+    },
+    {
+      "attribution": {
+        "name": "Island Civic Association",
+        "source": "https://islandchicago.org/withneighbors/",
+        "neighborhood": "The Island, Austin, Chicago, IL"
+      },
+      "body": "## The invitation\nHeadline: \"Food With Neighbors\" under the Island Civic Association masthead. Promise: \"Give residents of The Island funds to host simple, low-lift gatherings that bring neighbors together with food.\" The button says **Apply Now**. It is for residents of The Island neighborhood only.\n\n## The grant\nFixed **$100** per applicant, paid directly via Venmo or PayPal. Gatherings must happen by the end of October 2026; the application stays open while funds last. Asked of hosts: at least 3 attendees besides the host, a post-event survey, and an optional photo.\n\n## What the landing page does well\n- It lives inside an existing civic association site (nav with member and donation links, Nextdoor and email-list links in the footer), so the grant reads as something the neighborhood already does, not a new brand.\n- One large hero image, one intro paragraph, one offer with a button: the whole pitch fits above the FAQ.\n- A six-question FAQ covers exactly what a nervous first-time host asks: how to apply, deadline, how money arrives, what it can be spent on, how many people must come, what is owed afterward.\n- A named human contact (Nate Tubbs) rather than a generic inbox.\n- \"Doesn't have to be complicated\" is the recurring reassurance.\n- Visual feel: civic-association branding with a black-and-white logo; the hero image is the only color note (not described further on the site).\n\n## Source\nhttps://islandchicago.org/withneighbors/ — listed on With Neighbors (https://withneighbors.org/microgrants)",
+      "created_at": "2026-10-02T18:38:06.005253+00:00",
+      "id": "e8cb60e3-fd10-4d9b-8592-f387f65109a9",
+      "image_urls": [],
+      "kind": "story",
+      "license": "RCL-1.0",
+      "metadata": {
+        "maker": "Island Civic Association",
+        "place": "The Island, Austin, Chicago, IL",
+        "amounts": "$100 per host, via Venmo or PayPal",
+        "hosted_url": "https://islandchicago.org/withneighbors/",
+        "grant_shape": "fixed",
+        "local_object": "food on the block; The Island neighborhood identity",
+        "inspiration_moves": [
+          "Host the grant page inside the association's existing site",
+          "Six-question FAQ aimed at first-time hosts",
+          "Three-attendee minimum stated plainly",
+          "Named human contact"
+        ]
+      },
+      "parent_slug": null,
+      "published_at": "2026-10-02T18:38:06.005253+00:00",
+      "slug": "island-food-with-neighbors-fund",
+      "sort_order": 30,
+      "source_local_id": null,
+      "source_studio_slug": "microgrants",
+      "source_url": "https://islandchicago.org/withneighbors/",
+      "status": "canonical",
+      "steward": null,
+      "summary": "The Island Civic Association in Chicago's Austin community area funds residents to host 'simple, low-lift gatherings that bring neighbors together with food'. Fixed $100 paid by Venmo or PayPal, with a three-attendee minimum and a short post-event survey.",
+      "tags": [
+        "chicago",
+        "civic-association",
+        "food",
+        "landing-page-inspiration",
+        "microgrants",
+        "with neighbors"
+      ],
+      "title": "Food With Neighbors Fund (The Island, Austin, Chicago, IL)",
+      "updated_at": "2026-10-02T18:38:06.005253+00:00"
     },
     {
       "attribution": {
@@ -18431,7 +18696,7 @@
       "license": "RCL-1.0",
       "metadata": {},
       "parent_slug": null,
-      "published_at": "2026-10-01T14:37:23.231+00:00",
+      "published_at": "2026-10-02T13:58:31.715+00:00",
       "slug": "jesse-evers-and-highside-workshop-brooklyn",
       "sort_order": 50,
       "source_local_id": "f9894a40-45a0-46ec-b874-2682d5aa85cc",
@@ -18444,7 +18709,7 @@
         "builder-story"
       ],
       "title": "Jesse Evers and Highside Workshop, Brooklyn",
-      "updated_at": "2026-10-01T14:37:23.27357+00:00"
+      "updated_at": "2026-10-02T13:58:31.750624+00:00"
     },
     {
       "attribution": {
@@ -18542,7 +18807,7 @@
       "license": "RCL-1.0",
       "metadata": {},
       "parent_slug": null,
-      "published_at": "2026-10-01T14:37:23.231+00:00",
+      "published_at": "2026-10-02T13:58:31.715+00:00",
       "slug": "lamplight-summer-camp",
       "sort_order": 50,
       "source_local_id": "c40f67cd-486a-4c4e-95d6-c124d8ee854c",
@@ -18555,7 +18820,7 @@
         "builder-story"
       ],
       "title": "Lamplight Summer Camp",
-      "updated_at": "2026-10-01T14:37:23.27357+00:00"
+      "updated_at": "2026-10-02T13:58:31.750624+00:00"
     },
     {
       "attribution": {
@@ -18600,6 +18865,53 @@
     },
     {
       "attribution": {
+        "name": "Bike Biscuits",
+        "source": "https://bikebiscuits.org/apply",
+        "neighborhood": "Lehigh Valley (Allentown, Easton, Bethlehem), PA"
+      },
+      "body": "## The invitation\nHeadline: \"Lehigh Valley Hey There Neighbor Fund!\" Promise: \"Get a small grant to host a casual gathering with your neighbors.\" The button says **Submit Application**. It is for Lehigh Valley residents in Allentown, Easton, or Bethlehem.\n\n## The grant\nUp to **$100** for a simple neighbor gathering (treated here as a fixed cap). Paid by Venmo or PayPal to the email given. Asked of hosts: agree to post-event reflection questions and follow-up contact; an optional demographic checkbox. No deadline stated on the page.\n\n## What the landing page does well\n- The page is the form. There is no separate \"learn more\" layer: headline, one-sentence promise, then fields.\n- An English/Español toggle in the header, which is rare among these programs.\n- The questions double as coaching: a \"how connected do you feel\" question, a first-time-host question, a location field, and a date picker nudge the applicant to picture the event while applying.\n- A hand-drawn horse illustration beside the headline gives a tiny art-collective site more character than any stock photo would.\n- Payment method is chosen in the application, so money can move the moment a host is approved.\n- Visual feel: informal, illustrated, small-organization; specific colors not stated on the fetched page.\n\n## Source\nhttps://bikebiscuits.org/apply — listed on With Neighbors (https://withneighbors.org/microgrants)",
+      "created_at": "2026-10-02T18:38:06.005253+00:00",
+      "id": "cadbe14c-d244-4f38-8d46-7bb0718226db",
+      "image_urls": [],
+      "kind": "story",
+      "license": "RCL-1.0",
+      "metadata": {
+        "maker": "Bike Biscuits",
+        "place": "Lehigh Valley (Allentown, Easton, Bethlehem), PA",
+        "amounts": "up to $100 per gathering",
+        "hosted_url": "https://bikebiscuits.org/apply",
+        "grant_shape": "fixed",
+        "local_object": "a hand-drawn horse; art-and-play gatherings",
+        "inspiration_moves": [
+          "Landing page is the application",
+          "Bilingual toggle",
+          "Form questions that coach the host",
+          "Hand-drawn illustration instead of stock photos"
+        ]
+      },
+      "parent_slug": null,
+      "published_at": "2026-10-02T18:38:06.005253+00:00",
+      "slug": "lehigh-valley-hey-there-neighbor-fund",
+      "sort_order": 30,
+      "source_local_id": null,
+      "source_studio_slug": "microgrants",
+      "source_url": "https://bikebiscuits.org/apply",
+      "status": "canonical",
+      "steward": null,
+      "summary": "Bike Biscuits of Bethlehem runs the Lehigh Valley Hey There Neighbor Fund: 'Get a small grant to host a casual gathering with your neighbors.' Up to $100, bilingual page, and the landing page is the application itself.",
+      "tags": [
+        "art",
+        "bilingual",
+        "landing-page-inspiration",
+        "lehigh-valley",
+        "microgrants",
+        "with neighbors"
+      ],
+      "title": "Hey There Neighbor! (Lehigh Valley, PA)",
+      "updated_at": "2026-10-02T18:38:06.005253+00:00"
+    },
+    {
+      "attribution": {
         "name": "livingroomconversations.org / Joan Blades"
       },
       "body": "<p>Joan Blades knows something about political intensity. In 1998, she and her husband sent an online petition urging Congress to censure President Clinton and move on to pressing issues. It went viral before viral was a word, gathering half a million signatures and spawning MoveOn.org — one of the most influential progressive organizations in American politics. But by 2004, Blades realized she had a problem. She had deep exposure to progressive viewpoints and almost no visibility into why conservatives viewed the world differently. In 2007, she connected with Michele Combs, the communications director of the Christian Coalition, at a retreat. The two became friends — and then unlikely partners, when MoveOn and the Christian Coalition teamed up to preserve net neutrality.</p><p>That improbable friendship shaped what came next. In 2011, Blades co-founded Living Room Conversations with Tea Party Patriots co-founder Mark Meckler. The concept is simple and replicable: a structured conversation, following six basic rules of discourse, held in someone's living room (or a coffee shop, or online) between people who disagree. No special training is required. No facilitators, no institutions, no budgets. Just neighbors committed to trading judgment for curiosity. Blades — a mediator and attorney by training — calls the work \"a domestic peace initiative.\"</p><p>Over 25 conversation topics are available as open-source guides, from food to guns to voting. The model is designed to be self-organizing and horizontal: anyone can host, anyone can participate. Living Room Conversations has spread across the United States, providing a platform for people who would otherwise never talk to each other to discover they care about each other. The relational technology is the conversation guide — a few simple rules that create a container strong enough to hold disagreement. The insight is that polarization is not primarily an information problem. It's a relationship problem. And relationships are rebuilt in living rooms.</p>",
@@ -18610,7 +18922,7 @@
       "license": "RCL-1.0",
       "metadata": {},
       "parent_slug": null,
-      "published_at": "2026-10-01T14:37:23.231+00:00",
+      "published_at": "2026-10-02T13:58:31.715+00:00",
       "slug": "living-room-conversations",
       "sort_order": 50,
       "source_local_id": "7149e6a3-197d-4bd8-b721-17d1da04a154",
@@ -18623,7 +18935,7 @@
         "builder-story"
       ],
       "title": "Living Room Conversations",
-      "updated_at": "2026-10-01T14:37:23.443114+00:00"
+      "updated_at": "2026-10-02T13:58:31.879828+00:00"
     },
     {
       "attribution": {
@@ -18771,7 +19083,7 @@
       "license": "RCL-1.0",
       "metadata": {},
       "parent_slug": null,
-      "published_at": "2026-10-01T14:37:23.231+00:00",
+      "published_at": "2026-10-02T13:58:31.715+00:00",
       "slug": "melbourne-people-s-panel",
       "sort_order": 50,
       "source_local_id": "318fe7b8-79c5-46bb-b233-0398046d07a6",
@@ -18784,7 +19096,7 @@
         "builder-story"
       ],
       "title": "Melbourne People's Panel",
-      "updated_at": "2026-10-01T14:37:23.27357+00:00"
+      "updated_at": "2026-10-02T13:58:31.750624+00:00"
     },
     {
       "attribution": {
@@ -18915,6 +19227,54 @@
     },
     {
       "attribution": {
+        "name": "More Parades",
+        "source": "https://moreparades.org/welcome-wagon-1",
+        "neighborhood": "Palouse, WA"
+      },
+      "body": "## The invitation\nHeadline: \"Welcome 🌀 Wagon\" with the subhead \"Microgrant Program\" (on the home page, announced as \"BIG NEWS!\"), and on the program page \"Welcome 🌀 Wagon Community Microgrants\". Promise: \"All the best ideas come from one another :) This program awards small grants to neighbors for gathering around special interests and community projects in Palouse, Washington.\" The home page button to the program says **Read More**; an apply button and application details were not visible on the fetched pages.\n\n## The grant\nThe With Neighbors listing gives **$250** and describes a rural program \"pairing funding with hands-on practical support\"; the More Parades site itself does not state an amount or deadline (not stated on the site). The 2026 grantee pages show funded projects such as Mother Prairie and Coyote puppets for the Palouse Days parade and a Palouse City Drum Corps.\n\n## What the landing page does well\n- The program is a set of short pages (Microgrants, 2026 Projects, 2026 People, Credit, Footer) rather than one scroll: the grantees and their projects are the content.\n- Each grantee gets a bio in their own voice, so the fund reads like a roster of neighbors, not a pot of money.\n- A \"Big Thanks\" credit page names the funders (With Neighbors, Group Hug, Relational Tech Project, Connective Tissue) and frames the whole thing as \"a national neighborhood microgrant blitz\".\n- The town's own event (Palouse Days parade) anchors every project.\n- Visual feel: a Cargo site with a wheat-field wallpaper, a mustard-olive page background (#b5a635), white body copy in Optima and a typewriter display face, emoji icons in the nav. Rural, arty, handmade.\n\n## Source\nhttps://moreparades.org/welcome-wagon-1 — listed on With Neighbors (https://withneighbors.org/microgrants)",
+      "created_at": "2026-10-02T18:38:06.005253+00:00",
+      "id": "bd460600-9b8a-422a-b780-17d44290b937",
+      "image_urls": [],
+      "kind": "story",
+      "license": "RCL-1.0",
+      "metadata": {
+        "maker": "More Parades",
+        "place": "Palouse, WA",
+        "amounts": "$250 per the With Neighbors listing (amount not stated on the site)",
+        "hosted_url": "https://moreparades.org/welcome-wagon-1",
+        "grant_shape": "fixed",
+        "local_object": "the Palouse Days parade; puppets and a drum corps for Main Street",
+        "inspiration_moves": [
+          "Grantee roster as the landing page",
+          "Bios in grantees' own voices",
+          "Credit page naming the funders and the national blitz",
+          "Strong local palette and typefaces"
+        ]
+      },
+      "parent_slug": null,
+      "published_at": "2026-10-02T18:38:06.005253+00:00",
+      "slug": "more-parades-welcome-wagon",
+      "sort_order": 30,
+      "source_local_id": null,
+      "source_studio_slug": "microgrants",
+      "source_url": "https://moreparades.org/welcome-wagon-1",
+      "status": "canonical",
+      "steward": null,
+      "summary": "More Parades, a rural cultural incubator in Palouse, Washington, runs the Welcome Wagon Community Microgrants: 'All the best ideas come from one another :)', small grants for neighbors gathering around special interests and community projects. $250 per the With Neighbors listing, with hands-on practical support alongside the money.",
+      "tags": [
+        "arts",
+        "landing-page-inspiration",
+        "microgrants",
+        "palouse",
+        "parade",
+        "rural",
+        "with neighbors"
+      ],
+      "title": "Welcome Wagon (Palouse, WA)",
+      "updated_at": "2026-10-02T18:38:06.005253+00:00"
+    },
+    {
+      "attribution": {
         "name": "Oakland Lowdown + Oakland North",
         "source": "Civic Media Cookbook (2026), Appendix 2: Field Guide",
         "neighborhood": "Oakland, CA"
@@ -18972,7 +19332,7 @@
       "license": "RCL-1.0",
       "metadata": {},
       "parent_slug": null,
-      "published_at": "2026-10-01T14:37:23.231+00:00",
+      "published_at": "2026-10-02T13:58:31.715+00:00",
       "slug": "nate-tubbs-and-the-island-chicago",
       "sort_order": 50,
       "source_local_id": "1358ab34-b5a4-4fcd-b5af-9b121fb46325",
@@ -18985,7 +19345,7 @@
         "builder-story"
       ],
       "title": "Nate Tubbs and The Island, Chicago",
-      "updated_at": "2026-10-01T14:37:23.27357+00:00"
+      "updated_at": "2026-10-02T13:58:31.750624+00:00"
     },
     {
       "attribution": {
@@ -18999,7 +19359,7 @@
       "license": "RCL-1.0",
       "metadata": {},
       "parent_slug": null,
-      "published_at": "2026-10-01T14:37:23.231+00:00",
+      "published_at": "2026-10-02T13:58:31.715+00:00",
       "slug": "neighborcircles-lawrence-massachusetts",
       "sort_order": 50,
       "source_local_id": "ce1ffb49-f093-412f-b185-cc53ffbecf06",
@@ -19012,7 +19372,7 @@
         "builder-story"
       ],
       "title": "NeighborCircles, Lawrence, Massachusetts",
-      "updated_at": "2026-10-01T14:37:23.443114+00:00"
+      "updated_at": "2026-10-02T13:58:31.879828+00:00"
     },
     {
       "attribution": {
@@ -19148,6 +19508,101 @@
     },
     {
       "attribution": {
+        "name": "Civic Works",
+        "source": "https://knowyourneighborsfund.org/",
+        "neighborhood": "New Haven, CT"
+      },
+      "body": "## The invitation\nHeadline: \"APPLY FOR THE Know Your Neighbors Fund.\" Promise (also the site's meta description): \"$200 grants for neighbor-led projects that bring people together in New Haven. From morning chess clubs to block potlucks — small ideas that build community connection.\" The button says **Apply Today!** It is \"Open to all New Haven residents\". The short domain knowyourneighborsfund.org redirects to the Civic Works page.\n\n## The grant\nFixed **$200**. Deadline September 30th. Rules: applicant must live in New Haven and the event must happen there; the event \"must be free of charge and open to the public\"; projects \"should ideally be recurring activities\". Afterward, \"a simple report\": answers to 3-4 questions, attendance count, 2-3 photos, and a brief story or quote. With Neighbors administers this round and may feature stories.\n\n## What the landing page does well\n- A memorable standalone domain (knowyourneighborsfund.org) that forwards to the organization's page, so the fund is shareable by name.\n- The promise sentence carries two concrete examples (morning chess club, block potluck) that set the scale instantly.\n- \"Strong communities are built one neighbor at a time\" states the belief in one line before the rules.\n- It asks for recurring traditions, not one-off parties, and says so up front.\n- The report is specified exactly (3-4 questions, headcount, 2-3 photos, a quote), which makes \"what do I owe you?\" a non-question.\n- Visual feel: clean, modern nonprofit layout with community photography; colors not stated on the fetched page.\n\n## Source\nhttps://knowyourneighborsfund.org/ (redirects to https://www.civicworksct.org/know-your-neighbors-fund-apply) — listed on With Neighbors (https://withneighbors.org/microgrants)",
+      "created_at": "2026-10-02T18:38:06.005253+00:00",
+      "id": "fedcde18-8458-4ff2-aa8a-9a3d6e2f073b",
+      "image_urls": [],
+      "kind": "story",
+      "license": "RCL-1.0",
+      "metadata": {
+        "maker": "Civic Works",
+        "place": "New Haven, CT",
+        "amounts": "$200 per project",
+        "hosted_url": "https://knowyourneighborsfund.org/",
+        "grant_shape": "fixed",
+        "local_object": "morning chess clubs and block potlucks; recurring neighborhood traditions",
+        "inspiration_moves": [
+          "Standalone memorable domain",
+          "Two concrete examples inside the promise",
+          "Ask for recurring, not one-off",
+          "Spell out the report exactly"
+        ]
+      },
+      "parent_slug": null,
+      "published_at": "2026-10-02T18:38:06.005253+00:00",
+      "slug": "new-haven-know-your-neighbors-fund",
+      "sort_order": 30,
+      "source_local_id": null,
+      "source_studio_slug": "microgrants",
+      "source_url": "https://knowyourneighborsfund.org/",
+      "status": "canonical",
+      "steward": null,
+      "summary": "Civic Works' Know Your Neighbors Fund gives '$200 grants for projects that bring people together in New Haven. From morning chess clubs to block potlucks.' Fixed $200, open to any New Haven resident, with a preference for gatherings that recur.",
+      "tags": [
+        "civic-works",
+        "landing-page-inspiration",
+        "microgrants",
+        "new-haven",
+        "recurring",
+        "with neighbors"
+      ],
+      "title": "Know Your Neighbors Fund (New Haven, CT)",
+      "updated_at": "2026-10-02T18:38:06.005253+00:00"
+    },
+    {
+      "attribution": {
+        "name": "NOFA-VT (Northeast Organic Farming Association of Vermont)",
+        "source": "https://www.nofavt.org/services-resources/other-resources/long-handled-spoons-dinner-micro-grants",
+        "neighborhood": "Vermont (statewide)"
+      },
+      "body": "## The invitation\nHeadline: \"Long-Handled Spoons Dinner Micro-Grants\". Promise: community-building meals that \"grow joy, power, and safety by building strong relationships and keeping each other fed.\" It is for NOFA-VT members across Vermont. At the time of fetching, the page reads \"Applications are currently closed\", so no apply button was visible.\n\n## The grant\nThe NOFA-VT page says up to **$200** per applicant; the With Neighbors listing says $250 (the discrepancy is noted here, not resolved). Asked of hosts: source ingredients from \"local, organic, and small-scale farmers\" and send a photo of the gathering. Dates for the next round are not stated on the site.\n\n## What the landing page does well\n- The name is a parable, and the page explains it with two drawings: one of people struggling to feed themselves with spoons too long to reach their own mouths, one of them feeding each other. The images carry the whole ethos.\n- \"How Does a Long-Handled Spoon Dinner Work?\" walks through the steps so the parable becomes a recipe for an evening.\n- It ties the microgrant to the host organization's mission (local farmers get the food budget), so each dinner is both a gathering and a market.\n- Sections run intro and founding context, how it works and who funds it, the illustrations, the steps, the status notice, then a donate ask: a complete arc even when applications are closed.\n- Tone: warm, justice-grounded, about collective care rather than fun for its own sake.\n- Visual feel: illustration-led; colors not stated on the fetched page.\n\n## Source\nhttps://www.nofavt.org/services-resources/other-resources/long-handled-spoons-dinner-micro-grants — listed on With Neighbors (https://withneighbors.org/microgrants)",
+      "created_at": "2026-10-02T18:38:06.005253+00:00",
+      "id": "48950b27-35a2-4035-8af6-9e9768de1a2b",
+      "image_urls": [],
+      "kind": "story",
+      "license": "RCL-1.0",
+      "metadata": {
+        "maker": "NOFA-VT (Northeast Organic Farming Association of Vermont)",
+        "place": "Vermont (statewide)",
+        "amounts": "up to $200 per dinner on the NOFA-VT page; $250 per the With Neighbors listing",
+        "hosted_url": "https://www.nofavt.org/services-resources/other-resources/long-handled-spoons-dinner-micro-grants",
+        "grant_shape": "fixed",
+        "local_object": "the long-handled spoons parable: you can only eat by feeding each other",
+        "inspiration_moves": [
+          "Name the grant after a parable and illustrate it",
+          "Turn the parable into step-by-step instructions",
+          "Route the food budget to the mission (local farmers)",
+          "Keep the page whole even when closed"
+        ]
+      },
+      "parent_slug": null,
+      "published_at": "2026-10-02T18:38:06.005253+00:00",
+      "slug": "nofa-vt-long-handled-spoons-dinners",
+      "sort_order": 30,
+      "source_local_id": null,
+      "source_studio_slug": "microgrants",
+      "source_url": "https://www.nofavt.org/services-resources/other-resources/long-handled-spoons-dinner-micro-grants",
+      "status": "canonical",
+      "steward": null,
+      "summary": "NOFA-VT's dinner micro-grants are named for the long-handled spoons parable: people can only eat by feeding each other. Meals that 'grow joy, power, and safety by building strong relationships and keeping each other fed', with ingredients from local organic farms; up to $200 on the NOFA page ($250 per the With Neighbors listing).",
+      "tags": [
+        "farmers",
+        "food",
+        "landing-page-inspiration",
+        "microgrants",
+        "parable",
+        "vermont",
+        "with neighbors"
+      ],
+      "title": "Long-Handled Spoons Dinners (Vermont)",
+      "updated_at": "2026-10-02T18:38:06.005253+00:00"
+    },
+    {
+      "attribution": {
         "name": "Casper ter Kuile, Community Ritualist"
       },
       "body": "<p>Casper ter Kuile had spent years studying how people — especially younger people — were leaving institutional religion but still hungering for spiritual community. As co-founder of the Sacred Design Lab, he was exploring what 21st-century spiritual well-being could look like when it wasn't tethered to a denomination. The question kept circling back to something ancient: ritual and hospitality.</p>\n\n<p>The breakthrough came through an unlikely encounter. A gathering called \"Nuns and Nones\" brought together Catholic Sisters and unaffiliated millennial community leaders to explore what tradition might mean in an age of disaffiliation. What happened wasn't debate or negotiation — it was transmission. The Sisters shared practices, stories, and ways of being that the younger participants had been trying to invent from scratch. The millennial leaders brought fresh energy and new questions. Both groups recognized something in the other.</p>\n\n<p>One moment crystallized it. Sister Mary Dacey — a woman of deep theological grounding and integrity — blessed Casper with a religious name on a Brooklyn rooftop, using oil, poetry, and liturgy. It was personal, spontaneous, and deeply rooted in tradition. Casper describes the experience as one of the most significant spiritual moments of his life — and it happened outside any church, on a roof, between people who might never have met through conventional channels.</p>\n\n<p>This encounter shaped Casper's conviction that ritual works faster than conversation alone. Shared rituals — even simple ones — create a felt sense of belonging that no amount of discussion can replicate. They mark time, create rhythm, and bind people to each other and to a place.</p>\n\n<p>He put this into practice with Solstice in the Park, a public gathering in Brooklyn that brings neighbors together for workshops on meditation, embroidery, bird symbolism, and seasonal reflection. The event partners with the Brooklyn Public Library and draws immigrant educators alongside lifelong residents. It's not a religious service. It's a communal marking of time — an acknowledgment that the seasons turn and that we turn together.</p>\n\n<p>Casper's thinking about community centers on three practices that function as relational technology. The first is ritual — structured, repeated actions that create belonging faster and deeper than informal socializing. The second is hospitality — and not just the passive kind. Casper talks about making people feel explicitly invited and wanted, countering the assumption that an open door is enough. The third is covenant — a dynamic, relational commitment that is sustained by love rather than enforced by rules.</p>\n\n<p>These ideas found a home in The Dinner Party, co-founded by Lennon Flowers, which gathers small groups of people around shared meals and shared losses. What started as a space for grief became a model for how intimate gatherings — organized around vulnerability rather than networking — can form deep bonds.</p>\n\n<p>Casper's work suggests that the most powerful relational technologies may be the oldest ones: a blessing, a shared meal, a seasonal gathering, a commitment to show up again. The innovation isn't in the form but in the willingness to practice these things in places and with people that institutions have stopped reaching. On a Brooklyn rooftop, between a nun and a none, a tradition found a new carrier — and a community found its rhythm.</p>",
@@ -19158,7 +19613,7 @@
       "license": "RCL-1.0",
       "metadata": {},
       "parent_slug": null,
-      "published_at": "2026-10-01T14:37:23.231+00:00",
+      "published_at": "2026-10-02T13:58:31.715+00:00",
       "slug": "nuns-nones-and-sacred-hospitality",
       "sort_order": 50,
       "source_local_id": "546eb8b8-c06f-4a2d-8e81-c8582cd80144",
@@ -19171,7 +19626,54 @@
         "builder-story"
       ],
       "title": "Nuns, Nones, and Sacred Hospitality",
-      "updated_at": "2026-10-01T14:37:23.27357+00:00"
+      "updated_at": "2026-10-02T13:58:31.750624+00:00"
+    },
+    {
+      "attribution": {
+        "name": "Neighborhood Village Project",
+        "source": "https://nvp.community/microgrant",
+        "neighborhood": "Boulder and Denver Metro Area, CO"
+      },
+      "body": "## The invitation\nHeadline: \"Neighborhood Projects Microgrant\". Promise: \"$300 for neighbor-led projects in the Boulder & Denver Metro Area\". It is for neighbors in that metro area who want to launch a small shared project. At the time of fetching the page read \"Application Deadline Has Passed\", so no apply button was visible.\n\n## The grant\nFixed **$300**, sent by Venmo, PayPal, or Visa gift card within 48 hours of selection. Deadline was August 25, 2026; projects complete by October 21, 2026; photo and reflection due October 25, 2026. Rules: projects must be \"neighbor-led\", include a \"neighborhood gathering\", and spend funds on \"supplies and materials\".\n\n## What the landing page does well\n- Five illustrated project ideas (food forest, pocket park, emergency cache, bulletin board, pizza oven) open the page, so the grant is about making a thing, not just hosting a night.\n- International examples of neighbor-led work give small local projects a lineage.\n- Paired sections \"What You'll Receive\" and \"What We Ask of You\" make the exchange explicit and symmetrical.\n- A timeline with every date (deadline, completion, reflection) and a contact for pre-application questions.\n- Tone is openly enthusiastic (\"stoked\", celebratory emoji) without being vague about rules.\n- Visual feel: warm, illustrated, neighborhood-scale; colors not stated on the fetched page.\n\n## Source\nhttps://nvp.community/microgrant — listed on With Neighbors (https://withneighbors.org/microgrants)",
+      "created_at": "2026-10-02T18:38:06.005253+00:00",
+      "id": "b5f4defd-1f69-42f3-a548-c37c6da5e35b",
+      "image_urls": [],
+      "kind": "story",
+      "license": "RCL-1.0",
+      "metadata": {
+        "maker": "Neighborhood Village Project",
+        "place": "Boulder and Denver Metro Area, CO",
+        "amounts": "$300 per project, paid within 48 hours of selection",
+        "hosted_url": "https://nvp.community/microgrant",
+        "grant_shape": "fixed",
+        "local_object": "shared building and planting projects: food forest, pocket park, emergency cache, bulletin board, pizza oven",
+        "inspiration_moves": [
+          "Illustrated project menu up top",
+          "'What You'll Receive' / 'What We Ask of You' pairing",
+          "Full dated timeline",
+          "Fast-payment promise (48 hours)"
+        ]
+      },
+      "parent_slug": null,
+      "published_at": "2026-10-02T18:38:06.005253+00:00",
+      "slug": "nvp-neighborhood-projects-microgrant",
+      "sort_order": 30,
+      "source_local_id": null,
+      "source_studio_slug": "microgrants",
+      "source_url": "https://nvp.community/microgrant",
+      "status": "canonical",
+      "steward": null,
+      "summary": "Neighborhood Village Project offers '$300 for neighbor-led projects in the Boulder & Denver Metro Area': build or plant something together (a food forest, pocket park, emergency cache, bulletin board, pizza oven) and gather around it. Fixed $300, paid within 48 hours of selection.",
+      "tags": [
+        "colorado",
+        "landing-page-inspiration",
+        "microgrants",
+        "placemaking",
+        "projects",
+        "with neighbors"
+      ],
+      "title": "Neighborhood Projects Microgrant (Boulder and Denver, CO)",
+      "updated_at": "2026-10-02T18:38:06.005253+00:00"
     },
     {
       "attribution": {
@@ -19233,7 +19735,7 @@
       "license": "RCL-1.0",
       "metadata": {},
       "parent_slug": null,
-      "published_at": "2026-10-01T14:37:23.231+00:00",
+      "published_at": "2026-10-02T13:58:31.715+00:00",
       "slug": "outer-sunset-field-guide",
       "sort_order": 50,
       "source_local_id": "c9719de0-5264-4996-b513-43a14096537b",
@@ -19246,7 +19748,7 @@
         "builder-story"
       ],
       "title": "Outer Sunset Field Guide",
-      "updated_at": "2026-10-01T14:37:23.443114+00:00"
+      "updated_at": "2026-10-02T13:58:31.879828+00:00"
     },
     {
       "attribution": {
@@ -19470,6 +19972,52 @@
     },
     {
       "attribution": {
+        "name": "City of Peoria Community Development Department",
+        "source": "https://www.peoriagov.org/1224/Hello-Neighbor",
+        "neighborhood": "Peoria, IL"
+      },
+      "body": "## The invitation\nHeadline: \"Hello Neighbor Gathering Fund\". Promise: funding to \"help people connect with their neighbors, build relationships, and strengthen their community.\" The form's button says **Submit**. It is for Peoria, IL residents; the program is run by the city's Community Development Department and funded by With Neighbors.\n\n## The grant\nFixed **$100** per recipient, **15 awards** total. Application window \"Tuesday, September 1 - Tuesday, September 22\"; funding notice \"before October 1, 2026\"; events held \"October 1 - November 15th\". Asked of hosts: photos, a post-event questionnaire, and attendance at a December feedback session.\n\n## What the landing page does well\n- \"Brainstorm Gathering Ideas\" comes before the rules: pizza parties, ice cream socials, pancake breakfasts. The page sells the picture of the event first.\n- A numbered seven-step \"How It Works\" runs from application to post-event feedback, so hosts see the whole arc, including the December gathering of hosts.\n- \"Resources for Hosts\" offers a guidelines document and a printable sign-in sheet, which is a concrete help that most microgrant pages skip.\n- The application form is embedded on the same page (name, email, address, event description), with no second site to visit.\n- Stating the number of awards (15) sets honest expectations.\n- Visual feel: a municipal site, blue and white, with the city logo and social icons; the warmth comes from the copy, not the design.\n\n## Source\nhttps://www.peoriagov.org/1224/Hello-Neighbor — listed on With Neighbors (https://withneighbors.org/microgrants)",
+      "created_at": "2026-10-02T18:38:06.005253+00:00",
+      "id": "e37f737e-2ac5-4f08-a5bd-85e1b62f2bd1",
+      "image_urls": [],
+      "kind": "story",
+      "license": "RCL-1.0",
+      "metadata": {
+        "maker": "City of Peoria Community Development Department",
+        "place": "Peoria, IL",
+        "amounts": "$100 per host, 15 awards",
+        "hosted_url": "https://www.peoriagov.org/1224/Hello-Neighbor",
+        "grant_shape": "fixed",
+        "local_object": "the city hello; pizza parties, ice cream socials, pancake breakfasts",
+        "inspiration_moves": [
+          "Idea list before rules",
+          "Seven-step how-it-works ending in a hosts' feedback session",
+          "Downloadable sign-in sheet and host guidelines",
+          "Form embedded on the page"
+        ]
+      },
+      "parent_slug": null,
+      "published_at": "2026-10-02T18:38:06.005253+00:00",
+      "slug": "peoria-hello-neighbor-gathering-fund",
+      "sort_order": 30,
+      "source_local_id": null,
+      "source_studio_slug": "microgrants",
+      "source_url": "https://www.peoriagov.org/1224/Hello-Neighbor",
+      "status": "canonical",
+      "steward": null,
+      "summary": "The City of Peoria's Community Development Department offers residents $100 to host a gathering that helps 'people connect with their neighbors, build relationships, and strengthen their community'. Fixed $100, 15 awards, with a seven-step how-it-works and a December feedback session.",
+      "tags": [
+        "city-government",
+        "landing-page-inspiration",
+        "microgrants",
+        "peoria",
+        "with neighbors"
+      ],
+      "title": "Hello Neighbor Gathering Fund (Peoria, IL)",
+      "updated_at": "2026-10-02T18:38:06.005253+00:00"
+    },
+    {
+      "attribution": {
         "name": "June Jordan, UC Berkeley",
         "source": "Civic Media Cookbook (2026), Appendix 2: Field Guide",
         "neighborhood": "Berkeley / San Francisco, CA"
@@ -19524,7 +20072,7 @@
       "license": "RCL-1.0",
       "metadata": {},
       "parent_slug": null,
-      "published_at": "2026-10-01T14:37:23.231+00:00",
+      "published_at": "2026-10-02T13:58:31.715+00:00",
       "slug": "porchfest-ithaca-to-everywhere",
       "sort_order": 50,
       "source_local_id": "a7ad5dd5-cbf7-4e30-a9fd-07a8e5ae3aa9",
@@ -19537,7 +20085,7 @@
         "builder-story"
       ],
       "title": "Porchfest, Ithaca to Everywhere",
-      "updated_at": "2026-10-01T14:37:23.443114+00:00"
+      "updated_at": "2026-10-02T13:58:31.879828+00:00"
     },
     {
       "attribution": {
@@ -19819,7 +20367,7 @@
       "license": "RCL-1.0",
       "metadata": {},
       "parent_slug": null,
-      "published_at": "2026-10-01T14:37:23.231+00:00",
+      "published_at": "2026-10-02T13:58:31.715+00:00",
       "slug": "repair-cafe",
       "sort_order": 50,
       "source_local_id": "9b2aa2a1-e5e9-44e6-a17b-2b048a13363f",
@@ -19832,7 +20380,7 @@
         "builder-story"
       ],
       "title": "Repair Cafe",
-      "updated_at": "2026-10-01T14:37:23.443114+00:00"
+      "updated_at": "2026-10-02T13:58:31.879828+00:00"
     },
     {
       "attribution": {
@@ -19974,7 +20522,7 @@
       "license": "RCL-1.0",
       "metadata": {},
       "parent_slug": null,
-      "published_at": "2026-10-01T14:37:23.231+00:00",
+      "published_at": "2026-10-02T13:58:31.715+00:00",
       "slug": "savannah-kruger-and-the-neighborhood-accelerator-boulder",
       "sort_order": 50,
       "source_local_id": "4c61e9aa-6419-4e18-9f57-cf431aed0c73",
@@ -19987,7 +20535,54 @@
         "builder-story"
       ],
       "title": "Savannah Kruger and The Neighborhood Accelerator, Boulder",
-      "updated_at": "2026-10-01T14:37:23.27357+00:00"
+      "updated_at": "2026-10-02T13:58:31.750624+00:00"
+    },
+    {
+      "attribution": {
+        "name": "SF Good Neighbor Week (with Civic Joy Fund)",
+        "source": "https://www.sfgoodneighborweek.org/meet-your-neighbors",
+        "neighborhood": "San Francisco, CA"
+      },
+      "body": "## The invitation\nHeadline: \"Meet Your Neighbors Fund\". Promise: \"A teeny grant to make a big introduction\", with the descriptor \"A grant to host simple, low-lift gatherings\". It is for San Francisco residents applying as individuals (organizations and associations excluded). At the time of fetching: \"The application is now closed\", so no button text was visible.\n\n## The grant\nFixed **$100**. The application deadline was September 18, 2026; gatherings run September 26 to October 4, 2026 (SF Good Neighbor Week), extended through the end of October. Asked of hosts: introduce neighbors in your building or block with something achievable, \"a potluck in your living room, coffee on your driveway\". Post-event requirements are not stated on the fetched page.\n\n## What the landing page does well\n- \"Teeny grant, big introduction\" says the amount is small on purpose and makes the smallness part of the charm.\n- A problem statement comes first (people don't know the folks next door), then the fund as the answer.\n- Examples are deliberately tiny and indoor-friendly for a dense city: living-room potluck, driveway coffee.\n- Individuals-only eligibility keeps the money with residents instead of organizations.\n- Partner logos (Civic Joy Fund, Good Neighbor Lab, With Neighbors) and the #sfgoodneighborweek hashtag place the fund inside a city-wide week.\n- Visual feel: clean, modern, warm neighborhood photography; colors not stated on the fetched page.\n\n## Source\nhttps://www.sfgoodneighborweek.org/meet-your-neighbors — listed on With Neighbors (https://withneighbors.org/microgrants)",
+      "created_at": "2026-10-02T18:38:06.005253+00:00",
+      "id": "219ceb75-dfaf-4c94-ae08-c81cecb7584e",
+      "image_urls": [],
+      "kind": "story",
+      "license": "RCL-1.0",
+      "metadata": {
+        "maker": "SF Good Neighbor Week (with Civic Joy Fund)",
+        "place": "San Francisco, CA",
+        "amounts": "$100 per host",
+        "hosted_url": "https://www.sfgoodneighborweek.org/meet-your-neighbors",
+        "grant_shape": "fixed",
+        "local_object": "the folks next door; a living-room potluck or driveway coffee during Good Neighbor Week",
+        "inspiration_moves": [
+          "'Teeny grant, big introduction' framing",
+          "Problem statement before the offer",
+          "Apartment-scale examples",
+          "Individuals-only eligibility stated plainly"
+        ]
+      },
+      "parent_slug": null,
+      "published_at": "2026-10-02T18:38:06.005253+00:00",
+      "slug": "sf-meet-your-neighbors-fund",
+      "sort_order": 30,
+      "source_local_id": null,
+      "source_studio_slug": "microgrants",
+      "source_url": "https://www.sfgoodneighborweek.org/meet-your-neighbors",
+      "status": "canonical",
+      "steward": null,
+      "summary": "SF Good Neighbor Week's 'teeny grant to make a big introduction': $100 for individuals to host simple, low-lift gatherings for the folks next door during Good Neighbor Week. Fixed $100, individuals only, backed by Civic Joy Fund and With Neighbors.",
+      "tags": [
+        "civic-joy-fund",
+        "good-neighbor-week",
+        "landing-page-inspiration",
+        "microgrants",
+        "san-francisco",
+        "with neighbors"
+      ],
+      "title": "Meet Your Neighbors Fund (San Francisco, CA)",
+      "updated_at": "2026-10-02T18:38:06.005253+00:00"
     },
     {
       "attribution": {
@@ -20087,7 +20682,7 @@
       "license": "RCL-1.0",
       "metadata": {},
       "parent_slug": null,
-      "published_at": "2026-10-01T14:37:23.231+00:00",
+      "published_at": "2026-10-02T13:58:31.715+00:00",
       "slug": "south-australia-citizens-jury-on-nuclear-waste",
       "sort_order": 50,
       "source_local_id": "0d418f2d-b73e-4748-a2b5-0a5bbaee2334",
@@ -20100,7 +20695,7 @@
         "builder-story"
       ],
       "title": "South Australia Citizens' Jury on Nuclear Waste",
-      "updated_at": "2026-10-01T14:37:23.27357+00:00"
+      "updated_at": "2026-10-02T13:58:31.750624+00:00"
     },
     {
       "attribution": {
@@ -20207,7 +20802,7 @@
       "license": "RCL-1.0",
       "metadata": {},
       "parent_slug": null,
-      "published_at": "2026-10-01T14:37:23.231+00:00",
+      "published_at": "2026-10-02T13:58:31.715+00:00",
       "slug": "the-bushwick-collective-brooklyn",
       "sort_order": 50,
       "source_local_id": "106d1a4f-e458-401e-8f63-d65d137b4f58",
@@ -20220,7 +20815,7 @@
         "builder-story"
       ],
       "title": "The Bushwick Collective, Brooklyn",
-      "updated_at": "2026-10-01T14:37:23.27357+00:00"
+      "updated_at": "2026-10-02T13:58:31.750624+00:00"
     },
     {
       "attribution": {
@@ -20234,7 +20829,7 @@
       "license": "RCL-1.0",
       "metadata": {},
       "parent_slug": null,
-      "published_at": "2026-10-01T14:37:23.231+00:00",
+      "published_at": "2026-10-02T13:58:31.715+00:00",
       "slug": "the-claypole-commons",
       "sort_order": 50,
       "source_local_id": "7f6a4286-e9b8-4f90-ab43-45ac834e0a0f",
@@ -20247,7 +20842,7 @@
         "builder-story"
       ],
       "title": "The Claypole Commons",
-      "updated_at": "2026-10-01T14:37:23.27357+00:00"
+      "updated_at": "2026-10-02T13:58:31.750624+00:00"
     },
     {
       "attribution": {
@@ -20303,7 +20898,7 @@
       "license": "RCL-1.0",
       "metadata": {},
       "parent_slug": null,
-      "published_at": "2026-10-01T14:37:23.231+00:00",
+      "published_at": "2026-10-02T13:58:31.715+00:00",
       "slug": "the-folded-map",
       "sort_order": 50,
       "source_local_id": "f6cb7737-688d-4c30-a0f5-fc50e37d60f3",
@@ -20316,7 +20911,7 @@
         "builder-story"
       ],
       "title": "The Folded Map",
-      "updated_at": "2026-10-01T14:37:23.27357+00:00"
+      "updated_at": "2026-10-02T13:58:31.750624+00:00"
     },
     {
       "attribution": {
@@ -20330,7 +20925,7 @@
       "license": "RCL-1.0",
       "metadata": {},
       "parent_slug": null,
-      "published_at": "2026-10-01T14:37:23.231+00:00",
+      "published_at": "2026-10-02T13:58:31.715+00:00",
       "slug": "the-kindness-party",
       "sort_order": 50,
       "source_local_id": "db6c6334-b2c5-4b37-9c0e-ec7f7717ad4d",
@@ -20343,7 +20938,7 @@
         "builder-story"
       ],
       "title": "The Kindness Party",
-      "updated_at": "2026-10-01T14:37:23.27357+00:00"
+      "updated_at": "2026-10-02T13:58:31.750624+00:00"
     },
     {
       "attribution": {
@@ -20357,7 +20952,7 @@
       "license": "RCL-1.0",
       "metadata": {},
       "parent_slug": null,
-      "published_at": "2026-10-01T14:37:23.231+00:00",
+      "published_at": "2026-10-02T13:58:31.715+00:00",
       "slug": "the-neighbor-gathering-microgrant",
       "sort_order": 50,
       "source_local_id": "440aa37e-43bb-46f8-8456-4837df883999",
@@ -20367,11 +20962,10 @@
       "steward": null,
       "summary": "With $3,000 and three volunteers, Sam Pressler launched a microgrant pilot in Charlottesville giving $100 to 30 hosts across 25 neighborhoods. They expected five applications and got 70. The framework: permission to overcome inertia, accountability from the money, and a commitment to do it again.",
       "tags": [
-        "builder-story",
-        "microgrants"
+        "builder-story"
       ],
       "title": "The Neighbor Gathering Microgrant",
-      "updated_at": "2026-10-02T05:36:24.402342+00:00"
+      "updated_at": "2026-10-02T13:58:31.750624+00:00"
     },
     {
       "attribution": {
@@ -20385,7 +20979,7 @@
       "license": "RCL-1.0",
       "metadata": {},
       "parent_slug": null,
-      "published_at": "2026-10-01T14:37:23.231+00:00",
+      "published_at": "2026-10-02T13:58:31.715+00:00",
       "slug": "the-pain-clinic",
       "sort_order": 50,
       "source_local_id": "51d979f9-72ef-45e7-af1b-346b8f68eda7",
@@ -20398,7 +20992,7 @@
         "builder-story"
       ],
       "title": "The Pain Clinic",
-      "updated_at": "2026-10-01T14:37:23.27357+00:00"
+      "updated_at": "2026-10-02T13:58:31.750624+00:00"
     },
     {
       "attribution": {
@@ -20439,7 +21033,7 @@
       "license": "RCL-1.0",
       "metadata": {},
       "parent_slug": null,
-      "published_at": "2026-10-01T14:37:23.231+00:00",
+      "published_at": "2026-10-02T13:58:31.715+00:00",
       "slug": "the-school-for-grassroots-leaders",
       "sort_order": 50,
       "source_local_id": "f138ad22-2f0f-482d-a494-834413df1e4c",
@@ -20452,7 +21046,7 @@
         "builder-story"
       ],
       "title": "The School for Grassroots Leaders",
-      "updated_at": "2026-10-01T14:37:23.27357+00:00"
+      "updated_at": "2026-10-02T13:58:31.750624+00:00"
     },
     {
       "attribution": {
@@ -20493,7 +21087,7 @@
       "license": "RCL-1.0",
       "metadata": {},
       "parent_slug": null,
-      "published_at": "2026-10-01T14:37:23.231+00:00",
+      "published_at": "2026-10-02T13:58:31.715+00:00",
       "slug": "the-village-square-tallahassee",
       "sort_order": 50,
       "source_local_id": "554659a0-2169-4dee-98c4-9e90885a8a2d",
@@ -20506,7 +21100,7 @@
         "builder-story"
       ],
       "title": "The Village Square, Tallahassee",
-      "updated_at": "2026-10-01T14:37:23.443114+00:00"
+      "updated_at": "2026-10-02T13:58:31.879828+00:00"
     },
     {
       "attribution": {
@@ -20568,7 +21162,7 @@
       "license": "RCL-1.0",
       "metadata": {},
       "parent_slug": null,
-      "published_at": "2026-10-01T14:37:23.231+00:00",
+      "published_at": "2026-10-02T13:58:31.715+00:00",
       "slug": "the-yes-house-granite-falls-minnesota",
       "sort_order": 50,
       "source_local_id": "96788abf-8d18-447a-9471-4ea72a21cab9",
@@ -20581,7 +21175,7 @@
         "builder-story"
       ],
       "title": "The Yes House, Granite Falls, Minnesota",
-      "updated_at": "2026-10-01T14:37:23.27357+00:00"
+      "updated_at": "2026-10-02T13:58:31.750624+00:00"
     },
     {
       "attribution": {
@@ -20595,7 +21189,7 @@
       "license": "RCL-1.0",
       "metadata": {},
       "parent_slug": null,
-      "published_at": "2026-10-01T14:37:23.231+00:00",
+      "published_at": "2026-10-02T13:58:31.715+00:00",
       "slug": "trade-school-new-york-to-everywhere",
       "sort_order": 50,
       "source_local_id": "e4acaa1b-b88d-44e6-88ef-5b1232af94bf",
@@ -20608,7 +21202,7 @@
         "builder-story"
       ],
       "title": "Trade School, New York to Everywhere",
-      "updated_at": "2026-10-01T14:37:23.443114+00:00"
+      "updated_at": "2026-10-02T13:58:31.879828+00:00"
     },
     {
       "attribution": {
@@ -20658,6 +21252,52 @@
     },
     {
       "attribution": {
+        "name": "UTOPIAS",
+        "source": "https://utopias.world/",
+        "neighborhood": "Los Angeles, CA"
+      },
+      "body": "## The invitation\nThe hero is a four-line stacked headline: \"WE WANT, TO GIVE YOU, for a party with your, neighbors\" (the dollar figure sits between the lines). The one-line promise underneath: \"The Utopias Block Party Fund gives $150 to neighbors across Los Angeles to throw a block party. Meet the people on your block, get funded, and help map a friendlier LA.\" The button says **Apply Today** and repeats down the page. It is for LA residents of any hosting experience; the page names \"fast changing LA neighborhoods\" as the focus.\n\n## The grant\nFixed **$150** per host. \"Applications are open now through Sept 28. Selected hosts throw their parties in October.\" What is asked back: one photo and \"a short story\" after the party. A \"What counts as a party?\" section carries an exclusions list (the specific exclusions were not captured in the fetch).\n\n## What the landing page does well\n- Two-beat \"Here's how it works\" section: *We pay / You party*. The whole mechanic in four words.\n- Frames the city-wide effort as a map: every party is a dot on \"a friendlier LA\", so a host joins something bigger than one block.\n- A narrative section titled \"Party fever is taking over the city\" turns applicants into part of a movement, not a form queue.\n- FAQ is headed \"Tell me more\", keeping the conversational voice even in the fine print.\n- Follow-along options (Instagram, newsletter) and a media-outreach section sit below the fold so non-hosts have a next step.\n- Visual feel: text-forward and festive (specific colors not stated on the fetched page).\n\n## Source\nhttps://utopias.world/ — listed on With Neighbors (https://withneighbors.org/microgrants)",
+      "created_at": "2026-10-02T18:38:06.005253+00:00",
+      "id": "508c5e7a-5b70-4ab0-86a3-c87456933f06",
+      "image_urls": [],
+      "kind": "story",
+      "license": "RCL-1.0",
+      "metadata": {
+        "maker": "UTOPIAS",
+        "place": "Los Angeles, CA",
+        "amounts": "$150 per host",
+        "hosted_url": "https://utopias.world/",
+        "grant_shape": "fixed",
+        "local_object": "the block party, framed as mapping 'a friendlier LA'",
+        "inspiration_moves": [
+          "Two-beat how-it-works (We pay / You party)",
+          "Headline that stacks the offer line by line",
+          "Movement framing: 'Party fever is taking over the city'",
+          "Repeat the Apply button at every section break"
+        ]
+      },
+      "parent_slug": null,
+      "published_at": "2026-10-02T18:38:06.005253+00:00",
+      "slug": "utopias-block-party-fund",
+      "sort_order": 30,
+      "source_local_id": null,
+      "source_studio_slug": "microgrants",
+      "source_url": "https://utopias.world/",
+      "status": "canonical",
+      "steward": null,
+      "summary": "UTOPIAS, a self-described 'public feelings studio', pays Los Angeles neighbors $150 to throw a block party and 'help map a friendlier LA'. Fixed $150 per host, with a photo and a short story asked for afterward.",
+      "tags": [
+        "block-party",
+        "landing-page-inspiration",
+        "los-angeles",
+        "microgrants",
+        "with neighbors"
+      ],
+      "title": "Block Party Fund (Los Angeles, CA)",
+      "updated_at": "2026-10-02T18:38:06.005253+00:00"
+    },
+    {
+      "attribution": {
         "name": "Radical xChange paper / CivicHall article on vTaiwan"
       },
       "body": "<p>In 2014, Taiwan's Sunflower Movement — a wave of protests over controversial trade legislation with China — mobilized civil society in unprecedented ways. Among those who responded was g0v, a civic technology community founded in 2012 to promote digital transparency. Government minister Jaclyn Tsai attended a g0v hackathon and was so impressed that she invited the community to design a neutral platform for large-scale public deliberation. The result was vTaiwan.</p><p>At its heart was Polis — a tool developed by a Seattle-based team — which gathers, analyzes, and visually maps what large groups of people think, in real time. The design was deliberately counter to social media dynamics: users could agree or disagree with statements, or write their own, but they could not reply to each other. There were no threads, no arguments, no pile-ons. Instead, the system surfaced areas of consensus — the things people across different opinion clusters actually agreed on. Audrey Tang, a retired Silicon Valley entrepreneur and g0v cofounder, became the bridge between civic tech and government. Appointed as Minister without Portfolio in 2016 at age thirty-six — the youngest minister in Taiwan's history and the first non-binary person in cabinet — Tang championed vTaiwan as a new form of democratic infrastructure.</p><p>A defining success was Uber regulation. Initially, opinions were deeply polarized between taxi industry defenders and ride-sharing advocates. But as users revised their positions, consensus emerged around a level playing field. The government created new regulations informed by the consensus found on vTaiwan. At its peak, vTaiwan had roughly 200,000 users — about one percent of Taiwan's population — and held deliberations on 28 issues, 80 percent of which led to legislative action. The platform demonstrated that digital tools, designed with care for relational dynamics rather than engagement metrics, can help large groups of strangers find common ground. Taiwan's experiment suggests that the most important design choice in civic technology is what you don't build — no reply buttons, no virality, no outrage loops — as much as what you do.</p>",
@@ -20668,7 +21308,7 @@
       "license": "RCL-1.0",
       "metadata": {},
       "parent_slug": null,
-      "published_at": "2026-10-01T14:37:23.231+00:00",
+      "published_at": "2026-10-02T13:58:31.715+00:00",
       "slug": "vtaiwan-and-digital-democracy",
       "sort_order": 50,
       "source_local_id": "0e84ab7a-50e2-4cc6-8e57-2b02250ff261",
@@ -20681,7 +21321,7 @@
         "builder-story"
       ],
       "title": "vTaiwan and Digital Democracy",
-      "updated_at": "2026-10-01T14:37:23.443114+00:00"
+      "updated_at": "2026-10-02T13:58:31.879828+00:00"
     },
     {
       "attribution": {
@@ -20813,7 +21453,7 @@
       "license": "RCL-1.0",
       "metadata": {},
       "parent_slug": null,
-      "published_at": "2026-10-01T14:37:23.231+00:00",
+      "published_at": "2026-10-02T13:58:31.715+00:00",
       "slug": "yard-parties-and-sweat-equity",
       "sort_order": 50,
       "source_local_id": "f903ca98-d4a3-4c54-8a95-568726e1bcb8",
@@ -20826,7 +21466,7 @@
         "builder-story"
       ],
       "title": "Yard Parties and Sweat Equity",
-      "updated_at": "2026-10-01T14:37:23.27357+00:00"
+      "updated_at": "2026-10-02T13:58:31.750624+00:00"
     },
     {
       "attribution": {
@@ -20897,7 +21537,7 @@
         "tool_category": "relational_tech"
       },
       "parent_slug": null,
-      "published_at": "2026-10-01T14:37:23.231+00:00",
+      "published_at": "2026-10-02T13:58:31.715+00:00",
       "slug": "a-community-library-for-my-coworking-space",
       "sort_order": 50,
       "source_local_id": "af82d968-140b-4e7c-8176-2ee7092a31c7",
@@ -20910,7 +21550,7 @@
         "relational-tech"
       ],
       "title": "A community library for my coworking space",
-      "updated_at": "2026-10-01T14:37:23.27357+00:00"
+      "updated_at": "2026-10-02T13:58:31.750624+00:00"
     },
     {
       "attribution": {
@@ -20936,7 +21576,7 @@
         "tool_category": "relational_tech"
       },
       "parent_slug": null,
-      "published_at": "2026-10-01T14:37:23.231+00:00",
+      "published_at": "2026-10-02T13:58:31.715+00:00",
       "slug": "block-party-organizing",
       "sort_order": 13,
       "source_local_id": "50dbf81f-63d6-43f5-8804-d84656b7f4e3",
@@ -20949,7 +21589,7 @@
         "relational-tech"
       ],
       "title": "Block Party Organizing",
-      "updated_at": "2026-10-01T14:37:23.27357+00:00"
+      "updated_at": "2026-10-02T13:58:31.750624+00:00"
     },
     {
       "attribution": {
@@ -20973,7 +21613,7 @@
         "tool_category": "tech_for_building"
       },
       "parent_slug": null,
-      "published_at": "2026-10-01T14:37:23.231+00:00",
+      "published_at": "2026-10-02T13:58:31.715+00:00",
       "slug": "claude-code",
       "sort_order": 50,
       "source_local_id": "448d2194-4514-44ad-a149-d6c1e5423fc9",
@@ -20986,7 +21626,7 @@
         "tech-for-building"
       ],
       "title": "Claude Code",
-      "updated_at": "2026-10-01T14:37:23.27357+00:00"
+      "updated_at": "2026-10-02T13:58:31.750624+00:00"
     },
     {
       "attribution": {
@@ -21051,7 +21691,7 @@
         "tool_category": "relational_tech"
       },
       "parent_slug": null,
-      "published_at": "2026-10-01T14:37:23.231+00:00",
+      "published_at": "2026-10-02T13:58:31.715+00:00",
       "slug": "community-apps-dashboard",
       "sort_order": 11,
       "source_local_id": "187fd801-37fc-47c3-bacd-eb8930707c54",
@@ -21064,7 +21704,7 @@
         "relational-tech"
       ],
       "title": "Community Apps Dashboard",
-      "updated_at": "2026-10-01T14:37:23.27357+00:00"
+      "updated_at": "2026-10-02T13:58:31.750624+00:00"
     },
     {
       "attribution": {
@@ -21091,7 +21731,7 @@
         "tool_category": "relational_tech"
       },
       "parent_slug": null,
-      "published_at": "2026-10-01T14:37:23.231+00:00",
+      "published_at": "2026-10-02T13:58:31.715+00:00",
       "slug": "community-clubs-platform",
       "sort_order": 3,
       "source_local_id": "d7008a59-4d74-4304-a80c-874afb8789d3",
@@ -21104,7 +21744,7 @@
         "relational-tech"
       ],
       "title": "Community Clubs Platform",
-      "updated_at": "2026-10-01T14:37:23.27357+00:00"
+      "updated_at": "2026-10-02T13:58:31.750624+00:00"
     },
     {
       "attribution": {
@@ -21131,7 +21771,7 @@
         "tool_category": "relational_tech"
       },
       "parent_slug": null,
-      "published_at": "2026-10-01T14:37:23.231+00:00",
+      "published_at": "2026-10-02T13:58:31.715+00:00",
       "slug": "community-income-sharing",
       "sort_order": 4,
       "source_local_id": "32d7857d-a7c9-44d5-9f0d-908982cf5032",
@@ -21144,7 +21784,7 @@
         "relational-tech"
       ],
       "title": "Community Income Sharing",
-      "updated_at": "2026-10-01T14:37:23.27357+00:00"
+      "updated_at": "2026-10-02T13:58:31.750624+00:00"
     },
     {
       "attribution": {
@@ -21249,7 +21889,7 @@
         "tool_category": "tech_for_building"
       },
       "parent_slug": null,
-      "published_at": "2026-10-01T14:37:23.231+00:00",
+      "published_at": "2026-10-02T13:58:31.715+00:00",
       "slug": "dyad",
       "sort_order": 50,
       "source_local_id": "38f2433a-7051-490d-ad4a-ec37b2d69692",
@@ -21262,7 +21902,7 @@
         "tech-for-building"
       ],
       "title": "Dyad",
-      "updated_at": "2026-10-01T14:37:23.27357+00:00"
+      "updated_at": "2026-10-02T13:58:31.750624+00:00"
     },
     {
       "attribution": {
@@ -21325,7 +21965,7 @@
         "tool_category": "tech_for_building"
       },
       "parent_slug": null,
-      "published_at": "2026-10-01T14:37:23.231+00:00",
+      "published_at": "2026-10-02T13:58:31.715+00:00",
       "slug": "firecrawl",
       "sort_order": 50,
       "source_local_id": "4b83b697-3669-48eb-813f-0b28a7f3c3a0",
@@ -21338,7 +21978,7 @@
         "tech-for-building"
       ],
       "title": "Firecrawl",
-      "updated_at": "2026-10-01T14:37:23.27357+00:00"
+      "updated_at": "2026-10-02T13:58:31.750624+00:00"
     },
     {
       "attribution": {
@@ -21404,7 +22044,7 @@
         "tool_category": "relational_tech"
       },
       "parent_slug": null,
-      "published_at": "2026-10-01T14:37:23.231+00:00",
+      "published_at": "2026-10-02T13:58:31.715+00:00",
       "slug": "footer-component",
       "sort_order": 50,
       "source_local_id": "08106831-89ba-4afc-a235-d9a70cca62da",
@@ -21417,7 +22057,7 @@
         "relational-tech"
       ],
       "title": "Footer Component",
-      "updated_at": "2026-10-01T14:37:23.27357+00:00"
+      "updated_at": "2026-10-02T13:58:31.750624+00:00"
     },
     {
       "attribution": {
@@ -21480,7 +22120,7 @@
         "tool_category": "tech_for_building"
       },
       "parent_slug": null,
-      "published_at": "2026-10-01T14:37:23.231+00:00",
+      "published_at": "2026-10-02T13:58:31.715+00:00",
       "slug": "github",
       "sort_order": 50,
       "source_local_id": "3b1d4164-4da2-451f-91ec-b9c3bdf5ec5c",
@@ -21493,7 +22133,7 @@
         "tech-for-building"
       ],
       "title": "GitHub",
-      "updated_at": "2026-10-01T14:37:23.27357+00:00"
+      "updated_at": "2026-10-02T13:58:31.750624+00:00"
     },
     {
       "attribution": {
@@ -21558,7 +22198,7 @@
         "tool_category": "relational_tech"
       },
       "parent_slug": null,
-      "published_at": "2026-10-01T14:37:23.231+00:00",
+      "published_at": "2026-10-02T13:58:31.715+00:00",
       "slug": "hyperlocal-neighbor-hub",
       "sort_order": 1,
       "source_local_id": "c7391ea9-c94a-43b7-ab84-6817213f179b",
@@ -21571,7 +22211,7 @@
         "relational-tech"
       ],
       "title": "Hyperlocal Neighbor Hub",
-      "updated_at": "2026-10-01T14:37:23.27357+00:00"
+      "updated_at": "2026-10-02T13:58:31.750624+00:00"
     },
     {
       "attribution": {
@@ -21677,7 +22317,7 @@
         "tool_category": "relational_tech"
       },
       "parent_slug": null,
-      "published_at": "2026-10-01T14:37:23.231+00:00",
+      "published_at": "2026-10-02T13:58:31.715+00:00",
       "slug": "local-supplies-sharing",
       "sort_order": 3,
       "source_local_id": "dcb4d804-a256-4402-b785-00dabbf9635c",
@@ -21690,7 +22330,7 @@
         "relational-tech"
       ],
       "title": "Local Supplies Sharing",
-      "updated_at": "2026-10-01T14:37:23.27357+00:00"
+      "updated_at": "2026-10-02T13:58:31.750624+00:00"
     },
     {
       "attribution": {
@@ -21794,7 +22434,7 @@
         "tool_category": "tech_for_building"
       },
       "parent_slug": null,
-      "published_at": "2026-10-01T14:37:23.231+00:00",
+      "published_at": "2026-10-02T13:58:31.715+00:00",
       "slug": "lovable",
       "sort_order": 50,
       "source_local_id": "3be35a3d-f3ee-4a84-b635-77f9cefac1ee",
@@ -21807,7 +22447,7 @@
         "tech-for-building"
       ],
       "title": "Lovable",
-      "updated_at": "2026-10-01T14:37:23.27357+00:00"
+      "updated_at": "2026-10-02T13:58:31.750624+00:00"
     },
     {
       "attribution": {
@@ -21870,7 +22510,7 @@
         "tool_category": "tech_for_building"
       },
       "parent_slug": null,
-      "published_at": "2026-10-01T14:37:23.231+00:00",
+      "published_at": "2026-10-02T13:58:31.715+00:00",
       "slug": "mcp-servers",
       "sort_order": 50,
       "source_local_id": "301d1176-fa49-4be9-a155-ef73140a6187",
@@ -21883,76 +22523,46 @@
         "tech-for-building"
       ],
       "title": "MCP Servers",
-      "updated_at": "2026-10-01T14:37:23.27357+00:00"
+      "updated_at": "2026-10-02T13:58:31.750624+00:00"
     },
     {
       "attribution": {
-        "url": "https://withneighbors.org",
-        "name": "With Neighbors"
+        "source": "Relational Tech Studio library"
       },
-      "body": "The complete, remixable system for running a neighborhood microgrant program — the kind that gives neighbors $50–$200 to host a gathering on their block, porch, or driveway. It manages the whole round end to end: the public application site, the review pipeline, every email to applicants, the payouts, the reflections that come back, and what you learn from them.\n\nThis entry describes the system feature by feature so you can remix it with Relational Builder or any AI builder — **no codebase required, and none is included**. The description *is* the remixable unit: hand it to your builder, answer the localization questions at the end, and grow your program's own version.\n\nIt is the software half of a proven pair. The practice half — deciding your grant's shape, promoting it, supporting hosts — is the [Microgrant Organizer Toolkit](/commons/e/microgrant-organizer-toolkit) ([withneighbors.org/toolkit](https://withneighbors.org/toolkit)). This system has run real programs across five generations of With Neighbors builds, most recently Pizza Strip Fund (Rhode Island) and Long-Handled Spoons Dinners (NOFA Vermont) — same machinery underneath, completely different local identity on top.\n\n## What it does, end to end\n\n**Apply → Review → Fund → Reflect → Learn.** Neighbors apply on a public site; organizers review in a pipeline; approved hosts get paid by PayPal, Venmo, gift card, or a check in the mail; hosts send back photos and stories; the program learns what changed.\n\n## The public site (what neighbors see)\n\n- **A landing page that tells the program's story** — who's behind it, what the money is for, how to apply, and a look at past gatherings. The best ones commit to a local identity: Pizza Strip Fund's headline rotates through place-words (\"driveway / porch / cul de sac\") and its apply button is a hand-drawn pizza strip, the region's party food.\n- **Grant tiers named by what they buy**, not just amounts — \"$50 coffee & donuts / $100 pizza party / $150 the whole block\" — so applicants think in gatherings, not budgets.\n- **A multilingual application form** in plain language (Pizza Strip Fund runs English, Spanish, and Portuguese for Rhode Island). Questions cover the gathering idea, where it happens, a date window, the amount tier, and how to reach the host. Optional demographics stay optional.\n- **Quiet anti-spam** — a hidden honeypot field plus a minimum-seconds-to-submit check, so no CAPTCHA stands between a neighbor and applying.\n- **A confirmation screen and email** that say what happens next and when to expect an answer.\n- **A reflection page for funded hosts** — photos (uploaded privately, shared only with permission), a story or quote, attendee count, and each program's own question. This is where your theory of change lives: Pizza Strip Fund asks for a story and a photo; Long-Handled Spoons asks which local organic farms the grant dollars reached.\n\n## The program desk (what organizers see)\n\n### Review pipeline\n- A kanban-style board that moves each application through named stages: received → in review → approved (or declined, with a reason) → funded → gathering happened → reflection received → closed.\n- **Plain-language hints before every stage change**, so the system never surprises you: \"No email is sent now — the funding email goes out later, when you export.\"\n- Admin notes on every application; decline reasons recorded; search and filter across the round.\n- **Advisory duplicate flags** — an applicant email or address that already received funding gets flagged for a human to consider, never silently blocked. Judgment stays with people.\n\n### Email center\n- **Every message to applicants comes from an editable template** stored with the program — application received, approved with next steps, funding sent, reflection request — plus gentle reminder drips for hosts who haven't sent reflections yet.\n- A translation aid for bilingual admin work, so replies can go out in the applicant's language.\n- **Every send is logged.** You can always answer \"what did we tell this host, and when?\"\n- Sends through a standard transactional email service (e.g. Resend) with your program's own address.\n- **One program on/off switch** that pauses applications and sends together when the round closes or life happens.\n\n### Funding & payouts\n- **A human review gate: nothing pays out un-reviewed.** The payout list is built only from approved applications.\n- **Batch export to a spreadsheet** for whatever rail you use — plus direct rails: **PayPal Payouts** (including Venmo wallets), **gift cards** (e.g. Tremendous), or **checks in the mail** (Long-Handled Spoons' default — never make a payment method the barrier).\n- **Bring-your-own payment account.** The program connects its organizer's own PayPal business account (Payouts enabled); credentials live server-side only, and every grant remembers which account paid it.\n- **Duplicate-payment flags** before money moves — a recipient who was already paid this round gets surfaced, not auto-blocked.\n- **Honest payment status, verbatim.** The desk shows PayPal's own status word for each payout — including UNCLAIMED — with copy-paste scripts for what to tell each recipient. This design came from a real incident where hosts were marked \"paid\" who hadn't received money; the lesson is now built in.\n- **A nightly reconciliation sweep** re-checks every pending payout and keeps a full audit trail, so the status you see is the status that's true.\n\n### Learning & analytics\n- Applications by neighborhood and language; approval rate; gathering sizes; spend by tier.\n- **Connection shift** — hosts answer \"how many neighbors do you know?\" before and after, so the program can see relationships change, not just money move.\n- Program-specific measures ride along (Long-Handled Spoons tracks the list of farms the money reached).\n\n## How data works, in plain words\n\nOne database holds applications, gatherings, payouts, the email log, and program settings. The public site can only submit applications; everything else is organizer-only, behind sign-in. Payment credentials and email keys live server-side only — never in the public page. Photos and stories are shared publicly only when the host says yes.\n\n## What you change when you remix (and what you keep)\n\nKeep the machine; change the soul:\n\n- **Name, story, and visual identity** — find your neighborhood's pizza strip: the local object that becomes the program's face.\n- **Tiers with meaning** — amounts and what they buy, in your place's terms.\n- **Geography** — neighborhoods, blocks, or counties (Vermont uses counties).\n- **Languages** — whatever your neighbors actually speak.\n- **Reflection questions** — this is your theory of change; write your own.\n- **Payout method** — PayPal/Venmo, gift cards, or checks, whatever your hosts can actually receive.\n- **Email voice and program window** — dates, deadlines, and how the program talks.\n\n## Launch checklist\n\n1. Funding source confirmed (your own microgrant budget, a fiscal sponsor, or matched funding — see the [organizer toolkit](https://withneighbors.org/toolkit)).\n2. Payment rail ready: a PayPal business account with Payouts enabled, a gift-card provider, or a checkbook.\n3. Program window and tiers set; application questions localized and translated.\n4. A review crew (even two people) and an agreed decline message.\n5. A test run: submit a test application, approve it, and walk it all the way to a (canceled) payout before neighbors ever see the site.\n\n## See it running\n\n- **Pizza Strip Fund** (Rhode Island) — [pizza-strips.lovable.app](https://pizza-strips.lovable.app) — trilingual, hand-drawn, $50–$150 driveway parties.\n- **Long-Handled Spoons Dinners** (NOFA-VT) — [long-handled-spoons.lovable.app](https://long-handled-spoons.lovable.app) — $200 dinners sourcing from local organic farms, checks by mail, the long-spoons parable as identity.\n\n## Lineage\n\nPEPS Parent Meetups → Island Civic Association → Civic Joy Fund → Front Yard Friday · Falls Church Forward → Pizza Strip Fund · Long-Handled Spoons Dinners → *your neighborhood*. Five generations of the same chassis, each remixed for a new place. When you run yours, contribute it back so the next neighborhood starts from you.\n\n## Pairs with\n\n- **[Microgrant Organizer Toolkit](/commons/e/microgrant-organizer-toolkit)** — the nine-stage With Neighbors guide to designing and running the program this system manages.\n- **[Microgrant Gathering](/commons/e/microgrant-gathering)** (recipe) — the one-page version of the practice.\n- **[The Neighbor Gathering Microgrant](/commons/e/the-neighbor-gathering-microgrant)** (story) — Sam Pressler's Charlottesville pilot: 70 applications where five were expected.",
-      "created_at": "2026-08-26T05:44:41.018888+00:00",
-      "id": "b5096be7-98b4-4f93-816e-153a5b7792d9",
+      "body": "A site to help streamline microgrants to community members (e.g. to cover costs for neighbor gatherings). Includes application management, how-to guides, reflections, automated emailing, and admin features.\n\n## Remix this tool\n\n- Live site: https://withneighbors.org\n- Studio library page: https://studio.relationaltechproject.org/library?item=00878d6f-bd2b-46a1-b650-e838d36d9e03",
+      "created_at": "2026-08-26T08:05:47.941982+00:00",
+      "id": "c55aeb97-f643-414d-894d-49e66d948dc0",
       "image_urls": [
-        "https://relationalbuilder.org/media/commons/microgrant-program-landing.jpg",
-        "https://relationalbuilder.org/media/commons/microgrant-program-apply.jpg",
-        "https://relationalbuilder.org/media/commons/microgrant-program-apply-vt.jpg"
+        "https://studio.relationaltechproject.org/images/gallery/microgrant_management.png"
       ],
       "kind": "tool",
       "license": "RCL-1.0",
       "metadata": {
-        "maker": "With Neighbors",
-        "image_url": "https://relationalbuilder.org/media/commons/microgrant-program-landing.jpg",
-        "hosted_url": "https://pizza-strips.lovable.app",
-        "remix_idea": "Find your neighborhood's pizza strip — the local object that becomes the program's face — then keep the machine and change the soul.",
-        "payout_rails": [
-          "paypal",
-          "venmo",
-          "gift-card",
-          "check"
-        ],
-        "live_examples": [
-          {
-            "url": "https://pizza-strips.lovable.app",
-            "name": "Pizza Strip Fund (Rhode Island)"
-          },
-          {
-            "url": "https://long-handled-spoons.lovable.app",
-            "name": "Long-Handled Spoons Dinners (NOFA-VT)"
-          }
-        ],
-        "related_slugs": [
-          "microgrant-organizer-toolkit",
-          "microgrant-gathering",
-          "the-neighbor-gathering-microgrant"
-        ],
-        "languages_shipped": [
-          "en",
-          "es",
-          "pt"
-        ]
+        "hosted_by": null,
+        "github_url": null,
+        "hosted_url": null,
+        "creator_url": null,
+        "is_joinable": false,
+        "lovable_url": null,
+        "creator_name": null,
+        "lineage_note": null,
+        "tool_category": "relational_tech"
       },
       "parent_slug": null,
-      "published_at": "2026-08-26T05:44:41.018888+00:00",
-      "slug": "microgrant-program-system",
-      "sort_order": 10,
-      "source_local_id": null,
-      "source_studio_slug": "microgrants",
+      "published_at": "2026-10-02T13:58:31.715+00:00",
+      "slug": "microgrant-management",
+      "sort_order": 91,
+      "source_local_id": "00878d6f-bd2b-46a1-b650-e838d36d9e03",
+      "source_studio_slug": "rt-studio",
       "source_url": "https://withneighbors.org",
       "status": "canonical",
       "steward": null,
-      "summary": "The end-to-end system for running a neighborhood gathering microgrant program: a public application site, a review pipeline with plain-language stage hints, templated applicant emails with reminder drips, payouts by PayPal/Venmo, gift card, or check behind a human review gate, host reflections, and program analytics. Described feature-by-feature so any neighborhood can remix it — no codebase required. Proven across five generations of With Neighbors programs.",
+      "summary": "Streamline microgrants for neighbor gatherings and community projects",
       "tags": [
-        "microgrants",
-        "neighbor-gatherings",
-        "funding",
-        "payments",
-        "program-in-a-box",
-        "end-to-end",
-        "remix-ready"
+        "relational-tech"
       ],
-      "title": "Microgrant Program System",
-      "updated_at": "2026-08-26T06:03:24.637611+00:00"
+      "title": "Microgrant Management",
+      "updated_at": "2026-10-02T13:58:31.750624+00:00"
     },
     {
       "attribution": {
@@ -22018,7 +22628,7 @@
         "tool_category": "relational_tech"
       },
       "parent_slug": null,
-      "published_at": "2026-10-01T14:37:23.231+00:00",
+      "published_at": "2026-10-02T13:58:31.715+00:00",
       "slug": "neighbor-story-sharing",
       "sort_order": 10,
       "source_local_id": "12850b59-a867-46fe-8235-4382b7d558a0",
@@ -22031,7 +22641,7 @@
         "relational-tech"
       ],
       "title": "Neighbor Story Sharing",
-      "updated_at": "2026-10-01T14:37:23.27357+00:00"
+      "updated_at": "2026-10-02T13:58:31.750624+00:00"
     },
     {
       "attribution": {
@@ -22057,7 +22667,7 @@
         "tool_category": "relational_tech"
       },
       "parent_slug": null,
-      "published_at": "2026-10-01T14:37:23.231+00:00",
+      "published_at": "2026-10-02T13:58:31.715+00:00",
       "slug": "neighborhood-api",
       "sort_order": 90,
       "source_local_id": "3b9ae654-96b8-4430-90d6-d1e50c6d19cf",
@@ -22070,7 +22680,7 @@
         "relational-tech"
       ],
       "title": "Neighborhood API",
-      "updated_at": "2026-10-01T14:37:23.27357+00:00"
+      "updated_at": "2026-10-02T13:58:31.750624+00:00"
     },
     {
       "attribution": {
@@ -22096,7 +22706,7 @@
         "tool_category": "relational_tech"
       },
       "parent_slug": null,
-      "published_at": "2026-10-01T14:37:23.231+00:00",
+      "published_at": "2026-10-02T13:58:31.715+00:00",
       "slug": "neighborhood-association-hub",
       "sort_order": 12,
       "source_local_id": "c1f51e94-870d-448d-a5b0-1537fd3b57b4",
@@ -22109,7 +22719,7 @@
         "relational-tech"
       ],
       "title": "Neighborhood Association Hub",
-      "updated_at": "2026-10-01T14:37:23.27357+00:00"
+      "updated_at": "2026-10-02T13:58:31.750624+00:00"
     },
     {
       "attribution": {
@@ -22135,7 +22745,7 @@
         "tool_category": "relational_tech"
       },
       "parent_slug": null,
-      "published_at": "2026-10-01T14:37:23.231+00:00",
+      "published_at": "2026-10-02T13:58:31.715+00:00",
       "slug": "neighborhood-connector-site",
       "sort_order": 50,
       "source_local_id": "509aadbc-4521-4f3a-87e3-cefbea414581",
@@ -22148,7 +22758,7 @@
         "relational-tech"
       ],
       "title": "Neighborhood Connector Site",
-      "updated_at": "2026-10-01T14:37:23.27357+00:00"
+      "updated_at": "2026-10-02T13:58:31.750624+00:00"
     },
     {
       "attribution": {
@@ -22174,7 +22784,7 @@
         "tool_category": "tools_for_crafting"
       },
       "parent_slug": null,
-      "published_at": "2026-10-01T14:37:23.231+00:00",
+      "published_at": "2026-10-02T13:58:31.715+00:00",
       "slug": "neighborhood-history-and-future-walking-app",
       "sort_order": 93,
       "source_local_id": "062b3b52-a60f-4be7-acb9-6fea4c7e99cf",
@@ -22187,7 +22797,7 @@
         "tools-for-crafting"
       ],
       "title": "Neighborhood History (and Future) Walking App",
-      "updated_at": "2026-10-01T14:37:23.27357+00:00"
+      "updated_at": "2026-10-02T13:58:31.750624+00:00"
     },
     {
       "attribution": {
@@ -22289,7 +22899,7 @@
         "tool_category": "relational_tech"
       },
       "parent_slug": null,
-      "published_at": "2026-10-01T14:37:23.231+00:00",
+      "published_at": "2026-10-02T13:58:31.715+00:00",
       "slug": "our-neighborhood-today",
       "sort_order": 2,
       "source_local_id": "0277b36f-422a-4a62-931a-9298dd7aceab",
@@ -22302,7 +22912,7 @@
         "relational-tech"
       ],
       "title": "Our Neighborhood Today",
-      "updated_at": "2026-10-01T14:37:23.27357+00:00"
+      "updated_at": "2026-10-02T13:58:31.750624+00:00"
     },
     {
       "attribution": {
@@ -22367,7 +22977,7 @@
         "tool_category": "relational_tech"
       },
       "parent_slug": null,
-      "published_at": "2026-10-01T14:37:23.231+00:00",
+      "published_at": "2026-10-02T13:58:31.715+00:00",
       "slug": "privacy-and-terms-page",
       "sort_order": 50,
       "source_local_id": "3b0ad7dc-0afc-41b5-b5fa-45142a4cbe8f",
@@ -22380,7 +22990,7 @@
         "relational-tech"
       ],
       "title": "Privacy & Terms Page",
-      "updated_at": "2026-10-01T14:37:23.27357+00:00"
+      "updated_at": "2026-10-02T13:58:31.750624+00:00"
     },
     {
       "attribution": {
@@ -22405,7 +23015,7 @@
         "tool_category": "tech_for_building"
       },
       "parent_slug": null,
-      "published_at": "2026-10-01T14:37:23.231+00:00",
+      "published_at": "2026-10-02T13:58:31.715+00:00",
       "slug": "relational-tech-process-guide",
       "sort_order": 0,
       "source_local_id": "9939c9e0-5652-4837-bb3b-f9e1b9ba8d12",
@@ -22418,7 +23028,7 @@
         "tech-for-building"
       ],
       "title": "Relational Tech Process Guide",
-      "updated_at": "2026-10-01T14:37:23.27357+00:00"
+      "updated_at": "2026-10-02T13:58:31.750624+00:00"
     },
     {
       "attribution": {
@@ -22442,7 +23052,7 @@
         "tool_category": "tech_for_building"
       },
       "parent_slug": null,
-      "published_at": "2026-10-01T14:37:23.231+00:00",
+      "published_at": "2026-10-02T13:58:31.715+00:00",
       "slug": "replit",
       "sort_order": 50,
       "source_local_id": "3f1769cf-4aac-415f-9dca-0905f6cd2477",
@@ -22455,7 +23065,7 @@
         "tech-for-building"
       ],
       "title": "Replit",
-      "updated_at": "2026-10-01T14:37:23.27357+00:00"
+      "updated_at": "2026-10-02T13:58:31.750624+00:00"
     },
     {
       "attribution": {
@@ -22479,7 +23089,7 @@
         "tool_category": "tech_for_building"
       },
       "parent_slug": null,
-      "published_at": "2026-10-01T14:37:23.231+00:00",
+      "published_at": "2026-10-02T13:58:31.715+00:00",
       "slug": "resend",
       "sort_order": 50,
       "source_local_id": "09ad499b-44b7-486d-9f56-02ff50355f66",
@@ -22492,7 +23102,7 @@
         "tech-for-building"
       ],
       "title": "Resend",
-      "updated_at": "2026-10-01T14:37:23.27357+00:00"
+      "updated_at": "2026-10-02T13:58:31.750624+00:00"
     },
     {
       "attribution": {
@@ -22595,7 +23205,7 @@
         "tool_category": "tech_for_building"
       },
       "parent_slug": null,
-      "published_at": "2026-10-01T14:37:23.231+00:00",
+      "published_at": "2026-10-02T13:58:31.715+00:00",
       "slug": "supabase",
       "sort_order": 50,
       "source_local_id": "561e1965-01d0-4ef3-a255-6547bf7db684",
@@ -22608,7 +23218,7 @@
         "tech-for-building"
       ],
       "title": "Supabase",
-      "updated_at": "2026-10-01T14:37:23.27357+00:00"
+      "updated_at": "2026-10-02T13:58:31.750624+00:00"
     },
     {
       "attribution": {
@@ -22675,7 +23285,7 @@
         "tool_category": "relational_tech"
       },
       "parent_slug": null,
-      "published_at": "2026-10-01T14:37:23.231+00:00",
+      "published_at": "2026-10-02T13:58:31.715+00:00",
       "slug": "text-by-tag",
       "sort_order": 92,
       "source_local_id": "a064d06c-1b60-4b07-9646-cfed5c272e28",
@@ -22688,7 +23298,7 @@
         "relational-tech"
       ],
       "title": "Text-by-Tag",
-      "updated_at": "2026-10-01T14:37:23.27357+00:00"
+      "updated_at": "2026-10-02T13:58:31.750624+00:00"
     },
     {
       "attribution": {
@@ -22712,7 +23322,7 @@
         "tool_category": "tech_for_building"
       },
       "parent_slug": null,
-      "published_at": "2026-10-01T14:37:23.231+00:00",
+      "published_at": "2026-10-02T13:58:31.715+00:00",
       "slug": "twilio",
       "sort_order": 50,
       "source_local_id": "c67485b4-1baf-4848-8a26-352221e0a853",
@@ -22725,7 +23335,7 @@
         "tech-for-building"
       ],
       "title": "Twilio",
-      "updated_at": "2026-10-01T14:37:23.27357+00:00"
+      "updated_at": "2026-10-02T13:58:31.750624+00:00"
     },
     {
       "attribution": {
@@ -22790,7 +23400,7 @@
         "tool_category": "tech_for_building"
       },
       "parent_slug": null,
-      "published_at": "2026-10-01T14:37:23.231+00:00",
+      "published_at": "2026-10-02T13:58:31.715+00:00",
       "slug": "vercel",
       "sort_order": 50,
       "source_local_id": "e69ab1f4-f3d4-468f-92d5-5bfd51b915fc",
@@ -22803,7 +23413,7 @@
         "tech-for-building"
       ],
       "title": "Vercel",
-      "updated_at": "2026-10-01T14:37:23.27357+00:00"
+      "updated_at": "2026-10-02T13:58:31.750624+00:00"
     }
   ]
 }

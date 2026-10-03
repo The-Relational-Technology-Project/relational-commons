@@ -87,7 +87,6 @@ One host's reflection captured the program's logic: *the barrier wasn't desire o
 
 - Mentions: [Block Party](../reference/block-party.md)
 - Related to: [Microgrant Organizer Toolkit](../framework/microgrant-organizer-toolkit.md)
-- Related to: [Microgrant Program System](../tool/microgrant-program-system.md)
 - Mentioned in: [Neighborhood Association](../recipe/neighborhood-association.md)
 - Mentioned in: [Participatory Budgeting](../recipe/participatory-budgeting.md)
 - Mentions: [Reinvent the Potluck](../recipe/reinvent-the-potluck.md)

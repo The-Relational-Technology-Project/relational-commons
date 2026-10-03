@@ -4,9 +4,10 @@ slug: "microgrants-tool"
 kind: "prompt"
 studio: "rt-studio"
 license: "RCL-1.0"
-tags: ["commons/prompt", "studio/rt-studio", "Community-Funding", "microgrants"]
-topics: ["Community Funding", "microgrants"]
+tags: ["commons/prompt", "studio/rt-studio", "Community-Funding"]
+topics: ["Community Funding"]
 attribution_source: "Relational Tech Studio library"
+parent: "../tool/microgrant-management.md"
 web: "https://relationalbuilder.org/commons/e/microgrants-tool"
 created: "2026-06-10"
 updated: "2026-10-02"
@@ -89,7 +90,7 @@ As a steward, I want a dashboard to track applications, approvals, and reflectio
 
 ## Related in the commons
 
-- Related to: [Microgrant Program System](../tool/microgrant-program-system.md)
+- Grew from [Microgrant Management](../tool/microgrant-management.md)
 
 ---
 

@@ -10,16 +10,16 @@ author: "With Neighbors"
 source_url: "https://withneighbors.org/toolkit"
 web: "https://relationalbuilder.org/commons/e/microgrant-organizer-toolkit"
 created: "2026-08-26"
-updated: "2026-08-26"
+updated: "2026-10-02"
 rtp_id: "2f4c432a-0204-4819-9855-3f7731f7547e"
 ---
 # Microgrant Organizer Toolkit
 
-> With Neighbors' nine-stage guide to designing and running a neighborhood microgrant program, from reflecting on your local context through funding more rounds — built on the permission / accountability / commitment model, with worksheets and templates, over a roughly four-month cycle. The practice half of the pair; the Microgrant Program System is the software half.
+> With Neighbors' nine-stage guide to designing and running a neighborhood microgrant program, from reflecting on your local context through funding more rounds — built on the permission / accountability / commitment model, with worksheets and templates, over a roughly four-month cycle. The practice half of the pair; the Pizza Strip Fund remix card is the software half.
 
 With Neighbors' complete guide to designing and running a neighborhood microgrant program — small grants ($50–$200) that fund neighbors to host gatherings. This commons entry summarizes the toolkit and links to the full version, which is free at [withneighbors.org/toolkit](https://withneighbors.org/toolkit), including downloadable worksheets and templates.
 
-It is the practice half of a pair: the software that manages applications, review, emails, and payouts is the [Microgrant Program System](/commons/e/microgrant-program-system), described feature-by-feature in this same collection so you can remix it for your place.
+It is the practice half of a pair: the software that manages applications, review, emails, and payouts is described screen by screen in [Pizza Strip Fund — remix a gathering fund](/commons/e/pizza-strip-fund), in this same collection, so you can remix it for your place.
 
 ## Why microgrants
 
@@ -51,7 +51,6 @@ The toolkit distills programs run with With Neighbors partners across the countr
 
 - Related to: [Microgrant Gathering](../recipe/microgrant-gathering.md)
 - Related to: [Microgrant Neighborhood Gathering](../reference/microgrant-neighborhood-gathering.md)
-- Paired with: [Microgrant Program System](../tool/microgrant-program-system.md)
 - Mentions: [The Neighbor Gathering Microgrant](../story/the-neighbor-gathering-microgrant.md)
 
 ## Details
@@ -60,7 +59,7 @@ The toolkit distills programs run with With Neighbors partners across the countr
 - **timeline:** ~4 months from grant design to gathered stories
 - **core model:** permission / accountability / commitment
 - **hosted url:** https://withneighbors.org/toolkit
-- **related slugs:** microgrant-program-system, microgrant-gathering, the-neighbor-gathering-microgrant
+- **related slugs:** microgrant-gathering, the-neighbor-gathering-microgrant
 
 ---
 
