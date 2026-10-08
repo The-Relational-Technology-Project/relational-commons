@@ -8,17 +8,17 @@
     "canonical": "The database is canonical; this file mirrors it."
   },
   "license_note": "Per-entry licensing lives in each entry’s `license` field (mostly RCL-1.0 — https://relationalbuilder.org/commons/license). Attribution travels with the entry — keep it attached when reusing.",
-  "data_as_of": "2026-10-06T14:17:46.775578+00:00",
+  "data_as_of": "2026-10-08T05:17:44.291925+00:00",
   "counts": {
-    "total": 559,
+    "total": 579,
     "by_kind": {
-      "framework": 26,
-      "methodology": 10,
-      "prompt": 31,
-      "recipe": 90,
-      "reference": 219,
-      "story": 133,
-      "tool": 50
+      "framework": 28,
+      "methodology": 12,
+      "prompt": 34,
+      "recipe": 91,
+      "reference": 220,
+      "story": 137,
+      "tool": 57
     }
   },
   "items": [
@@ -50,6 +50,71 @@
       ],
       "title": "Community Lore",
       "updated_at": "2026-05-22T22:14:05.089339+00:00"
+    },
+    {
+      "attribution": {
+        "name": "Metagov, Interoperable Deliberative Tools project (Liz Barry, Aviv Ovadya, Amy Zhang, Joshua Tan, Eugene Leventhal)",
+        "source": "metagov.org/delib-tools"
+      },
+      "body": "Metagov's Deliberative Tools Gallery maps \"digital tools that go beyond basic voting and commenting\" across a governance cycle. The eight stages, verbatim:\n\n- **Framing**: naming the question so it can be worked on together\n- **Eliciting**: gathering what people actually think and need\n- **Learning**: building a shared picture before opinions harden\n- **Deliberating**: weighing options together, tensions on the table\n- **Proposing**: turning what was heard into concrete options\n- **Deciding**: choosing together, with a method everyone can see\n- **Actuating**: carrying the decision into action\n- **Reflecting**: looking back at what the process taught\n\nA block or neighborhood usually lives in the middle five: eliciting, learning, deliberating, proposing, deciding. The useful discipline for a build: say which stage(s) it serves, and design the hand-off so every stage's output is the next stage's input, with the last output landing back with people (a meeting, a flyer, a decision someone carries forward).",
+      "created_at": "2026-10-08T04:12:57.697114+00:00",
+      "id": "ac9a4fce-6beb-4157-8e18-1a43657958ed",
+      "image_urls": [],
+      "kind": "framework",
+      "license": null,
+      "metadata": {
+        "repo_url": "https://github.com/metagov/interop",
+        "curator_url": "https://metagov.org/projects/interop"
+      },
+      "parent_slug": null,
+      "published_at": "2026-10-08T04:12:57.697114+00:00",
+      "slug": "deliberation-cycle-eight-stages",
+      "sort_order": 10,
+      "source_local_id": null,
+      "source_studio_slug": "deliberation",
+      "source_url": "https://metagov.org/delib-tools",
+      "status": "canonical",
+      "steward": null,
+      "summary": "Metagov's governance-cycle taxonomy for deliberative tools: framing, eliciting, learning, deliberating, proposing, deciding, actuating, reflecting. Name which stage a build serves and design the hand-off to the next.",
+      "tags": [
+        "deliberation",
+        "framework",
+        "stages",
+        "metagov"
+      ],
+      "title": "The deliberation cycle: eight stages",
+      "updated_at": "2026-10-08T04:12:57.697114+00:00"
+    },
+    {
+      "attribution": {
+        "name": "Relational Tech Project, Deliberation Studio",
+        "source": "relationaltechproject.org"
+      },
+      "body": "Before designing prompts or picking a tool, name the tension underneath the question, and design so both poles stay respectable. The goal is a room that can disagree well, not a poll that declares a winner.\n\n- **Belonging and freedom**: everyone's welcome, nobody's obligated. How do we hold both?\n- **Care and self-reliance**: leaning on each other without anyone feeling managed.\n- **Voice and speed**: hearing everyone, and still deciding in time to matter.\n- **Safety and welcome**: feeling secure without turning the block inward.\n- **Preservation and change**: what we keep, what we let grow.\n- **Privacy and knowing each other**: being known without being watched.\n\nRough cues: newcomers, gentrification, cliques point at belonging and freedom; elders, check-ins, meals at care and self-reliance; meetings, committees, consensus at voice and speed; traffic, cameras, patrols at safety and welcome; housing, zoning, trees at preservation and change; cameras, data, Nextdoor at privacy and knowing each other. A suggestion the group can override, never a classification.\n\nThe first three come from RTP's Deliberation Studio work; the rest extend the same move.",
+      "created_at": "2026-10-08T04:12:57.697114+00:00",
+      "id": "3e69f56a-d71e-4163-9cc6-c3113947ea42",
+      "image_urls": [],
+      "kind": "framework",
+      "license": null,
+      "metadata": {},
+      "parent_slug": null,
+      "published_at": "2026-10-08T04:12:57.697114+00:00",
+      "slug": "deliberation-starting-tensions",
+      "sort_order": 20,
+      "source_local_id": null,
+      "source_studio_slug": "deliberation",
+      "source_url": null,
+      "status": "canonical",
+      "steward": null,
+      "summary": "A neighborhood question almost always sits on a real tension. Naming it early keeps the process honest instead of adversarial: belonging and freedom, care and self-reliance, voice and speed, safety and welcome, preservation and change, privacy and knowing each other.",
+      "tags": [
+        "deliberation",
+        "framework",
+        "tensions",
+        "facilitation"
+      ],
+      "title": "Starting tensions: name the one your question sits on",
+      "updated_at": "2026-10-08T04:12:57.697114+00:00"
     },
     {
       "attribution": {
@@ -1378,6 +1443,39 @@
     },
     {
       "attribution": {
+        "name": "Relational Tech Project, Deliberation Studio",
+        "source": "relationaltechproject.org"
+      },
+      "body": "What a deliberation build produces, so the software never arrives alone:\n\n1. **The app**: the tool that serves the stage(s) named, with ground rules on the page, plain language, a named host, and Export results.\n2. **program/agenda.md**: a timeboxed facilitation agenda with the tension and the starting prompts written in; small-group formats over open microphones.\n3. **program/outreach.md**: who invites whom, where flyers go, which doors get knocked, which languages, and the weekly rhythm for whoever keeps organizing between sessions.\n4. **materials/flyer.html**: a standalone printable flyer with inline styles and room for a QR code to the tool.\n\nBridge on-land and online in both directions: the flyer carries the block in; a printable summary carries the conversation back to the bulletin board. Say who was heard and who was not wherever results appear, and treat early rounds as growing the corpus, not settling the question.",
+      "created_at": "2026-10-08T04:12:57.697114+00:00",
+      "id": "0e89c3cb-af43-4a89-9fd3-5f5b56d0c8e7",
+      "image_urls": [],
+      "kind": "methodology",
+      "license": null,
+      "metadata": {},
+      "parent_slug": null,
+      "published_at": "2026-10-08T04:12:57.697114+00:00",
+      "slug": "four-output-deliberation-kit",
+      "sort_order": 40,
+      "source_local_id": null,
+      "source_studio_slug": "deliberation",
+      "source_url": null,
+      "status": "canonical",
+      "steward": null,
+      "summary": "A deliberation build ships as a kit: the app, a timeboxed facilitation agenda, an outreach plan, and a printable flyer with a QR code. Programs without software are valid deliberation builds too.",
+      "tags": [
+        "deliberation",
+        "kit",
+        "facilitation",
+        "outreach",
+        "flyer",
+        "methodology"
+      ],
+      "title": "The four-output deliberation kit",
+      "updated_at": "2026-10-08T04:12:57.697114+00:00"
+    },
+    {
+      "attribution": {
         "source_repo": "rt-mcp-server",
         "source_const": "MEASUREMENT_FRAMEWORK"
       },
@@ -1546,6 +1644,40 @@
     },
     {
       "attribution": {
+        "name": "Metagov, Interoperable Deliberative Tools project",
+        "source": "github.com/metagov/interop"
+      },
+      "body": "The Interoperable Deliberative Tools project asks every tool to publish results in open flatfiles so processes can hand off to each other: a poll's statements and votes feed a report generator; a report feeds an assembly's briefing; an assembly's recommendations feed the decision record.\n\nIn practice for a neighborhood build:\n\n- Expose \"Export results\" where results appear, writing JSON (and CSV where tabular).\n- Keep the shape plain and documented in the app: participants (and who was not heard), statements, votes or agreement by group, themes with quotes, decisions.\n- Import the same shape, so a tool can start from another tool's export.\n- Say in the UI when the shape is a placeholder pending a partner's real schema.\n\nWhat this neighborhood learns should be able to travel.",
+      "created_at": "2026-10-08T04:12:57.697114+00:00",
+      "id": "691e1b57-1a6f-4943-858a-7b1c73e4ccee",
+      "image_urls": [],
+      "kind": "methodology",
+      "license": null,
+      "metadata": {
+        "license": "MIT (interop repo)"
+      },
+      "parent_slug": null,
+      "published_at": "2026-10-08T04:12:57.697114+00:00",
+      "slug": "results-as-flatfiles-interop",
+      "sort_order": 30,
+      "source_local_id": null,
+      "source_studio_slug": "deliberation",
+      "source_url": "https://github.com/metagov/interop",
+      "status": "canonical",
+      "steward": null,
+      "summary": "Metagov's interop practice: every deliberative tool publishes its results as open flatfiles (JSON or CSV) so the next stage, or the next tool, can pick them up. A visible \"Export results\" affordance on anything built here.",
+      "tags": [
+        "deliberation",
+        "interop",
+        "export",
+        "methodology",
+        "metagov"
+      ],
+      "title": "Results are commons: export flatfiles so processes hand off",
+      "updated_at": "2026-10-08T04:12:57.697114+00:00"
+    },
+    {
+      "attribution": {
         "source_repo": "rt-mcp-server",
         "source_const": "BUILDER_SPECTRUM"
       },
@@ -1618,7 +1750,7 @@
       "license": "RCL-1.0",
       "metadata": {},
       "parent_slug": null,
-      "published_at": "2026-10-06T14:17:46.534+00:00",
+      "published_at": "2026-10-07T14:37:09.209+00:00",
       "slug": "24-hour-cafe-guestbook",
       "sort_order": 50,
       "source_local_id": "7767176d-bef6-4e1f-82a2-d5092a2c11e1",
@@ -1631,7 +1763,7 @@
         "Gathering"
       ],
       "title": "24 Hour Cafe Guestbook",
-      "updated_at": "2026-10-06T14:17:46.775578+00:00"
+      "updated_at": "2026-10-07T14:37:09.51478+00:00"
     },
     {
       "attribution": {
@@ -1645,7 +1777,7 @@
       "license": "RCL-1.0",
       "metadata": {},
       "parent_slug": "block-party-organizing",
-      "published_at": "2026-10-06T14:17:46.534+00:00",
+      "published_at": "2026-10-07T14:37:09.209+00:00",
       "slug": "block-party-organizing",
       "sort_order": 50,
       "source_local_id": "795f759e-c9e3-4d63-8890-21dd8283dcb5",
@@ -1658,7 +1790,7 @@
         "Events & Gatherings"
       ],
       "title": "Block Party Organizing",
-      "updated_at": "2026-10-06T14:17:46.775578+00:00"
+      "updated_at": "2026-10-07T14:37:09.51478+00:00"
     },
     {
       "attribution": {
@@ -2273,7 +2405,7 @@
       "license": "RCL-1.0",
       "metadata": {},
       "parent_slug": "community-clubs-platform",
-      "published_at": "2026-10-06T14:17:46.534+00:00",
+      "published_at": "2026-10-07T14:37:09.209+00:00",
       "slug": "community-clubs-platform",
       "sort_order": 10,
       "source_local_id": "3ea9955b-8430-4cc1-978f-d3b3d6c907c9",
@@ -2286,7 +2418,7 @@
         "Community & Belonging"
       ],
       "title": "Community Clubs Platform",
-      "updated_at": "2026-10-06T14:17:46.775578+00:00"
+      "updated_at": "2026-10-07T14:37:09.51478+00:00"
     },
     {
       "attribution": {
@@ -2300,7 +2432,7 @@
       "license": "RCL-1.0",
       "metadata": {},
       "parent_slug": "community-income-sharing",
-      "published_at": "2026-10-06T14:17:46.534+00:00",
+      "published_at": "2026-10-07T14:37:09.209+00:00",
       "slug": "community-income-sharing",
       "sort_order": 10,
       "source_local_id": "4c35ac64-2cce-45aa-8136-a64a2bf436ae",
@@ -2313,7 +2445,7 @@
         "Mutual Aid & Resource Sharing"
       ],
       "title": "Community Income Sharing",
-      "updated_at": "2026-10-06T14:17:46.775578+00:00"
+      "updated_at": "2026-10-07T14:37:09.51478+00:00"
     },
     {
       "attribution": {
@@ -2327,7 +2459,7 @@
       "license": "RCL-1.0",
       "metadata": {},
       "parent_slug": "local-supplies-sharing",
-      "published_at": "2026-10-06T14:17:46.534+00:00",
+      "published_at": "2026-10-07T14:37:09.209+00:00",
       "slug": "community-supplies",
       "sort_order": 50,
       "source_local_id": "32f40f6c-879c-4269-bee7-01362ed8ea8f",
@@ -2340,7 +2472,7 @@
         "Resource Sharing"
       ],
       "title": "Community Supplies",
-      "updated_at": "2026-10-06T14:17:46.775578+00:00"
+      "updated_at": "2026-10-07T14:37:09.51478+00:00"
     },
     {
       "attribution": {
@@ -2354,7 +2486,7 @@
       "license": "RCL-1.0",
       "metadata": {},
       "parent_slug": null,
-      "published_at": "2026-10-06T14:17:46.534+00:00",
+      "published_at": "2026-10-07T14:37:09.209+00:00",
       "slug": "faith-community-care-connector",
       "sort_order": 50,
       "source_local_id": "28924b4f-30c7-470e-b741-a47ce249c28b",
@@ -2367,7 +2499,7 @@
         "Mutual Aid"
       ],
       "title": "Faith Community Care Connector",
-      "updated_at": "2026-10-06T14:17:46.775578+00:00"
+      "updated_at": "2026-10-07T14:37:09.51478+00:00"
     },
     {
       "attribution": {
@@ -2381,7 +2513,7 @@
       "license": "RCL-1.0",
       "metadata": {},
       "parent_slug": "footer-component",
-      "published_at": "2026-10-06T14:17:46.534+00:00",
+      "published_at": "2026-10-07T14:37:09.209+00:00",
       "slug": "footer-component",
       "sort_order": 50,
       "source_local_id": "65bfd6d7-b686-489e-8934-9261494a8fcf",
@@ -2394,7 +2526,7 @@
         "Site Components"
       ],
       "title": "Footer Component",
-      "updated_at": "2026-10-06T14:17:46.775578+00:00"
+      "updated_at": "2026-10-07T14:37:09.51478+00:00"
     },
     {
       "attribution": {
@@ -2408,7 +2540,7 @@
       "license": "RCL-1.0",
       "metadata": {},
       "parent_slug": "hyperlocal-neighbor-hub",
-      "published_at": "2026-10-06T14:17:46.534+00:00",
+      "published_at": "2026-10-07T14:37:09.209+00:00",
       "slug": "hyperlocal-neighbor-hubs",
       "sort_order": 50,
       "source_local_id": "2285c760-50c0-4175-8b20-e361da86f391",
@@ -2421,7 +2553,7 @@
         "Neighborhood Sites"
       ],
       "title": "Hyperlocal Neighbor Hubs",
-      "updated_at": "2026-10-06T14:17:46.775578+00:00"
+      "updated_at": "2026-10-07T14:37:09.51478+00:00"
     },
     {
       "attribution": {
@@ -2435,7 +2567,7 @@
       "license": "RCL-1.0",
       "metadata": {},
       "parent_slug": "microgrant-management",
-      "published_at": "2026-10-06T14:17:46.534+00:00",
+      "published_at": "2026-10-07T14:37:09.209+00:00",
       "slug": "microgrants-tool",
       "sort_order": 50,
       "source_local_id": "85eb7881-fe38-4a9a-a99f-1808a537cac6",
@@ -2448,7 +2580,7 @@
         "Community Funding"
       ],
       "title": "Microgrants Tool",
-      "updated_at": "2026-10-06T14:17:46.775578+00:00"
+      "updated_at": "2026-10-07T14:37:09.51478+00:00"
     },
     {
       "attribution": {
@@ -2462,7 +2594,7 @@
       "license": "RCL-1.0",
       "metadata": {},
       "parent_slug": "neighbor-story-sharing",
-      "published_at": "2026-10-06T14:17:46.534+00:00",
+      "published_at": "2026-10-07T14:37:09.209+00:00",
       "slug": "neighbor-story-sharing",
       "sort_order": 50,
       "source_local_id": "a51ad35d-afd8-4142-8d58-2aebe90b62d1",
@@ -2475,7 +2607,7 @@
         "Connection & Stories"
       ],
       "title": "Neighbor Story Sharing",
-      "updated_at": "2026-10-06T14:17:46.775578+00:00"
+      "updated_at": "2026-10-07T14:37:09.51478+00:00"
     },
     {
       "attribution": {
@@ -2489,7 +2621,7 @@
       "license": "RCL-1.0",
       "metadata": {},
       "parent_slug": "neighborhood-association-hub",
-      "published_at": "2026-10-06T14:17:46.534+00:00",
+      "published_at": "2026-10-07T14:37:09.209+00:00",
       "slug": "neighborhood-association-hub",
       "sort_order": 50,
       "source_local_id": "de0d5a95-c7aa-4684-b219-8cbe20b88505",
@@ -2502,7 +2634,7 @@
         "Civic Organizations"
       ],
       "title": "Neighborhood Association Hub",
-      "updated_at": "2026-10-06T14:17:46.775578+00:00"
+      "updated_at": "2026-10-07T14:37:09.51478+00:00"
     },
     {
       "attribution": {
@@ -2516,7 +2648,7 @@
       "license": "RCL-1.0",
       "metadata": {},
       "parent_slug": "neighborhood-connector-site",
-      "published_at": "2026-10-06T14:17:46.534+00:00",
+      "published_at": "2026-10-07T14:37:09.209+00:00",
       "slug": "neighborhood-connector-site",
       "sort_order": 50,
       "source_local_id": "19780b02-b616-4994-9678-26bde6868531",
@@ -2529,7 +2661,7 @@
         "Gathering"
       ],
       "title": "Neighborhood Connector Site",
-      "updated_at": "2026-10-06T14:17:46.775578+00:00"
+      "updated_at": "2026-10-07T14:37:09.51478+00:00"
     },
     {
       "attribution": {
@@ -2543,7 +2675,7 @@
       "license": "RCL-1.0",
       "metadata": {},
       "parent_slug": "neighborhood-connector-site",
-      "published_at": "2026-10-06T14:17:46.534+00:00",
+      "published_at": "2026-10-07T14:37:09.209+00:00",
       "slug": "neighborhood-groups-directory",
       "sort_order": 50,
       "source_local_id": "ce4df02f-b74f-4b99-86c3-31ec7f6b7f90",
@@ -2556,7 +2688,41 @@
         "Resource Sharing & Connection"
       ],
       "title": "Neighborhood Groups Directory",
-      "updated_at": "2026-10-06T14:17:46.775578+00:00"
+      "updated_at": "2026-10-07T14:37:09.51478+00:00"
+    },
+    {
+      "attribution": {
+        "name": "Relational Tech Project, pattern by the Computational Democracy Project",
+        "source": "relationaltechproject.org"
+      },
+      "body": "Our neighborhood is sitting with one question: [the question, in plain words]. The tension underneath it feels like [belonging and freedom / care and self-reliance / voice and speed / safety and welcome / preservation and change / privacy and knowing each other].\n\nBuild a listening wall in the Pol.is pattern (credit the Computational Democracy Project, surfaced via Metagov's Deliberative Tools Gallery): a dozen seed statements we write together, agree / disagree / pass one statement at a time, neighbors add their own (steward-reviewed before they enter the deck), and a results view that opens at a threshold and shows where the block agrees, by opinion group, honest about who was heard. Include Export results (JSON and CSV), a facilitation agenda for the conversation that follows (program/agenda.md), an outreach plan (program/outreach.md), and a printable flyer with a QR code (materials/flyer.html). Ship labeled sample data so we can walk the whole flow before the poll opens.",
+      "created_at": "2026-10-08T04:12:57.697114+00:00",
+      "id": "b39e334e-cd96-40d4-8011-2e797ac76baa",
+      "image_urls": [],
+      "kind": "prompt",
+      "license": null,
+      "metadata": {
+        "practice_kind": "prompt"
+      },
+      "parent_slug": null,
+      "published_at": "2026-10-08T04:12:57.697114+00:00",
+      "slug": "neighborhood-listening-wall",
+      "sort_order": 200,
+      "source_local_id": null,
+      "source_studio_slug": "deliberation",
+      "source_url": "https://pol.is",
+      "status": "canonical",
+      "steward": null,
+      "summary": "Build prompt: a Pol.is-style listening wall for one question, two weeks open, QR flyer on every corner, with a printable consensus summary for the meeting that follows.",
+      "tags": [
+        "deliberation",
+        "prompt",
+        "starter",
+        "listening-wall",
+        "eliciting"
+      ],
+      "title": "A listening wall for one neighborhood question",
+      "updated_at": "2026-10-08T04:12:57.697114+00:00"
     },
     {
       "attribution": {
@@ -2570,7 +2736,7 @@
       "license": "RCL-1.0",
       "metadata": {},
       "parent_slug": "our-neighborhood-today",
-      "published_at": "2026-10-06T14:17:46.534+00:00",
+      "published_at": "2026-10-07T14:37:09.209+00:00",
       "slug": "neighborhood-today-calendar",
       "sort_order": 50,
       "source_local_id": "3e51e21f-79df-40a3-9a0a-3687e6ab2f1d",
@@ -2583,7 +2749,7 @@
         "Events & Activities"
       ],
       "title": "Neighborhood Today Calendar",
-      "updated_at": "2026-10-06T14:17:46.775578+00:00"
+      "updated_at": "2026-10-07T14:37:09.51478+00:00"
     },
     {
       "attribution": {
@@ -2668,6 +2834,41 @@
     },
     {
       "attribution": {
+        "name": "Relational Tech Project, pattern by BLOOM Project",
+        "source": "relationaltechproject.org"
+      },
+      "body": "Our civic host is [organization and the person who answers for it], in [place], and the question is [the question]. Recommendations go to [the decision-maker] by [date]; [who] keeps organizing between sessions.\n\nBuild a phased process in one small app in the pattern BLOOM Project runs with civic hosts (credit BLOOM; see report.bloomproject.us/central-oregon-ai): (1) an Open Poll that maps the opinion landscape (agree / disagree / unsure, add your own, opinion groups and consensus by group), (2) a schedule of small-group conversations with the tension and three shared prompts written in, where people work through tradeoffs toward supermajority agreement, (3) a report page with who participated, opinion groups, consensus statements with percent agree by group, and themes with statements and quotes, ending with the next step (an assembly, a hearing, a vote). Include Export results in that shape, labeled sample data for a demo walk-through, program/agenda.md, program/outreach.md, and materials/flyer.html. Credit \"In partnership with BLOOM\" in the footer, the agenda, and the flyer.",
+      "created_at": "2026-10-08T04:12:57.697114+00:00",
+      "id": "871c54cb-02d2-4244-9d9e-ae1336dfebeb",
+      "image_urls": [],
+      "kind": "prompt",
+      "license": null,
+      "metadata": {
+        "practice_kind": "prompt"
+      },
+      "parent_slug": null,
+      "published_at": "2026-10-08T04:12:57.697114+00:00",
+      "slug": "poll-conversations-assembly",
+      "sort_order": 220,
+      "source_local_id": null,
+      "source_studio_slug": "deliberation",
+      "source_url": "https://report.bloomproject.us/central-oregon-ai",
+      "status": "canonical",
+      "steward": null,
+      "summary": "Build prompt: the CivicOS relay at neighborhood scale: an open statement poll, a schedule of small-group conversations with shared prompts, and a final report with what the process concluded and who deliberated.",
+      "tags": [
+        "deliberation",
+        "prompt",
+        "starter",
+        "civic-host",
+        "assembly",
+        "bloom"
+      ],
+      "title": "Poll, conversations, assembly: a phased process in one small app",
+      "updated_at": "2026-10-08T04:12:57.697114+00:00"
+    },
+    {
+      "attribution": {
         "source": "Relational Tech Studio library"
       },
       "body": "Privacy & Terms Page Prompt\n\nCreate a warm, clear, and human-centered Privacy & Terms page for relational tech sites and apps. Use simple language, avoid legal jargon, and keep the tone community-first. The structure and copy should follow the examples provided.\n\nPage Structure\n\nHeader\nTitle: Privacy & Terms\nSubtitle (optional): short description of the project or site (e.g., \"NeighborStories.org is a project run by the people who live here.\")  \n  → This text should be editable for each project.\n\nSections\n\nPrivacy\nBulleted list (orange dots):  \nWe don't sell or share your data.  \nWe don't use tracking cookies.  \nIf you give us your contact information, we'll only use it for the purpose you expect (like notifying you about a meetup where a story will be shared).  \nYou can ask us to delete your information at any time.  \nThis site is intended for people 14 and older.  \n\n→ The bulleted list should be editable and remixable.\n\nTerms of Use\nBulleted list (pink dots):  \nPlease use this site with care and respect.  \nYou are responsible for your own actions when participating in gatherings.  \nWe don't endorse user content.  \nWe accept no liability for what happens in and around this tool.  \nThis site is operated in [Location, e.g. CA, USA] and any disputes are subject to its laws.  \nWe may update these terms if needed, but we'll keep them simple and human.  \n\n→ Allow site owners to edit the legal location and adjust the list to fit their community context.\n\nCommunity Care (optional section)\nShort paragraph:  \n  \"We know things don't always go perfectly. If a misunderstanding or conflict arises, our volunteers are happy to help neighbors talk it through and find repair.\"\n\n→ Make this optional but recommended for relational tech projects. Tone should emphasize repair and care.\n\nContact Box\nSection titled Questions?  \nContact method:  \nEmail: hello@relationaltechproject.org (editable per site)  \nDisplay in a soft, friendly callout box.  \n\nDesign Guidance\nCenter content in a card-like container with rounded edges and soft background gradient.  \nUse clear section headings with enough spacing.  \nUse orange bullet points for privacy, pink bullet points for terms.  \nKeep text size readable and accessible.  \nStyle should feel human, approachable, and simple—avoiding overly legal or corporate aesthetics.",
@@ -2678,7 +2879,7 @@
       "license": "RCL-1.0",
       "metadata": {},
       "parent_slug": "privacy-and-terms-page",
-      "published_at": "2026-10-06T14:17:46.534+00:00",
+      "published_at": "2026-10-07T14:37:09.209+00:00",
       "slug": "privacy-and-terms-page",
       "sort_order": 50,
       "source_local_id": "479bb82a-7276-4aba-8f6a-0e16f707dd4e",
@@ -2691,7 +2892,7 @@
         "Legal & Policies"
       ],
       "title": "Privacy & Terms Page",
-      "updated_at": "2026-10-06T14:17:46.775578+00:00"
+      "updated_at": "2026-10-07T14:37:09.51478+00:00"
     },
     {
       "attribution": {
@@ -2705,7 +2906,7 @@
       "license": "RCL-1.0",
       "metadata": {},
       "parent_slug": null,
-      "published_at": "2026-10-06T14:17:46.534+00:00",
+      "published_at": "2026-10-07T14:37:09.209+00:00",
       "slug": "street-beat-newsletter-generator",
       "sort_order": 50,
       "source_local_id": "c990f919-41db-4d56-bdd4-21efb4fdb368",
@@ -2718,7 +2919,41 @@
         "Communication"
       ],
       "title": "Street Beat Newsletter Generator",
-      "updated_at": "2026-10-06T14:17:46.775578+00:00"
+      "updated_at": "2026-10-07T14:37:09.51478+00:00"
+    },
+    {
+      "attribution": {
+        "name": "Relational Tech Project, pattern by the AI Objectives Institute",
+        "source": "relationaltechproject.org"
+      },
+      "body": "We ran [a poll / three living-room conversations / a listening session] on [the question] and have [the export / the notes / the transcript]. Build a \"what we heard\" report page in the Talk to the City pattern (credit the AI Objectives Institute, surfaced via Metagov's Deliberative Tools Gallery): themes with real quotes under them, prominence without erasure for minority views, percent agreement by opinion group where we have votes, a who-was-heard section that names who was not, and a one-paragraph plain-language summary for the next flyer. Import the results JSON a listening wall exports; export the report as JSON too so an assembly can use it as its briefing. Add a printable one-page summary (materials/summary.html).",
+      "created_at": "2026-10-08T04:12:57.697114+00:00",
+      "id": "ca3a9dc1-3e21-4cc8-81b4-0945ce40d26a",
+      "image_urls": [],
+      "kind": "prompt",
+      "license": null,
+      "metadata": {
+        "practice_kind": "prompt"
+      },
+      "parent_slug": null,
+      "published_at": "2026-10-08T04:12:57.697114+00:00",
+      "slug": "what-we-heard-report",
+      "sort_order": 210,
+      "source_local_id": null,
+      "source_studio_slug": "deliberation",
+      "source_url": "https://ai.objectives.institute/talk-to-the-city",
+      "status": "canonical",
+      "steward": null,
+      "summary": "Build prompt: after the listening, a report page in the Talk to the City pattern: themes with real quotes, minority views kept visible, a plain-language summary a flyer can carry back.",
+      "tags": [
+        "deliberation",
+        "prompt",
+        "starter",
+        "report",
+        "learning"
+      ],
+      "title": "A \"what we heard\" report page",
+      "updated_at": "2026-10-08T04:12:57.697114+00:00"
     },
     {
       "attribution": {
@@ -4730,6 +4965,40 @@
       ],
       "title": "Dinner Party Grief",
       "updated_at": "2026-05-22T22:14:07.380877+00:00"
+    },
+    {
+      "attribution": {
+        "name": "Relational Tech Project, Deliberation Studio",
+        "source": "relationaltechproject.org"
+      },
+      "body": "Guardrails to build into the tool and the room, not bolt on after:\n\n- **Ground rules on the page.** One voice at a time; disagree with ideas, not people; what is said here is summarized, not attributed, unless someone asks to be named.\n- **Plain language throughout.** The statement deck, the report, and the flyer all read at a middle-school level, in every language the block speaks.\n- **Small-group formats over open microphones.** Tables of four to six with a shared prompt beat a line at the mic.\n- **A named host and steward.** A person and an organization on every public page: who convenes, who answers, who carries the result forward.\n- **Room for the quiet and the offline.** Paper ballots, large print, a phone number, a table at the library; the tool is one door, not the only one.\n- **Never let the tool auto-decide.** It informs and records human decisions; the people name the groups, write the summary, and choose what goes to the decision-maker.\n- **Honest about signal.** Participation is not representativeness. Say who was heard and who was not wherever results appear.\n- **Close the loop.** Read the report aloud where it matters, carry it to the hearing, bring it back to the people who took part.",
+      "created_at": "2026-10-08T04:12:57.697114+00:00",
+      "id": "12cda7f5-4ee7-4311-b29d-f4dd342cc3a8",
+      "image_urls": [],
+      "kind": "recipe",
+      "license": null,
+      "metadata": {
+        "practice_kind": "recipe"
+      },
+      "parent_slug": null,
+      "published_at": "2026-10-08T04:12:57.697114+00:00",
+      "slug": "facilitation-guardrails-deliberation",
+      "sort_order": 50,
+      "source_local_id": null,
+      "source_studio_slug": "deliberation",
+      "source_url": null,
+      "status": "canonical",
+      "steward": null,
+      "summary": "What keeps a deliberative tool honest: ground rules on the page, plain language, small groups over open microphones, a named host, room for the quiet and the offline, and a tool that informs decisions but never makes them.",
+      "tags": [
+        "deliberation",
+        "recipe",
+        "facilitation",
+        "guardrails",
+        "practice"
+      ],
+      "title": "Facilitation guardrails for a neighborhood deliberation",
+      "updated_at": "2026-10-08T04:12:57.697114+00:00"
     },
     {
       "attribution": {
@@ -12685,6 +12954,40 @@
     },
     {
       "attribution": {
+        "name": "Metagov, Interoperable Deliberative Tools project",
+        "source": "metagov.org/delib-tools"
+      },
+      "body": "Curated by Metagov's Interoperable Deliberative Tools project (research directors Liz Barry, Aviv Ovadya, Amy Zhang, Joshua Tan, Eugene Leventhal). Stages verbatim from the gallery's cards.\n\nMore in the gallery, by stage: Deliberative Canvas (reflecting); Ethelo (deliberating); Evocracy (deliberating); Global Brain Algorithm (deliberating); Go Vocal (deliberating); Harmonica (framing, eliciting, deliberating); Interoperable Co-operative Governance (framing, deliberating, deciding); Iswe Foundation (framing, eliciting); Ize (eliciting); Micropublishing (learning); Moral Graph Elicitation (eliciting); Pairwise (deciding); PolicyCraft (deliberating, eliciting, reflecting); Power Ranker (eliciting, reflecting, deciding); Stanford Participatory Budgeting Platform (deciding); Swarmcheck (framing, learning, deliberating); Voice to Vision (eliciting).\n\nWhen a build borrows a pattern, name the tool and its builders in the plan and in the app's about or credits. Attribution travels.",
+      "created_at": "2026-10-08T04:12:57.697114+00:00",
+      "id": "fc1b9ea5-8167-4181-b166-e540e6d5e94a",
+      "image_urls": [],
+      "kind": "reference",
+      "license": null,
+      "metadata": {
+        "repo_url": "https://github.com/metagov/interop",
+        "project_url": "https://metagov.org/projects/interop"
+      },
+      "parent_slug": null,
+      "published_at": "2026-10-08T04:12:57.697114+00:00",
+      "slug": "metagov-deliberative-tools-gallery",
+      "sort_order": 400,
+      "source_local_id": null,
+      "source_studio_slug": "deliberation",
+      "source_url": "https://metagov.org/delib-tools",
+      "status": "canonical",
+      "steward": null,
+      "summary": "The source collection for this shelf: digital tools that go beyond basic voting and commenting, mapped across the governance cycle. Seventeen more tools beyond the ones featured here, each with its stages.",
+      "tags": [
+        "deliberation",
+        "reference",
+        "metagov",
+        "catalog"
+      ],
+      "title": "Metagov's Deliberative Tools Gallery",
+      "updated_at": "2026-10-08T04:12:57.697114+00:00"
+    },
+    {
+      "attribution": {
         "source": "neighboring-commons-skill-kb",
         "category": "Community Care & Healing",
         "entry_type": "Reference"
@@ -15321,7 +15624,7 @@
       "slug": "the-jar-is-an-arts-centric-initiative-that-takes-a-unique-approach-to-attendees-",
       "sort_order": 50,
       "source_local_id": "relational-builder-6b6210f7-e7fa-4a26-aa55-4e74235030d8",
-      "source_studio_slug": "radically-rural",
+      "source_studio_slug": "rt",
       "source_url": "https://www.jumpinthejar.org/",
       "status": "canonical",
       "steward": "deborah@relationaltechproject.org",
@@ -15331,7 +15634,7 @@
         "contributed-resource"
       ],
       "title": "The Jar is an arts-centric initiative that takes a unique approach to attendees - where you to buy a 'jar' of tickets to invite others to join",
-      "updated_at": "2026-10-05T15:51:07.22532+00:00"
+      "updated_at": "2026-10-08T05:17:44.291925+00:00"
     },
     {
       "attribution": {
@@ -16695,7 +16998,7 @@
       "license": "RCL-1.0",
       "metadata": {},
       "parent_slug": null,
-      "published_at": "2026-10-06T14:17:46.534+00:00",
+      "published_at": "2026-10-07T14:37:09.209+00:00",
       "slug": "an-accelerator-for-community-builders",
       "sort_order": 50,
       "source_local_id": "94b937a5-4a4d-4904-b1f6-fc19fdbc4069",
@@ -16708,7 +17011,7 @@
         "builder-story"
       ],
       "title": "An Accelerator for Community Builders",
-      "updated_at": "2026-10-06T14:17:46.625917+00:00"
+      "updated_at": "2026-10-07T14:37:09.324218+00:00"
     },
     {
       "attribution": {
@@ -16722,7 +17025,7 @@
       "license": "RCL-1.0",
       "metadata": {},
       "parent_slug": null,
-      "published_at": "2026-10-06T14:17:46.534+00:00",
+      "published_at": "2026-10-07T14:37:09.209+00:00",
       "slug": "an-outer-sunset-story",
       "sort_order": 50,
       "source_local_id": "47aa07be-fc8c-4d92-81ed-8b2041f2f4da",
@@ -16735,7 +17038,7 @@
         "builder-story"
       ],
       "title": "An Outer Sunset Story",
-      "updated_at": "2026-10-06T14:17:46.625917+00:00"
+      "updated_at": "2026-10-07T14:37:09.324218+00:00"
     },
     {
       "attribution": {
@@ -17034,7 +17337,7 @@
       "license": "RCL-1.0",
       "metadata": {},
       "parent_slug": null,
-      "published_at": "2026-10-06T14:17:46.534+00:00",
+      "published_at": "2026-10-07T14:37:09.209+00:00",
       "slug": "boston-ujima-project",
       "sort_order": 50,
       "source_local_id": "47c8b91b-9c33-46bd-8151-ccb2699c2f93",
@@ -17047,7 +17350,7 @@
         "builder-story"
       ],
       "title": "Boston Ujima Project",
-      "updated_at": "2026-10-06T14:17:46.775578+00:00"
+      "updated_at": "2026-10-07T14:37:09.51478+00:00"
     },
     {
       "attribution": {
@@ -17105,7 +17408,7 @@
       "license": "RCL-1.0",
       "metadata": {},
       "parent_slug": null,
-      "published_at": "2026-10-06T14:17:46.534+00:00",
+      "published_at": "2026-10-07T14:37:09.209+00:00",
       "slug": "bradley-street-bicycle-co-op-new-haven",
       "sort_order": 50,
       "source_local_id": "2cdc2824-db6e-4283-8156-2a95560e1bcf",
@@ -17118,7 +17421,7 @@
         "builder-story"
       ],
       "title": "Bradley Street Bicycle Co-op, New Haven",
-      "updated_at": "2026-10-06T14:17:46.625917+00:00"
+      "updated_at": "2026-10-07T14:37:09.324218+00:00"
     },
     {
       "attribution": {
@@ -17132,7 +17435,7 @@
       "license": "RCL-1.0",
       "metadata": {},
       "parent_slug": null,
-      "published_at": "2026-10-06T14:17:46.534+00:00",
+      "published_at": "2026-10-07T14:37:09.209+00:00",
       "slug": "camerados-and-public-living-rooms",
       "sort_order": 50,
       "source_local_id": "d8f5367c-a987-4171-af86-fed9d11507d0",
@@ -17145,7 +17448,7 @@
         "builder-story"
       ],
       "title": "Camerados and Public Living Rooms",
-      "updated_at": "2026-10-06T14:17:46.775578+00:00"
+      "updated_at": "2026-10-07T14:37:09.51478+00:00"
     },
     {
       "attribution": {
@@ -17191,6 +17494,47 @@
     },
     {
       "attribution": {
+        "name": "Central Oregon Civic Action Project with BLOOM Project",
+        "source": "report.bloomproject.us/central-oregon-ai"
+      },
+      "body": "**Place:** Central Oregon (Deschutes, Crook, Jefferson counties and Warm Springs). **Host:** Central Oregon Civic Action Project (COCAP) and partners. **Report:** report.bloomproject.us/central-oregon-ai.\n\nAn anonymous Open Poll and six live listening sessions reached 400+ people across the region (Bend, Redmond, Sisters, Prineville, Madras, La Pine and smaller places). Voting patterns found three opinion groups: Optimists (51 people, see AI's arrival as inevitable and are least convinced it's already doing harm), Pragmatists (235, agree AI already delivers real benefits but want real accountability from AI companies), and Skeptics (113). Despite their differences, almost everyone agreed on transparency and community involvement in AI-related decisions: the top consensus statement, on transparency about AI in the education system, drew 92% agreement overall and 96%, 92%, and 95% by group. Responses were sorted into seven themes (Governance and Decision-Making, Data Centers, Education and Children, Mental Health, Workforce and Labor, Existential Risk, Access to Quality Information), each holding poll statements and session quotes.\n\nNext: a Civic Assembly in December 2026 where 30 to 40 residents develop policies to make sure the public has a meaningful role in the government's AI-related decisions; selected delegates receive a stipend. A 2024 assembly on youth homelessness saw its recommendations adopted by local government and school districts. \"We're not talking for talk's sake,\" says COCAP's Josh Burgess. \"The poll and the conversations are the foundation.\"\n\n**The pattern a neighborhood can borrow:** map the landscape, deliberate on tradeoffs, report back, and hand the result to a group that carries it forward.",
+      "created_at": "2026-10-08T04:12:57.697114+00:00",
+      "id": "fd10b173-ec9d-448e-b07f-68452bcb5492",
+      "image_urls": [],
+      "kind": "story",
+      "license": null,
+      "metadata": {
+        "place": "Central Oregon",
+        "sources": [
+          "https://report.bloomproject.us/central-oregon-ai",
+          "https://centraloregonian.com/2026/05/21/a-new-civic-assembly-on-ai-launches-in-deschutes-crook-and-jefferson-counties/",
+          "https://ktvz.com/news/local-news/2026/04/01/deliberative-democracy-takes-center-stage-at-central-oregon-summit/"
+        ],
+        "image_url": "https://texakzqqenzpxawktbgx.supabase.co/storage/v1/object/public/studio-library/bloom/reporting-layer.png"
+      },
+      "parent_slug": null,
+      "published_at": "2026-10-08T04:12:57.697114+00:00",
+      "slug": "central-oregon-ai-civic-assembly",
+      "sort_order": 320,
+      "source_local_id": null,
+      "source_studio_slug": "deliberation",
+      "source_url": "https://report.bloomproject.us/central-oregon-ai",
+      "status": "canonical",
+      "steward": null,
+      "summary": "Central Oregon Civic Action Project and partners, on BLOOM's stack: 400+ residents through an Open Poll and six listening sessions, seven themes, three opinion groups, common ground on transparency and community involvement, and a Civic Assembly in December 2026.",
+      "tags": [
+        "deliberation",
+        "story",
+        "central-oregon",
+        "ai",
+        "civic-assembly",
+        "bloom"
+      ],
+      "title": "AI and Central Oregon: 400+ residents, one Open Poll, six sessions, a civic assembly",
+      "updated_at": "2026-10-08T04:12:57.697114+00:00"
+    },
+    {
+      "attribution": {
         "name": "DemocracyNext Assembly Guide / newDemocracy Foundation"
       },
       "body": "<p>The idea that a randomly selected group of ordinary citizens can make better decisions than elected officials sounds radical until you realize it's one of the oldest ideas in democracy. Athenian democracy ran on sortition — selection by lottery — for most public offices. The concept resurfaced in the 1970s when Ned Crosby in Minnesota and Peter Dienel in Germany independently invented the citizens' jury: a small group of randomly selected people, given time and information, deliberating on a public question. For decades, the practice remained niche. Then, starting around 2010, something shifted. Ireland used citizen deliberation — first a constitutional convention, then a citizens' assembly — to break decades-long deadlocks on marriage equality and abortion, questions that had paralyzed elected politicians. France convened 150 randomly selected citizens to deliberate on climate policy. And across dozens of cities and regions, from Australia to Belgium to Oregon, variations of the model began appearing with increasing frequency.</p><p>By the mid-2020s, citizens' assemblies had been used over 600 times at local, regional, national, and international scales. In 2024, DemocracyNext — a research and advocacy organization — published a comprehensive Assembly Guide distilling the practical wisdom of this growing movement into a step-by-step manual. The guide covers everything from how to recruit participants by democratic lottery (send invitations to thousands of random addresses, then stratify for demographics), to how to structure deliberation days (learning phases, small-group discussion, plenary sessions, drafting recommendations), to what happens after the assembly ends (follow-up, member aftercare, institutionalization). The guide is honest about what makes assemblies work: participants need at least forty hours together to move past surface positions and find genuine common ground. Anything less, and you get a focus group dressed up as democracy.</p><p>What the citizens' assembly movement reveals is that the bottleneck in democratic life is rarely a lack of good ideas — it's a lack of good process. When you give a representative cross-section of people the time, information, and facilitation to deliberate seriously, they consistently produce thoughtful, nuanced recommendations that reflect the complexity of real tradeoffs. The assembly model is not a replacement for representative democracy but a complement to it — a way of bringing the lived experience and common sense of ordinary people into decisions that are too important or too contentious for politicians alone. The relational technology here is the process itself: the lottery that ensures no one is excluded, the facilitation that ensures everyone is heard, and the time that ensures depth over speed.</p>",
@@ -17201,7 +17545,7 @@
       "license": "RCL-1.0",
       "metadata": {},
       "parent_slug": null,
-      "published_at": "2026-10-06T14:17:46.534+00:00",
+      "published_at": "2026-10-07T14:37:09.209+00:00",
       "slug": "citizens-assemblies-from-ancient-athens-to-your-town-hall",
       "sort_order": 50,
       "source_local_id": "3ccc492b-2a63-4869-8c0b-b00b27ace66e",
@@ -17214,7 +17558,7 @@
         "builder-story"
       ],
       "title": "Citizens' Assemblies: From Ancient Athens to Your Town Hall",
-      "updated_at": "2026-10-06T14:17:46.775578+00:00"
+      "updated_at": "2026-10-07T14:37:09.51478+00:00"
     },
     {
       "attribution": {
@@ -17228,7 +17572,7 @@
       "license": "RCL-1.0",
       "metadata": {},
       "parent_slug": null,
-      "published_at": "2026-10-06T14:17:46.534+00:00",
+      "published_at": "2026-10-07T14:37:09.209+00:00",
       "slug": "city-repair-and-intersection-painting-portland",
       "sort_order": 50,
       "source_local_id": "c70add17-8e05-42c2-a358-bbdef84afdf5",
@@ -17241,7 +17585,7 @@
         "builder-story"
       ],
       "title": "City Repair and Intersection Painting, Portland",
-      "updated_at": "2026-10-06T14:17:46.775578+00:00"
+      "updated_at": "2026-10-07T14:37:09.51478+00:00"
     },
     {
       "attribution": {
@@ -17547,7 +17891,7 @@
       "license": "RCL-1.0",
       "metadata": {},
       "parent_slug": null,
-      "published_at": "2026-10-06T14:17:46.534+00:00",
+      "published_at": "2026-10-07T14:37:09.209+00:00",
       "slug": "cool-block",
       "sort_order": 50,
       "source_local_id": "473378a8-80e5-4cb0-b558-5baa8a61a6a0",
@@ -17560,7 +17904,7 @@
         "builder-story"
       ],
       "title": "Cool Block",
-      "updated_at": "2026-10-06T14:17:46.775578+00:00"
+      "updated_at": "2026-10-07T14:37:09.51478+00:00"
     },
     {
       "attribution": {
@@ -17644,7 +17988,7 @@
       "license": "RCL-1.0",
       "metadata": {},
       "parent_slug": null,
-      "published_at": "2026-10-06T14:17:46.534+00:00",
+      "published_at": "2026-10-07T14:37:09.209+00:00",
       "slug": "darebin-participatory-budgeting",
       "sort_order": 50,
       "source_local_id": "15168ab5-3bad-4573-bab9-735c07363ff1",
@@ -17657,7 +18001,7 @@
         "builder-story"
       ],
       "title": "Darebin Participatory Budgeting",
-      "updated_at": "2026-10-06T14:17:46.775578+00:00"
+      "updated_at": "2026-10-07T14:37:09.51478+00:00"
     },
     {
       "attribution": {
@@ -18054,7 +18398,7 @@
       "license": "RCL-1.0",
       "metadata": {},
       "parent_slug": null,
-      "published_at": "2026-10-06T14:17:46.534+00:00",
+      "published_at": "2026-10-07T14:37:09.209+00:00",
       "slug": "east-bay-permanent-real-estate-cooperative-oakland",
       "sort_order": 50,
       "source_local_id": "1f6b60a8-dcaa-422e-927d-6ae4d83f93c5",
@@ -18067,7 +18411,7 @@
         "builder-story"
       ],
       "title": "East Bay Permanent Real Estate Cooperative, Oakland",
-      "updated_at": "2026-10-06T14:17:46.775578+00:00"
+      "updated_at": "2026-10-07T14:37:09.51478+00:00"
     },
     {
       "attribution": {
@@ -18081,7 +18425,7 @@
       "license": "RCL-1.0",
       "metadata": {},
       "parent_slug": null,
-      "published_at": "2026-10-06T14:17:46.534+00:00",
+      "published_at": "2026-10-07T14:37:09.209+00:00",
       "slug": "edmonton-s-community-league-system",
       "sort_order": 50,
       "source_local_id": "9e06c85e-664b-4b81-a246-6a4a533875ad",
@@ -18094,7 +18438,7 @@
         "builder-story"
       ],
       "title": "Edmonton's Community League System",
-      "updated_at": "2026-10-06T14:17:46.775578+00:00"
+      "updated_at": "2026-10-07T14:37:09.51478+00:00"
     },
     {
       "attribution": {
@@ -18196,7 +18540,7 @@
       "license": "RCL-1.0",
       "metadata": {},
       "parent_slug": null,
-      "published_at": "2026-10-06T14:17:46.534+00:00",
+      "published_at": "2026-10-07T14:37:09.209+00:00",
       "slug": "flatpack-democracy-frome-england",
       "sort_order": 50,
       "source_local_id": "a1a04911-2829-43eb-9a5b-69b3b4285707",
@@ -18209,7 +18553,7 @@
         "builder-story"
       ],
       "title": "Flatpack Democracy, Frome, England",
-      "updated_at": "2026-10-06T14:17:46.775578+00:00"
+      "updated_at": "2026-10-07T14:37:09.51478+00:00"
     },
     {
       "attribution": {
@@ -18223,7 +18567,7 @@
       "license": "RCL-1.0",
       "metadata": {},
       "parent_slug": null,
-      "published_at": "2026-10-06T14:17:46.534+00:00",
+      "published_at": "2026-10-07T14:37:09.209+00:00",
       "slug": "france-s-convention-citoyenne-pour-le-climat",
       "sort_order": 50,
       "source_local_id": "b5531701-17c5-40d3-8e41-327253f61ffc",
@@ -18236,7 +18580,7 @@
         "builder-story"
       ],
       "title": "France's Convention Citoyenne pour le Climat",
-      "updated_at": "2026-10-06T14:17:46.625917+00:00"
+      "updated_at": "2026-10-07T14:37:09.324218+00:00"
     },
     {
       "attribution": {
@@ -18520,7 +18864,7 @@
       "license": "RCL-1.0",
       "metadata": {},
       "parent_slug": null,
-      "published_at": "2026-10-06T14:17:46.534+00:00",
+      "published_at": "2026-10-07T14:37:09.209+00:00",
       "slug": "grow-food-northampton-massachusetts",
       "sort_order": 50,
       "source_local_id": "2464dd6a-db5f-4d4e-8e34-6f58763ff6d8",
@@ -18533,7 +18877,7 @@
         "builder-story"
       ],
       "title": "Grow Food Northampton, Massachusetts",
-      "updated_at": "2026-10-06T14:17:46.775578+00:00"
+      "updated_at": "2026-10-07T14:37:09.51478+00:00"
     },
     {
       "attribution": {
@@ -18768,7 +19112,7 @@
       "license": "RCL-1.0",
       "metadata": {},
       "parent_slug": null,
-      "published_at": "2026-10-06T14:17:46.534+00:00",
+      "published_at": "2026-10-07T14:37:09.209+00:00",
       "slug": "ireland-s-citizens-assembly-on-the-eighth-amendment",
       "sort_order": 50,
       "source_local_id": "fe006ab8-1446-4f38-8f83-6a79c00163ab",
@@ -18781,7 +19125,7 @@
         "builder-story"
       ],
       "title": "Ireland's Citizens' Assembly on the Eighth Amendment",
-      "updated_at": "2026-10-06T14:17:46.625917+00:00"
+      "updated_at": "2026-10-07T14:37:09.324218+00:00"
     },
     {
       "attribution": {
@@ -18842,7 +19186,7 @@
       "license": "RCL-1.0",
       "metadata": {},
       "parent_slug": null,
-      "published_at": "2026-10-06T14:17:46.534+00:00",
+      "published_at": "2026-10-07T14:37:09.209+00:00",
       "slug": "jesse-evers-and-highside-workshop-brooklyn",
       "sort_order": 50,
       "source_local_id": "f9894a40-45a0-46ec-b874-2682d5aa85cc",
@@ -18855,7 +19199,7 @@
         "builder-story"
       ],
       "title": "Jesse Evers and Highside Workshop, Brooklyn",
-      "updated_at": "2026-10-06T14:17:46.625917+00:00"
+      "updated_at": "2026-10-07T14:37:09.324218+00:00"
     },
     {
       "attribution": {
@@ -18953,7 +19297,7 @@
       "license": "RCL-1.0",
       "metadata": {},
       "parent_slug": null,
-      "published_at": "2026-10-06T14:17:46.534+00:00",
+      "published_at": "2026-10-07T14:37:09.209+00:00",
       "slug": "lamplight-summer-camp",
       "sort_order": 50,
       "source_local_id": "c40f67cd-486a-4c4e-95d6-c124d8ee854c",
@@ -18966,7 +19310,7 @@
         "builder-story"
       ],
       "title": "Lamplight Summer Camp",
-      "updated_at": "2026-10-06T14:17:46.625917+00:00"
+      "updated_at": "2026-10-07T14:37:09.324218+00:00"
     },
     {
       "attribution": {
@@ -19068,7 +19412,7 @@
       "license": "RCL-1.0",
       "metadata": {},
       "parent_slug": null,
-      "published_at": "2026-10-06T14:17:46.534+00:00",
+      "published_at": "2026-10-07T14:37:09.209+00:00",
       "slug": "living-room-conversations",
       "sort_order": 50,
       "source_local_id": "7149e6a3-197d-4bd8-b721-17d1da04a154",
@@ -19081,7 +19425,7 @@
         "builder-story"
       ],
       "title": "Living Room Conversations",
-      "updated_at": "2026-10-06T14:17:46.775578+00:00"
+      "updated_at": "2026-10-07T14:37:09.51478+00:00"
     },
     {
       "attribution": {
@@ -19229,7 +19573,7 @@
       "license": "RCL-1.0",
       "metadata": {},
       "parent_slug": null,
-      "published_at": "2026-10-06T14:17:46.534+00:00",
+      "published_at": "2026-10-07T14:37:09.209+00:00",
       "slug": "melbourne-people-s-panel",
       "sort_order": 50,
       "source_local_id": "318fe7b8-79c5-46bb-b233-0398046d07a6",
@@ -19242,7 +19586,7 @@
         "builder-story"
       ],
       "title": "Melbourne People's Panel",
-      "updated_at": "2026-10-06T14:17:46.625917+00:00"
+      "updated_at": "2026-10-07T14:37:09.324218+00:00"
     },
     {
       "attribution": {
@@ -19478,7 +19822,7 @@
       "license": "RCL-1.0",
       "metadata": {},
       "parent_slug": null,
-      "published_at": "2026-10-06T14:17:46.534+00:00",
+      "published_at": "2026-10-07T14:37:09.209+00:00",
       "slug": "nate-tubbs-and-the-island-chicago",
       "sort_order": 50,
       "source_local_id": "1358ab34-b5a4-4fcd-b5af-9b121fb46325",
@@ -19491,7 +19835,7 @@
         "builder-story"
       ],
       "title": "Nate Tubbs and The Island, Chicago",
-      "updated_at": "2026-10-06T14:17:46.625917+00:00"
+      "updated_at": "2026-10-07T14:37:09.324218+00:00"
     },
     {
       "attribution": {
@@ -19505,7 +19849,7 @@
       "license": "RCL-1.0",
       "metadata": {},
       "parent_slug": null,
-      "published_at": "2026-10-06T14:17:46.534+00:00",
+      "published_at": "2026-10-07T14:37:09.209+00:00",
       "slug": "neighborcircles-lawrence-massachusetts",
       "sort_order": 50,
       "source_local_id": "ce1ffb49-f093-412f-b185-cc53ffbecf06",
@@ -19518,7 +19862,7 @@
         "builder-story"
       ],
       "title": "NeighborCircles, Lawrence, Massachusetts",
-      "updated_at": "2026-10-06T14:17:46.775578+00:00"
+      "updated_at": "2026-10-07T14:37:09.51478+00:00"
     },
     {
       "attribution": {
@@ -19759,7 +20103,7 @@
       "license": "RCL-1.0",
       "metadata": {},
       "parent_slug": null,
-      "published_at": "2026-10-06T14:17:46.534+00:00",
+      "published_at": "2026-10-07T14:37:09.209+00:00",
       "slug": "nuns-nones-and-sacred-hospitality",
       "sort_order": 50,
       "source_local_id": "546eb8b8-c06f-4a2d-8e81-c8582cd80144",
@@ -19772,7 +20116,7 @@
         "builder-story"
       ],
       "title": "Nuns, Nones, and Sacred Hospitality",
-      "updated_at": "2026-10-06T14:17:46.625917+00:00"
+      "updated_at": "2026-10-07T14:37:09.324218+00:00"
     },
     {
       "attribution": {
@@ -19881,7 +20225,7 @@
       "license": "RCL-1.0",
       "metadata": {},
       "parent_slug": null,
-      "published_at": "2026-10-06T14:17:46.534+00:00",
+      "published_at": "2026-10-07T14:37:09.209+00:00",
       "slug": "outer-sunset-field-guide",
       "sort_order": 50,
       "source_local_id": "c9719de0-5264-4996-b513-43a14096537b",
@@ -19894,7 +20238,7 @@
         "builder-story"
       ],
       "title": "Outer Sunset Field Guide",
-      "updated_at": "2026-10-06T14:17:46.775578+00:00"
+      "updated_at": "2026-10-07T14:37:09.51478+00:00"
     },
     {
       "attribution": {
@@ -20218,7 +20562,7 @@
       "license": "RCL-1.0",
       "metadata": {},
       "parent_slug": null,
-      "published_at": "2026-10-06T14:17:46.534+00:00",
+      "published_at": "2026-10-07T14:37:09.209+00:00",
       "slug": "porchfest-ithaca-to-everywhere",
       "sort_order": 50,
       "source_local_id": "a7ad5dd5-cbf7-4e30-a9fd-07a8e5ae3aa9",
@@ -20231,7 +20575,7 @@
         "builder-story"
       ],
       "title": "Porchfest, Ithaca to Everywhere",
-      "updated_at": "2026-10-06T14:17:46.775578+00:00"
+      "updated_at": "2026-10-07T14:37:09.51478+00:00"
     },
     {
       "attribution": {
@@ -20513,7 +20857,7 @@
       "license": "RCL-1.0",
       "metadata": {},
       "parent_slug": null,
-      "published_at": "2026-10-06T14:17:46.534+00:00",
+      "published_at": "2026-10-07T14:37:09.209+00:00",
       "slug": "repair-cafe",
       "sort_order": 50,
       "source_local_id": "9b2aa2a1-e5e9-44e6-a17b-2b048a13363f",
@@ -20526,7 +20870,7 @@
         "builder-story"
       ],
       "title": "Repair Cafe",
-      "updated_at": "2026-10-06T14:17:46.775578+00:00"
+      "updated_at": "2026-10-07T14:37:09.51478+00:00"
     },
     {
       "attribution": {
@@ -20668,7 +21012,7 @@
       "license": "RCL-1.0",
       "metadata": {},
       "parent_slug": null,
-      "published_at": "2026-10-06T14:17:46.534+00:00",
+      "published_at": "2026-10-07T14:37:09.209+00:00",
       "slug": "savannah-kruger-and-the-neighborhood-accelerator-boulder",
       "sort_order": 50,
       "source_local_id": "4c61e9aa-6419-4e18-9f57-cf431aed0c73",
@@ -20681,7 +21025,7 @@
         "builder-story"
       ],
       "title": "Savannah Kruger and The Neighborhood Accelerator, Boulder",
-      "updated_at": "2026-10-06T14:17:46.625917+00:00"
+      "updated_at": "2026-10-07T14:37:09.324218+00:00"
     },
     {
       "attribution": {
@@ -20828,7 +21172,7 @@
       "license": "RCL-1.0",
       "metadata": {},
       "parent_slug": null,
-      "published_at": "2026-10-06T14:17:46.534+00:00",
+      "published_at": "2026-10-07T14:37:09.209+00:00",
       "slug": "south-australia-citizens-jury-on-nuclear-waste",
       "sort_order": 50,
       "source_local_id": "0d418f2d-b73e-4748-a2b5-0a5bbaee2334",
@@ -20841,7 +21185,7 @@
         "builder-story"
       ],
       "title": "South Australia Citizens' Jury on Nuclear Waste",
-      "updated_at": "2026-10-06T14:17:46.625917+00:00"
+      "updated_at": "2026-10-07T14:37:09.324218+00:00"
     },
     {
       "attribution": {
@@ -20938,6 +21282,45 @@
     },
     {
       "attribution": {
+        "name": "AI Objectives Institute",
+        "source": "ai.objectives.institute/talk-to-the-city"
+      },
+      "body": "**Places:** Taiwan, Tokyo, United States.\n\nSame pattern each time: masses of voice in, one readable, navigable report out. Themes cluster, quotes stay attached, and the minority views that a summary would flatten remain visible.\n\n**The pattern a neighborhood can borrow:** the report is a thing a whole community can read. Build the report page before the assembly, and bring it on paper.",
+      "created_at": "2026-10-08T04:12:57.697114+00:00",
+      "id": "d3255eeb-7885-40ac-a5a6-e02c991b6bcd",
+      "image_urls": [],
+      "kind": "story",
+      "license": null,
+      "metadata": {
+        "place": "Taiwan, Tokyo, United States",
+        "sources": [
+          "https://ai.objectives.institute/talk-to-the-city",
+          "https://github.com/AIObjectives/talk-to-the-city-reports"
+        ]
+      },
+      "parent_slug": null,
+      "published_at": "2026-10-08T04:12:57.697114+00:00",
+      "slug": "talk-to-the-city-taiwan-tokyo",
+      "sort_order": 330,
+      "source_local_id": null,
+      "source_studio_slug": "deliberation",
+      "source_url": "https://ai.objectives.institute/talk-to-the-city",
+      "status": "canonical",
+      "steward": null,
+      "summary": "Taiwan's Ministry of Digital Affairs used Talk to the City for national consultations (AI policy among them); Tokyo polled residents on policy priorities in the 2024 gubernatorial season; a California healthcare workers' union used it to hear its members.",
+      "tags": [
+        "deliberation",
+        "story",
+        "taiwan",
+        "tokyo",
+        "reports",
+        "ai"
+      ],
+      "title": "Talk to the City: from Taiwan's ministries to a healthcare union",
+      "updated_at": "2026-10-08T04:12:57.697114+00:00"
+    },
+    {
+      "attribution": {
         "name": "Referenced in Jesse Evers' guide / multiple sources"
       },
       "body": "<p>In 2012, Joseph Ficalora did something improbable in Bushwick, Brooklyn. He started inviting street artists — from around the world, from the legendary New York graffiti scene, and from the neighborhood itself — to paint the walls of industrial buildings along Troutman Street and St. Nicholas Avenue. The project was personal. In 1991, when Joseph was twelve, his father Ignazio was murdered on the way home from the family steel fabrication business — killed for a few dollars and a gold chain. Years later, his mother died after a four-year battle with a brain tumor. The Bushwick Collective became Joseph's way of healing from a childhood spent in a neighborhood marked by crime and neglect — by transforming the very walls that had surrounded him.</p><p>The murals are temporary by design — each one lasts about twelve months before being replaced. Artists are not paid; these are permission murals, not commissions. What started as a personal project of healing and beautification became a catalyst for neighborhood transformation. Industrial blocks became vibrant outdoor galleries. The annual Block Party draws thousands of people and produces dozens of new installations in a single weekend. The Bushwick Collective helped shift Bushwick's identity from a place defined by its deficits to one known for creativity and vitality.</p><p>The transformation hasn't been without tension. Rising rents followed the cultural energy, pushing out longtime residents — sometimes including the artists whose work made the neighborhood attractive. The Bushwick Collective sits at the intersection of placemaking and gentrification, beauty and displacement — a tension that any community builder working in changing neighborhoods must reckon with. But at its core, the Collective demonstrates that public art, created in relationship between artists and a place, can change how a neighborhood sees itself and is seen by others.</p>",
@@ -20948,7 +21331,7 @@
       "license": "RCL-1.0",
       "metadata": {},
       "parent_slug": null,
-      "published_at": "2026-10-06T14:17:46.534+00:00",
+      "published_at": "2026-10-07T14:37:09.209+00:00",
       "slug": "the-bushwick-collective-brooklyn",
       "sort_order": 50,
       "source_local_id": "106d1a4f-e458-401e-8f63-d65d137b4f58",
@@ -20961,7 +21344,7 @@
         "builder-story"
       ],
       "title": "The Bushwick Collective, Brooklyn",
-      "updated_at": "2026-10-06T14:17:46.625917+00:00"
+      "updated_at": "2026-10-07T14:37:09.324218+00:00"
     },
     {
       "attribution": {
@@ -20975,7 +21358,7 @@
       "license": "RCL-1.0",
       "metadata": {},
       "parent_slug": null,
-      "published_at": "2026-10-06T14:17:46.534+00:00",
+      "published_at": "2026-10-07T14:37:09.209+00:00",
       "slug": "the-claypole-commons",
       "sort_order": 50,
       "source_local_id": "7f6a4286-e9b8-4f90-ab43-45ac834e0a0f",
@@ -20988,7 +21371,7 @@
         "builder-story"
       ],
       "title": "The Claypole Commons",
-      "updated_at": "2026-10-06T14:17:46.625917+00:00"
+      "updated_at": "2026-10-07T14:37:09.324218+00:00"
     },
     {
       "attribution": {
@@ -21034,6 +21417,44 @@
     },
     {
       "attribution": {
+        "name": "Humphrey Obuobi (LETS Studio, Metagov)",
+        "source": "theflyer.org"
+      },
+      "body": "**Place:** North Oakland, California. **Builder:** Humphrey Obuobi (LETS Studio, Metagov).\n\nRecent issues carried community food resources, a park discussion, back-to-school support, and local music. Behind the QR codes sit localized Pol.is conversations, so the physical, place-based hubs link to online, interactive spaces, and back again: the next issue carries what the neighborhood heard.\n\n**The pattern a neighborhood can borrow:** put the question inside something people already pick up. The flyer is the distribution system; the conversation is what it points at; the newsletter is the return path.",
+      "created_at": "2026-10-08T04:12:57.697114+00:00",
+      "id": "63a88098-d415-4489-8fef-9070e4af681b",
+      "image_urls": [],
+      "kind": "story",
+      "license": null,
+      "metadata": {
+        "place": "North Oakland, California",
+        "sources": [
+          "https://www.theflyer.org",
+          "https://metagov.org/people/humphrey-obuobi"
+        ]
+      },
+      "parent_slug": null,
+      "published_at": "2026-10-08T04:12:57.697114+00:00",
+      "slug": "the-flyer-north-oakland",
+      "sort_order": 310,
+      "source_local_id": null,
+      "source_studio_slug": "deliberation",
+      "source_url": "https://www.theflyer.org",
+      "status": "canonical",
+      "steward": null,
+      "summary": "In North Oakland, a print zine on poles and porches carries community food resources, a park discussion, back-to-school support, and local music, with the deliberative layer arriving inside something neighbors already want to pick up.",
+      "tags": [
+        "deliberation",
+        "story",
+        "oakland",
+        "zine",
+        "print-first"
+      ],
+      "title": "The Flyer: zine issues as the neighborhood's front page",
+      "updated_at": "2026-10-08T04:12:57.697114+00:00"
+    },
+    {
+      "attribution": {
         "name": "Tonika Lewis Johnson, Visual Artist and Community Connector"
       },
       "body": "<p>Chicago's North and South Sides have corresponding street addresses — the same numbers, mirrored across the city's dividing line. But the neighborhoods at those matching addresses often couldn't be more different. Decades of segregation, disinvestment, and policy created two Chicagos living side by side on paper but worlds apart in reality.</p>\n\n<p>Tonika Lewis Johnson, a visual artist from the South Side's Englewood neighborhood, started the Folded Map Project to make this visible — and then to do something about it. The project begins with photography: Tonika captures side-by-side images of corresponding addresses on the North and South Sides. A house at 6700 North next to its mirror at 6700 South. The visual contrast tells a story no policy paper can: the same city, vastly unequal.</p>\n\n<p>But the project doesn't stop at images. Tonika introduces the people who live at these mirrored addresses — \"map twins\" — to each other. They meet, visit each other's neighborhoods, share meals, and see each other's daily reality up close. The relationships that form aren't symbolic. They're real encounters between real people who happen to share a number but not a lived experience.</p>\n\n<p>The Folded Map Project has been embraced by the City of Chicago, which partnered with Tonika to distribute action kits. The project has been featured at galleries, community spaces, and public events, but its core engine is intimate: two people, two neighborhoods, one conversation at a time.</p>\n\n<p>What makes Folded Map a piece of relational technology is that the photographs aren't the point — the relationships are. The images create an occasion for encounter. They give people a reason to cross boundaries they'd otherwise never cross. They turn abstract inequality into something personal and proximate.</p>\n\n<p>For relational technologists, the Folded Map offers a pattern: use what a place already has (its geography, its structure, its hidden symmetries) to create connection. Don't build from scratch — fold the map, and see who's been standing across from you all along.</p>",
@@ -21044,7 +21465,7 @@
       "license": "RCL-1.0",
       "metadata": {},
       "parent_slug": null,
-      "published_at": "2026-10-06T14:17:46.534+00:00",
+      "published_at": "2026-10-07T14:37:09.209+00:00",
       "slug": "the-folded-map",
       "sort_order": 50,
       "source_local_id": "f6cb7737-688d-4c30-a0f5-fc50e37d60f3",
@@ -21057,7 +21478,7 @@
         "builder-story"
       ],
       "title": "The Folded Map",
-      "updated_at": "2026-10-06T14:17:46.625917+00:00"
+      "updated_at": "2026-10-07T14:37:09.324218+00:00"
     },
     {
       "attribution": {
@@ -21071,7 +21492,7 @@
       "license": "RCL-1.0",
       "metadata": {},
       "parent_slug": null,
-      "published_at": "2026-10-06T14:17:46.534+00:00",
+      "published_at": "2026-10-07T14:37:09.209+00:00",
       "slug": "the-kindness-party",
       "sort_order": 50,
       "source_local_id": "db6c6334-b2c5-4b37-9c0e-ec7f7717ad4d",
@@ -21084,7 +21505,7 @@
         "builder-story"
       ],
       "title": "The Kindness Party",
-      "updated_at": "2026-10-06T14:17:46.625917+00:00"
+      "updated_at": "2026-10-07T14:37:09.324218+00:00"
     },
     {
       "attribution": {
@@ -21098,7 +21519,7 @@
       "license": "RCL-1.0",
       "metadata": {},
       "parent_slug": null,
-      "published_at": "2026-10-06T14:17:46.534+00:00",
+      "published_at": "2026-10-07T14:37:09.209+00:00",
       "slug": "the-neighbor-gathering-microgrant",
       "sort_order": 50,
       "source_local_id": "440aa37e-43bb-46f8-8456-4837df883999",
@@ -21111,7 +21532,7 @@
         "builder-story"
       ],
       "title": "The Neighbor Gathering Microgrant",
-      "updated_at": "2026-10-06T14:17:46.625917+00:00"
+      "updated_at": "2026-10-07T14:37:09.324218+00:00"
     },
     {
       "attribution": {
@@ -21125,7 +21546,7 @@
       "license": "RCL-1.0",
       "metadata": {},
       "parent_slug": null,
-      "published_at": "2026-10-06T14:17:46.534+00:00",
+      "published_at": "2026-10-07T14:37:09.209+00:00",
       "slug": "the-pain-clinic",
       "sort_order": 50,
       "source_local_id": "51d979f9-72ef-45e7-af1b-346b8f68eda7",
@@ -21138,7 +21559,7 @@
         "builder-story"
       ],
       "title": "The Pain Clinic",
-      "updated_at": "2026-10-06T14:17:46.625917+00:00"
+      "updated_at": "2026-10-07T14:37:09.324218+00:00"
     },
     {
       "attribution": {
@@ -21179,7 +21600,7 @@
       "license": "RCL-1.0",
       "metadata": {},
       "parent_slug": null,
-      "published_at": "2026-10-06T14:17:46.534+00:00",
+      "published_at": "2026-10-07T14:37:09.209+00:00",
       "slug": "the-school-for-grassroots-leaders",
       "sort_order": 50,
       "source_local_id": "f138ad22-2f0f-482d-a494-834413df1e4c",
@@ -21192,7 +21613,7 @@
         "builder-story"
       ],
       "title": "The School for Grassroots Leaders",
-      "updated_at": "2026-10-06T14:17:46.625917+00:00"
+      "updated_at": "2026-10-07T14:37:09.324218+00:00"
     },
     {
       "attribution": {
@@ -21233,7 +21654,7 @@
       "license": "RCL-1.0",
       "metadata": {},
       "parent_slug": null,
-      "published_at": "2026-10-06T14:17:46.534+00:00",
+      "published_at": "2026-10-07T14:37:09.209+00:00",
       "slug": "the-village-square-tallahassee",
       "sort_order": 50,
       "source_local_id": "554659a0-2169-4dee-98c4-9e90885a8a2d",
@@ -21246,7 +21667,7 @@
         "builder-story"
       ],
       "title": "The Village Square, Tallahassee",
-      "updated_at": "2026-10-06T14:17:46.775578+00:00"
+      "updated_at": "2026-10-07T14:37:09.51478+00:00"
     },
     {
       "attribution": {
@@ -21308,7 +21729,7 @@
       "license": "RCL-1.0",
       "metadata": {},
       "parent_slug": null,
-      "published_at": "2026-10-06T14:17:46.534+00:00",
+      "published_at": "2026-10-07T14:37:09.209+00:00",
       "slug": "the-yes-house-granite-falls-minnesota",
       "sort_order": 50,
       "source_local_id": "96788abf-8d18-447a-9471-4ea72a21cab9",
@@ -21321,7 +21742,7 @@
         "builder-story"
       ],
       "title": "The Yes House, Granite Falls, Minnesota",
-      "updated_at": "2026-10-06T14:17:46.625917+00:00"
+      "updated_at": "2026-10-07T14:37:09.324218+00:00"
     },
     {
       "attribution": {
@@ -21335,7 +21756,7 @@
       "license": "RCL-1.0",
       "metadata": {},
       "parent_slug": null,
-      "published_at": "2026-10-06T14:17:46.534+00:00",
+      "published_at": "2026-10-07T14:37:09.209+00:00",
       "slug": "trade-school-new-york-to-everywhere",
       "sort_order": 50,
       "source_local_id": "e4acaa1b-b88d-44e6-88ef-5b1232af94bf",
@@ -21348,7 +21769,7 @@
         "builder-story"
       ],
       "title": "Trade School, New York to Everywhere",
-      "updated_at": "2026-10-06T14:17:46.775578+00:00"
+      "updated_at": "2026-10-07T14:37:09.51478+00:00"
     },
     {
       "attribution": {
@@ -21454,7 +21875,7 @@
       "license": "RCL-1.0",
       "metadata": {},
       "parent_slug": null,
-      "published_at": "2026-10-06T14:17:46.534+00:00",
+      "published_at": "2026-10-07T14:37:09.209+00:00",
       "slug": "vtaiwan-and-digital-democracy",
       "sort_order": 50,
       "source_local_id": "0e84ab7a-50e2-4cc6-8e57-2b02250ff261",
@@ -21467,7 +21888,45 @@
         "builder-story"
       ],
       "title": "vTaiwan and Digital Democracy",
-      "updated_at": "2026-10-06T14:17:46.775578+00:00"
+      "updated_at": "2026-10-07T14:37:09.51478+00:00"
+    },
+    {
+      "attribution": {
+        "name": "Computational Democracy Project case study",
+        "source": "compdemocracy.org/case-studies/vtaiwan"
+      },
+      "body": "**Place:** Taiwan.\n\nvTaiwan remains the reference case for scaling listening without flattening it. Statements are crowdsourced and voted on in Pol.is until the opinion groups and the bridging statements are visible; then the people who disagree meet in person to work the parts the map could not settle. The ride-sharing (Uber) rules are the best-known outcome.\n\n**The pattern a neighborhood can borrow:** opinion map online first, then work the hard parts face to face. The map is the agenda, not the decision.",
+      "created_at": "2026-10-08T04:12:57.697114+00:00",
+      "id": "336f606a-b6b7-4b6c-b930-df5a0bd5c487",
+      "image_urls": [],
+      "kind": "story",
+      "license": null,
+      "metadata": {
+        "place": "Taiwan",
+        "sources": [
+          "https://compdemocracy.org/case-studies/vtaiwan/",
+          "https://compdemocracy.org/knowledge-base/"
+        ]
+      },
+      "parent_slug": null,
+      "published_at": "2026-10-08T04:12:57.697114+00:00",
+      "slug": "vtaiwan-consensus-at-scale",
+      "sort_order": 300,
+      "source_local_id": null,
+      "source_studio_slug": "deliberation",
+      "source_url": "https://compdemocracy.org/case-studies/vtaiwan/",
+      "status": "canonical",
+      "steward": null,
+      "summary": "Taiwan's vTaiwan process pairs Pol.is opinion mapping with face-to-face deliberation: crowdsourced statements reveal rough consensus, then stakeholders meet to work the remaining tensions. It shaped national policy, most famously the ride-sharing rules.",
+      "tags": [
+        "deliberation",
+        "story",
+        "taiwan",
+        "polis",
+        "consensus"
+      ],
+      "title": "vTaiwan: consensus at national scale",
+      "updated_at": "2026-10-08T04:12:57.697114+00:00"
     },
     {
       "attribution": {
@@ -21599,7 +22058,7 @@
       "license": "RCL-1.0",
       "metadata": {},
       "parent_slug": null,
-      "published_at": "2026-10-06T14:17:46.534+00:00",
+      "published_at": "2026-10-07T14:37:09.209+00:00",
       "slug": "yard-parties-and-sweat-equity",
       "sort_order": 50,
       "source_local_id": "f903ca98-d4a3-4c54-8a95-568726e1bcb8",
@@ -21612,7 +22071,7 @@
         "builder-story"
       ],
       "title": "Yard Parties and Sweat Equity",
-      "updated_at": "2026-10-06T14:17:46.625917+00:00"
+      "updated_at": "2026-10-07T14:37:09.324218+00:00"
     },
     {
       "attribution": {
@@ -21683,7 +22142,7 @@
         "tool_category": "relational_tech"
       },
       "parent_slug": null,
-      "published_at": "2026-10-06T14:17:46.534+00:00",
+      "published_at": "2026-10-07T14:37:09.209+00:00",
       "slug": "a-community-library-for-my-coworking-space",
       "sort_order": 50,
       "source_local_id": "af82d968-140b-4e7c-8176-2ee7092a31c7",
@@ -21696,7 +22155,7 @@
         "relational-tech"
       ],
       "title": "A community library for my coworking space",
-      "updated_at": "2026-10-06T14:17:46.625917+00:00"
+      "updated_at": "2026-10-07T14:37:09.324218+00:00"
     },
     {
       "attribution": {
@@ -21722,7 +22181,7 @@
         "tool_category": "relational_tech"
       },
       "parent_slug": null,
-      "published_at": "2026-10-06T14:17:46.534+00:00",
+      "published_at": "2026-10-07T14:37:09.209+00:00",
       "slug": "block-party-organizing",
       "sort_order": 13,
       "source_local_id": "50dbf81f-63d6-43f5-8804-d84656b7f4e3",
@@ -21735,7 +22194,7 @@
         "relational-tech"
       ],
       "title": "Block Party Organizing",
-      "updated_at": "2026-10-06T14:17:46.625917+00:00"
+      "updated_at": "2026-10-07T14:37:09.324218+00:00"
     },
     {
       "attribution": {
@@ -21797,7 +22256,7 @@
         "tool_category": "tech_for_building"
       },
       "parent_slug": null,
-      "published_at": "2026-10-06T14:17:46.534+00:00",
+      "published_at": "2026-10-07T14:37:09.209+00:00",
       "slug": "claude-code",
       "sort_order": 50,
       "source_local_id": "448d2194-4514-44ad-a149-d6c1e5423fc9",
@@ -21810,7 +22269,7 @@
         "tech-for-building"
       ],
       "title": "Claude Code",
-      "updated_at": "2026-10-06T14:17:46.625917+00:00"
+      "updated_at": "2026-10-07T14:37:09.324218+00:00"
     },
     {
       "attribution": {
@@ -21875,7 +22334,7 @@
         "tool_category": "relational_tech"
       },
       "parent_slug": null,
-      "published_at": "2026-10-06T14:17:46.534+00:00",
+      "published_at": "2026-10-07T14:37:09.209+00:00",
       "slug": "community-apps-dashboard",
       "sort_order": 11,
       "source_local_id": "187fd801-37fc-47c3-bacd-eb8930707c54",
@@ -21888,7 +22347,7 @@
         "relational-tech"
       ],
       "title": "Community Apps Dashboard",
-      "updated_at": "2026-10-06T14:17:46.625917+00:00"
+      "updated_at": "2026-10-07T14:37:09.324218+00:00"
     },
     {
       "attribution": {
@@ -21915,7 +22374,7 @@
         "tool_category": "relational_tech"
       },
       "parent_slug": null,
-      "published_at": "2026-10-06T14:17:46.534+00:00",
+      "published_at": "2026-10-07T14:37:09.209+00:00",
       "slug": "community-clubs-platform",
       "sort_order": 3,
       "source_local_id": "d7008a59-4d74-4304-a80c-874afb8789d3",
@@ -21928,7 +22387,7 @@
         "relational-tech"
       ],
       "title": "Community Clubs Platform",
-      "updated_at": "2026-10-06T14:17:46.625917+00:00"
+      "updated_at": "2026-10-07T14:37:09.324218+00:00"
     },
     {
       "attribution": {
@@ -21955,7 +22414,7 @@
         "tool_category": "relational_tech"
       },
       "parent_slug": null,
-      "published_at": "2026-10-06T14:17:46.534+00:00",
+      "published_at": "2026-10-07T14:37:09.209+00:00",
       "slug": "community-income-sharing",
       "sort_order": 4,
       "source_local_id": "32d7857d-a7c9-44d5-9f0d-908982cf5032",
@@ -21968,7 +22427,7 @@
         "relational-tech"
       ],
       "title": "Community Income Sharing",
-      "updated_at": "2026-10-06T14:17:46.625917+00:00"
+      "updated_at": "2026-10-07T14:37:09.324218+00:00"
     },
     {
       "attribution": {
@@ -22053,6 +22512,333 @@
     },
     {
       "attribution": {
+        "name": "BLOOM Project",
+        "source": "bloomproject.us"
+      },
+      "body": "BLOOM Project builds public infrastructure for democratic co-governance; CivicOS is the stack under its deployments, run with a local civic host. Its shape is a relay: a broad anonymous Open Poll (agree, disagree, unsure; add your own statement) seeds facilitated community conversations (transcribed and themed), which seed a report and an assembly of residents who produce concrete recommendations. Stages (our mapping): eliciting, learning, deliberating, proposing, deciding.\n\n**Neighborhood use:** the pattern scales down: a two-week neighborhood poll, then three living-room conversations, then a representative group that writes the proposal everyone responds to. Each stage hands its output to the next; someone keeps organizing between and after the sessions so recommendations land.\n\n**Remix pattern:** a phased civic process in one small app: an open statement poll with opinion groups and consensus by group, a schedule of small-group conversations with shared prompts, and a final report page showing themes with quotes, what the process concluded, and who deliberated.\n\n**Connects:** a poll seeds conversations, conversations seed an assembly, nothing is a dead end. Partners' existing convenings (colleges, libraries, civic groups, health orgs) are the on-land infrastructure.\n\nSee the public report of the Central Oregon deployment: report.bloomproject.us/central-oregon-ai. Builds that draw on this model carry \"In partnership with BLOOM\".",
+      "created_at": "2026-10-08T04:12:57.697114+00:00",
+      "id": "48f782b4-17e8-4166-b7e5-6ea7c8b8ad29",
+      "image_urls": [],
+      "kind": "tool",
+      "license": null,
+      "metadata": {
+        "maker": "BLOOM Project",
+        "stages": [
+          "eliciting",
+          "learning",
+          "deliberating",
+          "proposing",
+          "deciding"
+        ],
+        "image_url": "https://texakzqqenzpxawktbgx.supabase.co/storage/v1/object/public/studio-library/bloom/open-poll.png",
+        "live_poll": "https://all.bloomproject.us/contribute",
+        "remix_idea": "A poll to conversations to report relay for one neighborhood question, with Export results in the report's shape.",
+        "practice_kind": "tool",
+        "metagov_listed": false
+      },
+      "parent_slug": null,
+      "published_at": "2026-10-08T04:12:57.697114+00:00",
+      "slug": "delib-civicos",
+      "sort_order": 130,
+      "source_local_id": null,
+      "source_studio_slug": "deliberation",
+      "source_url": "https://report.bloomproject.us/central-oregon-ai",
+      "status": "canonical",
+      "steward": null,
+      "summary": "Infrastructure for public problem-solving: an Open Poll maps the opinion landscape, small-group community conversations work through tradeoffs, and a civic assembly of residents produces recommendations. The platform under BLOOM's live deployments.",
+      "tags": [
+        "deliberation",
+        "tool",
+        "civic-host",
+        "open-poll",
+        "assembly",
+        "eliciting",
+        "learning",
+        "deliberating",
+        "proposing",
+        "deciding"
+      ],
+      "title": "CivicOS (BLOOM Project)",
+      "updated_at": "2026-10-08T04:12:57.697114+00:00"
+    },
+    {
+      "attribution": {
+        "name": "Decidim Free Software Association (grown from Barcelona City Council)",
+        "source": "decidim.org"
+      },
+      "body": "Open source (AGPL-3.0), used by hundreds of cities, cooperatives, and organizations. Listed in Metagov's gallery for framing, eliciting, deliberating, deciding.\n\n**Neighborhood use:** the horizon a neighborhood process can grow toward: when a block's deliberations mature into standing assemblies with budgets, Decidim is the city-grade commons they can move into without leaving open source.\n\n**Remix pattern:** a small-scale proposals-and-assemblies flow: neighbors post proposals, endorse each other's, and the assembly page shows what advanced, a garden-plot version of the Decidim pattern.\n\n**Connects:** a whole-city participation OS that neighborhood processes can plug into as they grow. Proposals travel from block assemblies up to formal city process.",
+      "created_at": "2026-10-08T04:12:57.697114+00:00",
+      "id": "a849d475-b3d6-4b1d-b503-ac9a546e48d4",
+      "image_urls": [],
+      "kind": "tool",
+      "license": null,
+      "metadata": {
+        "maker": "Decidim Free Software Association",
+        "stages": [
+          "framing",
+          "eliciting",
+          "deliberating",
+          "deciding"
+        ],
+        "license": "AGPL-3.0",
+        "repo_url": "https://github.com/decidim/decidim",
+        "image_url": "https://texakzqqenzpxawktbgx.supabase.co/storage/v1/object/public/studio-library/tool-screenshots/delib-decidim-2026-08.jpg",
+        "remix_idea": "A small proposals-and-assemblies flow for one neighborhood.",
+        "practice_kind": "tool",
+        "metagov_listed": true
+      },
+      "parent_slug": null,
+      "published_at": "2026-10-08T04:12:57.697114+00:00",
+      "slug": "delib-decidim",
+      "sort_order": 150,
+      "source_local_id": null,
+      "source_studio_slug": "deliberation",
+      "source_url": "https://decidim.org",
+      "status": "canonical",
+      "steward": null,
+      "summary": "The free participation platform cities and cooperatives run themselves: proposals, assemblies, participatory budgeting, consultations. Born from Barcelona's city platform, stewarded by the Decidim Free Software Association.",
+      "tags": [
+        "deliberation",
+        "tool",
+        "open-source",
+        "framing",
+        "eliciting",
+        "deliberating",
+        "deciding",
+        "participatory-budgeting"
+      ],
+      "title": "Decidim",
+      "updated_at": "2026-10-08T04:12:57.697114+00:00"
+    },
+    {
+      "attribution": {
+        "name": "Alex and the Heard team (credit to confirm)",
+        "source": "heard.vote"
+      },
+      "body": "Open source (MIT). Stages (our mapping): eliciting, deliberating.\n\n**Neighborhood use:** the standing question box for a block or an ANC-scale neighborhood: what should we take up next, how do people actually feel about the proposal, a quick pulse before the meeting so the meeting starts warm.\n\n**Remix pattern:** a neighborhood question board: anyone poses a question, neighbors respond and see live results, recent questions stay browsable, tuned to one place, with the steward deciding what carries forward to the in-person agenda.\n\n**Connects:** carries the Pol.is / vTaiwan lineage into a phone-native, feed-style format. Pairs with printed meeting notices going out and public minutes coming back.\n\nBuilder credit to confirm before wider publishing: the platform is open source at github.com/Heard-Platform/heard.",
+      "created_at": "2026-10-08T04:12:57.697114+00:00",
+      "id": "f332dad2-c1b7-4a55-a7e3-d4fe40596fb8",
+      "image_urls": [],
+      "kind": "tool",
+      "license": null,
+      "metadata": {
+        "maker": "Heard Platform",
+        "stages": [
+          "eliciting",
+          "deliberating"
+        ],
+        "license": "MIT",
+        "repo_url": "https://github.com/Heard-Platform/heard",
+        "image_url": "https://texakzqqenzpxawktbgx.supabase.co/storage/v1/object/public/studio-library/tool-screenshots/delib-heard-2026-08.jpg",
+        "remix_idea": "A neighborhood question board with live results and a steward who carries questions to the agenda.",
+        "practice_kind": "tool",
+        "metagov_listed": false,
+        "attribution_note": "Builder credit to confirm with the makers."
+      },
+      "parent_slug": null,
+      "published_at": "2026-10-08T04:12:57.697114+00:00",
+      "slug": "delib-heard",
+      "sort_order": 120,
+      "source_local_id": null,
+      "source_studio_slug": "deliberation",
+      "source_url": "https://heard.vote",
+      "status": "canonical",
+      "steward": null,
+      "summary": "A participatory survey platform inspired by Polis, vTaiwan, and Participativo Brazil, designed for the feed generation: neighbors respond to each other's questions and watch results form in real time. Grown hyperlocal-first in Washington, DC.",
+      "tags": [
+        "deliberation",
+        "tool",
+        "open-source",
+        "eliciting",
+        "deliberating",
+        "survey"
+      ],
+      "title": "Heard",
+      "updated_at": "2026-10-08T04:12:57.697114+00:00"
+    },
+    {
+      "attribution": {
+        "name": "Code for Boston volunteers",
+        "source": "mapletestimony.org"
+      },
+      "body": "Open source (MIT). Listed in Metagov's gallery for deliberating.\n\n**Neighborhood use:** the learning stage with teeth: when a neighborhood's question turns out to be a policy question, MAPLE's pattern shows what your neighbors already told the legislature, and turns block concerns into testimony.\n\n**Remix pattern:** a neighborhood testimony page for one local decision (a rezoning, a school change): a plain-language explainer of what's being decided, everyone's submitted statements in public, and how to carry them to the hearing.\n\n**Connects:** neighborhood concerns become testimony on real bills. A learning layer for deliberation: read what others said before adding your voice.",
+      "created_at": "2026-10-08T04:12:57.697114+00:00",
+      "id": "cbaf6381-8e62-43a8-9443-3e3b04c6a381",
+      "image_urls": [],
+      "kind": "tool",
+      "license": null,
+      "metadata": {
+        "maker": "Code for Boston",
+        "stages": [
+          "deliberating"
+        ],
+        "license": "MIT",
+        "repo_url": "https://github.com/codeforboston/maple",
+        "image_url": "https://texakzqqenzpxawktbgx.supabase.co/storage/v1/object/public/studio-library/tool-screenshots/delib-maple-2026-08.jpg",
+        "remix_idea": "A neighborhood testimony page for one local decision, with a plain explainer and public statements.",
+        "practice_kind": "tool",
+        "metagov_listed": true
+      },
+      "parent_slug": null,
+      "published_at": "2026-10-08T04:12:57.697114+00:00",
+      "slug": "delib-maple",
+      "sort_order": 160,
+      "source_local_id": null,
+      "source_studio_slug": "deliberation",
+      "source_url": "https://mapletestimony.org",
+      "status": "canonical",
+      "steward": null,
+      "summary": "The Massachusetts Platform for Legislative Engagement, a Code for Boston project: residents submit testimony on real bills and read everyone else's, a public archive that demystifies a process most people never see inside.",
+      "tags": [
+        "deliberation",
+        "tool",
+        "open-source",
+        "deliberating",
+        "testimony",
+        "policy"
+      ],
+      "title": "MAPLE",
+      "updated_at": "2026-10-08T04:12:57.697114+00:00"
+    },
+    {
+      "attribution": {
+        "name": "The Computational Democracy Project (Colin Megill)",
+        "source": "pol.is"
+      },
+      "body": "More organic than a survey, lighter than a focus group, built for the moments when a community suspects it agrees more than it argues. Open source (AGPL-3.0) from the Computational Democracy Project; listed in Metagov's gallery for eliciting, deliberating, and reflecting.\n\n**Neighborhood use:** a \"listening wall\" for one question your neighborhood is sitting with, seeded with a dozen starting statements, open for two weeks, flyer with a QR code on every corner. The consensus report becomes the agenda for the in-person conversation.\n\n**Remix pattern:** a single-conversation listening wall: one neighborhood question, statement voting with agree/disagree/pass, neighbors add their own statements, a live view of where the block agrees, and a printable consensus summary for the next meeting.\n\n**Connects:** The Flyer localizes Pol.is conversations to one neighborhood, on paper first. Talk to the City can read a Pol.is export and write the plain-language report. vTaiwan's pattern: opinion map online, then work the hard parts face-to-face.",
+      "created_at": "2026-10-08T04:12:57.697114+00:00",
+      "id": "555dc922-313d-4cb6-8697-c9a91f72c997",
+      "image_urls": [],
+      "kind": "tool",
+      "license": null,
+      "metadata": {
+        "maker": "The Computational Democracy Project",
+        "stages": [
+          "eliciting",
+          "deliberating",
+          "reflecting"
+        ],
+        "license": "AGPL-3.0",
+        "repo_url": "https://github.com/compdemocracy/polis",
+        "image_url": "https://texakzqqenzpxawktbgx.supabase.co/storage/v1/object/public/studio-library/tool-screenshots/delib-polis-2026-08.jpg",
+        "remix_idea": "A single-conversation listening wall for one neighborhood question, with a printable consensus summary.",
+        "practice_kind": "tool",
+        "metagov_listed": true
+      },
+      "parent_slug": null,
+      "published_at": "2026-10-08T04:12:57.697114+00:00",
+      "slug": "delib-polis",
+      "sort_order": 100,
+      "source_local_id": null,
+      "source_studio_slug": "deliberation",
+      "source_url": "https://pol.is",
+      "status": "canonical",
+      "steward": null,
+      "summary": "Opinion mapping that finds the common ground a room can't see. People respond to short statements (agree, disagree, pass) and write their own; the math surfaces opinion groups and the statements that bridge them.",
+      "tags": [
+        "deliberation",
+        "tool",
+        "open-source",
+        "eliciting",
+        "deliberating",
+        "reflecting",
+        "opinion-mapping"
+      ],
+      "title": "Pol.is",
+      "updated_at": "2026-10-08T04:12:57.697114+00:00"
+    },
+    {
+      "attribution": {
+        "name": "AI Objectives Institute (Colleen McKenzie)",
+        "source": "ai.objectives.institute"
+      },
+      "body": "By the AI Objectives Institute (program lead Colleen McKenzie). Listed in Metagov's gallery for framing and eliciting.\n\n**Neighborhood use:** after the listening: pour in the room-session notes, the survey answers, the conversation export, and get back a readable map of what the neighborhood said: themes, quotes, and the minority views that would otherwise vanish.\n\n**Remix pattern:** a \"what we heard\" report page for one process: themes with real quotes under them, prominence without erasure for minority views, and a plain-language summary a flyer can carry back to the block.\n\n**Connects:** reads exports from Pol.is conversations, room sessions, and plain survey flatfiles. Reports give assemblies and stewards a shared learning base before deliberation.",
+      "created_at": "2026-10-08T04:12:57.697114+00:00",
+      "id": "e24ff4e6-8d08-4d74-a710-8cd3bd5bc838",
+      "image_urls": [],
+      "kind": "tool",
+      "license": null,
+      "metadata": {
+        "maker": "AI Objectives Institute",
+        "stages": [
+          "framing",
+          "eliciting"
+        ],
+        "repo_url": "https://github.com/AIObjectives/talk-to-the-city-reports",
+        "image_url": "https://texakzqqenzpxawktbgx.supabase.co/storage/v1/object/public/studio-library/tool-screenshots/delib-talk-to-the-city-2026-08.jpg",
+        "remix_idea": "A what-we-heard report page: themes with quotes, minority views kept visible, a summary for the flyer.",
+        "practice_kind": "tool",
+        "metagov_listed": true
+      },
+      "parent_slug": null,
+      "published_at": "2026-10-08T04:12:57.697114+00:00",
+      "slug": "delib-talk-to-the-city",
+      "sort_order": 140,
+      "source_local_id": null,
+      "source_studio_slug": "deliberation",
+      "source_url": "https://ai.objectives.institute/talk-to-the-city",
+      "status": "canonical",
+      "steward": null,
+      "summary": "An open-source LLM pipeline that distills large-scale public input (transcripts, surveys, free text) into interactive reports, clustering themes while keeping the diversity of views visible. A report a whole community can read, not a spreadsheet only staff can.",
+      "tags": [
+        "deliberation",
+        "tool",
+        "open-source",
+        "framing",
+        "eliciting",
+        "reports",
+        "ai"
+      ],
+      "title": "Talk to the City",
+      "updated_at": "2026-10-08T04:12:57.697114+00:00"
+    },
+    {
+      "attribution": {
+        "name": "Humphrey Obuobi (LETS Studio, Metagov)",
+        "source": "theflyer.org"
+      },
+      "body": "A hub for North Oakland neighbors, by Humphrey Obuobi (LETS Studio, Metagov). The block's attention flows from paper to a shared question and back; everyone is welcome to contribute ideas and events. Stages (our mapping, not Metagov's): eliciting, learning, deliberating.\n\n**Neighborhood use:** the whole loop at block scale: the zine carries the question out, the QR code carries neighbors in, the conversation runs online, and the next issue carries back what the neighborhood heard.\n\n**Remix pattern:** a neighborhood hub with a print-first front door: a zine or newsletter page, a local events board, and one live neighborhood conversation, plus a printable flyer with a QR code that is the real distribution system.\n\n**Connects:** runs Pol.is underneath for the conversation layer. Flyers, zines, and QR codes bridge on-land attention into online deliberation. A newsletter is the return path: what the conversation found goes back to porches.",
+      "created_at": "2026-10-08T04:12:57.697114+00:00",
+      "id": "227339d5-f2f1-4647-92e0-223f49a29334",
+      "image_urls": [],
+      "kind": "tool",
+      "license": null,
+      "metadata": {
+        "maker": "Humphrey Obuobi",
+        "stages": [
+          "eliciting",
+          "learning",
+          "deliberating"
+        ],
+        "image_url": "https://texakzqqenzpxawktbgx.supabase.co/storage/v1/object/public/studio-library/tool-screenshots/delib-the-flyer-2026-08.jpg",
+        "remix_idea": "A neighborhood hub with a print-first front door and one live conversation behind a QR code.",
+        "practice_kind": "tool",
+        "metagov_listed": false
+      },
+      "parent_slug": null,
+      "published_at": "2026-10-08T04:12:57.697114+00:00",
+      "slug": "delib-the-flyer",
+      "sort_order": 110,
+      "source_local_id": null,
+      "source_studio_slug": "deliberation",
+      "source_url": "https://www.theflyer.org",
+      "status": "canonical",
+      "steward": null,
+      "summary": "A North Oakland zine that walks neighbors into online conversation: a print zine on poles and porches, local events, a newsletter, and localized Pol.is conversations behind the QR codes.",
+      "tags": [
+        "deliberation",
+        "tool",
+        "print-first",
+        "eliciting",
+        "learning",
+        "deliberating",
+        "zine"
+      ],
+      "title": "The Flyer",
+      "updated_at": "2026-10-08T04:12:57.697114+00:00"
+    },
+    {
+      "attribution": {
         "source": "Relational Tech Studio library"
       },
       "body": "Free, local, open-source AI app builder - community-driven alternative for building apps with AI\n\n## Remix this tool\n\n- Live site: https://www.dyad.sh/\n- Studio library page: https://studio.relationaltechproject.org/library?item=38f2433a-7051-490d-ad4a-ec37b2d69692",
@@ -22073,7 +22859,7 @@
         "tool_category": "tech_for_building"
       },
       "parent_slug": null,
-      "published_at": "2026-10-06T14:17:46.534+00:00",
+      "published_at": "2026-10-07T14:37:09.209+00:00",
       "slug": "dyad",
       "sort_order": 50,
       "source_local_id": "38f2433a-7051-490d-ad4a-ec37b2d69692",
@@ -22086,7 +22872,7 @@
         "tech-for-building"
       ],
       "title": "Dyad",
-      "updated_at": "2026-10-06T14:17:46.625917+00:00"
+      "updated_at": "2026-10-07T14:37:09.324218+00:00"
     },
     {
       "attribution": {
@@ -22149,7 +22935,7 @@
         "tool_category": "tech_for_building"
       },
       "parent_slug": null,
-      "published_at": "2026-10-06T14:17:46.534+00:00",
+      "published_at": "2026-10-07T14:37:09.209+00:00",
       "slug": "firecrawl",
       "sort_order": 50,
       "source_local_id": "4b83b697-3669-48eb-813f-0b28a7f3c3a0",
@@ -22162,7 +22948,7 @@
         "tech-for-building"
       ],
       "title": "Firecrawl",
-      "updated_at": "2026-10-06T14:17:46.625917+00:00"
+      "updated_at": "2026-10-07T14:37:09.324218+00:00"
     },
     {
       "attribution": {
@@ -22228,7 +23014,7 @@
         "tool_category": "relational_tech"
       },
       "parent_slug": null,
-      "published_at": "2026-10-06T14:17:46.534+00:00",
+      "published_at": "2026-10-07T14:37:09.209+00:00",
       "slug": "footer-component",
       "sort_order": 50,
       "source_local_id": "08106831-89ba-4afc-a235-d9a70cca62da",
@@ -22241,7 +23027,7 @@
         "relational-tech"
       ],
       "title": "Footer Component",
-      "updated_at": "2026-10-06T14:17:46.625917+00:00"
+      "updated_at": "2026-10-07T14:37:09.324218+00:00"
     },
     {
       "attribution": {
@@ -22304,7 +23090,7 @@
         "tool_category": "tech_for_building"
       },
       "parent_slug": null,
-      "published_at": "2026-10-06T14:17:46.534+00:00",
+      "published_at": "2026-10-07T14:37:09.209+00:00",
       "slug": "github",
       "sort_order": 50,
       "source_local_id": "3b1d4164-4da2-451f-91ec-b9c3bdf5ec5c",
@@ -22317,7 +23103,7 @@
         "tech-for-building"
       ],
       "title": "GitHub",
-      "updated_at": "2026-10-06T14:17:46.625917+00:00"
+      "updated_at": "2026-10-07T14:37:09.324218+00:00"
     },
     {
       "attribution": {
@@ -22382,7 +23168,7 @@
         "tool_category": "relational_tech"
       },
       "parent_slug": null,
-      "published_at": "2026-10-06T14:17:46.534+00:00",
+      "published_at": "2026-10-07T14:37:09.209+00:00",
       "slug": "hyperlocal-neighbor-hub",
       "sort_order": 1,
       "source_local_id": "c7391ea9-c94a-43b7-ab84-6817213f179b",
@@ -22395,7 +23181,7 @@
         "relational-tech"
       ],
       "title": "Hyperlocal Neighbor Hub",
-      "updated_at": "2026-10-06T14:17:46.625917+00:00"
+      "updated_at": "2026-10-07T14:37:09.324218+00:00"
     },
     {
       "attribution": {
@@ -22501,7 +23287,7 @@
         "tool_category": "relational_tech"
       },
       "parent_slug": null,
-      "published_at": "2026-10-06T14:17:46.534+00:00",
+      "published_at": "2026-10-07T14:37:09.209+00:00",
       "slug": "local-supplies-sharing",
       "sort_order": 3,
       "source_local_id": "dcb4d804-a256-4402-b785-00dabbf9635c",
@@ -22514,7 +23300,7 @@
         "relational-tech"
       ],
       "title": "Local Supplies Sharing",
-      "updated_at": "2026-10-06T14:17:46.625917+00:00"
+      "updated_at": "2026-10-07T14:37:09.324218+00:00"
     },
     {
       "attribution": {
@@ -22618,7 +23404,7 @@
         "tool_category": "tech_for_building"
       },
       "parent_slug": null,
-      "published_at": "2026-10-06T14:17:46.534+00:00",
+      "published_at": "2026-10-07T14:37:09.209+00:00",
       "slug": "lovable",
       "sort_order": 50,
       "source_local_id": "3be35a3d-f3ee-4a84-b635-77f9cefac1ee",
@@ -22631,7 +23417,7 @@
         "tech-for-building"
       ],
       "title": "Lovable",
-      "updated_at": "2026-10-06T14:17:46.625917+00:00"
+      "updated_at": "2026-10-07T14:37:09.324218+00:00"
     },
     {
       "attribution": {
@@ -22694,7 +23480,7 @@
         "tool_category": "tech_for_building"
       },
       "parent_slug": null,
-      "published_at": "2026-10-06T14:17:46.534+00:00",
+      "published_at": "2026-10-07T14:37:09.209+00:00",
       "slug": "mcp-servers",
       "sort_order": 50,
       "source_local_id": "301d1176-fa49-4be9-a155-ef73140a6187",
@@ -22707,7 +23493,7 @@
         "tech-for-building"
       ],
       "title": "MCP Servers",
-      "updated_at": "2026-10-06T14:17:46.625917+00:00"
+      "updated_at": "2026-10-07T14:37:09.324218+00:00"
     },
     {
       "attribution": {
@@ -22733,7 +23519,7 @@
         "tool_category": "relational_tech"
       },
       "parent_slug": null,
-      "published_at": "2026-10-06T14:17:46.534+00:00",
+      "published_at": "2026-10-07T14:37:09.209+00:00",
       "slug": "microgrant-management",
       "sort_order": 91,
       "source_local_id": "00878d6f-bd2b-46a1-b650-e838d36d9e03",
@@ -22746,7 +23532,7 @@
         "relational-tech"
       ],
       "title": "Microgrant Management",
-      "updated_at": "2026-10-06T14:17:46.625917+00:00"
+      "updated_at": "2026-10-07T14:37:09.324218+00:00"
     },
     {
       "attribution": {
@@ -22812,7 +23598,7 @@
         "tool_category": "relational_tech"
       },
       "parent_slug": null,
-      "published_at": "2026-10-06T14:17:46.534+00:00",
+      "published_at": "2026-10-07T14:37:09.209+00:00",
       "slug": "neighbor-story-sharing",
       "sort_order": 10,
       "source_local_id": "12850b59-a867-46fe-8235-4382b7d558a0",
@@ -22825,7 +23611,7 @@
         "relational-tech"
       ],
       "title": "Neighbor Story Sharing",
-      "updated_at": "2026-10-06T14:17:46.625917+00:00"
+      "updated_at": "2026-10-07T14:37:09.324218+00:00"
     },
     {
       "attribution": {
@@ -22851,7 +23637,7 @@
         "tool_category": "relational_tech"
       },
       "parent_slug": null,
-      "published_at": "2026-10-06T14:17:46.534+00:00",
+      "published_at": "2026-10-07T14:37:09.209+00:00",
       "slug": "neighborhood-api",
       "sort_order": 90,
       "source_local_id": "3b9ae654-96b8-4430-90d6-d1e50c6d19cf",
@@ -22864,7 +23650,7 @@
         "relational-tech"
       ],
       "title": "Neighborhood API",
-      "updated_at": "2026-10-06T14:17:46.625917+00:00"
+      "updated_at": "2026-10-07T14:37:09.324218+00:00"
     },
     {
       "attribution": {
@@ -22890,7 +23676,7 @@
         "tool_category": "relational_tech"
       },
       "parent_slug": null,
-      "published_at": "2026-10-06T14:17:46.534+00:00",
+      "published_at": "2026-10-07T14:37:09.209+00:00",
       "slug": "neighborhood-association-hub",
       "sort_order": 12,
       "source_local_id": "c1f51e94-870d-448d-a5b0-1537fd3b57b4",
@@ -22903,7 +23689,7 @@
         "relational-tech"
       ],
       "title": "Neighborhood Association Hub",
-      "updated_at": "2026-10-06T14:17:46.625917+00:00"
+      "updated_at": "2026-10-07T14:37:09.324218+00:00"
     },
     {
       "attribution": {
@@ -22929,7 +23715,7 @@
         "tool_category": "relational_tech"
       },
       "parent_slug": null,
-      "published_at": "2026-10-06T14:17:46.534+00:00",
+      "published_at": "2026-10-07T14:37:09.209+00:00",
       "slug": "neighborhood-connector-site",
       "sort_order": 50,
       "source_local_id": "509aadbc-4521-4f3a-87e3-cefbea414581",
@@ -22942,7 +23728,7 @@
         "relational-tech"
       ],
       "title": "Neighborhood Connector Site",
-      "updated_at": "2026-10-06T14:17:46.625917+00:00"
+      "updated_at": "2026-10-07T14:37:09.324218+00:00"
     },
     {
       "attribution": {
@@ -22968,7 +23754,7 @@
         "tool_category": "tools_for_crafting"
       },
       "parent_slug": null,
-      "published_at": "2026-10-06T14:17:46.534+00:00",
+      "published_at": "2026-10-07T14:37:09.209+00:00",
       "slug": "neighborhood-history-and-future-walking-app",
       "sort_order": 93,
       "source_local_id": "062b3b52-a60f-4be7-acb9-6fea4c7e99cf",
@@ -22981,7 +23767,7 @@
         "tools-for-crafting"
       ],
       "title": "Neighborhood History (and Future) Walking App",
-      "updated_at": "2026-10-06T14:17:46.625917+00:00"
+      "updated_at": "2026-10-07T14:37:09.324218+00:00"
     },
     {
       "attribution": {
@@ -23083,7 +23869,7 @@
         "tool_category": "relational_tech"
       },
       "parent_slug": null,
-      "published_at": "2026-10-06T14:17:46.534+00:00",
+      "published_at": "2026-10-07T14:37:09.209+00:00",
       "slug": "our-neighborhood-today",
       "sort_order": 2,
       "source_local_id": "0277b36f-422a-4a62-931a-9298dd7aceab",
@@ -23096,7 +23882,7 @@
         "relational-tech"
       ],
       "title": "Our Neighborhood Today",
-      "updated_at": "2026-10-06T14:17:46.625917+00:00"
+      "updated_at": "2026-10-07T14:37:09.324218+00:00"
     },
     {
       "attribution": {
@@ -23161,7 +23947,7 @@
         "tool_category": "relational_tech"
       },
       "parent_slug": null,
-      "published_at": "2026-10-06T14:17:46.534+00:00",
+      "published_at": "2026-10-07T14:37:09.209+00:00",
       "slug": "privacy-and-terms-page",
       "sort_order": 50,
       "source_local_id": "3b0ad7dc-0afc-41b5-b5fa-45142a4cbe8f",
@@ -23174,7 +23960,7 @@
         "relational-tech"
       ],
       "title": "Privacy & Terms Page",
-      "updated_at": "2026-10-06T14:17:46.625917+00:00"
+      "updated_at": "2026-10-07T14:37:09.324218+00:00"
     },
     {
       "attribution": {
@@ -23199,7 +23985,7 @@
         "tool_category": "tech_for_building"
       },
       "parent_slug": null,
-      "published_at": "2026-10-06T14:17:46.534+00:00",
+      "published_at": "2026-10-07T14:37:09.209+00:00",
       "slug": "relational-tech-process-guide",
       "sort_order": 0,
       "source_local_id": "9939c9e0-5652-4837-bb3b-f9e1b9ba8d12",
@@ -23212,7 +23998,7 @@
         "tech-for-building"
       ],
       "title": "Relational Tech Process Guide",
-      "updated_at": "2026-10-06T14:17:46.625917+00:00"
+      "updated_at": "2026-10-07T14:37:09.324218+00:00"
     },
     {
       "attribution": {
@@ -23236,7 +24022,7 @@
         "tool_category": "tech_for_building"
       },
       "parent_slug": null,
-      "published_at": "2026-10-06T14:17:46.534+00:00",
+      "published_at": "2026-10-07T14:37:09.209+00:00",
       "slug": "replit",
       "sort_order": 50,
       "source_local_id": "3f1769cf-4aac-415f-9dca-0905f6cd2477",
@@ -23249,7 +24035,7 @@
         "tech-for-building"
       ],
       "title": "Replit",
-      "updated_at": "2026-10-06T14:17:46.625917+00:00"
+      "updated_at": "2026-10-07T14:37:09.324218+00:00"
     },
     {
       "attribution": {
@@ -23273,7 +24059,7 @@
         "tool_category": "tech_for_building"
       },
       "parent_slug": null,
-      "published_at": "2026-10-06T14:17:46.534+00:00",
+      "published_at": "2026-10-07T14:37:09.209+00:00",
       "slug": "resend",
       "sort_order": 50,
       "source_local_id": "09ad499b-44b7-486d-9f56-02ff50355f66",
@@ -23286,7 +24072,7 @@
         "tech-for-building"
       ],
       "title": "Resend",
-      "updated_at": "2026-10-06T14:17:46.625917+00:00"
+      "updated_at": "2026-10-07T14:37:09.324218+00:00"
     },
     {
       "attribution": {
@@ -23389,7 +24175,7 @@
         "tool_category": "tech_for_building"
       },
       "parent_slug": null,
-      "published_at": "2026-10-06T14:17:46.534+00:00",
+      "published_at": "2026-10-07T14:37:09.209+00:00",
       "slug": "supabase",
       "sort_order": 50,
       "source_local_id": "561e1965-01d0-4ef3-a255-6547bf7db684",
@@ -23402,7 +24188,7 @@
         "tech-for-building"
       ],
       "title": "Supabase",
-      "updated_at": "2026-10-06T14:17:46.625917+00:00"
+      "updated_at": "2026-10-07T14:37:09.324218+00:00"
     },
     {
       "attribution": {
@@ -23469,7 +24255,7 @@
         "tool_category": "relational_tech"
       },
       "parent_slug": null,
-      "published_at": "2026-10-06T14:17:46.534+00:00",
+      "published_at": "2026-10-07T14:37:09.209+00:00",
       "slug": "text-by-tag",
       "sort_order": 92,
       "source_local_id": "a064d06c-1b60-4b07-9646-cfed5c272e28",
@@ -23482,7 +24268,7 @@
         "relational-tech"
       ],
       "title": "Text-by-Tag",
-      "updated_at": "2026-10-06T14:17:46.625917+00:00"
+      "updated_at": "2026-10-07T14:37:09.324218+00:00"
     },
     {
       "attribution": {
@@ -23506,7 +24292,7 @@
         "tool_category": "tech_for_building"
       },
       "parent_slug": null,
-      "published_at": "2026-10-06T14:17:46.534+00:00",
+      "published_at": "2026-10-07T14:37:09.209+00:00",
       "slug": "twilio",
       "sort_order": 50,
       "source_local_id": "c67485b4-1baf-4848-8a26-352221e0a853",
@@ -23519,7 +24305,7 @@
         "tech-for-building"
       ],
       "title": "Twilio",
-      "updated_at": "2026-10-06T14:17:46.625917+00:00"
+      "updated_at": "2026-10-07T14:37:09.324218+00:00"
     },
     {
       "attribution": {
@@ -23584,7 +24370,7 @@
         "tool_category": "tech_for_building"
       },
       "parent_slug": null,
-      "published_at": "2026-10-06T14:17:46.534+00:00",
+      "published_at": "2026-10-07T14:37:09.209+00:00",
       "slug": "vercel",
       "sort_order": 50,
       "source_local_id": "e69ab1f4-f3d4-468f-92d5-5bfd51b915fc",
@@ -23597,7 +24383,7 @@
         "tech-for-building"
       ],
       "title": "Vercel",
-      "updated_at": "2026-10-06T14:17:46.625917+00:00"
+      "updated_at": "2026-10-07T14:37:09.324218+00:00"
     }
   ]
 }

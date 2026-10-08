@@ -2,16 +2,16 @@
 title: "The Jar is an arts-centric initiative that takes a unique approach to attendees - where you to buy a 'jar' of tickets to invite others to join"
 slug: "the-jar-is-an-arts-centric-initiative-that-takes-a-unique-approach-to-attendees-"
 kind: "reference"
-studio: "radically-rural"
+studio: "rt"
 license: "RCL-1.0"
-tags: ["commons/reference", "studio/radically-rural", "relational-builder", "contributed-resource"]
+tags: ["commons/reference", "studio/rt", "relational-builder", "contributed-resource"]
 topics: ["relational-builder", "contributed-resource"]
 author: "Deb"
 neighborhood: "Kitsap Peninsula, WA, USA"
 source_url: "https://www.jumpinthejar.org/"
 web: "https://relationalbuilder.org/commons/e/the-jar-is-an-arts-centric-initiative-that-takes-a-unique-approach-to-attendees-"
 created: "2026-10-05"
-updated: "2026-10-05"
+updated: "2026-10-08"
 rtp_id: "15032bc6-e9e7-4f5f-9294-95a014ab94f7"
 ---
 # The Jar is an arts-centric initiative that takes a unique approach to attendees - where you to buy a 'jar' of tickets to invite others to join
