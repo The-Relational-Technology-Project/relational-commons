@@ -10,7 +10,7 @@ attribution_source: "neighboring-commons-skill-kb"
 source_url: "https://www.interfaithamerica.org/curricula/bridge/"
 web: "https://relationalbuilder.org/commons/e/interfaith-america-bridge-curriculum-building-regular-interfaith-dialogue"
 created: "2026-05-22"
-updated: "2026-05-22"
+updated: "2026-10-22"
 rtp_id: "539c1a2c-8f05-40db-ac9f-920e9a25622e"
 ---
 # Interfaith America BRIDGE Curriculum: Building Regular Interfaith Dialogue
@@ -28,6 +28,7 @@ Complements URI's interfaith dialogue tips. Complements Parish Collective and Nu
 ## Details
 
 - **category:** Faith & Interfaith
+- **location:** {"lat":41.8755616,"lng":-87.6244212,"basis":"research","label":"Chicago, Illinois","precision":"origin"}
 - **entry type:** Reference
 
 ---

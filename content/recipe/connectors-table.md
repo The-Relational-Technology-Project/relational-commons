@@ -10,7 +10,7 @@ attribution_source: "McKnight, 'A Basic Guide to ABCD Community Organizing'; Nur
 source_url: "https://www.nurturedevelopment.org/wp-content/uploads/2016/01/A-Basic-Guide-to-ABCD-Community-Organizing-1.pdf"
 web: "https://relationalbuilder.org/commons/e/connectors-table"
 created: "2026-08-13"
-updated: "2026-08-13"
+updated: "2026-10-22"
 rtp_id: "9add6cca-3c86-4b58-b8c4-77194c19fbf6"
 ---
 # The Connectors Table
@@ -29,6 +29,7 @@ The Connectors Table is where 'who are my people?' and 'what resources do we hav
 
 ## Details
 
+- **location:** {"lat":42.0693991,"lng":-87.682932,"basis":"research","label":"Evanston, Illinois","precision":"origin"}
 - **source note:** Connector definition and traits from McKnight's Basic Guide and Russell's 'Touchstone One' (Nurture Development); association-of-associations argument from the same Basic Guide.
 - **how it works:** Ask around: who knows everyone? Who do people trust?, Invite four to eight of them to a recurring, informal table., Share what gift conversations are surfacing., Make introductions deliberately — and inventory the associations., Let the table notice what the neighborhood could do next with what it has.
 - **min resources:** Free. Coffee.

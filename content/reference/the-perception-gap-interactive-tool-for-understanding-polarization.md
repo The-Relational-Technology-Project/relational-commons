@@ -10,7 +10,7 @@ attribution_source: "neighboring-commons-skill-kb"
 source_url: "https://perceptiongap.us/"
 web: "https://relationalbuilder.org/commons/e/the-perception-gap-interactive-tool-for-understanding-polarization"
 created: "2026-05-22"
-updated: "2026-05-22"
+updated: "2026-10-22"
 rtp_id: "f9ccd4b4-4e3f-43a0-81b3-c5b8a5693774"
 ---
 # The Perception Gap: Interactive Tool for Understanding Polarization

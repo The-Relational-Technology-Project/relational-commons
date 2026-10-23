@@ -11,7 +11,7 @@ attribution_source: "DavisWiki's own Wiki History; Nieman Lab"
 source_url: "https://daviswiki.org/Wiki_History"
 web: "https://relationalbuilder.org/commons/e/daviswiki"
 created: "2026-08-13"
-updated: "2026-08-13"
+updated: "2026-10-22"
 rtp_id: "b272b86f-07ee-4443-8398-2caa15e1dadc"
 ---
 # DavisWiki: The Town That Wrote Itself Down
@@ -28,6 +28,7 @@ What it teaches: a town-scale knowledge commons is achievable by residents when 
 
 - **era:** 2004–present
 - **place:** Davis, California
+- **location:** {"lat":38.5435526,"lng":-121.739005,"basis":"attribution","label":"Davis, California","precision":"city"}
 - **illustrates:** localwiki
 - **source note:** Founding story, usage figures, and LocalWiki arc per DavisWiki's Wiki History page and Nieman Lab's Encyclo entry.
 - **practice kind:** story

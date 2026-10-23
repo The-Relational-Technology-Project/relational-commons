@@ -11,7 +11,7 @@ source_url: "https://www.playworks.org/"
 neighboring_recipes: "https://github.com/The-Relational-Technology-Project/neighboring-recipes/blob/main/recipes/10-play-and-joy/playworks.md"
 web: "https://relationalbuilder.org/commons/e/playworks-intentional-school-recess"
 created: "2026-05-22"
-updated: "2026-05-22"
+updated: "2026-10-22"
 rtp_id: "bc4a5031-8f7e-4b5f-986b-f75a5eb91789"
 ---
 # Playworks (Intentional School Recess)
@@ -97,6 +97,7 @@ The model has expanded from individual school partnerships to district-wide impl
 
 - **steps:** **Engage with [Playworks](https://www.playworks.org/).** Multiple service levels exist, from on-site coaches (most intensive) to staff training only (lighter, lower cost)., **Pick the right model for your school.** Budget and capacity vary widely. Even the lightest version (staff training) produces meaningful change., **Onboard staff.** Recess monitors, PE teachers, classroom teachers, and administrators learn play facilitation, conflict resolution, and youth leadership development., **Implement.** Coaches or trained staff facilitate recess: introducing games, inviting all kids into play, modeling de-escalation, building peer leaders., **Develop student leaders.** Older students learn to lead games and resolve disputes. The peer leadership is one of the deepest impacts., **Measure and adjust.** Schools track: incident reports, physical activity, peer reports of belonging, classroom focus, attendance.
 ### If you're a parent or neighborhood organizer, **Advocate.** Bring Playworks materials to your school principal or PTA. Most schools have heard of it; many haven't found the resources to implement., **Fundraise.** Some neighborhood organizations and businesses partner with schools to fund a Playworks coach. The annual cost is real but smaller than many school programs., **Look for adjacent programs.** Some communities have less formal versions (volunteer-led recess facilitation, university student partnerships, AmeriCorps placements) that achieve similar outcomes at lower cost., **Apply the lessons to community programs.** The principles (intentional facilitation, peer leadership, conflict resolution, inclusion) transfer to youth programs, sports leagues, summer camps, and library programs in neighborhoods.
+- **location:** {"lat":37.8044557,"lng":-122.271356,"basis":"research","label":"Oakland, California","precision":"origin"}
 - **file path:** recipes/10-play-and-joy/playworks.md
 - **variations:** **Junior Coaches.** Older students trained as peer play leaders. Reduces adult labor and builds youth leadership.
 

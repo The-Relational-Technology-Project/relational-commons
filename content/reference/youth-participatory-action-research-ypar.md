@@ -10,7 +10,7 @@ attribution_source: "neighboring-commons-skill-kb"
 source_url: "https://yparhub.berkeley.edu/why-ypar"
 web: "https://relationalbuilder.org/commons/e/youth-participatory-action-research-ypar"
 created: "2026-05-22"
-updated: "2026-05-22"
+updated: "2026-10-22"
 rtp_id: "2c98f080-c2fa-464e-8ebd-f6431791add3"
 ---
 # Youth Participatory Action Research (YPAR)
@@ -45,6 +45,7 @@ Emerges from participatory action research traditions and critical pedagogy move
 ## Details
 
 - **category:** Youth & Organizing
+- **location:** {"lat":37.8708393,"lng":-122.272863,"basis":"research","label":"Berkeley, California","precision":"origin"}
 - **entry type:** Practice
 - **key ingredients raw:** - *Time*: 8-16 weeks typically; can be ongoing program
 - *People*: 10-30 youth; 2-4 adult facilitators

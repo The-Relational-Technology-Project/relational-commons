@@ -10,7 +10,7 @@ attribution_source: "Civic Media Cookbook (2026)"
 source_url: "https://www.newsfutures.org/library/civic-media-cookbook"
 web: "https://relationalbuilder.org/commons/e/worksheet-recipe-builder"
 created: "2026-07-10"
-updated: "2026-07-13"
+updated: "2026-10-22"
 rtp_id: "debb72c1-bebd-4fc7-bd0d-21ff2a753804"
 ---
 # Recipe Builder

@@ -11,7 +11,7 @@ source_url: "https://nmaahc.si.edu/explore/stories/community-roles-barber-shop-a
 neighboring_recipes: "https://github.com/The-Relational-Technology-Project/neighboring-recipes/blob/main/recipes/06-placemaking/barbershop-anchor.md"
 web: "https://relationalbuilder.org/commons/e/barbershop-and-beauty-salon-as-community-anchor"
 created: "2026-05-22"
-updated: "2026-05-22"
+updated: "2026-10-22"
 rtp_id: "7c8121fa-4c5c-43da-9d09-81507338abbe"
 ---
 # Barbershop and Beauty Salon as Community Anchor

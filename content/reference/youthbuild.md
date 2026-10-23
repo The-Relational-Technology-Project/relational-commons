@@ -10,7 +10,7 @@ attribution_source: "neighboring-commons-skill-kb"
 source_url: "https://youthbuild.org/"
 web: "https://relationalbuilder.org/commons/e/youthbuild"
 created: "2026-05-22"
-updated: "2026-05-22"
+updated: "2026-10-22"
 rtp_id: "d44f4fc3-f36e-4add-bb6b-46c918c31402"
 ---
 # YouthBuild
@@ -45,6 +45,7 @@ Emerges from youth development, workforce development, and housing movements. Re
 ## Details
 
 - **category:** Youth & Organizing
+- **location:** {"lat":42.3289067,"lng":-71.0850853,"basis":"research","label":"Roxbury, Boston, Massachusetts","precision":"origin"}
 - **entry type:** Practice
 - **key ingredients raw:** - *Time*: 6-24 months typically; ongoing program participation
 - *People*: 15-30 young people per cohort; trained instructors and mentors; construction supervisors

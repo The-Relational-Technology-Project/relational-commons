@@ -10,7 +10,7 @@ attribution_source: "cobudget.com"
 source_url: "https://cobudget.com/"
 web: "https://relationalbuilder.org/commons/e/cobudget"
 created: "2026-08-13"
-updated: "2026-08-13"
+updated: "2026-10-22"
 rtp_id: "5a12c130-c279-4f7c-bb6b-f37f0958b23b"
 ---
 # Cobudget
@@ -30,6 +30,7 @@ For neighborhoods, the fit is exact: block associations, garden clubs, and mutua
 - **maker:** Cobudget contributors (Enspiral/Greaterthan lineage)
 - **hosted:** free tier to 10 users; self-hostable
 - **license:** AGPL-3.0-or-later
+- **location:** {"lat":-41.2887953,"lng":174.7772114,"basis":"research","label":"Wellington, New Zealand","precision":"origin"}
 - **repo url:** https://github.com/cobudget/cobudget
 - **remix idea:** The block's shared $500, allocated in the open.
 - **practice kind:** tool

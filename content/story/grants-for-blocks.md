@@ -10,7 +10,7 @@ attribution_source: "Project for Public Spaces, 'Savannah's Grants-For-Blocks Pr
 source_url: "https://www.pps.org/article/savannasmall"
 web: "https://relationalbuilder.org/commons/e/grants-for-blocks"
 created: "2026-08-13"
-updated: "2026-08-13"
+updated: "2026-10-22"
 rtp_id: "a1c6be2c-7a09-4a27-b2d2-8b61e523ed78"
 ---
 # Savannah's Grants for Blocks
@@ -29,6 +29,7 @@ What it teaches: small money, seriously governed, is leadership development infr
 
 - **era:** 1993–2000s
 - **place:** Savannah, Georgia
+- **location:** {"lat":32.0790074,"lng":-81.0921335,"basis":"attribution","label":"Savannah, Georgia","precision":"city"}
 - **illustrates:** neighborhood-asset-map, launch-a-team, the-debrief
 - **source note:** Program design and quotes per Project for Public Spaces; whether the program still operates in this form today is unverified — the design is the durable artifact.
 - **practice kind:** story

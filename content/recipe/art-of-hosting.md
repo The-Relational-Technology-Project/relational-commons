@@ -11,7 +11,7 @@ source_url: "https://artofhosting.org/"
 neighboring_recipes: "https://github.com/The-Relational-Technology-Project/neighboring-recipes/blob/main/recipes/04-gathering-design/art-of-hosting.md"
 web: "https://relationalbuilder.org/commons/e/art-of-hosting"
 created: "2026-05-22"
-updated: "2026-05-22"
+updated: "2026-10-22"
 rtp_id: "f2c91a47-086c-4738-a751-7f179ad873db"
 ---
 # Art of Hosting

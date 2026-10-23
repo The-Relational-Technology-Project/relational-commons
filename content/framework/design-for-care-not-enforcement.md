@@ -9,7 +9,7 @@ author: "Relational Technology Project"
 attribution_source: "Drawing on reporting about Nextdoor's 2016 redesign, 311-equity research, and mutual aid data practices"
 web: "https://relationalbuilder.org/commons/e/design-for-care-not-enforcement"
 created: "2026-08-13"
-updated: "2026-08-13"
+updated: "2026-10-22"
 rtp_id: "059a3aa6-8789-4c17-8755-c3fbc71e2230"
 ---
 # Design for Care, Not Enforcement

@@ -11,7 +11,7 @@ attribution_source: "prosocialdesign.org"
 source_url: "https://www.prosocialdesign.org/library/quality-scores"
 web: "https://relationalbuilder.org/commons/e/psd-quality-scores"
 created: "2026-10-12"
-updated: "2026-10-12"
+updated: "2026-10-22"
 rtp_id: "1a5c688e-e956-4a2d-b779-b7f8545e0e2a"
 ---
 # Quality Scores

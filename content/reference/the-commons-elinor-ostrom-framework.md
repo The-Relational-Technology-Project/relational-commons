@@ -10,7 +10,7 @@ attribution_source: "neighboring-commons-skill-kb"
 source_url: "https://www.cambridge.org/core/books/governing-the-commons/A8BB63BC4A1433A50A3FB92EDBBB97D5"
 web: "https://relationalbuilder.org/commons/e/the-commons-elinor-ostrom-framework"
 created: "2026-05-22"
-updated: "2026-05-22"
+updated: "2026-10-22"
 rtp_id: "93a14d95-dc5c-4279-81e4-c655edfc00f6"
 ---
 # The Commons (Elinor Ostrom Framework)
@@ -36,6 +36,7 @@ Ostrom's 1990 'Governing the Commons' built on earlier commons theory while fund
 ## Details
 
 - **category:** Frameworks & Models
+- **location:** {"lat":39.1670396,"lng":-86.5342881,"basis":"research","label":"Bloomington, Indiana","precision":"origin"}
 - **entry type:** Reference
 
 ---

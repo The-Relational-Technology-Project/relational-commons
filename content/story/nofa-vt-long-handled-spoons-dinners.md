@@ -12,7 +12,7 @@ attribution_source: "https://www.nofavt.org/services-resources/other-resources/l
 source_url: "https://www.nofavt.org/services-resources/other-resources/long-handled-spoons-dinner-micro-grants"
 web: "https://relationalbuilder.org/commons/e/nofa-vt-long-handled-spoons-dinners"
 created: "2026-10-02"
-updated: "2026-10-02"
+updated: "2026-10-22"
 rtp_id: "48950b27-35a2-4035-8af6-9e9768de1a2b"
 ---
 # Long-Handled Spoons Dinners (Vermont)
@@ -41,6 +41,7 @@ https://www.nofavt.org/services-resources/other-resources/long-handled-spoons-di
 - **maker:** NOFA-VT (Northeast Organic Farming Association of Vermont)
 - **place:** Vermont (statewide)
 - **amounts:** up to $200 per dinner on the NOFA-VT page; $250 per the With Neighbors listing
+- **location:** {"lat":44.5990718,"lng":-72.5002608,"basis":"attribution","label":"Vermont","precision":"region"}
 - **hosted url:** https://www.nofavt.org/services-resources/other-resources/long-handled-spoons-dinner-micro-grants
 - **grant shape:** fixed
 - **local object:** the long-handled spoons parable: you can only eat by feeding each other

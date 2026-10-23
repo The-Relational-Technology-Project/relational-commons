@@ -10,7 +10,7 @@ attribution_source: "neighboring-commons-skill-kb"
 source_url: "https://leavingevidence.wordpress.com/2011/05/05/access-intimacy-the-missing-link/"
 web: "https://relationalbuilder.org/commons/e/access-intimacy-mia-mingus"
 created: "2026-05-22"
-updated: "2026-05-22"
+updated: "2026-10-22"
 rtp_id: "ee508285-4fde-4dba-a8a0-5277d6bf3a9a"
 ---
 # Access Intimacy (Mia Mingus)

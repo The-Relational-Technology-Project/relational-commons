@@ -10,7 +10,7 @@ attribution_source: "neighboring-commons-skill-kb"
 source_url: "https://firstnationspedagogy.ca/circletalks.html"
 web: "https://relationalbuilder.org/commons/e/talking-circle"
 created: "2026-05-22"
-updated: "2026-05-22"
+updated: "2026-10-22"
 rtp_id: "a92b0845-1ed2-4c12-98e7-83229f01f899"
 ---
 # Talking Circle

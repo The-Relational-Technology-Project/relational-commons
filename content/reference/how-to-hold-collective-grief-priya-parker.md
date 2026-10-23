@@ -10,7 +10,7 @@ attribution_source: "neighboring-commons-skill-kb"
 source_url: "https://www.priyaparker.com/art-of-gathering-newsletter/grieve-together-now"
 web: "https://relationalbuilder.org/commons/e/how-to-hold-collective-grief-priya-parker"
 created: "2026-05-22"
-updated: "2026-05-22"
+updated: "2026-10-22"
 rtp_id: "fdb212a2-bba9-4f4b-bc00-b8426953a8a9"
 ---
 # How to Hold Collective Grief (Priya Parker)

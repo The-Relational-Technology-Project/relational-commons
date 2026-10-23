@@ -11,7 +11,7 @@ attribution_source: "prosocialdesign.org"
 source_url: "https://www.prosocialdesign.org/library/removal-explanations"
 web: "https://relationalbuilder.org/commons/e/psd-removal-explanations"
 created: "2026-10-12"
-updated: "2026-10-12"
+updated: "2026-10-22"
 rtp_id: "f929ffcd-27f4-4652-8a06-ed878464289e"
 ---
 # Removal Explanations

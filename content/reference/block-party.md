@@ -10,7 +10,7 @@ attribution_source: "neighboring-commons-skill-kb"
 source_url: "https://www.blockpartyusa.org/how-to"
 web: "https://relationalbuilder.org/commons/e/block-party"
 created: "2026-05-22"
-updated: "2026-05-22"
+updated: "2026-10-22"
 rtp_id: "e4a5eb72-f975-4791-a435-08f9612ec090"
 ---
 # Block Party

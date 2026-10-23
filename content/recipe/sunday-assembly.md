@@ -11,7 +11,7 @@ source_url: "https://www.sundayassembly.org/"
 neighboring_recipes: "https://github.com/The-Relational-Technology-Project/neighboring-recipes/blob/main/recipes/11-civic-rhythms/sunday-assembly.md"
 web: "https://relationalbuilder.org/commons/e/sunday-assembly"
 created: "2026-05-22"
-updated: "2026-05-22"
+updated: "2026-10-22"
 rtp_id: "c35445d3-d880-4714-acd0-65c46dac2440"
 ---
 # Sunday Assembly
@@ -100,6 +100,7 @@ The organization has navigated the challenges of any growing volunteer-led netwo
 - Community-building moment (small group discussion, sharing, volunteer opportunity).
 - Closing song.
 - Refreshments and conversation afterward., **Curate speakers thoughtfully.** Local thinkers, doers, artists. Themes that matter: belonging, work, change, grief, joy, ethics, civic life. Avoid speakers selling something., **Build music into the experience.** A house band, a local musician, or thoughtful playlists. Live music outperforms recorded for energy., **Promote.** Local cultural networks, neighborhood lists, secular and humanist circles. Word of mouth carries the most weight after the first few gatherings., **Sustain it.** The first year is the hardest. Once a chapter is established and has a core of regulars, the rhythm carries itself.
+- **location:** {"lat":51.5074456,"lng":-0.1277653,"basis":"text","label":"Greater London, England, United Kingdom","precision":"origin"}
 - **file path:** recipes/11-civic-rhythms/sunday-assembly.md
 - **variations:** **Smaller version.** 20 to 40 attendees in a living room or small cafe. Lower stakes, deeper conversations.
 

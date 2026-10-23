@@ -10,7 +10,7 @@ attribution_source: "neighboring-commons-skill-kb"
 source_url: "https://www.interruptingcriminalization.com/in-it-together"
 web: "https://relationalbuilder.org/commons/e/in-it-together-conflict-transformation-for-groups"
 created: "2026-05-22"
-updated: "2026-05-22"
+updated: "2026-10-22"
 rtp_id: "8d16259d-caf8-45db-b072-0c903e191eb3"
 ---
 # In It Together: Conflict Transformation for Groups

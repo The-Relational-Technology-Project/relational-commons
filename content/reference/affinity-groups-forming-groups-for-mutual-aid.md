@@ -10,7 +10,7 @@ attribution_source: "neighboring-commons-skill-kb"
 source_url: "https://bigdoorbrigade.com/mutual-aid-toolbox/affinity-groups/"
 web: "https://relationalbuilder.org/commons/e/affinity-groups-forming-groups-for-mutual-aid"
 created: "2026-05-22"
-updated: "2026-05-22"
+updated: "2026-10-22"
 rtp_id: "f1cae9f9-4cd2-4629-a4e0-e03aae10e750"
 ---
 # Affinity Groups: Forming Groups for Mutual Aid
@@ -45,6 +45,7 @@ Draws from anarchist organizing traditions, affinity group models developed in a
 ## Details
 
 - **category:** Frameworks & Models
+- **location:** {"lat":47.6038321,"lng":-122.330062,"basis":"research","label":"Seattle, Washington","precision":"origin"}
 - **entry type:** Practice
 - **key ingredients raw:** - *Time*: 8-12 hours for initial formation, 2-4 hours monthly for ongoing coordination
 - *People*: 3-8 people with genuine affinity and commitment

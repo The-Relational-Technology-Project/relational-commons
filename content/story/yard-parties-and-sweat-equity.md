@@ -9,7 +9,7 @@ topics: ["builder-story"]
 author: "Gerrel Jones, Neighborhood Rebuilder"
 web: "https://relationalbuilder.org/commons/e/yard-parties-and-sweat-equity"
 created: "2026-06-10"
-updated: "2026-10-21"
+updated: "2026-10-22"
 rtp_id: "29c17120-3052-44e4-bc39-bd441a0fc157"
 ---
 # Yard Parties and Sweat Equity
@@ -33,6 +33,10 @@ rtp_id: "29c17120-3052-44e4-bc39-bd441a0fc157"
 <p>Gerrel's theory is basic physics: if you mobilize the majority of people who want something good, the negative forces can't stay. You don't need a rebellion. You need positive spaces that crowd out the negative ones. As he puts it: compassion can't sit back and watch. Compassion is a participant in social change.</p>
 
 <p>His advice to anyone interested in revitalizing a community: understand that it cannot be done from the outside. America has never seen a revitalization program that worked from the outside-in. You have to get your hands dirty, engage the affected population, and be consistent. It has to be done through you and the influence of your social capital — which is your time and attention.</p>
+
+## Details
+
+- **location:** {"lat":33.5206824,"lng":-86.8024326,"basis":"text","label":"Birmingham, Alabama","precision":"city"}
 
 ---
 

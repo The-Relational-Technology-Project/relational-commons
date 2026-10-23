@@ -10,7 +10,7 @@ attribution_source: "Organizing: People, Power, Change (2014); Ganz, 'Why Storie
 source_url: "https://sojo.net/magazine/march-2009/why-stories-matter"
 web: "https://relationalbuilder.org/commons/e/story-of-self-us-now"
 created: "2026-08-13"
-updated: "2026-08-13"
+updated: "2026-10-22"
 rtp_id: "8986fd18-5b0b-40c4-916c-36cba2006ed8"
 ---
 # Public Narrative: Self, Us, Now
@@ -33,6 +33,7 @@ Emotion is the mechanism, not decoration: stories work when hope outweighs fear,
 
 ## Details
 
+- **location:** {"lat":42.3656347,"lng":-71.1040018,"basis":"research","label":"Cambridge, Massachusetts","precision":"origin"}
 - **ingredients:** a choice point from your own life, your community's shared challenges and wins, an urgent ask, listeners
 - **source note:** From 'Organizing: People, Power, Change' (2014), which includes full Self/Us/Now worksheets and a story-coaching guide, adapted from Marshall Ganz's Public Narrative framework.
 - **how it works:** Story of Self: pick one choice point — challenge, choice, outcome — and tell it with sensory detail., Story of Us: tell the community's choice points; include a success that gives hope., Story of Now: name the urgent challenge, paint the fork in the road, end with a hard ask., Weave them: here's who I am, here's what we share, here's what we're going to do about it., Practice out loud and get coached — narrative is a practice, not a script.

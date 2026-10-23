@@ -11,7 +11,7 @@ attribution_source: "Civic Media Cookbook (2026), Appendix 2: Field Guide"
 source_url: "https://www.newsfutures.org/library/civic-media-cookbook"
 web: "https://relationalbuilder.org/commons/e/boulder-reporting-lab-pop-up-newsroom"
 created: "2026-07-10"
-updated: "2026-07-13"
+updated: "2026-10-22"
 rtp_id: "5ef56cdf-3347-46d1-98e1-59e214a942ee"
 ---
 # Boulder Reporting Lab Pop-Up Newsroom
@@ -29,6 +29,7 @@ After the 2021 Marshall Fire, a small newsroom ran a pop-up community newsroom t
 ## Details
 
 - **format:** pop-up community newsroom + toolkit
+- **location:** {"lat":40.0149856,"lng":-105.270545,"also":[{"lat":39.977763,"lng":-105.1319296,"label":"Louisville, Colorado"},{"lat":39.9527634,"lng":-105.1685977,"label":"Superior, Colorado"}],"basis":"attribution","label":"Boulder, Colorado","precision":"city"}
 - **patterns:** building_civic_muscle
 - **source tag:** CB
 - **source note:** Civic Media Cookbook Appendix 2 Field Guide — as submitted by practitioners (2025).

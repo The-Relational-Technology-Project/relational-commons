@@ -10,7 +10,7 @@ attribution_source: "bloomproject.us"
 source_url: "https://report.bloomproject.us/central-oregon-ai"
 web: "https://relationalbuilder.org/commons/e/delib-civicos"
 created: "2026-10-08"
-updated: "2026-10-08"
+updated: "2026-10-22"
 rtp_id: "48f782b4-17e8-4166-b7e5-6ea7c8b8ad29"
 ---
 # CivicOS (BLOOM Project)

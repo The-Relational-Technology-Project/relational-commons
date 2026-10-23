@@ -11,7 +11,7 @@ attribution_source: "Technical.ly; Hour Detroit; Wikipedia (Red Hook Wi-Fi)"
 source_url: "https://redhookwifi.org/"
 web: "https://relationalbuilder.org/commons/e/red-hook-wifi"
 created: "2026-08-13"
-updated: "2026-08-13"
+updated: "2026-10-22"
 rtp_id: "990ef833-db7e-44fd-a244-3d54ca8540fa"
 ---
 # Red Hook WiFi: The Network That Held When Sandy Hit
@@ -30,6 +30,7 @@ What it teaches: resilience is a social outcome. The network mattered in disaste
 
 - **era:** 2011–present
 - **place:** Red Hook, Brooklyn; Detroit, Michigan
+- **location:** {"lat":40.6751032,"lng":-74.0095841,"also":[{"lat":42.3315509,"lng":-83.0466403,"label":"Detroit, Michigan"}],"basis":"attribution","label":"Red Hook, New York","precision":"neighborhood"}
 - **illustrates:** learn-from-the-graveyard, six-lessons-neighborhood-tech
 - **source note:** Sandy events and FEMA connection per Wikipedia's sourced entry and Inverse; Detroit stewards named per Hour Detroit's profiles.
 - **practice kind:** story

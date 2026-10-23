@@ -9,7 +9,7 @@ topics: ["builder-story"]
 author: "Edmonton Federation of Community Leagues / ABCD Institute"
 web: "https://relationalbuilder.org/commons/e/edmonton-s-community-league-system"
 created: "2026-06-10"
-updated: "2026-10-21"
+updated: "2026-10-22"
 rtp_id: "5cc40769-bdb5-4e13-a97e-b23ae3e7b77b"
 ---
 # Edmonton's Community League System
@@ -21,6 +21,10 @@ rtp_id: "5cc40769-bdb5-4e13-a97e-b23ae3e7b77b"
 ## Related in the commons
 
 - Mentions: [The Abundant Community](../framework/the-abundant-community.md)
+
+## Details
+
+- **location:** {"lat":53.5462055,"lng":-113.491241,"basis":"text","label":"Edmonton, Alberta, Canada","precision":"city"}
 
 ---
 

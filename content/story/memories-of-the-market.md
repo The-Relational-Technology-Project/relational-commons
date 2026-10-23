@@ -11,7 +11,7 @@ attribution_source: "Civic Media Cookbook (2026), Appendix 2: Field Guide"
 source_url: "https://www.newsfutures.org/library/civic-media-cookbook"
 web: "https://relationalbuilder.org/commons/e/memories-of-the-market"
 created: "2026-07-10"
-updated: "2026-07-13"
+updated: "2026-10-22"
 rtp_id: "00eaa819-b574-4b24-ad44-e01d781872b4"
 ---
 # Memories of the Market
@@ -28,6 +28,7 @@ A photo booth built to fit the flea market, gathering stories from patrons and v
 ## Details
 
 - **format:** storytelling photo booth
+- **location:** {"lat":37.7539702,"lng":-122.1972051,"basis":"research","label":"Oakland, California","precision":"neighborhood"}
 - **patterns:** preserving_community_knowledge
 - **source tag:** CB
 - **source note:** Civic Media Cookbook Appendix 2 Field Guide — as submitted by practitioners (2025).

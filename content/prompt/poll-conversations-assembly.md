@@ -10,7 +10,7 @@ attribution_source: "relationaltechproject.org"
 source_url: "https://report.bloomproject.us/central-oregon-ai"
 web: "https://relationalbuilder.org/commons/e/poll-conversations-assembly"
 created: "2026-10-08"
-updated: "2026-10-08"
+updated: "2026-10-22"
 rtp_id: "871c54cb-02d2-4244-9d9e-ae1336dfebeb"
 ---
 # Poll, conversations, assembly: a phased process in one small app

@@ -10,7 +10,7 @@ attribution_source: "consuldemocracy.org"
 source_url: "https://consuldemocracy.org/"
 web: "https://relationalbuilder.org/commons/e/consul-democracy"
 created: "2026-08-13"
-updated: "2026-08-17"
+updated: "2026-10-22"
 rtp_id: "0e7c933a-8ded-425c-8526-0b36e513fb14"
 ---
 # CONSUL Democracy
@@ -31,6 +31,7 @@ One honest note from Madrid's record: researchers found final city outcomes only
 - **hosted:** self-host; demo available
 - **license:** AGPL-3.0
 - **ctfg url:** https://civictech.guide/listing/consul-democracy
+- **location:** {"lat":40.416782,"lng":-3.703507,"basis":"text","label":"Madrid, Community of Madrid, Spain","precision":"origin"}
 - **repo url:** https://github.com/consuldemocracy/consuldemocracy
 - **image url:** https://texakzqqenzpxawktbgx.supabase.co/storage/v1/object/public/studio-library/tool-screenshots/consul-democracy-2026-08.jpg
 - **remix idea:** Proposal thresholds at porch scale: ten endorsements puts it on the potluck agenda.

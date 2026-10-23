@@ -10,7 +10,7 @@ attribution_source: "neighboring-commons-skill-kb"
 source_url: "https://www.freecycle.org/"
 web: "https://relationalbuilder.org/commons/e/free-stores-freecycling"
 created: "2026-05-22"
-updated: "2026-05-22"
+updated: "2026-10-22"
 rtp_id: "8f468664-21b9-45d7-ade8-dac0ea594d00"
 ---
 # Free Stores & Freecycling

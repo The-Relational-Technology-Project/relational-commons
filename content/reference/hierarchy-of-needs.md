@@ -10,7 +10,7 @@ attribution_source: "News Futures working group"
 source_url: "https://newsfutures.org/working-groups-blog/hierarchy-of-information-needs"
 web: "https://relationalbuilder.org/commons/e/hierarchy-of-needs"
 created: "2026-07-10"
-updated: "2026-07-10"
+updated: "2026-10-22"
 rtp_id: "9c03427e-112a-415d-821a-a1fbb0562f86"
 ---
 # Hierarchy of Information Needs

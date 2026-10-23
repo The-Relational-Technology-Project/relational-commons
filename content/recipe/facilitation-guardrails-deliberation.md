@@ -9,7 +9,7 @@ author: "Relational Tech Project, Deliberation Studio"
 attribution_source: "relationaltechproject.org"
 web: "https://relationalbuilder.org/commons/e/facilitation-guardrails-deliberation"
 created: "2026-10-08"
-updated: "2026-10-08"
+updated: "2026-10-22"
 rtp_id: "12cda7f5-4ee7-4311-b29d-f4dd342cc3a8"
 ---
 # Facilitation guardrails for a neighborhood deliberation

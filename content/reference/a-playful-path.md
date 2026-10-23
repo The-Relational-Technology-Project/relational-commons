@@ -10,7 +10,7 @@ attribution_source: "neighboring-commons-skill-kb"
 source_url: "https://www.aplayfulpath.com/"
 web: "https://relationalbuilder.org/commons/e/a-playful-path"
 created: "2026-05-22"
-updated: "2026-05-22"
+updated: "2026-10-22"
 rtp_id: "ae79c591-2938-4db1-833a-4c1e4f1292b1"
 ---
 # A Playful Path

@@ -10,7 +10,7 @@ attribution_source: "Civic Media Cookbook (2026) — Jihii Jolly & Jennifer Bran
 source_url: "https://www.newsfutures.org/library/civic-media-cookbook"
 web: "https://relationalbuilder.org/commons/e/making-invisible-visible"
 created: "2026-07-10"
-updated: "2026-07-13"
+updated: "2026-10-22"
 rtp_id: "17021f74-c1c0-48fa-895a-95e9f79d6341"
 ---
 # Making the Invisible Visible

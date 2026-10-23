@@ -10,7 +10,7 @@ attribution_source: "awana.digital"
 source_url: "https://awana.digital/"
 web: "https://relationalbuilder.org/commons/e/mapeo-comapeo"
 created: "2026-08-13"
-updated: "2026-08-13"
+updated: "2026-10-22"
 rtp_id: "f275f84c-cd2c-4e34-a56f-f93fd0ef05b0"
 ---
 # Mapeo / CoMapeo
@@ -29,6 +29,7 @@ GPL-3.0, actively developed. For neighborhoods, the offline-first, community-own
 
 - **maker:** Awana Digital
 - **license:** GPL-3.0 (CoMapeo Mobile)
+- **location:** {"lat":37.8044557,"lng":-122.271356,"also":[{"lat":-1.916667,"lng":-77,"label":"Pastaza, Ecuador"}],"basis":"research","label":"Oakland, California","precision":"origin"}
 - **repo url:** https://github.com/digidem/comapeo-mobile
 - **remix idea:** Tenant documentation that syncs phone-to-phone and shares only on the tenants' terms.
 - **practice kind:** tool

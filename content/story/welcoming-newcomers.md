@@ -9,7 +9,7 @@ topics: ["builder-story"]
 author: "Welcome Committee"
 web: "https://relationalbuilder.org/commons/e/welcoming-newcomers"
 created: "2026-06-10"
-updated: "2026-06-15"
+updated: "2026-10-22"
 rtp_id: "6e2848aa-0660-421e-81b7-4793b83f2499"
 ---
 # Welcoming Newcomers

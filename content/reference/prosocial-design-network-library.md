@@ -11,7 +11,7 @@ attribution_source: "prosocialdesign.org"
 source_url: "https://www.prosocialdesign.org"
 web: "https://relationalbuilder.org/commons/e/prosocial-design-network-library"
 created: "2026-10-12"
-updated: "2026-10-12"
+updated: "2026-10-22"
 rtp_id: "802acdc0-1c44-48d2-a439-1ba78647f847"
 ---
 # Prosocial Design Network: Digital Intervention Library

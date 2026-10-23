@@ -9,7 +9,7 @@ topics: ["builder-story"]
 author: "Tonika Lewis Johnson, Visual Artist and Community Connector"
 web: "https://relationalbuilder.org/commons/e/the-folded-map"
 created: "2026-06-10"
-updated: "2026-10-21"
+updated: "2026-10-22"
 rtp_id: "9cb4fe91-4ca7-41ae-a988-80a1cfd4c1b5"
 ---
 # The Folded Map
@@ -27,6 +27,10 @@ rtp_id: "9cb4fe91-4ca7-41ae-a988-80a1cfd4c1b5"
 <p>What makes Folded Map a piece of relational technology is that the photographs aren't the point — the relationships are. The images create an occasion for encounter. They give people a reason to cross boundaries they'd otherwise never cross. They turn abstract inequality into something personal and proximate.</p>
 
 <p>For relational technologists, the Folded Map offers a pattern: use what a place already has (its geography, its structure, its hidden symmetries) to create connection. Don't build from scratch — fold the map, and see who's been standing across from you all along.</p>
+
+## Details
+
+- **location:** {"lat":41.8755616,"lng":-87.6244212,"also":[{"lat":41.7797559,"lng":-87.6458836,"label":"Englewood, Chicago, Illinois"}],"basis":"text","label":"Chicago, Illinois","precision":"city"}
 
 ---
 

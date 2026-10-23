@@ -10,7 +10,7 @@ attribution_source: "neighboring-commons-skill-kb"
 source_url: "https://connectivetissue.substack.com/p/an-invitation-to-a-new-civic-future"
 web: "https://relationalbuilder.org/commons/e/an-invitation-to-a-new-civic-future"
 created: "2026-05-22"
-updated: "2026-05-22"
+updated: "2026-10-22"
 rtp_id: "025c7087-04e5-48ec-bcb7-a55fa850132b"
 ---
 # An Invitation to a New Civic Future

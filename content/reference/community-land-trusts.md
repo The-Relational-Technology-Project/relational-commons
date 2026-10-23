@@ -10,7 +10,7 @@ attribution_source: "neighboring-commons-skill-kb"
 source_url: "https://www.nlc.org/wp-content/uploads/2021/08/Community-Land-Trusts_A-Guide-for-Local-Governments_Report-1.pdf"
 web: "https://relationalbuilder.org/commons/e/community-land-trusts"
 created: "2026-05-22"
-updated: "2026-05-22"
+updated: "2026-10-22"
 rtp_id: "06000764-bb68-40cd-b45e-d17de6684bd6"
 ---
 # Community Land Trusts

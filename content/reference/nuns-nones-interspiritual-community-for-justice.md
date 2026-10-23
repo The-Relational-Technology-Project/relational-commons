@@ -10,7 +10,7 @@ attribution_source: "neighboring-commons-skill-kb"
 source_url: "https://www.nunsandnones.org/"
 web: "https://relationalbuilder.org/commons/e/nuns-nones-interspiritual-community-for-justice"
 created: "2026-05-22"
-updated: "2026-05-22"
+updated: "2026-10-22"
 rtp_id: "61e93216-3237-45b0-9165-74895bfdbdca"
 ---
 # Nuns & Nones: Interspiritual Community for Justice

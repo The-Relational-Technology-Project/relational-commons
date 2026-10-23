@@ -10,7 +10,7 @@ attribution_source: "Civic Media Cookbook (2026)"
 source_url: "https://www.newsfutures.org/library/civic-media-cookbook"
 web: "https://relationalbuilder.org/commons/e/worksheet-community-needs"
 created: "2026-07-10"
-updated: "2026-07-13"
+updated: "2026-10-22"
 rtp_id: "ba2747c0-5086-4815-8bb7-b8ea12e86477"
 ---
 # What Does Your Community Need?

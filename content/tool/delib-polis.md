@@ -10,7 +10,7 @@ attribution_source: "pol.is"
 source_url: "https://pol.is"
 web: "https://relationalbuilder.org/commons/e/delib-polis"
 created: "2026-10-08"
-updated: "2026-10-08"
+updated: "2026-10-22"
 rtp_id: "555dc922-313d-4cb6-8697-c9a91f72c997"
 ---
 # Pol.is
@@ -30,6 +30,7 @@ More organic than a survey, lighter than a focus group, built for the moments wh
 - **maker:** The Computational Democracy Project
 - **stages:** eliciting, deliberating, reflecting
 - **license:** AGPL-3.0
+- **location:** {"lat":47.6038321,"lng":-122.330062,"basis":"research","label":"Seattle, Washington","precision":"origin"}
 - **repo url:** https://github.com/compdemocracy/polis
 - **image url:** https://texakzqqenzpxawktbgx.supabase.co/storage/v1/object/public/studio-library/tool-screenshots/delib-polis-2026-08.jpg
 - **remix idea:** A single-conversation listening wall for one neighborhood question, with a printable consensus summary.

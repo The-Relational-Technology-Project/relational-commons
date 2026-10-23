@@ -10,7 +10,7 @@ attribution_source: "neighboring-commons-skill-kb"
 source_url: "https://grouphug.substack.com/p/more-structure-more-community"
 web: "https://relationalbuilder.org/commons/e/more-structure-more-community-minimal-viable-structure"
 created: "2026-05-22"
-updated: "2026-05-22"
+updated: "2026-10-22"
 rtp_id: "d1c98a23-9991-4e28-98b8-821f6de85d42"
 ---
 # More Structure ≠ More Community: Minimal Viable Structure

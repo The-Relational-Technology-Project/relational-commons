@@ -9,7 +9,7 @@ author: "Relational Technology Project"
 attribution_source: "Synthesized from the documented stories on this shelf"
 web: "https://relationalbuilder.org/commons/e/six-lessons-neighborhood-tech"
 created: "2026-08-13"
-updated: "2026-08-13"
+updated: "2026-10-22"
 rtp_id: "265c3824-82cc-460c-8250-a56f98967857"
 ---
 # Six Lessons from Neighborhood Civic Tech

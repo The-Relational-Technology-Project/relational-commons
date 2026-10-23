@@ -10,7 +10,7 @@ attribution_source: "neighboring-commons-skill-kb"
 source_url: "https://csgjusticecenter.org/publications/circles-of-support-and-accountability/"
 web: "https://relationalbuilder.org/commons/e/circles-of-support-accountability-cosa"
 created: "2026-05-22"
-updated: "2026-05-22"
+updated: "2026-10-22"
 rtp_id: "5cca72f6-805f-40a3-97bd-a5422b0ba7ac"
 ---
 # Circles of Support & Accountability (CoSA)
@@ -49,6 +49,7 @@ Rooted in Indigenous circling traditions and justice practices emphasizing resto
 ## Details
 
 - **category:** Community Care & Healing
+- **location:** {"lat":43.2560802,"lng":-79.8728583,"basis":"research","label":"Hamilton, Ontario, Canada","precision":"origin"}
 - **entry type:** Practice
 - **key ingredients raw:** - *Time*: 18+ months commitment per person, ongoing recruitment
 - *People*: Core member, 4-6 dedicated volunteers, circle coordinator, professional advisors, community base

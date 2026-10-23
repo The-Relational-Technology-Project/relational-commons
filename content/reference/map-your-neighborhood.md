@@ -10,7 +10,7 @@ attribution_source: "neighboring-commons-skill-kb"
 source_url: "https://sf-fire.org/nert/map-your-neighborhood"
 web: "https://relationalbuilder.org/commons/e/map-your-neighborhood"
 created: "2026-05-22"
-updated: "2026-05-22"
+updated: "2026-10-22"
 rtp_id: "b9053ce7-8437-4377-9220-f30a32fd0a4d"
 ---
 # Map Your Neighborhood
@@ -58,6 +58,7 @@ Neighborhood mapping connects to broader disaster preparedness and community res
 ## Details
 
 - **category:** Community Resilience
+- **location:** {"lat":47.2868352,"lng":-120.212613,"basis":"research","label":"Washington","precision":"origin"}
 - **entry type:** Practice
 - **key ingredients raw:** - *Time*: 2-3 hours per session, plus informal mapping over months
 - *People*: 15-20 households per project, 1-3 core organizers

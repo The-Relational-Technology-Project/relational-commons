@@ -10,7 +10,7 @@ attribution_source: "neighboring-commons-skill-kb"
 source_url: "https://midwestacademy.com/trainings/"
 web: "https://relationalbuilder.org/commons/e/midwest-academy-50-year-legacy-of-organizer-training"
 created: "2026-05-22"
-updated: "2026-05-22"
+updated: "2026-10-22"
 rtp_id: "2b7b731b-ddcf-458c-8e4b-47320af7c4f7"
 ---
 # Midwest Academy: 50-Year Legacy of Organizer Training
@@ -28,6 +28,7 @@ Shares Training for Change's cross-movement training approach. Publishes "Organi
 ## Details
 
 - **category:** Organizing Training
+- **location:** {"lat":41.8755616,"lng":-87.6244212,"basis":"research","label":"Chicago, Illinois","precision":"origin"}
 - **entry type:** Reference
 
 ---

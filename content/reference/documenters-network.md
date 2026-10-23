@@ -10,7 +10,7 @@ attribution_source: "documenters.org; citybureau.org/city-scrapers"
 source_url: "https://www.documenters.org/"
 web: "https://relationalbuilder.org/commons/e/documenters-network"
 created: "2026-08-13"
-updated: "2026-08-13"
+updated: "2026-10-22"
 rtp_id: "3960b68a-8715-4bbb-9e12-f6bfc73bb2f3"
 ---
 # Documenters: Paying Neighbors to Witness
@@ -27,6 +27,7 @@ For this shelf it's the strongest working answer to a question every neighborhoo
 
 ## Details
 
+- **location:** {"lat":41.8755616,"lng":-87.6244212,"basis":"attribution","label":"Chicago, Illinois","precision":"city"}
 - **repo url:** https://www.citybureau.org/city-scrapers
 - **remix idea:** A rotating, paid block documenter for the community board meeting.
 - **practice kind:** reference

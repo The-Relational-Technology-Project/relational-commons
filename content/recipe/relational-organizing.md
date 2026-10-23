@@ -11,7 +11,7 @@ source_url: "https://commonslibrary.org/how-to-do-relational-organizing-video-ti
 neighboring_recipes: "https://github.com/The-Relational-Technology-Project/neighboring-recipes/blob/main/recipes/05-bridging-difference/relational-organizing.md"
 web: "https://relationalbuilder.org/commons/e/relational-organizing"
 created: "2026-05-22"
-updated: "2026-05-22"
+updated: "2026-10-22"
 rtp_id: "7e5c67b7-4a75-418a-9534-54dea12871ec"
 ---
 # Relational Organizing

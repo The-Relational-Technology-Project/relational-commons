@@ -10,7 +10,7 @@ attribution_source: "neighboring-commons-skill-kb"
 source_url: "https://grouphug.substack.com/p/starting-new-vs-joining-an-existing"
 web: "https://relationalbuilder.org/commons/e/starting-something-new-vs-joining-existing-groups-ecosystem-health"
 created: "2026-05-22"
-updated: "2026-05-22"
+updated: "2026-10-22"
 rtp_id: "9c8009bd-cf19-4ae4-b732-4ecea55d45e0"
 ---
 # Starting Something New vs. Joining Existing Groups: Ecosystem Health

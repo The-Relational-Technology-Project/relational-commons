@@ -10,7 +10,7 @@ attribution_source: "neighboring-commons-skill-kb"
 source_url: "https://narrativearts.org/"
 web: "https://relationalbuilder.org/commons/e/narrative-arts-storytelling-for-social-change"
 created: "2026-05-22"
-updated: "2026-05-22"
+updated: "2026-10-22"
 rtp_id: "ff40f7a3-8f1a-4d64-b195-0b53d2e10fb0"
 ---
 # Narrative Arts (Storytelling for Social Change)

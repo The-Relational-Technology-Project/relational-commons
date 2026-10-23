@@ -11,7 +11,7 @@ source_url: "https://transitionnetwork.org/"
 neighboring_recipes: "https://github.com/The-Relational-Technology-Project/neighboring-recipes/blob/main/recipes/11-civic-rhythms/transition-network.md"
 web: "https://relationalbuilder.org/commons/e/transition-town"
 created: "2026-05-22"
-updated: "2026-05-22"
+updated: "2026-10-22"
 rtp_id: "a7e3a287-19c7-44ac-8f55-0cdf27c01ee2"
 ---
 # Transition Town
@@ -104,6 +104,7 @@ The model has also informed adjacent movements: solidarity economy networks, eco
 - Energy descent or efficiency projects.
 - A local currency or time bank.
 - Community-supported agriculture or producer coops., **Run "awareness raising" alongside action.** Film screenings, talks, walks, workshops. The events that bring more neighbors into the conversation., **Build working groups.** Each project gets its own working group of 3 to 10 people. The main initiative coordinates, supports, and connects them., **Partner widely.** Local government, schools, businesses, faith communities, neighborhood associations. Transition Towns is meant to be a connector, not a competitor., **Document and celebrate.** Each project completed, each garden bed dug, each repair night, each meal cooked together. The visibility carries the next group of participants in., **Sustain over time.** Many Transition Towns experience cycles of high energy and lower energy. The strongest groups have learned to operate at multiple paces and to welcome people back after long absences.
+- **location:** {"lat":50.4322816,"lng":-3.6871525,"basis":"text","label":"Dartington, South Hams, England, United Kingdom","precision":"origin"}
 - **file path:** recipes/11-civic-rhythms/transition-network.md
 - **variations:** **Sector-specific.** Some communities run only the food piece (a Transition Food Hub) or only the energy piece (a Transition Energy Coop) without taking on the full framework.
 

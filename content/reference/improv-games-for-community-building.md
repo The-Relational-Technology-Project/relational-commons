@@ -10,7 +10,7 @@ attribution_source: "neighboring-commons-skill-kb"
 source_url: "https://www.sessionlab.com/blog/improv-games/"
 web: "https://relationalbuilder.org/commons/e/improv-games-for-community-building"
 created: "2026-05-22"
-updated: "2026-05-22"
+updated: "2026-10-22"
 rtp_id: "cffc78fd-5df1-4b28-b0eb-69b5d5f865d0"
 ---
 # Improv Games for Community Building

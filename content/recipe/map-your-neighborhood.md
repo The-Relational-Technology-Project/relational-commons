@@ -11,7 +11,7 @@ source_url: "https://sf-fire.org/nert/map-your-neighborhood"
 neighboring_recipes: "https://github.com/The-Relational-Technology-Project/neighboring-recipes/blob/main/recipes/07-resilience/map-your-neighborhood.md"
 web: "https://relationalbuilder.org/commons/e/map-your-neighborhood"
 created: "2026-05-22"
-updated: "2026-05-22"
+updated: "2026-10-22"
 rtp_id: "04ace865-e9c1-4581-b97c-cfae96fec721"
 ---
 # Map Your Neighborhood
@@ -96,6 +96,7 @@ Afterward, the neighbors said something common to communities that have done thi
 - What each household can provide: medical skills, tools, generator, water, food storage, emergency radio, transportation.
 - What each household might need: mobility help, language support, medical equipment, child or pet care.
 - Where vulnerable neighbors live: elders alone, people with disabilities, families with young children., **Make the map.** A physical drawing or printed map of the block. Mark each household. Note skills and needs (with consent). The map is not for sharing publicly; it's for the participants., **Identify a meeting place.** Where to gather if phones don't work and homes are damaged. A specific corner, a park, a school yard., **Identify a comms plan.** Who has a battery radio. Who has a backup generator. What's the plan if cell networks are down (often: walk to the meeting place and check in)., **Identify a basic supply pool.** Some neighborhoods designate one household that stores extra water, first aid, and tools for the group. Others have each household maintain their own., **Hold a follow-up.** Three to six months later. What's changed? Who's moved in? Who's moved out? Refresh the map.
+- **location:** {"lat":47.2868352,"lng":-120.212613,"basis":"research","label":"Washington","precision":"origin"}
 - **file path:** recipes/07-resilience/map-your-neighborhood.md
 - **variations:** **Apartment building version.** A single building or complex rather than a block. Often run by a tenant association.
 

@@ -10,7 +10,7 @@ attribution_source: "neighboring-commons-skill-kb"
 source_url: "https://grouphug.substack.com/p/how-to-get-started-on-getting-started"
 web: "https://relationalbuilder.org/commons/e/7-ideas-to-jumpstart-community-practice"
 created: "2026-05-22"
-updated: "2026-05-22"
+updated: "2026-10-22"
 rtp_id: "b869b68f-14b2-4275-99fc-a234c292c294"
 ---
 # 7 Ideas to Jumpstart Community Practice

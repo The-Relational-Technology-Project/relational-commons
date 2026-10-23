@@ -10,7 +10,7 @@ attribution_source: "karrot.world"
 source_url: "https://karrot.world/"
 web: "https://relationalbuilder.org/commons/e/karrot"
 created: "2026-08-13"
-updated: "2026-08-13"
+updated: "2026-10-22"
 rtp_id: "c8d19ae8-6882-4b46-a136-b22a30c1b3b7"
 ---
 # Karrot

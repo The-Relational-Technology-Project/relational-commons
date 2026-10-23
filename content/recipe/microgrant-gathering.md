@@ -11,7 +11,7 @@ source_url: "https://connectivetissue.substack.com/p/a-simple-act-to-strengthen-
 neighboring_recipes: "https://github.com/The-Relational-Technology-Project/neighboring-recipes/blob/main/recipes/11-civic-rhythms/microgrant-gathering.md"
 web: "https://relationalbuilder.org/commons/e/microgrant-gathering"
 created: "2026-05-22"
-updated: "2026-10-02"
+updated: "2026-10-22"
 rtp_id: "7dbf775e-0497-41cb-be11-d76b4fd9a8a1"
 ---
 # Microgrant Gathering

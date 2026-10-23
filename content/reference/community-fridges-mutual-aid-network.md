@@ -10,7 +10,7 @@ attribution_source: "neighboring-commons-skill-kb"
 source_url: "https://www.inourheartsnyc.org/fridges"
 web: "https://relationalbuilder.org/commons/e/community-fridges-mutual-aid-network"
 created: "2026-05-22"
-updated: "2026-05-22"
+updated: "2026-10-22"
 rtp_id: "e62a16bb-7e77-40c7-a112-af470068494d"
 ---
 # Community Fridges Mutual Aid Network
@@ -45,6 +45,7 @@ Part of broader mutual aid movement that emerged during COVID-19. Connected to f
 ## Details
 
 - **category:** Mutual Aid & Solidarity
+- **location:** {"lat":40.7127281,"lng":-74.0060152,"basis":"research","label":"New York","precision":"city"}
 - **entry type:** Practice
 - **key ingredients raw:** - *Time*: Initial setup: 2-4 weeks (including community organizing); ongoing maintenance: 5-10 hours/week distributed among volunteers
 - *People*: 5-20+ core volunteer coordinators; 20-100+ community members contributing/accessing food; community partners for location and power

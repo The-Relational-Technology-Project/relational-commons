@@ -10,7 +10,7 @@ attribution_source: "neighboring-commons-skill-kb"
 source_url: "https://ellabakercenter.org/resourceorganizing/"
 web: "https://relationalbuilder.org/commons/e/ella-baker-center-resource-organizing-peer-to-peer-toolkit"
 created: "2026-05-22"
-updated: "2026-05-22"
+updated: "2026-10-22"
 rtp_id: "d6203b36-d3cb-4b59-bb96-16fe989f0472"
 ---
 # Ella Baker Center Resource Organizing: Peer-to-Peer Toolkit
@@ -32,6 +32,7 @@ Complements IAF's relational organizing and Faith in Action's values-based mobil
 ## Details
 
 - **category:** Organizing Training
+- **location:** {"lat":37.8044557,"lng":-122.271356,"basis":"research","label":"Oakland, California","precision":"origin"}
 - **entry type:** Reference
 
 ---

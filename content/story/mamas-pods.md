@@ -11,7 +11,7 @@ attribution_source: "Boston Magazine (March 2020); mutualaidmamas.com"
 source_url: "https://mutualaidmamas.com/"
 web: "https://relationalbuilder.org/commons/e/mamas-pods"
 created: "2026-08-13"
-updated: "2026-08-13"
+updated: "2026-10-22"
 rtp_id: "65e043a6-633e-4a26-980f-0a587c6dcbd0"
 ---
 # MAMAS: Pods, Phone Trees, and Spreadsheets
@@ -28,6 +28,7 @@ What it teaches: the pod-plus-phone-tree-plus-spreadsheet architecture is the mu
 
 - **era:** 2020–present
 - **place:** Medford & Somerville, Massachusetts
+- **location:** {"lat":42.4184296,"lng":-71.1061639,"also":[{"lat":42.3875968,"lng":-71.0994968,"label":"Somerville, Massachusetts"}],"basis":"attribution","label":"Medford, Massachusetts","precision":"city"}
 - **tech stack:** phone trees, geographic pods, Google Forms, spreadsheets, multilingual hotline
 - **source note:** Founders and stack per Boston Magazine; the anti-solutionism quote is from Invisible Hands' lead engineer Matt Schaff (Vice), not a MAMAS slogan.
 - **practice kind:** story

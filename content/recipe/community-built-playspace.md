@@ -11,7 +11,7 @@ source_url: "https://kaboom.org/"
 neighboring_recipes: "https://github.com/The-Relational-Technology-Project/neighboring-recipes/blob/main/recipes/06-placemaking/community-built-playspace.md"
 web: "https://relationalbuilder.org/commons/e/community-built-playspace"
 created: "2026-05-22"
-updated: "2026-05-22"
+updated: "2026-10-22"
 rtp_id: "3d3cd3b2-1085-4958-9fec-8444406711f8"
 ---
 # Community-Built Playspace
@@ -99,6 +99,7 @@ A long-running partnership with **Discover** has put 13,000+ corporate volunteer
 - Day 3: structure completion, surfacing.
 - Day 4: finishing, safety check, ribbon cutting.
 Expert Build Managers oversee safety. Different volunteer stations handle different skill levels., **Hand off to stewards.** Identify who will maintain the playground over time. Often a partnership of the neighborhood association, the city parks department, and a local school., **Celebrate.** A community party on day four. Most playgrounds open to kids that afternoon.
+- **location:** {"lat":38.8950982,"lng":-77.0363849,"basis":"research","label":"Washington, District of Columbia","precision":"origin"}
 - **file path:** recipes/06-placemaking/community-built-playspace.md
 - **variations:** **Pocket park build.** A smaller variant: a green space, a few benches, planters, a pollinator garden. Days of work rather than weekends. Lower stakes.
 

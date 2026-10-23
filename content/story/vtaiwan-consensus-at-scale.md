@@ -10,7 +10,7 @@ attribution_source: "compdemocracy.org/case-studies/vtaiwan"
 source_url: "https://compdemocracy.org/case-studies/vtaiwan/"
 web: "https://relationalbuilder.org/commons/e/vtaiwan-consensus-at-scale"
 created: "2026-10-08"
-updated: "2026-10-08"
+updated: "2026-10-22"
 rtp_id: "336f606a-b6b7-4b6c-b930-df5a0bd5c487"
 ---
 # vTaiwan: consensus at national scale
@@ -27,6 +27,7 @@ vTaiwan remains the reference case for scaling listening without flattening it. 
 
 - **place:** Taiwan
 - **sources:** https://compdemocracy.org/case-studies/vtaiwan/, https://compdemocracy.org/knowledge-base/
+- **location:** {"lat":23.9739374,"lng":120.9820179,"basis":"attribution","label":"Taiwan","precision":"country"}
 
 ---
 

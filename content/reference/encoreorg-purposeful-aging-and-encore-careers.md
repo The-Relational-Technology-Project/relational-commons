@@ -10,7 +10,7 @@ attribution_source: "neighboring-commons-skill-kb"
 source_url: "https://encore.org/ABOUT/"
 web: "https://relationalbuilder.org/commons/e/encoreorg-purposeful-aging-and-encore-careers"
 created: "2026-05-22"
-updated: "2026-05-22"
+updated: "2026-10-22"
 rtp_id: "30800cef-4037-49ec-b7bf-f0697a592643"
 ---
 # Encore.org: Purposeful Aging and Encore Careers
@@ -28,6 +28,7 @@ Complements AARP Experience Corps and WHO Age-Friendly approach. Partners with G
 ## Details
 
 - **category:** Intergenerational
+- **location:** {"lat":37.7879363,"lng":-122.4075201,"basis":"research","label":"San Francisco, California","precision":"origin"}
 - **entry type:** Reference
 
 ---

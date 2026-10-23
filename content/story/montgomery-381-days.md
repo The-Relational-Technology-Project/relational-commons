@@ -10,7 +10,7 @@ attribution_source: "Retold after 'Organizing: People, Power, Change' (2014) and
 source_url: "https://kinginstitute.stanford.edu/montgomery-bus-boycott"
 web: "https://relationalbuilder.org/commons/e/montgomery-381-days"
 created: "2026-08-13"
-updated: "2026-08-13"
+updated: "2026-10-22"
 rtp_id: "11981b79-0c76-4355-93d6-ee1a674c2784"
 ---
 # Montgomery: 381 Days of Bus Fare
@@ -31,6 +31,7 @@ What it teaches: organizing precedes mobilizing. And Montgomery's people ended t
 
 - **era:** 1955–1956
 - **place:** Montgomery, Alabama
+- **location:** {"lat":32.3777111,"lng":-86.3090775,"basis":"attribution","label":"Montgomery, Alabama","precision":"city"}
 - **illustrates:** theory-of-change-sentence, campaign-timeline-peaks, people-power-change
 - **source note:** Used as the core strategy example in 'Organizing: People, Power, Change' (2014); organizing-infrastructure details per the King Institute at Stanford (Montgomery Improvement Association; Montgomery Bus Boycott), the NMAAHC on Jo Ann Robinson, and Britannica on the Women's Political Council. Handbill count 52,500 per Robinson's memoir estimate (King Institute's Jo Ann Gibson Robinson entry); some secondary accounts say 35,000.
 - **practice kind:** story

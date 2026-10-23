@@ -10,7 +10,7 @@ attribution_source: "neighboring-commons-skill-kb"
 source_url: "https://buynothingproject.org/guidelines"
 web: "https://relationalbuilder.org/commons/e/buy-nothing-group"
 created: "2026-05-22"
-updated: "2026-05-22"
+updated: "2026-10-22"
 rtp_id: "e49499f4-dc8f-4fb2-a210-2c345621d386"
 ---
 # Buy Nothing Group
@@ -53,6 +53,7 @@ Emerges from gift economy traditions, Freecycle, and commons stewardship. Connec
 ## Details
 
 - **category:** Mutual Aid & Solidarity
+- **location:** {"lat":47.6515096,"lng":-122.5246791,"basis":"text","label":"Bainbridge Island, Washington","precision":"origin"}
 - **entry type:** Practice
 - **key ingredients raw:** - *Time*: 10-20 minutes daily (flexible engagement)
 - *People*: 20-500+ active members per group, 1-2 admins

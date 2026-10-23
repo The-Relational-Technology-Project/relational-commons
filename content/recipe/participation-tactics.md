@@ -11,7 +11,7 @@ source_url: "https://grouphug.substack.com/p/pluralize-the-power-group-participa
 neighboring_recipes: "https://github.com/The-Relational-Technology-Project/neighboring-recipes/blob/main/recipes/04-gathering-design/participation-tactics.md"
 web: "https://relationalbuilder.org/commons/e/participation-tactics"
 created: "2026-05-22"
-updated: "2026-05-22"
+updated: "2026-10-22"
 rtp_id: "820e3cf0-4281-46d6-80db-065c0aa39348"
 ---
 # Participation Tactics

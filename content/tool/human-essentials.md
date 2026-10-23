@@ -10,7 +10,7 @@ attribution_source: "humanessentials.app"
 source_url: "https://humanessentials.app/"
 web: "https://relationalbuilder.org/commons/e/human-essentials"
 created: "2026-08-13"
-updated: "2026-08-13"
+updated: "2026-10-22"
 rtp_id: "75ee9a55-ec66-4ee0-b6d5-4bef641d290a"
 ---
 # Human Essentials
@@ -28,6 +28,7 @@ It earns its shelf spot for two reasons. As a tool: any mutual aid operation tha
 - **maker:** Ruby for Good (volunteer nonprofit)
 - **hosted:** free hosted service
 - **license:** MIT
+- **location:** {"lat":45.5202471,"lng":-122.674194,"basis":"text","label":"Portland, Oregon","precision":"origin"}
 - **repo url:** https://github.com/rubyforgood/human-essentials
 - **remix idea:** The community fridge ledger, scaled from warehouse to porch.
 - **practice kind:** tool

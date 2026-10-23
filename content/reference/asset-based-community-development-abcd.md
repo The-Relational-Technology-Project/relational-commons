@@ -10,7 +10,7 @@ attribution_source: "neighboring-commons-skill-kb"
 source_url: "https://www.nurturedevelopment.org/about-abcd/"
 web: "https://relationalbuilder.org/commons/e/asset-based-community-development-abcd"
 created: "2026-05-22"
-updated: "2026-05-22"
+updated: "2026-10-22"
 rtp_id: "653ea922-7095-4bb9-bbc4-bee89a48433c"
 ---
 # Asset-Based Community Development (ABCD)
@@ -51,6 +51,7 @@ Developed in the late 1980s through McKnight and Kretzmann's research across 300
 ## Details
 
 - **category:** Frameworks & Models
+- **location:** {"lat":42.0693991,"lng":-87.682932,"basis":"research","label":"Evanston, Illinois","precision":"origin"}
 - **entry type:** Practice
 - **key ingredients raw:** - *Time*: 3-6 months for initial mapping, ongoing for integration
 - *People*: Community facilitator, residents willing to identify strengths, local institutions, asset mappers

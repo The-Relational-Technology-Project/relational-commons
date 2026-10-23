@@ -10,7 +10,7 @@ attribution_source: "neighboring-commons-skill-kb"
 source_url: "https://citizenuniversity.us/participate/civic-saturday/"
 web: "https://relationalbuilder.org/commons/e/hosting-a-civic-saturday"
 created: "2026-05-22"
-updated: "2026-05-22"
+updated: "2026-10-22"
 rtp_id: "634fcbac-2b56-4a87-90ca-926fe4a109d8"
 ---
 # Hosting a Civic Saturday
@@ -49,6 +49,7 @@ Civic Saturday is rooted in congregational traditions, public ritual, and the ci
 ## Details
 
 - **category:** Civic Engagement
+- **location:** {"lat":47.6038321,"lng":-122.330062,"basis":"research","label":"Seattle, Washington","precision":"origin"}
 - **entry type:** Practice
 - **key ingredients raw:** - *Time*: 2-3 months planning, 2-3 hours for the event
 - *People*: 2-4 core organizers, 30-200+ attendees

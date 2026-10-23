@@ -11,7 +11,7 @@ attribution_source: "prosocialdesign.org"
 source_url: "https://www.prosocialdesign.org/library/challenging-stereotypes"
 web: "https://relationalbuilder.org/commons/e/psd-challenging-stereotypes"
 created: "2026-10-12"
-updated: "2026-10-12"
+updated: "2026-10-22"
 rtp_id: "d08fa6f2-1398-4452-bae3-680f912cfe06"
 ---
 # Challenging Stereotypes

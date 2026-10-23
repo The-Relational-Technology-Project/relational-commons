@@ -11,7 +11,7 @@ attribution_source: "prosocialdesign.org"
 source_url: "https://www.prosocialdesign.org/library/crowdsourcing-contextual-information-community-notes"
 web: "https://relationalbuilder.org/commons/e/psd-crowdsourcing-contextual-information-community-notes"
 created: "2026-10-12"
-updated: "2026-10-12"
+updated: "2026-10-22"
 rtp_id: "9a88e70e-b940-4c63-a905-d2881cdaf6c2"
 ---
 # Crowdsourcing Contextual Information (Community Notes)

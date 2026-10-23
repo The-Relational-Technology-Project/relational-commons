@@ -11,7 +11,7 @@ attribution_source: "prosocialdesign.org"
 source_url: "https://www.prosocialdesign.org/library/filtering-offensive-comments"
 web: "https://relationalbuilder.org/commons/e/psd-filtering-offensive-comments"
 created: "2026-10-12"
-updated: "2026-10-12"
+updated: "2026-10-22"
 rtp_id: "2caba120-be1a-4a5c-a227-55e56cb9abc0"
 ---
 # Filtering Offensive Comments

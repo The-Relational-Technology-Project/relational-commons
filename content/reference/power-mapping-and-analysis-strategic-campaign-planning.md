@@ -10,7 +10,7 @@ attribution_source: "neighboring-commons-skill-kb"
 source_url: "https://commonslibrary.org/power-and-power-mapping-start-here/"
 web: "https://relationalbuilder.org/commons/e/power-mapping-and-analysis-strategic-campaign-planning"
 created: "2026-05-22"
-updated: "2026-05-22"
+updated: "2026-10-22"
 rtp_id: "b90b25f9-a969-4ada-a00f-ee7a76cb0355"
 ---
 # Power Mapping and Analysis: Strategic Campaign Planning

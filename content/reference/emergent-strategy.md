@@ -10,7 +10,7 @@ attribution_source: "neighboring-commons-skill-kb"
 source_url: "https://adriennemareebrown.net/book/emergent-strategy/"
 web: "https://relationalbuilder.org/commons/e/emergent-strategy"
 created: "2026-05-22"
-updated: "2026-05-22"
+updated: "2026-10-22"
 rtp_id: "add6ad12-600e-429c-8c75-e3074e6f40e2"
 ---
 # Emergent Strategy
@@ -35,6 +35,7 @@ Relates to transformative justice frameworks, pleasure activism, radical imagina
 ## Details
 
 - **category:** Frameworks & Models
+- **location:** {"lat":42.3315509,"lng":-83.0466403,"basis":"research","label":"Detroit, Michigan","precision":"origin"}
 - **entry type:** Reference
 
 ---

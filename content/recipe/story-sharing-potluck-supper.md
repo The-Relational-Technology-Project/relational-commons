@@ -11,7 +11,7 @@ source_url: "https://www.communityplate.me/suppers"
 neighboring_recipes: "https://github.com/The-Relational-Technology-Project/neighboring-recipes/blob/main/recipes/01-knowing-your-neighbors/story-sharing-potluck.md"
 web: "https://relationalbuilder.org/commons/e/story-sharing-potluck-supper"
 created: "2026-05-22"
-updated: "2026-05-22"
+updated: "2026-10-22"
 rtp_id: "075c879c-0dfb-42f7-bc0b-d6d959944ffb"
 ---
 # Story-Sharing Potluck Supper
@@ -84,6 +84,7 @@ If you've hosted a story supper, your story belongs in this list. See [CONTRIBUT
 ## Details
 
 - **steps:** **Pick the prompt first.** This is the most important decision. Make it personal but not partisan. Examples that work: *Share a food from your childhood and what it meant to you. Tell us about a meal that brought someone unexpected into your life. Share a place you've left and what you carry from it.* Avoid prompts that ask about politics, religion, or "what's wrong with the world.", **Set a date and invite.** Send the invitation 3 to 4 weeks out. Tell people up front that they will share a 2-to-3 minute story responding to the prompt. This is the most important sentence in your invitation. It is also the one that scares people. Reassure them: it's a story, not a speech., **Plan the meal.** Potluck works. Or pick a theme that fits the prompt (childhood foods, foods from where people are from). Don't over-engineer. People will bring more than enough., **Arrange the room.** One long table if possible. If you have to do multiple tables, build in a moment when stories are shared across them., **Open warmly.** Welcome people. Explain the rhythm. Read the prompt aloud. Set expectations: 2 to 3 minutes each, no questions interrupting, applause is welcome., **Do a first round with volunteers.** Two or three people who agreed in advance to go first. They warm up the room., **Eat.** Stories continue informally as people serve themselves. Encourage table conversation about what they've heard., **Do a closing round before dessert.** Anyone who hasn't spoken yet who wants to. A practiced storyteller can perform something prepared., **Collect.** Pass around a notebook for recipes, lines, or favorite moments. If you want, compile a small cookbook afterward and send it to everyone who came. This is the artifact that keeps the supper alive in people's homes.
+- **location:** {"lat":45.709097,"lng":-68.8590201,"basis":"research","label":"Maine","precision":"region"}
 - **file path:** recipes/01-knowing-your-neighbors/story-sharing-potluck.md
 - **variations:** **Smaller version.** 6 to 10 people, dining room, one shared meal cooked together. Closer to a dinner party. Less ceremony, deeper conversation.
 

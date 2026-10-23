@@ -11,7 +11,7 @@ source_url: "https://thefreestoreproject.org/"
 neighboring_recipes: "https://github.com/The-Relational-Technology-Project/neighboring-recipes/blob/main/recipes/03-mutual-aid/free-store.md"
 web: "https://relationalbuilder.org/commons/e/free-store"
 created: "2026-05-22"
-updated: "2026-05-22"
+updated: "2026-10-22"
 rtp_id: "fe74c133-308e-4be7-ae87-dfa500e58e62"
 ---
 # Free Store
@@ -93,6 +93,7 @@ A Free Store is a [Buy Nothing](../recipe/buy-nothing-group.md) group with a phy
 
 - **steps:** **Pick a date and a public space.** A park, plaza, parking lot, or community center. Permit if required., **Recruit 5 to 10 organizing volunteers.** Set up, intake, browsing assistance, takedown., **Spread the word.** Bring items you don't need. Take items you want. Everything free. No barter, no sale., **Set up tables by category.** Clothes, kitchen, books, toys, electronics, miscellaneous., **Run the market for 3 to 6 hours.** Encourage browsing and conversation., **At the end, donate remainder.** Take whatever's left to a thrift store, mutual aid distribution, or community group that can absorb it.
 ### Option B: Permanent Free Store, **Find space.** Donated retail space, church basements, warehouse corners. Many Free Stores have started in spaces an organization already owned and wasn't using., **Set hours.** Twice a week is a typical starting cadence. Weekend hours catch people who work., **Recruit a steady volunteer team.** 8 to 15 people on a rotation. Each volunteer covers 2 to 4 hours a week., **Set policies.** What you'll accept and what you won't. Most stores refuse: broken electronics, stained or torn clothes, anything with safety issues, anything illegal. Post the list at intake., **Organize the store.** Keep it browsable. Rotate stock. Don't let it become a hoarder space; that's the most common failure mode. Have a "donate to next user" pile that goes out weekly., **Build relationships with donors and partners.** Local thrift stores can refer customers to you. Local moving companies can bring things they'd otherwise dump., **Address misuse openly.** Some people will treat a Free Store as a discount supply for reselling. Most stores handle this lightly: per-visit limits, a chat with frequent offenders. Heavy-handed responses kill the trust that makes the store work.
+- **location:** {"lat":37.7879363,"lng":-122.4075201,"also":[{"lat":40.7127281,"lng":-74.0060152,"label":"New York"}],"basis":"text","label":"San Francisco, California","precision":"origin"}
 - **file path:** recipes/03-mutual-aid/free-store.md
 - **variations:** **Mini Free Store inside a community center.** A corner with a shelf or two. Lower stakes. Lower throughput.
 

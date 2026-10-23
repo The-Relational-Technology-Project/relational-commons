@@ -10,7 +10,7 @@ attribution_source: "neighboring-commons-skill-kb"
 source_url: "https://mutualaiddisasterrelief.org/"
 web: "https://relationalbuilder.org/commons/e/mutual-aid-disaster-relief-grassroots-solidarity-response"
 created: "2026-05-22"
-updated: "2026-05-22"
+updated: "2026-10-22"
 rtp_id: "dbd1d6fc-e529-4546-b92b-ed107c4f10e4"
 ---
 # Mutual Aid Disaster Relief: Grassroots Solidarity Response

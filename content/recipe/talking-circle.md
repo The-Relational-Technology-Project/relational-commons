@@ -11,7 +11,7 @@ source_url: "https://firstnationspedagogy.ca/circletalks.html"
 neighboring_recipes: "https://github.com/The-Relational-Technology-Project/neighboring-recipes/blob/main/recipes/04-gathering-design/talking-circle.md"
 web: "https://relationalbuilder.org/commons/e/talking-circle"
 created: "2026-05-22"
-updated: "2026-05-22"
+updated: "2026-10-22"
 rtp_id: "a8805cc1-dc01-4345-959a-c58105ca4605"
 ---
 # Talking Circle

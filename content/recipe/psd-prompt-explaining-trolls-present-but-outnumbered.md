@@ -11,7 +11,7 @@ attribution_source: "prosocialdesign.org"
 source_url: "https://www.prosocialdesign.org/library/prompt-explaining-trolls-present-but-outnumbered"
 web: "https://relationalbuilder.org/commons/e/psd-prompt-explaining-trolls-present-but-outnumbered"
 created: "2026-10-12"
-updated: "2026-10-12"
+updated: "2026-10-22"
 rtp_id: "78f82043-123a-45f2-ac6f-70a64a7fd360"
 ---
 # Message that Trolls are Outnumbered

@@ -11,7 +11,7 @@ attribution_source: "prosocialdesign.org"
 source_url: "https://www.prosocialdesign.org/library/positive-background-imagery"
 web: "https://relationalbuilder.org/commons/e/psd-positive-background-imagery"
 created: "2026-10-12"
-updated: "2026-10-12"
+updated: "2026-10-22"
 rtp_id: "67ebc033-8e06-458f-a925-e665a03220d4"
 ---
 # Positive Background Imagery

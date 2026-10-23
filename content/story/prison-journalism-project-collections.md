@@ -11,7 +11,7 @@ attribution_source: "Civic Media Cookbook (2026), Appendix 2: Field Guide"
 source_url: "https://www.newsfutures.org/library/civic-media-cookbook"
 web: "https://relationalbuilder.org/commons/e/prison-journalism-project-collections"
 created: "2026-07-10"
-updated: "2026-07-13"
+updated: "2026-10-22"
 rtp_id: "898cd660-0e88-462c-9dad-4ab74eacde9e"
 ---
 # Prison Journalism Project Collections

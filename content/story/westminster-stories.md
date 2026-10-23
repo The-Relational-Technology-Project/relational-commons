@@ -11,7 +11,7 @@ attribution_source: "Civic Media Cookbook (2026), Appendix 2: Field Guide"
 source_url: "https://www.newsfutures.org/library/civic-media-cookbook"
 web: "https://relationalbuilder.org/commons/e/westminster-stories"
 created: "2026-07-10"
-updated: "2026-07-13"
+updated: "2026-10-22"
 rtp_id: "bd02bcd3-9959-479a-abf6-ceb35debb26e"
 ---
 # Westminster Stories
@@ -29,6 +29,7 @@ Told one street's story through 100+ interviews, archives, and an interactive in
 ## Details
 
 - **format:** storefront diorama + street museum
+- **location:** {"lat":41.8234695,"lng":-71.4130257,"basis":"text","label":"Downtown, Providence, Rhode Island","precision":"neighborhood"}
 - **patterns:** preserving_community_knowledge, deepening_understanding_of_place
 - **source tag:** CB
 - **source note:** Civic Media Cookbook Appendix 2 Field Guide — as submitted by practitioners (2025).

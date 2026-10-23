@@ -10,7 +10,7 @@ attribution_source: "neighboring-commons-skill-kb"
 source_url: "https://www.playworks.org/"
 web: "https://relationalbuilder.org/commons/e/playworks"
 created: "2026-05-22"
-updated: "2026-05-22"
+updated: "2026-10-22"
 rtp_id: "582309f1-0f3e-437b-b6c5-9f7dbd1623cb"
 ---
 # Playworks
@@ -50,6 +50,7 @@ Draws from New Games Movement philosophy and contemporary play theory. Relates t
 ## Details
 
 - **category:** Play & Games
+- **location:** {"lat":37.8044557,"lng":-122.271356,"basis":"research","label":"Oakland, California","precision":"origin"}
 - **entry type:** Practice
 - **key ingredients raw:** - *Time*: Ongoing; typically 1-2 hour daily recess sessions plus staff training
 - *People*: 1-2 on-site coaches per school; whole-school staff participation; all students

@@ -10,7 +10,7 @@ attribution_source: "neighboring-commons-skill-kb"
 source_url: "https://trustforciviclife.org/pilot-grants-program-to-fuel-over-100-civic-experiments-across-rural-america/"
 web: "https://relationalbuilder.org/commons/e/civic-experiment-grants"
 created: "2026-05-22"
-updated: "2026-05-22"
+updated: "2026-10-22"
 rtp_id: "a61b5193-421d-4e9b-8816-5900d50846cd"
 ---
 # Civic Experiment Grants

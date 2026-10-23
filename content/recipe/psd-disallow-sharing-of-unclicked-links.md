@@ -11,7 +11,7 @@ attribution_source: "prosocialdesign.org"
 source_url: "https://www.prosocialdesign.org/library/disallow-sharing-of-unclicked-links"
 web: "https://relationalbuilder.org/commons/e/psd-disallow-sharing-of-unclicked-links"
 created: "2026-10-12"
-updated: "2026-10-12"
+updated: "2026-10-22"
 rtp_id: "fcc25d11-54f2-4066-b951-ea047ed753fd"
 ---
 # Disallow Sharing of Unclicked Links

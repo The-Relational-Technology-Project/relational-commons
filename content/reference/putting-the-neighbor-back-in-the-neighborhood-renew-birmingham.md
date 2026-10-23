@@ -10,7 +10,7 @@ attribution_source: "neighboring-commons-skill-kb"
 source_url: "https://connectivetissue.substack.com/p/putting-the-neighbor-back-in-the"
 web: "https://relationalbuilder.org/commons/e/putting-the-neighbor-back-in-the-neighborhood-renew-birmingham"
 created: "2026-05-22"
-updated: "2026-05-22"
+updated: "2026-10-22"
 rtp_id: "087c43f8-65a2-40bc-aa21-351e4e2a63ad"
 ---
 # Putting the Neighbor Back in the Neighborhood: Renew Birmingham
@@ -28,6 +28,7 @@ Demonstrates practical application of local leadership principles and shows how 
 ## Details
 
 - **category:** Stories & Examples
+- **location:** {"lat":33.5206824,"lng":-86.8024326,"basis":"text","label":"Birmingham, Alabama","precision":"city"}
 - **entry type:** Reference
 
 ---

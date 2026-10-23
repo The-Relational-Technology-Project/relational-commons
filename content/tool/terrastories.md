@@ -10,7 +10,7 @@ attribution_source: "terrastories.app"
 source_url: "https://terrastories.app/"
 web: "https://relationalbuilder.org/commons/e/terrastories"
 created: "2026-08-13"
-updated: "2026-08-13"
+updated: "2026-10-22"
 rtp_id: "c00b2947-e73a-4a2a-80cd-7d9bd45ad833"
 ---
 # Terrastories
@@ -29,6 +29,7 @@ It's MIT-licensed, actively maintained, and ships a fully offline 'Field Kit' �
 - **hosted:** self-host; offline Field Kit
 - **license:** MIT
 - **ctfg url:** https://civictech.guide/listing/terrastories
+- **location:** {"lat":37.8044557,"lng":-122.271356,"also":[{"lat":5.7870805,"lng":-55.6064574,"label":"Saramacca, Suriname"}],"basis":"research","label":"Oakland, California","precision":"origin"}
 - **repo url:** https://github.com/Terrastories/terrastories
 - **remix idea:** 'This corner used to be…' — elder stories pinned to places, running at the library.
 - **practice kind:** tool

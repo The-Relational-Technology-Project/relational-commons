@@ -11,7 +11,7 @@ source_url: "https://www.longesttablecommunity.org"
 neighboring_recipes: "https://github.com/The-Relational-Technology-Project/neighboring-recipes/blob/main/recipes/01-knowing-your-neighbors/longest-table.md"
 web: "https://relationalbuilder.org/commons/e/the-longest-table"
 created: "2026-05-22"
-updated: "2026-05-22"
+updated: "2026-10-22"
 rtp_id: "b0f44448-e0cd-41aa-91f1-aae7cd930c81"
 ---
 # The Longest Table

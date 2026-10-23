@@ -10,7 +10,7 @@ attribution_source: "streetmix.net"
 source_url: "https://streetmix.net/"
 web: "https://relationalbuilder.org/commons/e/streetmix"
 created: "2026-08-13"
-updated: "2026-08-13"
+updated: "2026-10-22"
 rtp_id: "76e31a40-b99b-4437-be20-dbbe24b9d305"
 ---
 # Streetmix
@@ -31,6 +31,7 @@ What it teaches: giving neighbors a *drawing tool* changes the power dynamics of
 - **hosted:** free at streetmix.net
 - **license:** AGPL-3.0
 - **ctfg url:** https://civictech.guide/listing/streetmix
+- **location:** {"lat":37.7879363,"lng":-122.4075201,"basis":"text","label":"San Francisco, California","precision":"origin"}
 - **repo url:** https://github.com/streetmix/streetmix
 - **remix idea:** Every household draws 'our street, fixed' before the petition goes in.
 - **practice kind:** tool

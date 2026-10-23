@@ -10,7 +10,7 @@ attribution_source: "neighboring-commons-skill-kb"
 source_url: "https://www.shareable.net/programs/mutual-aid-101/"
 web: "https://relationalbuilder.org/commons/e/mutual-aid-101-program"
 created: "2026-05-22"
-updated: "2026-05-22"
+updated: "2026-10-22"
 rtp_id: "f29e718b-d1d9-4004-b5a5-50b145bfbd6f"
 ---
 # Mutual Aid 101 Program

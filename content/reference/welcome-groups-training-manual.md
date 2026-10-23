@@ -10,7 +10,7 @@ attribution_source: "neighboring-commons-skill-kb"
 source_url: "https://www.togetherproject.ca/wp-content/uploads/2020/01/TP_Manual06_FA1.pdf"
 web: "https://relationalbuilder.org/commons/e/welcome-groups-training-manual"
 created: "2026-05-22"
-updated: "2026-05-22"
+updated: "2026-10-22"
 rtp_id: "1b73461a-39de-4651-a35e-57ad672969dd"
 ---
 # Welcome Groups Training Manual
@@ -45,6 +45,7 @@ Together Project's model builds on social integration theory and volunteer-based
 ## Details
 
 - **category:** Community Organizing
+- **location:** {"lat":43.6534817,"lng":-79.3839347,"basis":"research","label":"Toronto, Ontario, Canada","precision":"origin"}
 - **entry type:** Practice
 - **key ingredients raw:** - *Time*: 3-6 months per match; 1 hour weekly per volunteer (3-4 hours monthly)
 - *People*: Groups of 3-5 volunteers; refugee families; cultural ambassadors for language support

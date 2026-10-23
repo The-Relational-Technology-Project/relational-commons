@@ -10,7 +10,7 @@ attribution_source: "neighboring-commons-skill-kb"
 source_url: "https://kindredsouthernhjcollective.org/"
 web: "https://relationalbuilder.org/commons/e/healing-justice-kindred-southern-healing-justice-collective-model"
 created: "2026-05-22"
-updated: "2026-05-22"
+updated: "2026-10-22"
 rtp_id: "5ef7687b-208d-48b1-8387-10159181802b"
 ---
 # Healing Justice (Kindred Southern Healing Justice Collective Model)
@@ -45,6 +45,7 @@ Rooted in Black radical traditions, healing practices from African diaspora, and
 ## Details
 
 - **category:** Community Care & Healing
+- **location:** {"lat":33.7544657,"lng":-84.3898151,"basis":"research","label":"Atlanta, Georgia","precision":"origin"}
 - **entry type:** Practice
 - **key ingredients raw:** - *Time*: Ongoing; healing circles: 2-4 hours; immersive trainings: 1-3 days; integration into organizing: ongoing
 - *People*: Healers (spiritual/alternative practitioners, bodyworkers, artists, therapists from communities); organizers; community members and people with lived experience of trauma

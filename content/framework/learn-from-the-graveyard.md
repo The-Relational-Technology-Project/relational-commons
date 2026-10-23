@@ -10,7 +10,7 @@ attribution_source: "civictech.guide/graveyard"
 source_url: "https://civictech.guide/graveyard/"
 web: "https://relationalbuilder.org/commons/e/learn-from-the-graveyard"
 created: "2026-08-13"
-updated: "2026-08-13"
+updated: "2026-10-22"
 rtp_id: "66adfeb0-ca99-43cb-bc66-edd3d6728136"
 ---
 # Learn from the Graveyard

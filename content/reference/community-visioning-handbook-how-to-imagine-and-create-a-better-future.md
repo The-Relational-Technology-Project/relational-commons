@@ -10,7 +10,7 @@ attribution_source: "neighboring-commons-skill-kb"
 source_url: "https://www1.maine.gov/dacf/municipalplanning/docs/visioning.pdf"
 web: "https://relationalbuilder.org/commons/e/community-visioning-handbook-how-to-imagine-and-create-a-better-future"
 created: "2026-05-22"
-updated: "2026-05-22"
+updated: "2026-10-22"
 rtp_id: "cb8102b8-a6b3-4d6a-be7d-ff3bb9cb3b73"
 ---
 # Community Visioning Handbook: How to Imagine and Create a Better Future
@@ -28,6 +28,7 @@ Practical implementation of Collective Imagination Practices. Used alongside Civ
 ## Details
 
 - **category:** Civic Imagination
+- **location:** {"lat":45.709097,"lng":-68.8590201,"basis":"text","label":"Maine","precision":"region"}
 - **entry type:** Reference
 
 ---

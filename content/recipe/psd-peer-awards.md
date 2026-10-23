@@ -11,7 +11,7 @@ attribution_source: "prosocialdesign.org"
 source_url: "https://www.prosocialdesign.org/library/peer-awards"
 web: "https://relationalbuilder.org/commons/e/psd-peer-awards"
 created: "2026-10-12"
-updated: "2026-10-12"
+updated: "2026-10-22"
 rtp_id: "e242e089-b3d3-45ef-ad9f-20e7c2c1ff45"
 ---
 # Peer Awards

@@ -10,7 +10,7 @@ attribution_source: "openreferral.org"
 source_url: "https://openreferral.org/"
 web: "https://relationalbuilder.org/commons/e/open-referral-hsds"
 created: "2026-08-13"
-updated: "2026-08-13"
+updated: "2026-10-22"
 rtp_id: "c99986a6-4df3-43e0-95f7-951392916fca"
 ---
 # Open Referral / HSDS
@@ -27,6 +27,7 @@ It's infrastructure with real adoption: piloted in Miami's county systems, adopt
 
 - **maker:** Open Referral Initiative
 - **license:** CC BY-SA 4.0 (specification)
+- **location:** {"lat":38.8950982,"lng":-77.0363849,"basis":"research","label":"Washington, District of Columbia","precision":"origin"}
 - **repo url:** https://github.com/openreferral
 - **remix idea:** The block's who-has-what inventory as a tiny, consented HSDS dataset.
 - **practice kind:** tool

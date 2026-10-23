@@ -10,7 +10,7 @@ attribution_source: "UFW history archives; Marshall Ganz, 'Why David Sometimes W
 source_url: "https://ufw.org/1965-1970-delano-grape-strike-boycott/"
 web: "https://relationalbuilder.org/commons/e/grape-boycott-boycott-houses"
 created: "2026-08-13"
-updated: "2026-08-13"
+updated: "2026-10-22"
 rtp_id: "994d47e9-e6d4-4999-8949-2f4c7fdf4490"
 ---
 # The Grape Boycott: Farmworkers in Every City
@@ -29,6 +29,7 @@ What it teaches: distributed organizing is what a poor constituency does when it
 
 - **era:** 1965–1970
 - **place:** Delano, California — and boycott houses across North America
+- **location:** {"lat":35.7688425,"lng":-119.247053,"basis":"attribution","label":"Delano, California","precision":"city"}
 - **illustrates:** snowflake-model, theory-of-change-sentence, campaign-timeline-peaks
 - **source note:** Strike and contract facts per UFW's own history pages and the National Park Service; named boycott organizers per the Walter P. Reuther Library and Facing History.
 - **practice kind:** story

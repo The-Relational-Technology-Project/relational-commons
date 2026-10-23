@@ -11,7 +11,7 @@ attribution_source: "Civic Media Cookbook (2026), Appendix 2: Field Guide"
 source_url: "https://www.newsfutures.org/library/civic-media-cookbook"
 web: "https://relationalbuilder.org/commons/e/community-mapping"
 created: "2026-07-10"
-updated: "2026-07-13"
+updated: "2026-10-22"
 rtp_id: "3f6ee11e-9c7c-4156-8f42-6b031c60877b"
 ---
 # Community Mapping
@@ -28,6 +28,7 @@ Reporters set up tables with printed maps and asked residents to draw their neig
 ## Details
 
 - **format:** in-person mapping activity
+- **location:** {"lat":38.4831762,"lng":-121.467131,"basis":"attribution","label":"Meadowview, Sacramento, California","precision":"neighborhood"}
 - **patterns:** preserving_community_knowledge
 - **source tag:** CB
 - **source note:** Civic Media Cookbook Appendix 2 Field Guide — as submitted by practitioners (2025).

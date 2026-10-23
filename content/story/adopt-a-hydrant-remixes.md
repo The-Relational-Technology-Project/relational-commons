@@ -11,7 +11,7 @@ attribution_source: "Boston.gov; Honolulu Civil Beat; KQED"
 source_url: "https://www.boston.gov/public-safety/adopt-hydrant"
 web: "https://relationalbuilder.org/commons/e/adopt-a-hydrant-remixes"
 created: "2026-08-13"
-updated: "2026-08-13"
+updated: "2026-10-22"
 rtp_id: "90cda236-649b-40e8-8eba-7e1bb844ebf0"
 ---
 # Adopt-a-Hydrant and Its Descendants
@@ -30,6 +30,7 @@ What it teaches: the adopt-a-thing pattern is the most reliably remixable shape 
 
 - **era:** 2011–present
 - **place:** Boston; Honolulu; San Francisco; Chicago
+- **location:** {"lat":42.3588336,"lng":-71.0578303,"also":[{"lat":21.304547,"lng":-157.855676,"label":"Honolulu, Hawaii"},{"lat":37.7879363,"lng":-122.4075201,"label":"San Francisco, California"},{"lat":41.8755616,"lng":-87.6244212,"label":"Chicago, Illinois"}],"basis":"attribution","label":"Boston, Massachusetts","precision":"city"}
 - **repo url:** https://github.com/codeforamerica/adopt-a-hydrant
 - **illustrates:** remix-at-neighborhood-scale, six-lessons-neighborhood-tech
 - **source note:** Lineage per Boston.gov, Honolulu's 2012 press materials, and KQED's Adopt-a-Drain coverage; repo is BSD-3-Clause (Code for America, 2011).

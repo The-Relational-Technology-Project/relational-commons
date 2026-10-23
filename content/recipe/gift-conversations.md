@@ -10,7 +10,7 @@ attribution_source: "McKnight, 'A Basic Guide to ABCD Community Organizing'; Mat
 source_url: "https://www.nurturedevelopment.org/wp-content/uploads/2016/01/A-Basic-Guide-to-ABCD-Community-Organizing-1.pdf"
 web: "https://relationalbuilder.org/commons/e/gift-conversations"
 created: "2026-08-13"
-updated: "2026-08-13"
+updated: "2026-10-22"
 rtp_id: "07991f21-fa10-48ae-bc9f-5b88e8619daa"
 ---
 # Gift Conversations: Head, Hands, Heart
@@ -34,6 +34,7 @@ The discipline: this is a conversation, not a survey. Consent, not collection. A
 
 ## Details
 
+- **location:** {"lat":42.0693991,"lng":-87.682932,"also":[{"lat":39.7683331,"lng":-86.1583502,"label":"Indianapolis, Indiana"}],"basis":"research","label":"Evanston, Illinois","precision":"origin"}
 - **ingredients:** the four questions, a porch or kitchen table, a connector who will act on what's heard
 - **source note:** Four questions quoted from McKnight's 'A Basic Guide to ABCD Community Organizing' (Nurture Development); name/bless/connect and the follow-up questions from Broadway UMC's roving listener practice (Faith & Leadership; Mather 2018); Chicago home-care outcome from 'How to Use a Capacity Inventory' (Kretzmann & McKnight).
 - **how it works:** Ask the four questions: head, hands, heart, belonging., Listen for what they'd teach, not just what they'd take., Name the gift back to them; bless it publicly., Connect it: person to person, person to association, association to association., Keep the inventory light and consented — the relationship is the record.

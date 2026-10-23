@@ -10,7 +10,7 @@ attribution_source: "Relational Tech Studio library"
 parent: "../tool/neighbor-story-sharing.md"
 web: "https://relationalbuilder.org/commons/e/neighbor-story-sharing"
 created: "2026-06-10"
-updated: "2026-10-21"
+updated: "2026-10-22"
 rtp_id: "48c27ed4-fa18-4cad-927e-11e024e7d54e"
 ---
 # Neighbor Story Sharing
@@ -113,6 +113,10 @@ Story owner notification when neighbors express interest.
 - Grew from [Neighbor Story Sharing](../tool/neighbor-story-sharing.md)
 - Mentions: [GitHub](../tool/github.md)
 - Mentions: [Story Circles](../story/story-circles.md)
+
+## Details
+
+- **location:** {"lat":37.7541496,"lng":-122.5061507,"basis":"research","label":"Sunset District, San Francisco, California","precision":"origin"}
 
 ---
 

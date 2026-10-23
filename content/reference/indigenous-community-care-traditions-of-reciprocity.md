@@ -10,7 +10,7 @@ attribution_source: "neighboring-commons-skill-kb"
 source_url: "https://www.resilience.org/stories/2024-03-25/indigenous-community-care-traditions-of-reciprocity/"
 web: "https://relationalbuilder.org/commons/e/indigenous-community-care-traditions-of-reciprocity"
 created: "2026-05-22"
-updated: "2026-05-22"
+updated: "2026-10-22"
 rtp_id: "48a61c98-912c-4de1-9bb3-4a64f71d5c4c"
 ---
 # Indigenous Community Care - Traditions of Reciprocity

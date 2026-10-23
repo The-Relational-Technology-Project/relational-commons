@@ -11,7 +11,7 @@ attribution_source: "prosocialdesign.org"
 source_url: "https://www.prosocialdesign.org/library/moderation-tool-for-ban-appeals"
 web: "https://relationalbuilder.org/commons/e/psd-moderation-tool-for-ban-appeals"
 created: "2026-10-12"
-updated: "2026-10-12"
+updated: "2026-10-22"
 rtp_id: "f125ffb2-0e6c-4f05-b298-7833507dc88a"
 ---
 # Moderation Tool for Ban Appeals

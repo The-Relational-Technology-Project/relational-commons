@@ -10,7 +10,7 @@ attribution_source: "Sojourners magazine, March 2009"
 source_url: "https://sojo.net/magazine/march-2009/why-stories-matter"
 web: "https://relationalbuilder.org/commons/e/why-stories-matter-ganz"
 created: "2026-08-13"
-updated: "2026-08-13"
+updated: "2026-10-22"
 rtp_id: "a557103b-ba5a-40a4-bd0f-7dafb90d5999"
 ---
 # Why Stories Matter (Marshall Ganz)
@@ -23,6 +23,7 @@ A good first send to a neighbor who asks what this storytelling business has to 
 
 ## Details
 
+- **location:** {"lat":42.3656347,"lng":-71.1040018,"basis":"research","label":"Cambridge, Massachusetts","precision":"origin"}
 - **practice kind:** reference
 
 ---

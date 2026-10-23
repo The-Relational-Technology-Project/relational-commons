@@ -9,7 +9,7 @@ topics: ["builder-story"]
 author: "D.J. Trischler, Neighborhood Designer"
 web: "https://relationalbuilder.org/commons/e/the-claypole-commons"
 created: "2026-06-10"
-updated: "2026-10-21"
+updated: "2026-10-22"
 rtp_id: "9912a547-afbb-4bf8-806d-a2da57c5696d"
 ---
 # The Claypole Commons
@@ -35,6 +35,10 @@ rtp_id: "9912a547-afbb-4bf8-806d-a2da57c5696d"
 ## Related in the commons
 
 - Mentioned in: [Neighborhood Newsletter (civic media format)](../reference/format-neighborhood-newsletter.md)
+
+## Details
+
+- **location:** {"lat":39.1012809,"lng":-84.5127405,"basis":"text","label":"Cincinnati, Ohio","precision":"city"}
 
 ---
 

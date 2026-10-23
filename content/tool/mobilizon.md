@@ -10,7 +10,7 @@ attribution_source: "joinmobilizon.org"
 source_url: "https://joinmobilizon.org/"
 web: "https://relationalbuilder.org/commons/e/mobilizon"
 created: "2026-08-13"
-updated: "2026-08-13"
+updated: "2026-10-22"
 rtp_id: "76db66d4-e359-425d-bae2-9ca7550dfeec"
 ---
 # Mobilizon
@@ -30,6 +30,7 @@ Honest status: maintained at small-association capacity — healthy, but a depen
 - **maker:** Framasoft → Kaihuri association (France)
 - **hosted:** public instances (mobilizon.fr and others); self-hostable
 - **license:** AGPL-3.0-or-later
+- **location:** {"lat":45.7578137,"lng":4.8320114,"basis":"research","label":"Lyon, Auvergne-Rhône-Alpes, France","precision":"origin"}
 - **repo url:** https://framagit.org/framasoft/mobilizon
 - **remix idea:** The anti-Facebook events board for one block.
 - **status note:** Maintained at small-association capacity — healthy but watch.

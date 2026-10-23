@@ -10,7 +10,7 @@ attribution_source: "neighboring-commons-skill-kb"
 source_url: "https://dosomething.org/"
 web: "https://relationalbuilder.org/commons/e/dosomethingorg"
 created: "2026-05-22"
-updated: "2026-05-22"
+updated: "2026-10-22"
 rtp_id: "656ae7e6-cd31-494e-9345-9ded2318028d"
 ---
 # DoSomething.org
@@ -45,6 +45,7 @@ Part of youth organizing and civic engagement movements. Relates to broader digi
 ## Details
 
 - **category:** Youth & Organizing
+- **location:** {"lat":40.7127281,"lng":-74.0060152,"basis":"research","label":"New York","precision":"origin"}
 - **entry type:** Practice
 - **key ingredients raw:** - *Time*: Flexible; campaigns vary from 1-time actions to ongoing engagement
 - *People*: Individual youth; peer networks; community of 1 million+ members

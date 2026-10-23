@@ -10,7 +10,7 @@ attribution_source: "neighboring-commons-skill-kb"
 source_url: "https://ndncollective.org/"
 web: "https://relationalbuilder.org/commons/e/ndn-collective"
 created: "2026-05-22"
-updated: "2026-05-22"
+updated: "2026-10-22"
 rtp_id: "56a009d6-9070-47ca-9b4f-bb1126e2ade0"
 ---
 # NDN Collective
@@ -28,6 +28,7 @@ Part of broader indigenous sovereignty, environmental justice, and decolonizatio
 ## Details
 
 - **category:** Indigenous Practices & Wisdom
+- **location:** {"lat":44.0806041,"lng":-103.228023,"basis":"text","label":"Rapid City, South Dakota","precision":"city"}
 - **entry type:** Reference
 
 ---

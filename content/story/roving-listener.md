@@ -10,7 +10,7 @@ attribution_source: "Faith & Leadership, 'Death and resurrection of an urban chu
 source_url: "https://faithandleadership.com/death-and-resurrection-urban-church"
 web: "https://relationalbuilder.org/commons/e/roving-listener"
 created: "2026-08-13"
-updated: "2026-08-13"
+updated: "2026-10-22"
 rtp_id: "765014d5-043f-408d-9edb-90e970e070f8"
 ---
 # The Roving Listener
@@ -29,6 +29,7 @@ What it teaches: the deepest resource question isn't what a neighborhood needs â
 
 - **era:** 2003â€“present
 - **place:** Fall Creek area, Indianapolis
+- **location:** {"lat":39.7683331,"lng":-86.1583502,"basis":"attribution","label":"Indianapolis, Indiana","precision":"neighborhood"}
 - **illustrates:** gift-conversations, neighborhood-asset-map, connectors-table
 - **source note:** All named outcomes per Faith & Leadership's long profile and Mather's book excerpt; Harges is now ABCD Institute faculty.
 - **practice kind:** story

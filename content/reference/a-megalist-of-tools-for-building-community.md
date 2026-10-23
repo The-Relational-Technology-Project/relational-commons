@@ -10,7 +10,7 @@ attribution_source: "neighboring-commons-skill-kb"
 source_url: "https://grouphug.substack.com/p/a-megalist-of-tools-for-building"
 web: "https://relationalbuilder.org/commons/e/a-megalist-of-tools-for-building-community"
 created: "2026-05-22"
-updated: "2026-05-22"
+updated: "2026-10-22"
 rtp_id: "b99ff666-4dc2-472c-b14b-81d96142e869"
 ---
 # A Megalist of Tools for Building Community

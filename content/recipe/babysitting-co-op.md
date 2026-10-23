@@ -11,7 +11,7 @@ source_url: "https://www.nolo.com/legal-encyclopedia/how-form-community-babysitt
 neighboring_recipes: "https://github.com/The-Relational-Technology-Project/neighboring-recipes/blob/main/recipes/02-small-groups-for-support/babysitting-coop.md"
 web: "https://relationalbuilder.org/commons/e/babysitting-co-op"
 created: "2026-05-22"
-updated: "2026-05-22"
+updated: "2026-10-22"
 rtp_id: "70da540d-9ac4-4085-8caf-41c6edd71816"
 ---
 # Babysitting Co-op

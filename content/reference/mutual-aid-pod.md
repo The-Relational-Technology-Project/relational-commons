@@ -10,7 +10,7 @@ attribution_source: "neighboring-commons-skill-kb"
 source_url: "https://www.shareable.net/how-to/how-to-start-a-mutual-aid-network/"
 web: "https://relationalbuilder.org/commons/e/mutual-aid-pod"
 created: "2026-05-22"
-updated: "2026-05-22"
+updated: "2026-10-22"
 rtp_id: "6f8a105f-bed8-4159-864a-23fb556dfa59"
 ---
 # Mutual Aid Pod

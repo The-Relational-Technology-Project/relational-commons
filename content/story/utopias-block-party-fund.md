@@ -12,7 +12,7 @@ attribution_source: "https://utopias.world/"
 source_url: "https://utopias.world/"
 web: "https://relationalbuilder.org/commons/e/utopias-block-party-fund"
 created: "2026-10-02"
-updated: "2026-10-02"
+updated: "2026-10-22"
 rtp_id: "508c5e7a-5b70-4ab0-86a3-c87456933f06"
 ---
 # Block Party Fund (Los Angeles, CA)
@@ -41,6 +41,7 @@ https://utopias.world/ — listed on With Neighbors (https://withneighbors.org/m
 - **maker:** UTOPIAS
 - **place:** Los Angeles, CA
 - **amounts:** $150 per host
+- **location:** {"lat":34.0536923,"lng":-118.2427676,"basis":"attribution","label":"Los Angeles, California","precision":"city"}
 - **hosted url:** https://utopias.world/
 - **grant shape:** fixed
 - **local object:** the block party, framed as mapping 'a friendlier LA'

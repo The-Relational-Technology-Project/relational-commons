@@ -11,7 +11,7 @@ source_url: "https://welcomewagon.com/blog/tips-for-making-new-neighbors-feel-li
 neighboring_recipes: "https://github.com/The-Relational-Technology-Project/neighboring-recipes/blob/main/recipes/01-knowing-your-neighbors/welcome-wagon.md"
 web: "https://relationalbuilder.org/commons/e/welcome-wagon"
 created: "2026-05-22"
-updated: "2026-05-22"
+updated: "2026-10-22"
 rtp_id: "ac9f9774-6a37-44d4-8755-8b17e0cca6fa"
 ---
 # Welcome Wagon

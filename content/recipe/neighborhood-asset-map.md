@@ -10,7 +10,7 @@ attribution_source: "'Building Communities from the Inside Out' (1993); McKnight
 source_url: "https://www.nurturedevelopment.org/wp-content/uploads/2018/09/4_Essential_Elements_of_ABCD_Process.pdf"
 web: "https://relationalbuilder.org/commons/e/neighborhood-asset-map"
 created: "2026-08-13"
-updated: "2026-08-13"
+updated: "2026-10-22"
 rtp_id: "d8526339-9866-4df1-8963-16aaf8b3d1d5"
 ---
 # The Asset Map (Not the Needs Map)
@@ -29,6 +29,7 @@ Two cautions from the source itself: an asset map does not mean the neighborhood
 
 ## Details
 
+- **location:** {"lat":42.0693991,"lng":-87.682932,"basis":"research","label":"Evanston, Illinois","precision":"origin"}
 - **field tips:** inventory associations, not just individuals — McKnight's checklist runs from block clubs to stamp collectors, the most powerful communities identify the gifts of people at the margins, never let the map substitute for the conversations
 - **ingredients:** a few connectors, learning conversations block by block, an association inventory, somewhere shared to portray it all
 - **source note:** Needs-map/assets-map argument and quotes from the Green Book introduction (reprintable with attribution); six assets and discover→vision sequence from 'The Four Essential Elements of an ABCD Process' (CC BY-NC 4.0).

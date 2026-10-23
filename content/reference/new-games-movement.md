@@ -10,7 +10,7 @@ attribution_source: "neighboring-commons-skill-kb"
 source_url: "https://www.deepfun.com/new-games-an-historical-perspective/"
 web: "https://relationalbuilder.org/commons/e/new-games-movement"
 created: "2026-05-22"
-updated: "2026-05-22"
+updated: "2026-10-22"
 rtp_id: "16c281be-6b16-495c-8c42-9702573466c9"
 ---
 # New Games Movement
@@ -37,6 +37,7 @@ Foundational to modern play-based community organizing. Directly influences Come
 ## Details
 
 - **category:** Play & Games
+- **location:** {"lat":38.0409144,"lng":-122.6199638,"basis":"research","label":"Marin County, California","precision":"origin"}
 - **entry type:** Reference
 
 ---

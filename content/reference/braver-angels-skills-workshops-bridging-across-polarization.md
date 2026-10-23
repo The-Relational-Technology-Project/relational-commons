@@ -10,7 +10,7 @@ attribution_source: "neighboring-commons-skill-kb"
 source_url: "https://braverangels.org/attend-a-workshop/"
 web: "https://relationalbuilder.org/commons/e/braver-angels-skills-workshops-bridging-across-polarization"
 created: "2026-05-22"
-updated: "2026-05-22"
+updated: "2026-10-22"
 rtp_id: "521b5ebf-eaa3-4727-aede-83fbb2ebf0ba"
 ---
 # Braver Angels Skills Workshops: Bridging Across Polarization

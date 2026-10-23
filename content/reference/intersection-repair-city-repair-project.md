@@ -10,7 +10,7 @@ attribution_source: "neighboring-commons-skill-kb"
 source_url: "https://cityrepair.org"
 web: "https://relationalbuilder.org/commons/e/intersection-repair-city-repair-project"
 created: "2026-05-22"
-updated: "2026-05-22"
+updated: "2026-10-22"
 rtp_id: "19619060-814d-4f04-983f-56e31d1d60e6"
 ---
 # Intersection Repair (City Repair Project)
@@ -49,6 +49,7 @@ Intersection repair draws from radical urban planning, participatory design, str
 ## Details
 
 - **category:** Placemaking & Public Space
+- **location:** {"lat":45.5202471,"lng":-122.674194,"basis":"research","label":"Portland, Oregon","precision":"origin"}
 - **entry type:** Practice
 - **key ingredients raw:** - *Time*: 2-4 weeks for planning; 1-3 days for construction/painting
 - *People*: 5-50+ volunteers; core team of 3-5 organizers and designers

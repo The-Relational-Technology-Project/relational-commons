@@ -10,7 +10,7 @@ attribution_source: "neighboring-commons-skill-kb"
 source_url: "https://www.trainingforchange.org/programs/osi/"
 web: "https://relationalbuilder.org/commons/e/training-for-change-cross-movement-organizing-school"
 created: "2026-05-22"
-updated: "2026-05-22"
+updated: "2026-10-22"
 rtp_id: "0849b193-b10b-4bf9-ba77-746a97cbb75c"
 ---
 # Training for Change: Cross-Movement Organizing School
@@ -28,6 +28,7 @@ Works alongside Midwest Academy and IAF in providing sustained organizing traini
 ## Details
 
 - **category:** Organizing Training
+- **location:** {"lat":39.9527237,"lng":-75.1635262,"basis":"research","label":"Philadelphia, Pennsylvania","precision":"origin"}
 - **entry type:** Reference
 
 ---

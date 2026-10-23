@@ -9,7 +9,7 @@ author: "Marshall Ganz & the New Organizing Institute tradition"
 attribution_source: "Organizing: People, Power, Change (2014)"
 web: "https://relationalbuilder.org/commons/e/snowflake-model"
 created: "2026-08-13"
-updated: "2026-08-13"
+updated: "2026-10-22"
 rtp_id: "37a84c1e-c279-4c6f-9691-cf780de98a57"
 ---
 # The Snowflake: Distributed Leadership
@@ -31,6 +31,7 @@ People step up the **ladder of engagement** — supporter, volunteer, team membe
 
 ## Details
 
+- **location:** {"lat":42.3656347,"lng":-71.1040018,"basis":"research","label":"Cambridge, Massachusetts","precision":"origin"}
 - **ingredients:** one team that works, a norm of developing leaders, patience for the math of small numbers
 - **source note:** From 'Organizing: People, Power, Change' (2014): the snowflake model, sustainable relationship ratios, ladder of engagement, and team stages.
 - **how it works:** Start with one team: purpose, roles, norms., Cap everyone's active relationships at what they can truly maintain (about five, part-time)., Test and escalate: give growing members real responsibility, then real leadership., When the team is strong (4+ core organizers), split or seed a new team on new turf., Keep core and local teams accountable to each other in both directions.

@@ -11,7 +11,7 @@ attribution_source: "Civic Media Cookbook (2026), Appendix 2: Field Guide"
 source_url: "https://www.newsfutures.org/library/civic-media-cookbook"
 web: "https://relationalbuilder.org/commons/e/give-us-your-two-cents"
 created: "2026-07-10"
-updated: "2026-07-13"
+updated: "2026-10-22"
 rtp_id: "c5da87ba-dfc8-4813-a0ce-bd0cbfbcb3b5"
 ---
 # Give Us Your Two Cents
@@ -28,6 +28,7 @@ At an events booth, people drop pennies into topic-labeled containers to 'give t
 ## Details
 
 - **format:** in-person booth activity
+- **location:** {"lat":32.2228765,"lng":-110.974847,"basis":"research","label":"Tucson, Arizona","precision":"city"}
 - **patterns:** building_civic_muscle
 - **source tag:** CB
 - **source note:** Civic Media Cookbook Appendix 2 Field Guide — as submitted by practitioners (2025).

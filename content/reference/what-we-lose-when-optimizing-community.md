@@ -10,7 +10,7 @@ attribution_source: "neighboring-commons-skill-kb"
 source_url: "https://grouphug.substack.com/p/what-we-lose-when-optimizing-community"
 web: "https://relationalbuilder.org/commons/e/what-we-lose-when-optimizing-community"
 created: "2026-05-22"
-updated: "2026-05-22"
+updated: "2026-10-22"
 rtp_id: "4ee33560-db67-4ee6-abca-fcf11376f6db"
 ---
 # What We Lose When Optimizing Community

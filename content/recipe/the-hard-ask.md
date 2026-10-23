@@ -9,7 +9,7 @@ author: "Marshall Ganz organizing tradition"
 attribution_source: "Organizing: People, Power, Change (2014)"
 web: "https://relationalbuilder.org/commons/e/the-hard-ask"
 created: "2026-08-13"
-updated: "2026-08-13"
+updated: "2026-10-22"
 rtp_id: "25a40111-dd6f-4672-a45c-8f764c0878c7"
 ---
 # The Hard Ask (and the Three Nos)
@@ -32,6 +32,7 @@ And secure what you win: follow up within 48 hours, never let anyone leave witho
 
 ## Details
 
+- **location:** {"lat":42.3656347,"lng":-71.1040018,"basis":"research","label":"Cambridge, Massachusetts","precision":"origin"}
 - **ingredients:** a specific action with a date, time, and place, a person whose story you know, the nerve to ask plainly
 - **source note:** From 'Organizing: People, Power, Change' (2014), Building Relationships: hard asks, three types of no, and recruitment & retention best practices.
 - **how it works:** Name the urgent need in one sentence., Make the specific ask: this role, this day, this time, this place., Don't apologize; don't pad it; let them answer., Sort the no: not now → new time; not that → new task; not ever → warm thanks., Follow up within 48 hours and calendar the next touch.

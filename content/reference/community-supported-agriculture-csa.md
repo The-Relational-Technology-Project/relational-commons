@@ -10,7 +10,7 @@ attribution_source: "neighboring-commons-skill-kb"
 source_url: "https://www.nal.usda.gov/farms-and-agricultural-production-systems/community-supported-agriculture"
 web: "https://relationalbuilder.org/commons/e/community-supported-agriculture-csa"
 created: "2026-05-22"
-updated: "2026-05-22"
+updated: "2026-10-22"
 rtp_id: "fc873376-be17-4ea5-bbaa-a09e5d563ab8"
 ---
 # Community Supported Agriculture (CSA)

@@ -10,7 +10,7 @@ attribution_source: "neighboring-commons-skill-kb"
 source_url: "https://climateresolve.org/resilience-hubs/"
 web: "https://relationalbuilder.org/commons/e/warmingcooling-centers-as-community-hubs"
 created: "2026-05-22"
-updated: "2026-05-22"
+updated: "2026-10-22"
 rtp_id: "9e002bba-3a44-41bb-b447-778af0be7902"
 ---
 # Warming/Cooling Centers as Community Hubs
@@ -45,6 +45,7 @@ Related to emergency preparedness, public health, climate adaptation, and mutual
 ## Details
 
 - **category:** Community Resilience
+- **location:** {"lat":34.0536923,"lng":-118.2427676,"basis":"research","label":"Los Angeles, California","precision":"origin"}
 - **entry type:** Practice
 - **key ingredients raw:** - *Time*: Planning: 3-6 months; year-round operation with seasonal intensity; staffing: 1-5 people
 - *People*: Community organizers, hub coordinators, trained staff, volunteers, community members

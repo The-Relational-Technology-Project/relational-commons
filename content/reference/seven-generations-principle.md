@@ -10,7 +10,7 @@ attribution_source: "neighboring-commons-skill-kb"
 source_url: "https://www.theindigenousfoundation.org/articles/seven-generations-principle-healing-the-past-amp-shaping-the-future"
 web: "https://relationalbuilder.org/commons/e/seven-generations-principle"
 created: "2026-05-22"
-updated: "2026-05-22"
+updated: "2026-10-22"
 rtp_id: "235e4975-8688-47b0-9b05-22d5d2f7d97a"
 ---
 # Seven Generations Principle

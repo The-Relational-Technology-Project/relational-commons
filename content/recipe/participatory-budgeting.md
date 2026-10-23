@@ -11,7 +11,7 @@ source_url: "https://www.participatorybudgeting.org/"
 neighboring_recipes: "https://github.com/The-Relational-Technology-Project/neighboring-recipes/blob/main/recipes/11-civic-rhythms/participatory-budgeting.md"
 web: "https://relationalbuilder.org/commons/e/participatory-budgeting"
 created: "2026-05-22"
-updated: "2026-05-22"
+updated: "2026-10-22"
 rtp_id: "3d3f4f50-285d-4d63-8984-5ad1f52a7e80"
 ---
 # Participatory Budgeting
@@ -109,6 +109,7 @@ Outcomes consistently include: increased civic participation (often 5x to 10x vo
 - **steps:** **Find allies.** Often other community organizations have already been exploring this. [Participatory Budgeting Project](https://www.participatorybudgeting.org/) maintains a national network., **Build a case.** Document successful pilots elsewhere. New York City has run PB through city council districts; Chicago, Cambridge, Boston, Seattle, and many others have produced strong evidence., **Pitch a pilot.** A defined budget ($500K to $5M), a defined area, a defined timeline. Most cities will start with one council district or one program., **Demand community design.** The strongest PB processes are designed with substantial community input on the rules, the eligibility, and the voting mechanism. Watch for "PB-lite" versions where the city retains too much control.
 ### If you're running participatory budgeting
 The cycle:, **Idea collection (4 to 8 weeks).** Residents submit project ideas through forms, neighborhood meetings, schools, online platforms, intercept events. Aim for many ideas; quality emerges from quantity., **Proposal development (6 to 12 weeks).** Volunteer "budget delegates" work with agency staff to translate the most popular ideas into concrete projects with realistic budgets and implementation plans. This phase is where most of the labor happens., **Community voting (1 to 4 weeks).** Residents vote on the proposals. Voting age is often lowered (16, sometimes 14). Multiple voting locations and online options. Multilingual materials. Aim for genuine accessibility, not just compliance., **Implementation and reporting (the rest of the year).** The winning projects are implemented by the city or its partners. Updates back to the community at quarterly intervals.
+- **location:** {"lat":-30.0324999,"lng":-51.2303767,"basis":"text","label":"Porto Alegre, Rio Grande do Sul, Brazil","precision":"origin"}
 - **file path:** recipes/11-civic-rhythms/participatory-budgeting.md
 - **variations:** **Youth PB.** Significant portion or all of a budget allocated by young people. Boston's Youth Lead the Change is a leading example.
 

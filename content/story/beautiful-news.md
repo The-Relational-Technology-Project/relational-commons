@@ -11,7 +11,7 @@ attribution_source: "Civic Media Cookbook (2026), Appendix 2: Field Guide"
 source_url: "https://www.newsfutures.org/library/civic-media-cookbook"
 web: "https://relationalbuilder.org/commons/e/beautiful-news"
 created: "2026-07-10"
-updated: "2026-07-13"
+updated: "2026-10-22"
 rtp_id: "27ee4b89-05f5-4dc5-b3b6-7397063757f7"
 ---
 # Beautiful News
@@ -27,6 +27,7 @@ Shares positive trends and uplifting statistics through elegant data visualizati
 ## Details
 
 - **format:** data visualization
+- **location:** {"lat":51.5074456,"lng":-0.1277653,"basis":"research","label":"Greater London, England, United Kingdom","precision":"origin"}
 - **patterns:** making_power_visible
 - **source tag:** CB
 - **source note:** Civic Media Cookbook Appendix 2 Field Guide — as submitted by practitioners (2025).

@@ -10,7 +10,7 @@ attribution_source: "neighboring-commons-skill-kb"
 source_url: "https://bigdoorbrigade.com/mutual-aid-toolbox/"
 web: "https://relationalbuilder.org/commons/e/big-door-brigade-mutual-aid-toolbox"
 created: "2026-05-22"
-updated: "2026-05-22"
+updated: "2026-10-22"
 rtp_id: "c350c50e-ffda-4f97-bd3e-f638d1b8189a"
 ---
 # Big Door Brigade Mutual Aid Toolbox
@@ -49,6 +49,7 @@ Grows out of decades of anarchist mutual aid practice and Black radical traditio
 ## Details
 
 - **category:** Frameworks & Models
+- **location:** {"lat":47.6038321,"lng":-122.330062,"basis":"research","label":"Seattle, Washington","precision":"origin"}
 - **entry type:** Practice
 - **key ingredients raw:** - *Time*: Varies by project: 3-5 hours weekly for core team, ongoing
 - *People*: Core team of 3-8, connected to broader networks of 20-100+

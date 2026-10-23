@@ -9,7 +9,7 @@ author: "Relational Technology Project"
 attribution_source: "Community Organizing shelf starter prompt"
 web: "https://relationalbuilder.org/commons/e/build-power-map-canvas"
 created: "2026-08-13"
-updated: "2026-08-13"
+updated: "2026-10-22"
 rtp_id: "24e6f423-447b-4504-bb95-83e5bbfded5f"
 ---
 # Build: A Tracking-Down-the-Power Canvas

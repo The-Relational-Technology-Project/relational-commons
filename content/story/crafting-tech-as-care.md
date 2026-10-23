@@ -9,7 +9,7 @@ topics: ["builder-story"]
 author: "Tech Designer"
 web: "https://relationalbuilder.org/commons/e/crafting-tech-as-care"
 created: "2026-06-10"
-updated: "2026-06-15"
+updated: "2026-10-22"
 rtp_id: "77f1eadd-8412-4f44-a423-75772e86c093"
 ---
 # Crafting Tech as Care

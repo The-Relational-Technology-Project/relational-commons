@@ -10,7 +10,7 @@ attribution_source: "Civic Media Cookbook (2026)"
 source_url: "https://www.newsfutures.org/library/civic-media-cookbook"
 web: "https://relationalbuilder.org/commons/e/pattern-mobilizing-collective-response"
 created: "2026-07-10"
-updated: "2026-07-13"
+updated: "2026-10-22"
 rtp_id: "25f9f087-de83-43ba-8c41-72c4d9a7c2c6"
 ---
 # Mobilizing Collective Response (civic media pattern)

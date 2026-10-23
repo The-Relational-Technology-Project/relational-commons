@@ -10,7 +10,7 @@ attribution_source: "neighboring-commons-skill-kb"
 source_url: "https://www.amazon.com/Abundant-Community-Awakening-Families-Neighborhoods/dp/1609940814"
 web: "https://relationalbuilder.org/commons/e/the-abundant-community-awakening-the-gifts-in-your-neighborhood"
 created: "2026-05-22"
-updated: "2026-05-22"
+updated: "2026-10-22"
 rtp_id: "cd264f0f-dbe6-44a5-beb4-f1ad1c0120b3"
 ---
 # The Abundant Community: Awakening the Gifts in Your Neighborhood

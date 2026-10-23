@@ -11,7 +11,7 @@ attribution_source: "Civic Media Cookbook (2026), Appendix 2: Field Guide"
 source_url: "https://www.newsfutures.org/library/civic-media-cookbook"
 web: "https://relationalbuilder.org/commons/e/networks-beyond-borders"
 created: "2026-07-10"
-updated: "2026-07-13"
+updated: "2026-10-22"
 rtp_id: "6300182e-6983-43b2-85d4-238d180926d1"
 ---
 # Networks Beyond Borders
@@ -29,6 +29,7 @@ Starting with NYC street vendors, traces the migration routes that brought them 
 ## Details
 
 - **format:** research + storytelling
+- **location:** {"lat":40.7127281,"lng":-74.0060152,"basis":"attribution","label":"New York","precision":"city"}
 - **patterns:** amplifying_unheard_voices, deepening_understanding_of_place
 - **source tag:** CB
 - **source note:** Civic Media Cookbook Appendix 2 Field Guide — as submitted by practitioners (2025).

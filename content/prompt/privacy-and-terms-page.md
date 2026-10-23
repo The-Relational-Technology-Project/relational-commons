@@ -10,7 +10,7 @@ attribution_source: "Relational Tech Studio library"
 parent: "../tool/privacy-and-terms-page.md"
 web: "https://relationalbuilder.org/commons/e/privacy-and-terms-page"
 created: "2026-06-10"
-updated: "2026-10-21"
+updated: "2026-10-22"
 rtp_id: "d32ca7c8-2fec-4f14-bfe1-732024876862"
 ---
 # Privacy & Terms Page
@@ -73,6 +73,10 @@ Style should feel human, approachable, and simple—avoiding overly legal or cor
 ## Related in the commons
 
 - Grew from [Privacy & Terms Page](../tool/privacy-and-terms-page.md)
+
+## Details
+
+- **location:** {"lat":37.7541496,"lng":-122.5061507,"basis":"text","label":"Sunset District, San Francisco, California","precision":"origin"}
 
 ---
 

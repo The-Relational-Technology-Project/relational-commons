@@ -10,7 +10,7 @@ attribution_source: "neighboring-commons-skill-kb"
 source_url: "https://medium.com/microsolidarity/microsolidarity-part-3-the-reciprocity-game-4109e702a07d"
 web: "https://relationalbuilder.org/commons/e/the-reciprocity-game-a-crew-practice"
 created: "2026-05-22"
-updated: "2026-05-22"
+updated: "2026-10-22"
 rtp_id: "5095593d-5b77-475b-bf27-03ea7809c639"
 ---
 # The Reciprocity Game: A Crew Practice

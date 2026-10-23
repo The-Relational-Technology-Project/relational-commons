@@ -9,7 +9,7 @@ author: "Relational Technology Project"
 attribution_source: "Community Organizing shelf starter prompt"
 web: "https://relationalbuilder.org/commons/e/build-public-narrative-workshop"
 created: "2026-08-13"
-updated: "2026-08-13"
+updated: "2026-10-22"
 rtp_id: "653ebd85-a088-4c0b-8370-a4b5da9412c5"
 ---
 # Build: A Public Narrative Workshop

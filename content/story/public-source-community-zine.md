@@ -11,7 +11,7 @@ attribution_source: "Civic Media Cookbook (2026), Appendix 2: Field Guide"
 source_url: "https://www.newsfutures.org/library/civic-media-cookbook"
 web: "https://relationalbuilder.org/commons/e/public-source-community-zine"
 created: "2026-07-10"
-updated: "2026-07-13"
+updated: "2026-10-22"
 rtp_id: "f9457820-0312-4032-968b-ea25b131f8aa"
 ---
 # Public Source Community Zine
@@ -23,6 +23,7 @@ A short, tangible neighborhood zine of stories, reflections, and resources made 
 ## Details
 
 - **format:** print zine
+- **location:** {"lat":40.4389972,"lng":-79.9557454,"basis":"attribution","label":"Oakland, Pittsburgh, Pennsylvania","precision":"neighborhood"}
 - **patterns:** preserving_community_knowledge
 - **source tag:** CB
 - **source note:** Civic Media Cookbook Appendix 2 Field Guide — as submitted by practitioners (2025).

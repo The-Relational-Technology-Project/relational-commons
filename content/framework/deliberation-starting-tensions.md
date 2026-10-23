@@ -9,7 +9,7 @@ author: "Relational Tech Project, Deliberation Studio"
 attribution_source: "relationaltechproject.org"
 web: "https://relationalbuilder.org/commons/e/deliberation-starting-tensions"
 created: "2026-10-08"
-updated: "2026-10-08"
+updated: "2026-10-22"
 rtp_id: "3e69f56a-d71e-4163-9cc6-c3113947ea42"
 ---
 # Starting tensions: name the one your question sits on

@@ -11,7 +11,7 @@ attribution_source: "prosocialdesign.org"
 source_url: "https://www.prosocialdesign.org/library/bridging-based-ranking"
 web: "https://relationalbuilder.org/commons/e/psd-bridging-based-ranking"
 created: "2026-10-12"
-updated: "2026-10-12"
+updated: "2026-10-22"
 rtp_id: "8a925ac4-cf7b-44eb-8f5d-bc0af840f8e5"
 ---
 # Bridging-based ranking

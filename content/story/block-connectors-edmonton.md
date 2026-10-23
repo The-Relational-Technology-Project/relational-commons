@@ -10,7 +10,7 @@ attribution_source: "Abundant Community Edmonton; Highlands Community League; Ed
 source_url: "https://www.abundantcommunity.com/the-abundant-community-initiative-edmonton/"
 web: "https://relationalbuilder.org/commons/e/block-connectors-edmonton"
 created: "2026-08-13"
-updated: "2026-08-13"
+updated: "2026-10-22"
 rtp_id: "cf39a3de-bdc4-457e-b4fd-e62e20417440"
 ---
 # The Block Connectors of Edmonton
@@ -27,6 +27,7 @@ What it teaches: this is the gift conversation practice running at municipal sca
 
 - **era:** 2013–present
 - **place:** Highlands, Edmonton, Alberta
+- **location:** {"lat":53.5671735,"lng":-113.431604,"basis":"attribution","label":"Highlands, Edmonton, Alberta, Canada","precision":"neighborhood"}
 - **illustrates:** gift-conversations, connectors-table
 - **source note:** Model architecture and six-topic guide per the Highlands Community League's Abundant Community pages and abundantcommunity.com.
 - **practice kind:** story

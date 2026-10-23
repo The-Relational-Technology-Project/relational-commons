@@ -11,7 +11,7 @@ source_url: "https://www.nationalequityproject.org/tools/developing-community-ag
 neighboring_recipes: "https://github.com/The-Relational-Technology-Project/neighboring-recipes/blob/main/recipes/04-gathering-design/community-agreements.md"
 web: "https://relationalbuilder.org/commons/e/community-agreements"
 created: "2026-05-22"
-updated: "2026-05-22"
+updated: "2026-10-22"
 rtp_id: "760a09ac-d37b-4bb5-88b2-464c7f05970c"
 ---
 # Community Agreements

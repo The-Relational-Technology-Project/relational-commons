@@ -11,7 +11,7 @@ attribution_source: "prosocialdesign.org"
 source_url: "https://www.prosocialdesign.org/library/removing-rule-breaking-comments"
 web: "https://relationalbuilder.org/commons/e/psd-removing-rule-breaking-comments"
 created: "2026-10-12"
-updated: "2026-10-12"
+updated: "2026-10-22"
 rtp_id: "9f7a872c-2df5-43f0-a0b8-6c5ecafa05f1"
 ---
 # Removing Rule-breaking Comments

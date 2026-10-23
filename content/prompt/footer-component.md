@@ -10,7 +10,7 @@ attribution_source: "Relational Tech Studio library"
 parent: "../tool/footer-component.md"
 web: "https://relationalbuilder.org/commons/e/footer-component"
 created: "2026-06-10"
-updated: "2026-10-21"
+updated: "2026-10-22"
 rtp_id: "8117c5a2-a57b-4de8-91e0-f061f8409c92"
 ---
 # Footer Component
@@ -45,6 +45,10 @@ Keep it minimal, warm, and remixable.
 ## Related in the commons
 
 - Grew from [Footer Component](../tool/footer-component.md)
+
+## Details
+
+- **location:** {"lat":37.7541496,"lng":-122.5061507,"basis":"text","label":"Sunset District, San Francisco, California","precision":"origin"}
 
 ---
 

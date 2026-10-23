@@ -9,7 +9,7 @@ topics: ["builder-story"]
 author: "Saumya Gupta and Colton Heward-Mills, Build IRL"
 web: "https://relationalbuilder.org/commons/e/an-accelerator-for-community-builders"
 created: "2026-06-10"
-updated: "2026-10-21"
+updated: "2026-10-22"
 rtp_id: "1f17c5a1-9fec-43de-baa6-194ccfb4fa96"
 ---
 # An Accelerator for Community Builders
@@ -29,6 +29,10 @@ rtp_id: "1f17c5a1-9fec-43de-baa6-194ccfb4fa96"
 <p>One of Saumya's key moves was reframing the money conversation. Most community builders were deeply uncomfortable talking about funding. But when she shifted from "How do you make money?" to "How do you create resources for resilience?" people engaged seriously. By the end, builders were saying things like, "I would feel better if I was paid for this work. It would make me feel like I'm valued." The mindset change — that community-building is valuable enough to invest in — was as important as any tactical learning.</p>
 
 <p>Build IRL already has 40 clubs on the waitlist for the next cohort. Their advice for the "community curious": start with your eyes and ears open. Go to local events. Find people already doing the work. Then do something yourself. The worst case scenario is two people show up to your dinner and you make two new friends.</p>
+
+## Details
+
+- **location:** {"lat":37.7879363,"lng":-122.4075201,"basis":"text","label":"San Francisco, California","precision":"city"}
 
 ---
 

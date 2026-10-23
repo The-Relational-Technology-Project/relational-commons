@@ -12,7 +12,7 @@ attribution_source: "https://front-yard-friday.lovable.app/home"
 source_url: "https://front-yard-friday.lovable.app/home"
 web: "https://relationalbuilder.org/commons/e/front-yard-friday-orlando"
 created: "2026-10-02"
-updated: "2026-10-02"
+updated: "2026-10-22"
 rtp_id: "64fe09a0-5d1d-4fd6-a7eb-77fa1a8697d8"
 ---
 # Front Yard Friday (Orlando, FL)
@@ -41,6 +41,7 @@ https://front-yard-friday.lovable.app/home — listed on With Neighbors (https:/
 - **maker:** Orlando Good Neighbor Week
 - **place:** Orlando, FL
 - **amounts:** $100 per host
+- **location:** {"lat":28.5421218,"lng":-81.379045,"basis":"attribution","label":"Orlando, Florida","precision":"city"}
 - **hosted url:** https://front-yard-friday.lovable.app/home
 - **grant shape:** fixed
 - **local object:** the front-yard wave; one Friday evening county-wide

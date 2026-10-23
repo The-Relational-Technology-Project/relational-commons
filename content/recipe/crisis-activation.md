@@ -10,7 +10,7 @@ attribution_source: "Civic Media Cookbook (2026) — Jihii Jolly & Jennifer Bran
 source_url: "https://www.newsfutures.org/library/civic-media-cookbook"
 web: "https://relationalbuilder.org/commons/e/crisis-activation"
 created: "2026-07-10"
-updated: "2026-07-13"
+updated: "2026-10-22"
 rtp_id: "28e3f184-aeff-405b-bf06-0ec607b3a58d"
 ---
 # Crisis Activation

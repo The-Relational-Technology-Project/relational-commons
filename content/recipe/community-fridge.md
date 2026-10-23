@@ -11,7 +11,7 @@ source_url: "https://freedge.org/"
 neighboring_recipes: "https://github.com/The-Relational-Technology-Project/neighboring-recipes/blob/main/recipes/03-mutual-aid/community-fridge.md"
 web: "https://relationalbuilder.org/commons/e/community-fridge"
 created: "2026-05-22"
-updated: "2026-05-22"
+updated: "2026-10-22"
 rtp_id: "c95bb384-e06a-4d06-973c-d3a680067323"
 ---
 # Community Fridge

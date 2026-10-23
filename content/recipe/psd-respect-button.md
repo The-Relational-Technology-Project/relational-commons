@@ -11,7 +11,7 @@ attribution_source: "prosocialdesign.org"
 source_url: "https://www.prosocialdesign.org/library/respect-button"
 web: "https://relationalbuilder.org/commons/e/psd-respect-button"
 created: "2026-10-12"
-updated: "2026-10-12"
+updated: "2026-10-22"
 rtp_id: "fe19d9c6-dd5f-4973-b63d-4bf5462f090d"
 ---
 # Respect Button

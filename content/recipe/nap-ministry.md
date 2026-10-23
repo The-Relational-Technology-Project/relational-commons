@@ -11,7 +11,7 @@ source_url: "https://thenapministry.com/"
 neighboring_recipes: "https://github.com/The-Relational-Technology-Project/neighboring-recipes/blob/main/recipes/08-healing-and-conflict/nap-ministry.md"
 web: "https://relationalbuilder.org/commons/e/nap-ministry"
 created: "2026-05-22"
-updated: "2026-05-22"
+updated: "2026-10-22"
 rtp_id: "0b447034-b5b8-45c5-a685-fad07d120b5c"
 ---
 # Nap Ministry
@@ -84,6 +84,7 @@ This is a practice with a specific founder and tradition. Honor that lineage whe
 ## Details
 
 - **steps:** **Engage with the source.** Read **Tricia Hersey's** book *Rest Is Resistance: A Manifesto*. Follow [The Nap Ministry](https://thenapministry.com/). Don't treat the practice as generic mindfulness; it has specific roots., **Be honest about who you are.** If you are not Black and you want to bring this practice to your community, do so with explicit acknowledgment of the lineage and without claiming the parts of the practice that are specifically about Black ancestral healing. There are broader practices around communal rest that draw on this work and that other communities can practice in good faith., **For a Black-centered event.** Find a Black facilitator with somatic, spiritual, or healing background. Hold the event in a culturally aligned space. Center Black participants. Use music and art rooted in Black cultural tradition., **Set up the space.** Dim lighting. Soft surfaces. Quiet enough for actual rest. Comfortable temperature. Optionally: ambient music or guided audio (Tricia Hersey has produced many)., **Open with framing.** A few minutes naming what this is, why we are gathered, the lineage that holds it. Permission to rest fully., **Hold the rest.** People settle in. Some sleep. Some drift. Some meditate. The facilitator holds space without interrupting., **Close gently.** A return to sound, a brief reflection, an option to share a word or a feeling. No pressure to perform an experience., **Consider what continues.** A single nap session is meaningful. A practice of rest sustained over time changes lives. Bring the practice home.
+- **location:** {"lat":33.7544657,"lng":-84.3898151,"basis":"research","label":"Atlanta, Georgia","precision":"origin"}
 - **file path:** recipes/08-healing-and-conflict/nap-ministry.md
 - **variations:** **Workplace rest space.** Some workplaces have created rest rooms or quiet rooms inspired by the practice. Adapt with care.
 

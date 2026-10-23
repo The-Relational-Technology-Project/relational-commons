@@ -10,7 +10,7 @@ attribution_source: "neighboring-commons-skill-kb"
 source_url: "https://www.repaircafe.org/en/"
 web: "https://relationalbuilder.org/commons/e/repair-caf"
 created: "2026-05-22"
-updated: "2026-05-22"
+updated: "2026-10-22"
 rtp_id: "45bda9cc-b263-4cb4-8b07-382137153a78"
 ---
 # Repair Café
@@ -45,6 +45,7 @@ Repair Café emerged from sustainability and maker movements, positioned as a re
 ## Details
 
 - **category:** Mutual Aid & Solidarity
+- **location:** {"lat":52.3730796,"lng":4.8924534,"basis":"research","label":"Amsterdam, North Holland, Netherlands","precision":"origin"}
 - **entry type:** Practice
 - **key ingredients raw:** - *Time*: 4 hours/week to organize, full day for events
 - *People*: 5-10 volunteer repair experts, community organizers, 20-50 participants

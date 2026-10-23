@@ -10,7 +10,7 @@ attribution_source: "neighboring-commons-skill-kb"
 source_url: "https://www.communityplate.me/sponsor"
 web: "https://relationalbuilder.org/commons/e/community-plate-story-sharing-supper"
 created: "2026-05-22"
-updated: "2026-05-22"
+updated: "2026-10-22"
 rtp_id: "252f4e7f-8f55-44ac-b2a7-bcd15b386163"
 ---
 # Community Plate Story Sharing Supper
@@ -49,6 +49,7 @@ The Story Sharing Supper builds on potluck traditions while adding intentional s
 ## Details
 
 - **category:** Neighborhood Gathering
+- **location:** {"lat":45.709097,"lng":-68.8590201,"basis":"research","label":"Maine","precision":"region"}
 - **entry type:** Practice
 - **key ingredients raw:** - *Time*: 2-3 hours for the supper event; advance planning of 4-6 weeks
 - *People*: Organizers/hosts; 20-50+ community members; prepared storytellers; Community Plate support

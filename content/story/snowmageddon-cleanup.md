@@ -11,7 +11,7 @@ attribution_source: "PBS NewsHour"
 source_url: "https://www.pbs.org/newshour/world/snowmageddon-ny"
 web: "https://relationalbuilder.org/commons/e/snowmageddon-cleanup"
 created: "2026-08-13"
-updated: "2026-08-13"
+updated: "2026-10-22"
 rtp_id: "532ada40-7ffa-4d98-8970-5468f601f28c"
 ---
 # Snowmageddon Cleanup: One Neighbor, One Weekend, One Map
@@ -30,6 +30,7 @@ What it teaches: the purest documented case of this shelf's thesis. Global open-
 
 - **era:** 2010
 - **place:** Washington, DC
+- **location:** {"lat":38.9109436,"lng":-77.0427259,"basis":"attribution","label":"Dupont Circle, Washington, District of Columbia","precision":"neighborhood"}
 - **illustrates:** ushahidi, remix-at-neighborhood-scale
 - **source note:** Quotes and remix timeline per PBS NewsHour's contemporaneous reporting.
 - **practice kind:** story

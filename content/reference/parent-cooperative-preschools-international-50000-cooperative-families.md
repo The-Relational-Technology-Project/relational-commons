@@ -10,7 +10,7 @@ attribution_source: "neighboring-commons-skill-kb"
 source_url: "https://www.preschools.coop/cooperative-models"
 web: "https://relationalbuilder.org/commons/e/parent-cooperative-preschools-international-50000-cooperative-families"
 created: "2026-05-22"
-updated: "2026-05-22"
+updated: "2026-10-22"
 rtp_id: "83063283-b8cd-4921-a991-3adf2187ce1b"
 ---
 # Parent Cooperative Preschools International: 50,000+ Cooperative Families

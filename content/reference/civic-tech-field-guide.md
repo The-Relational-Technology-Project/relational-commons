@@ -10,7 +10,7 @@ attribution_source: "civictech.guide"
 source_url: "https://civictech.guide/"
 web: "https://relationalbuilder.org/commons/e/civic-tech-field-guide"
 created: "2026-08-13"
-updated: "2026-08-13"
+updated: "2026-10-22"
 rtp_id: "869bc244-e1ec-43bf-8ba7-074f5811bc3b"
 ---
 # The Civic Tech Field Guide

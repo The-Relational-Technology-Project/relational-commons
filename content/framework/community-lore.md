@@ -10,7 +10,7 @@ source_repo: "neighboring-recipes/frameworks"
 neighboring_recipes: "https://github.com/The-Relational-Technology-Project/neighboring-recipes/blob/main/frameworks/community-lore.md"
 web: "https://relationalbuilder.org/commons/e/community-lore"
 created: "2026-05-22"
-updated: "2026-05-22"
+updated: "2026-10-22"
 rtp_id: "1d80d00d-23d0-46fc-9d0e-1307bdebac08"
 ---
 # Community Lore

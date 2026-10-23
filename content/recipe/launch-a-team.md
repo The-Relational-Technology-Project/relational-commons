@@ -9,7 +9,7 @@ author: "Marshall Ganz organizing tradition (after Ruth Wageman & J. Richard Hac
 attribution_source: "Organizing: People, Power, Change (2014)"
 web: "https://relationalbuilder.org/commons/e/launch-a-team"
 created: "2026-08-13"
-updated: "2026-08-13"
+updated: "2026-10-22"
 rtp_id: "3c277395-c12a-4d32-b82c-19f34aed4836"
 ---
 # Launching a Team: Purpose, Roles, Norms
@@ -30,6 +30,7 @@ In the snowflake model, teams interconnect: a core team keeps the whole coherent
 
 ## Details
 
+- **location:** {"lat":42.3656347,"lng":-71.1040018,"basis":"research","label":"Cambridge, Massachusetts","precision":"origin"}
 - **ingredients:** 3-8 people who've had 1:1s with each other, a purpose worth saying out loud, roles with names, norms written where everyone can see them
 - **source note:** From 'Organizing: People, Power, Change' (2014), Structuring Teams. The shared purpose / interdependent roles / explicit norms triad follows team-effectiveness research by Wageman & Hackman cited in the Ganz tradition.
 - **how it works:** Draft shared purpose together — who we are, what we're here to do, how we'll know., Name interdependent roles; every member holds work others depend on., Set explicit norms: meetings, decisions, communication, and how we repair dropped commitments., Connect to the wider snowflake: what does this team adapt locally, and what does it feed back?, Revisit norms openly as the team grows — updating them is a sign of health, not failure.

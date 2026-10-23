@@ -10,7 +10,7 @@ attribution_source: "neighboring-commons-skill-kb"
 source_url: "https://www.comeoutandplay.org/"
 web: "https://relationalbuilder.org/commons/e/come-out-play-festival"
 created: "2026-05-22"
-updated: "2026-05-22"
+updated: "2026-10-22"
 rtp_id: "3c133db0-64f8-453a-8aff-c36318c5cb7d"
 ---
 # Come Out & Play Festival
@@ -50,6 +50,7 @@ Directly descended from the New Games Movement philosophy. Relates to Bernard De
 ## Details
 
 - **category:** Play & Games
+- **location:** {"lat":40.7127281,"lng":-74.0060152,"basis":"research","label":"New York","precision":"city"}
 - **entry type:** Practice
 - **key ingredients raw:** - *Time*: Recurring sessions: 1-2 hours; festivals: 1-3 days; requires ongoing coordination
 - *People*: 10-20 core organizers; 50-500+ participants at events depending on scale

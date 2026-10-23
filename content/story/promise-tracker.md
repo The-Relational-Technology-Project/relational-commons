@@ -11,7 +11,7 @@ attribution_source: "Civic Media Cookbook (2026), Appendix 2: Field Guide"
 source_url: "https://www.newsfutures.org/library/civic-media-cookbook"
 web: "https://relationalbuilder.org/commons/e/promise-tracker"
 created: "2026-07-10"
-updated: "2026-07-13"
+updated: "2026-10-22"
 rtp_id: "f6530b00-3a07-436e-8167-e8eaea1225e0"
 ---
 # Promise Tracker
@@ -31,6 +31,7 @@ Boiled progress on the mayor's promise to house 17,000 Angelenos down to a few t
 ## Details
 
 - **format:** public dashboard
+- **location:** {"lat":34.0536923,"lng":-118.2427676,"basis":"attribution","label":"Los Angeles, California","precision":"city"}
 - **patterns:** making_power_visible, mobilizing_collective_response
 - **source tag:** CB
 - **source note:** Civic Media Cookbook Appendix 2 Field Guide — as submitted by practitioners (2025).

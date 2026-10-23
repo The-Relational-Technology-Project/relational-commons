@@ -11,7 +11,7 @@ attribution_source: "Vice; Rights CoLab case study; bedstuystrong.com"
 source_url: "https://www.bedstuystrong.com/"
 web: "https://relationalbuilder.org/commons/e/bed-stuy-strong"
 created: "2026-08-13"
-updated: "2026-08-13"
+updated: "2026-10-22"
 rtp_id: "1ea48bb5-b6f4-47b8-b77a-00892afc1536"
 ---
 # Bed-Stuy Strong: Slack, Airtable, and a Phone Number
@@ -30,6 +30,7 @@ What it teaches: off-the-shelf tools plus a little glue code can run a several-t
 
 - **era:** 2020–present
 - **place:** Bedford-Stuyvesant, Brooklyn
+- **location:** {"lat":40.6834364,"lng":-73.9412488,"basis":"attribution","label":"Bedford-Stuyvesant, New York","precision":"neighborhood"}
 - **tech stack:** Slack, Airtable, Google Voice hotline, volunteer glue code
 - **source note:** Figures per Rights CoLab and Vice's April 2020 reporting; founder-story details vary across accounts (single founder vs. co-founders) — Mathews credited per Rights CoLab.
 - **practice kind:** story

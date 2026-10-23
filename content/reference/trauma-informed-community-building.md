@@ -10,7 +10,7 @@ attribution_source: "neighboring-commons-skill-kb"
 source_url: "https://organizingengagement.org/models/trauma-informed-community-building-model/"
 web: "https://relationalbuilder.org/commons/e/trauma-informed-community-building"
 created: "2026-05-22"
-updated: "2026-05-22"
+updated: "2026-10-22"
 rtp_id: "4c633213-6b1f-447d-b167-0214d5f1dd0f"
 ---
 # Trauma-Informed Community Building
@@ -52,6 +52,7 @@ Rooted in trauma psychology research and adapted for community work by grassroot
 ## Details
 
 - **category:** Community Care & Healing
+- **location:** {"lat":37.7879363,"lng":-122.4075201,"also":[{"lat":39.2908816,"lng":-76.610759,"label":"Baltimore, Maryland"},{"lat":35.146026,"lng":-90.0517786,"label":"Memphis, Tennessee"}],"basis":"text","label":"San Francisco, California","precision":"origin"}
 - **entry type:** Practice
 - **key ingredients raw:** - *Time*: Ongoing; planning: 3-6 months; implementation: 1-3+ years or longer
 - *People*: Community members with lived experience of trauma; trained facilitators/organizers; mental health practitioners (ideally from the community); diverse leadership that reflects community demographics

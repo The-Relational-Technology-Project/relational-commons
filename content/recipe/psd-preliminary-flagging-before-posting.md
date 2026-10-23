@@ -11,7 +11,7 @@ attribution_source: "prosocialdesign.org"
 source_url: "https://www.prosocialdesign.org/library/preliminary-flagging-before-posting"
 web: "https://relationalbuilder.org/commons/e/psd-preliminary-flagging-before-posting"
 created: "2026-10-12"
-updated: "2026-10-12"
+updated: "2026-10-22"
 rtp_id: "4dec827a-2cd6-4870-850a-235daa8834e9"
 ---
 # Preliminary Flagging Before Posting

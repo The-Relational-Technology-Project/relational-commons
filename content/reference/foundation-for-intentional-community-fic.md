@@ -10,7 +10,7 @@ attribution_source: "neighboring-commons-skill-kb"
 source_url: "https://www.ic.org/"
 web: "https://relationalbuilder.org/commons/e/foundation-for-intentional-community-fic"
 created: "2026-05-22"
-updated: "2026-05-22"
+updated: "2026-10-22"
 rtp_id: "804aea78-4217-4384-bd27-9d21b63e0cf1"
 ---
 # Foundation for Intentional Community (FIC)

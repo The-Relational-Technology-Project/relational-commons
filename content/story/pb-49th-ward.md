@@ -11,7 +11,7 @@ attribution_source: "Participedia; NPR; the 49th Ward's own PB record"
 source_url: "https://participedia.net/case/43"
 web: "https://relationalbuilder.org/commons/e/pb-49th-ward"
 created: "2026-08-13"
-updated: "2026-08-13"
+updated: "2026-10-22"
 rtp_id: "308ed760-734b-45fa-b5dc-4a4eaf9ab5b1"
 ---
 # The 49th Ward: America's First Participatory Budget
@@ -30,6 +30,7 @@ What it teaches: PB is a repeatable neighborhood-scale democratic ritual with fr
 
 - **era:** 2009–present
 - **place:** 49th Ward, Chicago
+- **location:** {"lat":42.0090367,"lng":-87.6768492,"basis":"attribution","label":"Rogers Park, Chicago, Illinois","precision":"neighborhood"}
 - **toolkits:** https://www.participatorybudgeting.org/toolkit/, https://www.peoplepowered.org/global-pb-hub, https://www.pbatlas.net/index.html
 - **illustrates:** stanford-pb-platform, build-block-scale-pb
 - **source note:** Vote counts and project list per Participedia case 43; PBNYC totals per People Powered/NYC Council.

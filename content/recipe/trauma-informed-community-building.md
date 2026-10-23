@@ -10,7 +10,7 @@ source_repo: "neighboring-recipes"
 source_url: "https://organizingengagement.org/models/trauma-informed-community-building-model/"
 web: "https://relationalbuilder.org/commons/e/trauma-informed-community-building"
 created: "2026-05-22"
-updated: "2026-05-22"
+updated: "2026-10-22"
 rtp_id: "37ef8baa-09c2-421f-afc3-aca626a1e150"
 ---
 # Trauma-Informed Community Building
@@ -103,6 +103,7 @@ The **Kindred Southern Healing Justice Collective** has produced foundational re
 ### Acceptance, **Meet people where they are.** Don't require people to be "ready" before participating. Don't gatekeep based on language, education, housing status, employment, sobriety, or behavior., **Multiple ways to participate.** Some people will speak in meetings. Some will write. Some will draw. Some will listen. Some will help by cooking. All count.
 ### Community Empowerment, **Center those most affected in leadership.** Not as advisors. As decision-makers. Pay them. Give them real authority., **Build healing into the work.** Art, movement, music, gardening, food sharing, ritual. These are not extras. They are infrastructure for processing collective experience., **Train local leaders.** Mental health first aid, peer support, facilitation. Build the local capacity to hold the community's healing work.
 ### Reflective Process, **Build in regular reflection.** What's working? What isn't? Who isn't here who should be? Who is struggling? Adjust., **Listen for signals.** Disengagement, conflict, burnout, and tension are often signals that something in the approach needs to shift.
+- **location:** {"lat":37.7879363,"lng":-122.4075201,"also":[{"lat":39.2908816,"lng":-76.610759,"label":"Baltimore, Maryland"},{"lat":35.146026,"lng":-90.0517786,"label":"Memphis, Tennessee"}],"basis":"text","label":"San Francisco, California","precision":"origin"}
 - **file path:** recipes/08-healing-and-conflict/trauma-informed.md
 - **variations:** **Healing justice.** A related and broader frame, especially as developed by the **Kindred Southern Healing Justice Collective** and others. Healing justice connects individual healing to collective liberation and is rooted in Black, queer, and disabled traditions.
 

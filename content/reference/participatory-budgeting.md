@@ -10,7 +10,7 @@ attribution_source: "neighboring-commons-skill-kb"
 source_url: "https://www.participatorybudgeting.org/"
 web: "https://relationalbuilder.org/commons/e/participatory-budgeting"
 created: "2026-05-22"
-updated: "2026-05-22"
+updated: "2026-10-22"
 rtp_id: "4e0ec4eb-9f28-4325-8e31-ad612c271870"
 ---
 # Participatory Budgeting
@@ -60,6 +60,7 @@ Originated in Porto Alegre, Brazil in 1989 as a radical democratic innovation. C
 ## Details
 
 - **category:** Civic Engagement
+- **location:** {"lat":-30.0324999,"lng":-51.2303767,"basis":"text","label":"Porto Alegre, Rio Grande do Sul, Brazil","precision":"origin"}
 - **entry type:** Practice
 - **key ingredients raw:** - *Time*: 6-12 months for a full cycle, ongoing annually
 - *People*: Community facilitators, project managers, city staff, volunteer voter guides, diverse residents

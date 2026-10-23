@@ -10,7 +10,7 @@ attribution_source: "neighboring-commons-skill-kb"
 source_url: "https://www.fema.gov/emergency-managers/practitioners/recovery-resources/community-toolkit"
 web: "https://relationalbuilder.org/commons/e/fema-community-recovery-management-toolkit"
 created: "2026-05-22"
-updated: "2026-05-22"
+updated: "2026-10-22"
 rtp_id: "801a1c32-4c19-47d4-8dff-273e47e1f2ba"
 ---
 # FEMA Community Recovery Management Toolkit

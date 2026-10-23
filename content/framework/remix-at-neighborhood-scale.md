@@ -10,7 +10,7 @@ attribution_source: "Local Civic Tech shelf"
 source_url: "https://civictech.guide/"
 web: "https://relationalbuilder.org/commons/e/remix-at-neighborhood-scale"
 created: "2026-08-13"
-updated: "2026-08-13"
+updated: "2026-10-22"
 rtp_id: "e930c97c-5cab-4de4-8a90-6bee2669969e"
 ---
 # Remix at Neighborhood Scale

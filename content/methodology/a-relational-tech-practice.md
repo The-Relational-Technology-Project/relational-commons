@@ -10,7 +10,7 @@ source_repo: "rt-mcp-server"
 source_url: "https://github.com/The-Relational-Technology-Project/rt-mcp-server"
 web: "https://relationalbuilder.org/commons/e/a-relational-tech-practice"
 created: "2026-05-22"
-updated: "2026-05-22"
+updated: "2026-10-22"
 rtp_id: "8ad5879a-b1d7-411f-b5ed-74946b09920f"
 ---
 # A Relational Tech Practice

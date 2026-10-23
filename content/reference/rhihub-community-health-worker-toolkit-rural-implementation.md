@@ -10,7 +10,7 @@ attribution_source: "neighboring-commons-skill-kb"
 source_url: "https://www.ruralhealthinfo.org/toolkits/community-health-workers"
 web: "https://relationalbuilder.org/commons/e/rhihub-community-health-worker-toolkit-rural-implementation"
 created: "2026-05-22"
-updated: "2026-05-22"
+updated: "2026-10-22"
 rtp_id: "991eacfc-b4e5-43ea-b70e-392dd69cdf20"
 ---
 # RHIhub Community Health Worker Toolkit: Rural Implementation

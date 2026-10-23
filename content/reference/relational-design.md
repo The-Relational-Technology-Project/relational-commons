@@ -11,7 +11,7 @@ neighborhood: "West end, Toronto"
 source_url: "https://vimeo.com/1054612070"
 web: "https://relationalbuilder.org/commons/e/relational-design"
 created: "2026-10-04"
-updated: "2026-10-04"
+updated: "2026-10-22"
 rtp_id: "d9831225-6f22-4a79-bb11-9274cb199542"
 ---
 # Relational Design

@@ -11,7 +11,7 @@ attribution_source: "prosocialdesign.org"
 source_url: "https://www.prosocialdesign.org/library/nudging-conversations-to-groups"
 web: "https://relationalbuilder.org/commons/e/psd-nudging-conversations-to-groups"
 created: "2026-10-12"
-updated: "2026-10-12"
+updated: "2026-10-22"
 rtp_id: "10c1c746-c949-40b3-85c8-a4d7481ed409"
 ---
 # Nudging Conversations to Groups

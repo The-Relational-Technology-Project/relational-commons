@@ -10,7 +10,7 @@ source_repo: "neighboring-recipes/frameworks"
 neighboring_recipes: "https://github.com/The-Relational-Technology-Project/neighboring-recipes/blob/main/frameworks/abundant-community.md"
 web: "https://relationalbuilder.org/commons/e/the-abundant-community"
 created: "2026-05-22"
-updated: "2026-05-22"
+updated: "2026-10-22"
 rtp_id: "4e44d4cf-d5ae-4961-a255-cfb0a4096561"
 ---
 # The Abundant Community
@@ -116,6 +116,7 @@ A few honest qualifications.
 
 ## Details
 
+- **location:** {"lat":42.0693991,"lng":-87.682932,"also":[{"lat":39.1012809,"lng":-84.5127405,"label":"Cincinnati, Ohio"}],"basis":"research","label":"Evanston, Illinois","precision":"origin"}
 - **file path:** frameworks/abundant-community.md
 
 ---

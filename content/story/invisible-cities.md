@@ -11,7 +11,7 @@ attribution_source: "Civic Media Cookbook (2026), Appendix 2: Field Guide"
 source_url: "https://www.newsfutures.org/library/civic-media-cookbook"
 web: "https://relationalbuilder.org/commons/e/invisible-cities"
 created: "2026-07-10"
-updated: "2026-07-13"
+updated: "2026-10-22"
 rtp_id: "8849ef88-e56e-4e1d-972f-4b66f8eca867"
 ---
 # Invisible Cities
@@ -29,6 +29,7 @@ Trains people who have experienced homelessness to become storytellers and walki
 ## Details
 
 - **format:** walking tours
+- **location:** {"lat":55.9533456,"lng":-3.1883749,"also":[{"lat":55.861155,"lng":-4.2501687,"label":"Glasgow, Scotland, United Kingdom"},{"lat":53.4424618,"lng":-2.2324547,"label":"Manchester, England, United Kingdom"},{"lat":53.9656579,"lng":-1.0743052,"label":"York, England, United Kingdom"}],"basis":"research","label":"City of Edinburgh, Scotland, United Kingdom","precision":"city"}
 - **patterns:** amplifying_unheard_voices
 - **source tag:** CB
 - **source note:** Civic Media Cookbook Appendix 2 Field Guide — as submitted by practitioners (2025).

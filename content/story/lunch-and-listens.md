@@ -11,7 +11,7 @@ attribution_source: "Civic Media Cookbook (2026), Appendix 2: Field Guide"
 source_url: "https://www.newsfutures.org/library/civic-media-cookbook"
 web: "https://relationalbuilder.org/commons/e/lunch-and-listens"
 created: "2026-07-10"
-updated: "2026-07-13"
+updated: "2026-10-22"
 rtp_id: "ef87b8f7-e115-451f-b25f-78a891f1cbc2"
 ---
 # Lunch & Listens
@@ -28,6 +28,7 @@ Journalists introduce themselves over a meal, learn community values and needs, 
 ## Details
 
 - **format:** shared-meal listening
+- **location:** {"lat":38.5810606,"lng":-121.493895,"basis":"attribution","label":"Sacramento, California","precision":"city"}
 - **patterns:** creating_shared_understanding
 - **source tag:** CB
 - **source note:** Civic Media Cookbook Appendix 2 Field Guide — as submitted by practitioners (2025).

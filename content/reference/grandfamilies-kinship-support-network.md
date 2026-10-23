@@ -10,7 +10,7 @@ attribution_source: "neighboring-commons-skill-kb"
 source_url: "https://www.gksnetwork.org/"
 web: "https://relationalbuilder.org/commons/e/grandfamilies-kinship-support-network"
 created: "2026-05-22"
-updated: "2026-05-22"
+updated: "2026-10-22"
 rtp_id: "52db08ff-7928-4404-810f-a481e6065e31"
 ---
 # Grandfamilies & Kinship Support Network

@@ -10,7 +10,7 @@ attribution_source: "decidim.org"
 source_url: "https://decidim.org/"
 web: "https://relationalbuilder.org/commons/e/decidim"
 created: "2026-08-13"
-updated: "2026-08-17"
+updated: "2026-10-22"
 rtp_id: "4d600d99-2b26-443c-98e2-89f2cdb46598"
 ---
 # Decidim
@@ -31,6 +31,7 @@ AGPL-3.0, Ruby on Rails, very active. Self-hosting is real work — a neighborho
 - **hosted:** self-host or ecosystem providers; no official free tier
 - **license:** AGPL-3.0
 - **ctfg url:** https://civictech.guide/listing/decidim
+- **location:** {"lat":41.3825802,"lng":2.177073,"basis":"attribution","label":"Barcelona, Catalonia, Spain","precision":"origin"}
 - **repo url:** https://github.com/decidim/decidim
 - **image url:** https://texakzqqenzpxawktbgx.supabase.co/storage/v1/object/public/studio-library/tool-screenshots/decidim-2026-08.jpg
 - **remix idea:** One assembly, one small budget, weekend-sized proposals.

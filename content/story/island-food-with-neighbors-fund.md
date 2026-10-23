@@ -12,7 +12,7 @@ attribution_source: "https://islandchicago.org/withneighbors/"
 source_url: "https://islandchicago.org/withneighbors/"
 web: "https://relationalbuilder.org/commons/e/island-food-with-neighbors-fund"
 created: "2026-10-02"
-updated: "2026-10-02"
+updated: "2026-10-22"
 rtp_id: "e8cb60e3-fd10-4d9b-8592-f387f65109a9"
 ---
 # Food With Neighbors Fund (The Island, Austin, Chicago, IL)
@@ -41,6 +41,7 @@ https://islandchicago.org/withneighbors/ — listed on With Neighbors (https://w
 - **maker:** Island Civic Association
 - **place:** The Island, Austin, Chicago, IL
 - **amounts:** $100 per host, via Venmo or PayPal
+- **location:** {"lat":41.8678597,"lng":-87.7716454,"basis":"attribution","label":"The Island, Chicago, Illinois","precision":"neighborhood"}
 - **hosted url:** https://islandchicago.org/withneighbors/
 - **grant shape:** fixed
 - **local object:** food on the block; The Island neighborhood identity

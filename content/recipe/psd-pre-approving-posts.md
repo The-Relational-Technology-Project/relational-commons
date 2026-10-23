@@ -11,7 +11,7 @@ attribution_source: "prosocialdesign.org"
 source_url: "https://www.prosocialdesign.org/library/pre-approving-posts"
 web: "https://relationalbuilder.org/commons/e/psd-pre-approving-posts"
 created: "2026-10-12"
-updated: "2026-10-12"
+updated: "2026-10-22"
 rtp_id: "2e5d7c5b-330c-4642-b961-fe2629c07d7c"
 ---
 # Pre-approving Posts

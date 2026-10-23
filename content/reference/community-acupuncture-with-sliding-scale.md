@@ -10,7 +10,7 @@ attribution_source: "neighboring-commons-skill-kb"
 source_url: "https://bostonacupunctureproject.org/2024/04/05/sliding-scale-guidelines-for-our-30-50-community-acupuncture-treatments/"
 web: "https://relationalbuilder.org/commons/e/community-acupuncture-with-sliding-scale"
 created: "2026-05-22"
-updated: "2026-05-22"
+updated: "2026-10-22"
 rtp_id: "fa52eb72-27a2-4656-a96a-005f973da9b5"
 ---
 # Community Acupuncture with Sliding Scale
@@ -45,6 +45,7 @@ Emerged from the acupuncture community as a response to health equity concerns a
 ## Details
 
 - **category:** Community Care & Healing
+- **location:** {"lat":42.3588336,"lng":-71.0578303,"basis":"research","label":"Boston, Massachusetts","precision":"origin"}
 - **entry type:** Practice
 - **key ingredients raw:** - *Time*: 1 hour treatment sessions; ongoing weekly or bi-weekly scheduling
 - *People*: Licensed acupuncturist(s), admin staff, patient community, donors for pay-it-forward

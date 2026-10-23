@@ -10,7 +10,7 @@ attribution_source: "Relational Tech Studio library"
 source_url: "https://github.com/The-Relational-Technology-Project/neighborhood-api"
 web: "https://relationalbuilder.org/commons/e/neighborhood-api"
 created: "2026-06-10"
-updated: "2026-10-21"
+updated: "2026-10-22"
 rtp_id: "0b0feae8-bd0c-4d95-ad94-0e10cea84a6e"
 ---
 # Neighborhood API
@@ -34,6 +34,7 @@ A minimal, open, stewarded feed format for sharing local events, assets, dreams,
 
 ## Details
 
+- **location:** {"lat":37.7541496,"lng":-122.5061507,"basis":"research","label":"Sunset District, San Francisco, California","precision":"origin"}
 - **github url:** https://github.com/The-Relational-Technology-Project/neighborhood-api
 - **is joinable:** false
 - **tool category:** relational_tech

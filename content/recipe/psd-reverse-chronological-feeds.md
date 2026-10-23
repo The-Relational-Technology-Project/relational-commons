@@ -11,7 +11,7 @@ attribution_source: "prosocialdesign.org"
 source_url: "https://www.prosocialdesign.org/library/reverse-chronological-feeds"
 web: "https://relationalbuilder.org/commons/e/psd-reverse-chronological-feeds"
 created: "2026-10-12"
-updated: "2026-10-12"
+updated: "2026-10-22"
 rtp_id: "0f12146a-6255-4fb6-94ea-43abaabed4a0"
 ---
 # Reverse Chronological Feeds

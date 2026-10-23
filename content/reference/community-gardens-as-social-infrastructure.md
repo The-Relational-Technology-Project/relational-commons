@@ -10,7 +10,7 @@ attribution_source: "neighboring-commons-skill-kb"
 source_url: "https://www.psypost.org/community-gardens-function-as-essential-social-infrastructure-analysis-suggests/"
 web: "https://relationalbuilder.org/commons/e/community-gardens-as-social-infrastructure"
 created: "2026-05-22"
-updated: "2026-05-22"
+updated: "2026-10-22"
 rtp_id: "b6cf8f96-ec9c-4827-b1a7-4a91f995e60f"
 ---
 # Community Gardens as Social Infrastructure

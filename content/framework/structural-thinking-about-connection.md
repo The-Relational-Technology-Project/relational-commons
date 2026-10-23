@@ -9,7 +9,7 @@ topics: ["framework"]
 source_repo: "neighboring-recipes/frameworks"
 web: "https://relationalbuilder.org/commons/e/structural-thinking-about-connection"
 created: "2026-05-22"
-updated: "2026-05-22"
+updated: "2026-10-22"
 rtp_id: "9bc1271c-2a7d-4ad0-9dcf-2bc1d5eac6d2"
 ---
 # Structural Thinking About Connection

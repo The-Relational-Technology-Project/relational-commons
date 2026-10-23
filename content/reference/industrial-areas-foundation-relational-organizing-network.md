@@ -10,7 +10,7 @@ attribution_source: "neighboring-commons-skill-kb"
 source_url: "https://www.industrialareasfoundation.org/"
 web: "https://relationalbuilder.org/commons/e/industrial-areas-foundation-relational-organizing-network"
 created: "2026-05-22"
-updated: "2026-05-22"
+updated: "2026-10-22"
 rtp_id: "262ce693-1c29-43ff-a7af-413db322a8eb"
 ---
 # Industrial Areas Foundation: Relational Organizing Network
@@ -28,6 +28,7 @@ Foundation for Faith in Action model. Complements IAF's approach with power mapp
 ## Details
 
 - **category:** Organizing Training
+- **location:** {"lat":41.8755616,"lng":-87.6244212,"basis":"research","label":"Chicago, Illinois","precision":"origin"}
 - **entry type:** Reference
 
 ---

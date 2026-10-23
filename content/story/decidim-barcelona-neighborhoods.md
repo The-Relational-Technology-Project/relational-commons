@@ -11,7 +11,7 @@ attribution_source: "Decidim's own case study (2026)"
 source_url: "https://decidim.org/blog/2026-04-07-case-study-participatory-budget-2020-2023-in-barcelona/"
 web: "https://relationalbuilder.org/commons/e/decidim-barcelona-neighborhoods"
 created: "2026-08-13"
-updated: "2026-08-13"
+updated: "2026-10-22"
 rtp_id: "4304a94b-7dca-4d16-b393-7bdbe1e21bb7"
 ---
 # Barcelona's Neighborhood Budget: Hybrid by Design
@@ -28,6 +28,7 @@ What it teaches: a city can run neighborhood-grained democracy on commons-licens
 
 - **era:** 2020–2023
 - **place:** Barcelona, Catalonia
+- **location:** {"lat":41.3825802,"lng":2.177073,"basis":"attribution","label":"Barcelona, Catalonia, Spain","precision":"city"}
 - **illustrates:** decidim, six-lessons-neighborhood-tech
 - **source note:** Participation figures per Decidim's published case study.
 - **practice kind:** story

@@ -9,7 +9,7 @@ author: "Relational Tech Project, Deliberation Studio"
 attribution_source: "relationaltechproject.org"
 web: "https://relationalbuilder.org/commons/e/four-output-deliberation-kit"
 created: "2026-10-08"
-updated: "2026-10-08"
+updated: "2026-10-22"
 rtp_id: "0e89c3cb-af43-4a89-9fd3-5f5b56d0c8e7"
 ---
 # The four-output deliberation kit

@@ -11,7 +11,7 @@ attribution_source: "prosocialdesign.org"
 source_url: "https://www.prosocialdesign.org/library/open-minded-badge"
 web: "https://relationalbuilder.org/commons/e/psd-open-minded-badge"
 created: "2026-10-12"
-updated: "2026-10-12"
+updated: "2026-10-22"
 rtp_id: "89de2d39-eb84-4880-a7e7-726df37b52f1"
 ---
 # Open-Minded Badge

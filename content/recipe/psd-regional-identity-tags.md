@@ -11,7 +11,7 @@ attribution_source: "prosocialdesign.org"
 source_url: "https://www.prosocialdesign.org/library/regional-identity-tags"
 web: "https://relationalbuilder.org/commons/e/psd-regional-identity-tags"
 created: "2026-10-12"
-updated: "2026-10-12"
+updated: "2026-10-22"
 rtp_id: "7c69099b-2a3e-4ee8-a5cd-b6725470cac9"
 ---
 # Regional Identity Tags

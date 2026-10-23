@@ -10,7 +10,7 @@ attribution_source: "neighboring-commons-skill-kb"
 source_url: "https://medium.com/microsolidarity/courage-before-hope-a-proposal-to-weave-emotional-and-economic-microsolidarity-87bc81372a09"
 web: "https://relationalbuilder.org/commons/e/courage-before-hope-weaving-emotional-and-economic-microsolidarity"
 created: "2026-05-22"
-updated: "2026-05-22"
+updated: "2026-10-22"
 rtp_id: "19a8db09-2e1c-4cfb-b226-a00cdc236c92"
 ---
 # Courage Before Hope: Weaving Emotional and Economic Microsolidarity

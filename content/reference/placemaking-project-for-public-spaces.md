@@ -10,7 +10,7 @@ attribution_source: "neighboring-commons-skill-kb"
 source_url: "https://www.pps.org/article/what-is-placemaking"
 web: "https://relationalbuilder.org/commons/e/placemaking-project-for-public-spaces"
 created: "2026-05-22"
-updated: "2026-05-22"
+updated: "2026-10-22"
 rtp_id: "d184702a-8f69-440f-b6e1-e5904eeada4f"
 ---
 # Placemaking (Project for Public Spaces)
@@ -49,6 +49,7 @@ Placemaking builds on Jane Jacobs' observations about successful neighborhoods, 
 ## Details
 
 - **category:** Placemaking & Public Space
+- **location:** {"lat":40.7127281,"lng":-74.0060152,"basis":"research","label":"New York","precision":"origin"}
 - **entry type:** Practice
 - **key ingredients raw:** - *Time*: 3-12 months for initial transformation; ongoing stewardship indefinite
 - *People*: Community members, local organizations, city partners, 30+ engaged in core work

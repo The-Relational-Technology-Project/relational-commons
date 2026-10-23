@@ -10,7 +10,7 @@ attribution_source: "neighboring-commons-skill-kb"
 source_url: "https://www.priyaparker.com"
 web: "https://relationalbuilder.org/commons/e/the-art-of-gathering"
 created: "2026-05-22"
-updated: "2026-05-22"
+updated: "2026-10-22"
 rtp_id: "4bfbdcea-36b2-4134-9214-c7ff9f86b3f0"
 ---
 # The Art of Gathering
@@ -51,6 +51,7 @@ Art of Gathering draws on conflict resolution, dialogue facilitation, and design
 ## Details
 
 - **category:** Facilitation & Gathering Design
+- **location:** {"lat":40.7127281,"lng":-74.0060152,"basis":"research","label":"New York","precision":"origin"}
 - **entry type:** Practice
 - **key ingredients raw:** - *Time*: 1-3 hours for single gathering; design process 2-4 weeks
 - *People*: 4-500+ depending on purpose; quality of selection matters more than quantity

@@ -11,7 +11,7 @@ attribution_source: "prosocialdesign.org"
 source_url: "https://www.prosocialdesign.org/library/thought-provoking-questions"
 web: "https://relationalbuilder.org/commons/e/psd-thought-provoking-questions"
 created: "2026-10-12"
-updated: "2026-10-12"
+updated: "2026-10-22"
 rtp_id: "f34d7a9b-2594-4f8f-8965-ebd1ee6ac274"
 ---
 # Thought-Provoking Questions

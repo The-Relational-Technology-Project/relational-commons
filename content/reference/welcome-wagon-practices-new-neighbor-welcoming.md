@@ -10,7 +10,7 @@ attribution_source: "neighboring-commons-skill-kb"
 source_url: "https://welcomewagon.com/blog/tips-for-making-new-neighbors-feel-like-part-of-the-community/"
 web: "https://relationalbuilder.org/commons/e/welcome-wagon-practices-new-neighbor-welcoming"
 created: "2026-05-22"
-updated: "2026-05-22"
+updated: "2026-10-22"
 rtp_id: "4a77b08c-f586-4c23-a55c-3fc2af1bc6e6"
 ---
 # Welcome Wagon Practices (New Neighbor Welcoming)

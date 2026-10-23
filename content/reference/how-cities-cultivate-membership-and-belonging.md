@@ -10,7 +10,7 @@ attribution_source: "neighboring-commons-skill-kb"
 source_url: "https://connectivetissue.substack.com/p/how-cities-can-cultivate-a-sense"
 web: "https://relationalbuilder.org/commons/e/how-cities-cultivate-membership-and-belonging"
 created: "2026-05-22"
-updated: "2026-05-22"
+updated: "2026-10-22"
 rtp_id: "afa59c48-690e-4778-bc45-09930d318711"
 ---
 # How Cities Cultivate Membership and Belonging

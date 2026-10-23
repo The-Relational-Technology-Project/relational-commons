@@ -10,7 +10,7 @@ attribution_source: "Civic Media Cookbook (2026)"
 source_url: "https://www.newsfutures.org/library/civic-media-cookbook"
 web: "https://relationalbuilder.org/commons/e/pattern-amplifying-unheard-voices"
 created: "2026-07-10"
-updated: "2026-07-13"
+updated: "2026-10-22"
 rtp_id: "907101eb-c631-48c3-b37a-778deea9a8a0"
 ---
 # Amplifying Unheard Voices (civic media pattern)

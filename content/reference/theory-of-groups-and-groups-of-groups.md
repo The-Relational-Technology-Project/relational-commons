@@ -10,7 +10,7 @@ attribution_source: "neighboring-commons-skill-kb"
 source_url: "https://medium.com/microsolidarity/microsolidarity-part-2-a-theory-of-groups-and-groups-of-groups-7c6e7ce63eda"
 web: "https://relationalbuilder.org/commons/e/theory-of-groups-and-groups-of-groups"
 created: "2026-05-22"
-updated: "2026-05-22"
+updated: "2026-10-22"
 rtp_id: "15a7069f-7214-4808-9199-3adb92abedb9"
 ---
 # Theory of Groups and Groups of Groups

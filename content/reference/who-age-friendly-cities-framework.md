@@ -10,7 +10,7 @@ attribution_source: "neighboring-commons-skill-kb"
 source_url: "https://extranet.who.int/agefriendlyworld/age-friendly-cities-framework/"
 web: "https://relationalbuilder.org/commons/e/who-age-friendly-cities-framework"
 created: "2026-05-22"
-updated: "2026-05-22"
+updated: "2026-10-22"
 rtp_id: "540d9b2d-0cdb-4206-ad41-adb9cbcf7c15"
 ---
 # WHO Age-Friendly Cities Framework
@@ -28,6 +28,7 @@ Informs Building Resilient Neighbourhoods and Neighbor-to-Neighbor programs. Com
 ## Details
 
 - **category:** Intergenerational
+- **location:** {"lat":46.2017559,"lng":6.1466014,"basis":"research","label":"Geneva, Switzerland","precision":"origin"}
 - **entry type:** Reference
 
 ---

@@ -10,7 +10,7 @@ attribution_source: "neighboring-commons-skill-kb"
 source_url: "https://janeswalk.org/"
 web: "https://relationalbuilder.org/commons/e/janes-walk"
 created: "2026-05-22"
-updated: "2026-05-22"
+updated: "2026-10-22"
 rtp_id: "399d2f77-d359-4216-810c-c0b38418c046"
 ---
 # Jane's Walk
@@ -53,6 +53,7 @@ Inspired by Jane Jacobs' 1961 book 'The Death and Life of Great American Cities'
 ## Details
 
 - **category:** Placemaking & Public Space
+- **location:** {"lat":43.6534817,"lng":-79.3839347,"basis":"research","label":"Toronto, Ontario, Canada","precision":"origin"}
 - **entry type:** Practice
 - **key ingredients raw:** - *Time*: 2-3 hours per walk; 6+ weeks planning for organizers
 - *People*: Walk organizer/leader, diverse neighbors, volunteers to help promote

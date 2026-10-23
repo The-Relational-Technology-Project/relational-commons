@@ -11,7 +11,7 @@ neighborhood: "Kitsap Peninsula, WA, USA"
 source_url: "https://www.jumpinthejar.org/"
 web: "https://relationalbuilder.org/commons/e/the-jar-is-an-arts-centric-initiative-that-takes-a-unique-approach-to-attendees-"
 created: "2026-10-05"
-updated: "2026-10-08"
+updated: "2026-10-22"
 rtp_id: "15032bc6-e9e7-4f5f-9294-95a014ab94f7"
 ---
 # The Jar is an arts-centric initiative that takes a unique approach to attendees - where you to buy a 'jar' of tickets to invite others to join
@@ -31,6 +31,7 @@ This way of building relationships and audience has led to sold-out houses and 9
 
 ## Details
 
+- **location:** {"lat":42.3588336,"lng":-71.0578303,"basis":"research","label":"Boston, Massachusetts","precision":"city"}
 - **submit ip:** 108.49.132.212
 - **source url:** https://www.jumpinthejar.org/
 - **studio slug:** radically-rural

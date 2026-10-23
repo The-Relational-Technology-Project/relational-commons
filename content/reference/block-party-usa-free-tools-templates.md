@@ -10,7 +10,7 @@ attribution_source: "neighboring-commons-skill-kb"
 source_url: "https://www.blockpartyusa.org/free-tools"
 web: "https://relationalbuilder.org/commons/e/block-party-usa-free-tools-templates"
 created: "2026-05-22"
-updated: "2026-05-22"
+updated: "2026-10-22"
 rtp_id: "333cc7b0-d568-41a0-9e9c-3f7e3867fc33"
 ---
 # Block Party USA Free Tools & Templates

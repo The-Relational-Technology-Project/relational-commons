@@ -10,7 +10,7 @@ attribution_source: "neighboring-commons-skill-kb"
 source_url: "https://www.deepcanvass.org/"
 web: "https://relationalbuilder.org/commons/e/deep-canvassing"
 created: "2026-05-22"
-updated: "2026-05-22"
+updated: "2026-10-22"
 rtp_id: "b0f9cfc7-53be-4268-92b1-b081e86aeafc"
 ---
 # Deep Canvassing
@@ -51,6 +51,7 @@ Emerged from grassroots LGBTQ+ and labor movements; connected to relational orga
 ## Details
 
 - **category:** Community Organizing
+- **location:** {"lat":34.0536923,"lng":-118.2427676,"basis":"text","label":"Los Angeles, California","precision":"origin"}
 - **entry type:** Practice
 - **key ingredients raw:** - *Time*: 8-15 minutes per conversation; 20-40 conversations per canvasser per week; training: 2-4 hours
 - *People*: Trained canvassers (ideally from or close to affected communities); target audience (voters, community members, or decision-makers)

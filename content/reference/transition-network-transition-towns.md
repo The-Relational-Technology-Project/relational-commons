@@ -10,7 +10,7 @@ attribution_source: "neighboring-commons-skill-kb"
 source_url: "https://transitionnetwork.org/"
 web: "https://relationalbuilder.org/commons/e/transition-network-transition-towns"
 created: "2026-05-22"
-updated: "2026-05-22"
+updated: "2026-10-22"
 rtp_id: "12038115-e8f6-429a-bcc4-65ae87409a9d"
 ---
 # Transition Network (Transition Towns)
@@ -41,6 +41,7 @@ Transition Towns emerged from peak oil literature, permaculture design, and conc
 ## Details
 
 - **category:** Civic Engagement
+- **location:** {"lat":50.4322816,"lng":-3.6871525,"basis":"text","label":"Dartington, South Hams, England, United Kingdom","precision":"origin"}
 - **entry type:** Practice
 - **key ingredients raw:** - *Time*: Varies
 - *People*: Varies

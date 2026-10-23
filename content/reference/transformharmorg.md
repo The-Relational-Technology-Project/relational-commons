@@ -10,7 +10,7 @@ attribution_source: "neighboring-commons-skill-kb"
 source_url: "https://transformharm.org/"
 web: "https://relationalbuilder.org/commons/e/transformharmorg"
 created: "2026-05-22"
-updated: "2026-05-22"
+updated: "2026-10-22"
 rtp_id: "06dcfe70-dc29-4188-9f75-09a765acc6d5"
 ---
 # TransformHarm.org

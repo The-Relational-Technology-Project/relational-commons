@@ -11,7 +11,7 @@ attribution_source: "prosocialdesign.org"
 source_url: "https://www.prosocialdesign.org/library/peer-review-of-comments"
 web: "https://relationalbuilder.org/commons/e/psd-peer-review-of-comments"
 created: "2026-10-12"
-updated: "2026-10-12"
+updated: "2026-10-22"
 rtp_id: "eea0b9d8-63ea-4e2b-8b05-82212d5a1f6e"
 ---
 # Warning that Comments Will be Reviewed by Peers Before Publication

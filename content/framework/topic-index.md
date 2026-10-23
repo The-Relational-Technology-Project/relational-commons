@@ -10,7 +10,7 @@ source_repo: "neighboring-recipes/frameworks"
 neighboring_recipes: "https://github.com/The-Relational-Technology-Project/neighboring-recipes/blob/main/frameworks/topic-index.md"
 web: "https://relationalbuilder.org/commons/e/topic-index"
 created: "2026-05-22"
-updated: "2026-05-22"
+updated: "2026-10-22"
 rtp_id: "efca6b09-789f-450e-a279-54cbbf912355"
 ---
 # Topic Index

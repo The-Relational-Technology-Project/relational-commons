@@ -10,7 +10,7 @@ attribution_source: "Civic Media Cookbook (2026)"
 source_url: "https://www.newsfutures.org/library/civic-media-cookbook"
 web: "https://relationalbuilder.org/commons/e/civic-needs-cheat-sheet"
 created: "2026-07-10"
-updated: "2026-07-13"
+updated: "2026-10-22"
 rtp_id: "bd71fbdb-ebda-4648-8b95-c32f5b3d6e91"
 ---
 # Civic Needs Cheat Sheet

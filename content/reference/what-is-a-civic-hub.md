@@ -10,7 +10,7 @@ attribution_source: "neighboring-commons-skill-kb"
 source_url: "https://trustforciviclife.org/what-is-a-civic-hub/"
 web: "https://relationalbuilder.org/commons/e/what-is-a-civic-hub"
 created: "2026-05-22"
-updated: "2026-05-22"
+updated: "2026-10-22"
 rtp_id: "6ee95466-9cf9-4001-adcb-918cf46f20a5"
 ---
 # What is a Civic Hub?

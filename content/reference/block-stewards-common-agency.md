@@ -10,7 +10,7 @@ attribution_source: "neighboring-commons-skill-kb"
 source_url: "https://commonagency.org/"
 web: "https://relationalbuilder.org/commons/e/block-stewards-common-agency"
 created: "2026-05-22"
-updated: "2026-05-22"
+updated: "2026-10-22"
 rtp_id: "23375a25-8bc0-4f49-af8b-9f3fdc1afde9"
 ---
 # Block Stewards (Common Agency)

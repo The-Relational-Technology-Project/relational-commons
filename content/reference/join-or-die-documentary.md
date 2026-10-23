@@ -10,7 +10,7 @@ attribution_source: "neighboring-commons-skill-kb"
 source_url: "https://joinordiefilm.com/"
 web: "https://relationalbuilder.org/commons/e/join-or-die-documentary"
 created: "2026-05-22"
-updated: "2026-05-22"
+updated: "2026-10-22"
 rtp_id: "3b0ed3d6-be42-487c-8e3c-d4de9938e312"
 ---
 # Join or Die Documentary

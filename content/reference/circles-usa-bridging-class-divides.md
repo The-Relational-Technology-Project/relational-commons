@@ -10,7 +10,7 @@ attribution_source: "neighboring-commons-skill-kb"
 source_url: "https://www.circlesusa.org/"
 web: "https://relationalbuilder.org/commons/e/circles-usa-bridging-class-divides"
 created: "2026-05-22"
-updated: "2026-05-22"
+updated: "2026-10-22"
 rtp_id: "e48d07f1-c466-4763-a9f1-a0031311981e"
 ---
 # Circles USA (Bridging Class Divides)

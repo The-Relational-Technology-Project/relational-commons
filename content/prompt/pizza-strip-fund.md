@@ -11,7 +11,7 @@ neighborhood: "Rhode Island"
 attribution_source: "Pizza Strip Fund (Rhode Island)"
 web: "https://relationalbuilder.org/commons/e/pizza-strip-fund"
 created: "2026-10-02"
-updated: "2026-10-02"
+updated: "2026-10-22"
 rtp_id: "c0c757e0-fa3f-4cb7-b7b7-0ac9399a0ea9"
 ---
 # Pizza Strip Fund — remix a gathering fund
@@ -69,6 +69,7 @@ Built by With Neighbors (Rich Speeney, Tyler Heath) with Rhode Island organizers
 ## Details
 
 - **maker:** With Neighbors
+- **location:** {"lat":41.7962409,"lng":-71.5992372,"basis":"attribution","label":"Rhode Island","precision":"region"}
 - **image url:** https://relationalbuilder.org/media/commons/microgrant-program-landing.jpg
 - **hosted url:** https://pizza-strips.lovable.app
 - **remix idea:** Find your neighborhood's pizza strip.

@@ -10,7 +10,7 @@ attribution_source: "neighboring-commons-skill-kb"
 source_url: "https://connectivetissue.substack.com/p/weve-squeezed-the-life-out-of-civic"
 web: "https://relationalbuilder.org/commons/e/weve-squeezed-the-life-out-of-civic-life-professionalization-critique"
 created: "2026-05-22"
-updated: "2026-05-22"
+updated: "2026-10-22"
 rtp_id: "ef80dd19-4b9e-45c7-b2a8-53e5534eb7e3"
 ---
 # We've Squeezed the Life Out of Civic Life: Professionalization Critique

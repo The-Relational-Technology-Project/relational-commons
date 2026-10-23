@@ -11,7 +11,7 @@ attribution_source: "prosocialdesign.org"
 source_url: "https://www.prosocialdesign.org/library/reminder-of-norms"
 web: "https://relationalbuilder.org/commons/e/psd-reminder-of-norms"
 created: "2026-10-12"
-updated: "2026-10-12"
+updated: "2026-10-22"
 rtp_id: "f85734f7-f4d0-4e90-a479-5b1e9ff3d92b"
 ---
 # Norms & Rules Setting

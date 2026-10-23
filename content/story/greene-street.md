@@ -11,7 +11,7 @@ attribution_source: "Civic Media Cookbook (2026), Appendix 2: Field Guide"
 source_url: "https://www.newsfutures.org/library/civic-media-cookbook"
 web: "https://relationalbuilder.org/commons/e/greene-street"
 created: "2026-07-10"
-updated: "2026-07-13"
+updated: "2026-10-22"
 rtp_id: "9fef4aff-ed71-4d18-ab14-39d12c447add"
 ---
 # Greene Street
@@ -28,6 +28,7 @@ A study of the 486-foot strip of Greene Street, tracing the historic development
 ## Details
 
 - **format:** research paper + interactive site
+- **location:** {"lat":40.72288,"lng":-73.9987505,"basis":"attribution","label":"SoHo, New York","precision":"neighborhood"}
 - **patterns:** deepening_understanding_of_place
 - **source tag:** CB
 - **source note:** Civic Media Cookbook Appendix 2 Field Guide — as submitted by practitioners (2025).

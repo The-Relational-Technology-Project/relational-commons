@@ -10,7 +10,7 @@ attribution_source: "Relational Tech Studio library"
 parent: "../tool/block-party-organizing.md"
 web: "https://relationalbuilder.org/commons/e/block-party-organizing"
 created: "2026-06-10"
-updated: "2026-10-21"
+updated: "2026-10-22"
 rtp_id: "5dda5f1e-10b8-4eb8-8ad5-45eb88498887"
 ---
 # Block Party Organizing
@@ -57,6 +57,10 @@ As a visitor after the event, I want to relive the day with photos and know how 
 ## Related in the commons
 
 - Grew from [Block Party Organizing](../tool/block-party-organizing.md)
+
+## Details
+
+- **location:** {"lat":37.7541496,"lng":-122.5061507,"basis":"research","label":"Sunset District, San Francisco, California","precision":"neighborhood"}
 
 ---
 

@@ -9,7 +9,7 @@ author: "Marshall Ganz organizing tradition"
 attribution_source: "Organizing: People, Power, Change (2014)"
 web: "https://relationalbuilder.org/commons/e/campaign-timeline-peaks"
 created: "2026-08-13"
-updated: "2026-08-13"
+updated: "2026-10-22"
 rtp_id: "298669d4-2ce8-4afb-a75e-565f31b842d3"
 ---
 # The Campaign Timeline: Foundation, Kickoff, Peaks
@@ -32,6 +32,7 @@ The rhythm of organizing is the campaign: a focused burst of coordinated activit
 
 ## Details
 
+- **location:** {"lat":42.3656347,"lng":-71.1040018,"basis":"research","label":"Cambridge, Massachusetts","precision":"origin"}
 - **ingredients:** a strategic goal, a kickoff date, measurable peak goals, a debrief on the calendar before you start
 - **source note:** From 'Organizing: People, Power, Change' (2014), Acting: Tactics & Timelines.
 - **how it works:** Foundation: build relationships and leaders before going public., Set a kickoff date — the deadline that focuses recruiting and planning., Design each peak with a number attached, so success is observable., Time the mountaintop for when power is needed most, not when enthusiasm is highest., Close with evaluation AND celebration, win or lose.

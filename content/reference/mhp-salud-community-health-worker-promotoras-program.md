@@ -10,7 +10,7 @@ attribution_source: "neighboring-commons-skill-kb"
 source_url: "https://mhpsalud.org/programs/who-are-promotoresas-chws/"
 web: "https://relationalbuilder.org/commons/e/mhp-salud-community-health-worker-promotoras-program"
 created: "2026-05-22"
-updated: "2026-05-22"
+updated: "2026-10-22"
 rtp_id: "9f11751b-6257-46ff-8af8-7e6999eada45"
 ---
 # MHP Salud: Community Health Worker & Promotoras Program

@@ -10,7 +10,7 @@ attribution_source: "neighboring-commons-skill-kb"
 source_url: "https://www.communityplate.me/suppers"
 web: "https://relationalbuilder.org/commons/e/story-sharing-potluck-supper"
 created: "2026-05-22"
-updated: "2026-05-22"
+updated: "2026-10-22"
 rtp_id: "4f50c2da-7ce2-4d37-8d40-deec7adda4db"
 ---
 # Story Sharing Potluck Supper
@@ -52,6 +52,7 @@ Story suppers are rooted in ancient traditions of communal eating and oral story
 ## Details
 
 - **category:** Neighborhood Gathering
+- **location:** {"lat":45.709097,"lng":-68.8590201,"basis":"research","label":"Maine","precision":"region"}
 - **entry type:** Practice
 - **key ingredients raw:** - *Time*: 4-6 weeks planning, 3 hours for the event
 - *People*: 2-3 organizers, 15-30 attendees

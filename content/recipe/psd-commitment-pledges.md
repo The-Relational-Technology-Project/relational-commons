@@ -11,7 +11,7 @@ attribution_source: "prosocialdesign.org"
 source_url: "https://www.prosocialdesign.org/library/commitment-pledges"
 web: "https://relationalbuilder.org/commons/e/psd-commitment-pledges"
 created: "2026-10-12"
-updated: "2026-10-12"
+updated: "2026-10-22"
 rtp_id: "d43e58e5-7aa8-4b5b-9c60-60fdcc18c536"
 ---
 # Commitment Pledges

@@ -11,7 +11,7 @@ attribution_source: "prosocialdesign.org"
 source_url: "https://www.prosocialdesign.org/library/slowdown-modes"
 web: "https://relationalbuilder.org/commons/e/psd-slowdown-modes"
 created: "2026-10-12"
-updated: "2026-10-12"
+updated: "2026-10-22"
 rtp_id: "1ea01b3b-7335-418c-b14f-ffc8d65b85ae"
 ---
 # Slowdown Modes

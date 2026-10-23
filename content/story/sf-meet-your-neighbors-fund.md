@@ -12,7 +12,7 @@ attribution_source: "https://www.sfgoodneighborweek.org/meet-your-neighbors"
 source_url: "https://www.sfgoodneighborweek.org/meet-your-neighbors"
 web: "https://relationalbuilder.org/commons/e/sf-meet-your-neighbors-fund"
 created: "2026-10-02"
-updated: "2026-10-02"
+updated: "2026-10-22"
 rtp_id: "219ceb75-dfaf-4c94-ae08-c81cecb7584e"
 ---
 # Meet Your Neighbors Fund (San Francisco, CA)
@@ -41,6 +41,7 @@ https://www.sfgoodneighborweek.org/meet-your-neighbors — listed on With Neighb
 - **maker:** SF Good Neighbor Week (with Civic Joy Fund)
 - **place:** San Francisco, CA
 - **amounts:** $100 per host
+- **location:** {"lat":37.7879363,"lng":-122.4075201,"basis":"attribution","label":"San Francisco, California","precision":"city"}
 - **hosted url:** https://www.sfgoodneighborweek.org/meet-your-neighbors
 - **grant shape:** fixed
 - **local object:** the folks next door; a living-room potluck or driveway coffee during Good Neighbor Week

@@ -10,7 +10,7 @@ attribution_source: "neighboring-commons-skill-kb"
 source_url: "https://www.microsolidarity.cc/essays/leadership-as-hospitality"
 web: "https://relationalbuilder.org/commons/e/leadership-as-hospitality"
 created: "2026-05-22"
-updated: "2026-05-22"
+updated: "2026-10-22"
 rtp_id: "a58d7f9c-192a-457a-a6c8-048c07bd9d68"
 ---
 # Leadership as Hospitality

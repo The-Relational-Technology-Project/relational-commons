@@ -11,7 +11,7 @@ attribution_source: "prosocialdesign.org"
 source_url: "https://www.prosocialdesign.org/library/prompt-suggesting-letting-others-post"
 web: "https://relationalbuilder.org/commons/e/psd-prompt-suggesting-letting-others-post"
 created: "2026-10-12"
-updated: "2026-10-12"
+updated: "2026-10-22"
 rtp_id: "8717c832-f70c-46ef-a8ba-242d9b9ad47c"
 ---
 # Prompt Letting Others Post

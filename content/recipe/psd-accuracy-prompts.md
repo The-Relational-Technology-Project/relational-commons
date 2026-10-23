@@ -11,7 +11,7 @@ attribution_source: "prosocialdesign.org"
 source_url: "https://www.prosocialdesign.org/library/accuracy-prompts"
 web: "https://relationalbuilder.org/commons/e/psd-accuracy-prompts"
 created: "2026-10-12"
-updated: "2026-10-12"
+updated: "2026-10-22"
 rtp_id: "20b63143-44b3-4353-ae73-1ec47214d16e"
 ---
 # Accuracy Prompts

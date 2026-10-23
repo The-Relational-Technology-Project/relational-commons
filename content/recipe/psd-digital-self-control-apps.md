@@ -11,7 +11,7 @@ attribution_source: "prosocialdesign.org"
 source_url: "https://www.prosocialdesign.org/library/digital-self-control-apps"
 web: "https://relationalbuilder.org/commons/e/psd-digital-self-control-apps"
 created: "2026-10-12"
-updated: "2026-10-12"
+updated: "2026-10-22"
 rtp_id: "e59b1339-2f3d-484d-82da-37625346c8d4"
 ---
 # Digital Self-Control Apps

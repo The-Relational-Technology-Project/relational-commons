@@ -10,7 +10,7 @@ attribution_source: "COPS/Metro's own accomplishments record; Texas Monthly; San
 source_url: "https://www.copsmetro.com/accomplishments"
 web: "https://relationalbuilder.org/commons/e/cops-thousand-conversations"
 created: "2026-08-13"
-updated: "2026-08-13"
+updated: "2026-10-22"
 rtp_id: "e26aa051-b0d2-4eb1-b945-d610cf743cda"
 ---
 # COPS: A Thousand Conversations Before the First Meeting
@@ -29,6 +29,7 @@ What it teaches: the founding meeting is the last step of founding. Institutions
 
 - **era:** 1974–present
 - **place:** West and south sides, San Antonio, Texas
+- **location:** {"lat":29.4246002,"lng":-98.4951405,"basis":"attribution","label":"San Antonio, Texas","precision":"neighborhood"}
 - **illustrates:** one-to-one-relational-meeting, tracking-down-the-power, people-power-change
 - **source note:** Founding-year relational meetings, counter-budget, and council action per Texas Monthly and the Museo del Westside; fifty-year totals per COPS/Metro's own accounting (copsmetro.com). Chambers's 'most radical thing' from 'Roots for Radicals' (2003).
 - **practice kind:** story

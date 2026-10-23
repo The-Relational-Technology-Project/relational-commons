@@ -10,7 +10,7 @@ attribution_source: "Cesar Chavez Foundation; Gabriel Thompson, 'America's Socia
 source_url: "https://chavezfoundation.org/tag/cso-organizer/"
 web: "https://relationalbuilder.org/commons/e/sal-si-puedes"
 created: "2026-08-13"
-updated: "2026-08-13"
+updated: "2026-10-22"
 rtp_id: "095a38b2-777c-4fbf-b993-46fc909768f6"
 ---
 # Sal Si Puedes: The House Meeting That Found Cesar Chavez
@@ -27,6 +27,7 @@ Chavez became a CSO organizer; Ross soon recruited Dolores Huerta in Stockton, w
 
 - **era:** 1947–1962
 - **place:** Sal Si Puedes, East San Jose, California
+- **location:** {"lat":37.3361663,"lng":-121.890591,"basis":"attribution","label":"San Jose, California","precision":"neighborhood"}
 - **illustrates:** one-to-one-relational-meeting, snowflake-model
 - **source note:** House-meeting method and Roybal registration figures per the Zinn Education Project and PBS SoCal; the June 9, 1952 meeting and Ross journal line per the Cesar Chavez Foundation and Beyond Chron; Huerta's pension win per the Dolores Huerta Foundation.
 - **practice kind:** story

@@ -11,7 +11,7 @@ source_url: "https://www.cohousing.org/"
 neighboring_recipes: "https://github.com/The-Relational-Technology-Project/neighboring-recipes/blob/main/recipes/12-shared-land-and-home/cohousing.md"
 web: "https://relationalbuilder.org/commons/e/cohousing"
 created: "2026-05-22"
-updated: "2026-05-22"
+updated: "2026-10-22"
 rtp_id: "e66de41b-4859-4b9c-a462-c655dde3aae9"
 ---
 # Cohousing
@@ -100,6 +100,7 @@ The model is not without challenges: governance disputes, the difficulty of sell
 
 - **steps:** **Visit existing cohousing.** The [Cohousing Association](https://www.cohousing.org/find-cohousing/) maintains a national directory. Visit several communities. See what daily life looks like. Talk to residents about what worked and didn't., **Connect with the network.** Cohousing has decades of practitioner knowledge. The [Cohousing Association](https://www.cohousing.org/) hosts conferences, provides consultants, and connects forming groups with established ones., **Form a founding group.** Five to ten committed households as a core. This group will do years of work together before any building exists. Compatibility matters., **Engage professional support.** Most successful new cohousing engages cohousing consultants and architects with cohousing experience. The model has specific design and process needs., **Find land.** Often the hardest part. Urban sites are scarce; rural and suburban sites are more common. Look for sites near transit, schools, and existing community., **Design together.** The "participatory design" phase is unique to cohousing. The future residents make design decisions: layout, density, common spaces, units, sustainability features. The process typically takes a year or more., **Finance.** Construction loans, member deposits, sometimes municipal support. The financing is complex; professional advice is essential., **Build, move in, govern.** Move-in is the start, not the end. Cohousing communities run their own governance: regular meetings, work sharing, decision-making, shared meals.
 ### If you're considering joining an existing community, **Visit.** Most communities welcome visits, often through a structured process., **Stay for a meal.** Shared meals are the heart of most cohousing. Eating with the community is the best way to see what daily life is., **Understand the commitment.** Cohousing requires ongoing participation. Meetings, work shares, conflict navigation. Some people thrive in this. Some don't., **Apply formally.** Existing communities have processes for new members. Be patient; the screening is mutual.
+- **location:** {"lat":55.670249,"lng":10.3333283,"basis":"text","label":"Denmark","precision":"origin"}
 - **file path:** recipes/12-shared-land-and-home/cohousing.md
 - **variations:** **Senior cohousing.** Specifically for older adults. Often paired with aging-in-place support structures (similar to [Village Movement](../recipe/village-movement-aging-in-community.md)).
 

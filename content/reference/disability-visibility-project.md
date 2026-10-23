@@ -10,7 +10,7 @@ attribution_source: "neighboring-commons-skill-kb"
 source_url: "https://disabilityvisibilityproject.com/about/"
 web: "https://relationalbuilder.org/commons/e/disability-visibility-project"
 created: "2026-05-22"
-updated: "2026-05-22"
+updated: "2026-10-22"
 rtp_id: "742e0079-d1c3-43b9-ac90-20931d21d6bb"
 ---
 # Disability Visibility Project
@@ -28,6 +28,7 @@ Part of disability justice movements and disability culture work. Relates to arc
 ## Details
 
 - **category:** Disability Justice
+- **location:** {"lat":37.7879363,"lng":-122.4075201,"basis":"research","label":"San Francisco, California","precision":"origin"}
 - **entry type:** Reference
 
 ---

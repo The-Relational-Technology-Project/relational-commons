@@ -11,7 +11,7 @@ attribution_source: "prosocialdesign.org"
 source_url: "https://www.prosocialdesign.org/library/caution-about-increasing-toxicity"
 web: "https://relationalbuilder.org/commons/e/psd-caution-about-increasing-toxicity"
 created: "2026-10-12"
-updated: "2026-10-12"
+updated: "2026-10-22"
 rtp_id: "b387391c-c6fc-4157-96d6-cb2590a2baaa"
 ---
 # Caution About Increasing Toxicity

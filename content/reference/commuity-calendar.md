@@ -11,7 +11,7 @@ neighborhood: "Lincoln Square, Chicago, IL"
 source_url: "https://thegreaterrockwell.org/calendar"
 web: "https://relationalbuilder.org/commons/e/commuity-calendar"
 created: "2026-10-04"
-updated: "2026-10-04"
+updated: "2026-10-22"
 rtp_id: "57379b14-b715-43d2-9be4-a94f7844e822"
 ---
 # Commuity Calendar
@@ -24,6 +24,7 @@ Simple calendar aggregator pulls the events from publicly available calendars an
 
 ## Details
 
+- **location:** {"lat":41.9685896,"lng":-87.688505,"basis":"attribution","label":"Lincoln Square, Chicago, Illinois","precision":"neighborhood"}
 - **submit ip:** 172.59.184.99
 - **source url:** https://thegreaterrockwell.org/calendar
 - **studio slug:** rt

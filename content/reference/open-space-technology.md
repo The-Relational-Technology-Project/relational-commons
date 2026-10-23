@@ -11,7 +11,7 @@ attribution_source: "neighboring-commons-skill-kb"
 source_url: "https://openspaceworld.org/wp2/hho/papers/brief-users-guide-open-space-technology/"
 web: "https://relationalbuilder.org/commons/e/open-space-technology"
 created: "2026-05-22"
-updated: "2026-07-13"
+updated: "2026-10-22"
 rtp_id: "a1761150-df01-473f-8169-b5105ad33677"
 ---
 # Open Space Technology

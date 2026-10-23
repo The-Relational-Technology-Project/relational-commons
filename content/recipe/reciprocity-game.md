@@ -11,7 +11,7 @@ source_url: "https://medium.com/microsolidarity/microsolidarity-part-3-the-recip
 neighboring_recipes: "https://github.com/The-Relational-Technology-Project/neighboring-recipes/blob/main/recipes/02-small-groups-for-support/reciprocity-game.md"
 web: "https://relationalbuilder.org/commons/e/reciprocity-game"
 created: "2026-05-22"
-updated: "2026-05-22"
+updated: "2026-10-22"
 rtp_id: "1e0831ee-535c-4ad5-82b3-ab5ed514ca81"
 ---
 # Reciprocity Game

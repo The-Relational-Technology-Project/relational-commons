@@ -12,7 +12,7 @@ source_url: "https://centerforappreciativeinquiry.net/"
 neighboring_recipes: "https://github.com/The-Relational-Technology-Project/neighboring-recipes/blob/main/recipes/04-gathering-design/appreciative-inquiry.md"
 web: "https://relationalbuilder.org/commons/e/appreciative-inquiry"
 created: "2026-05-22"
-updated: "2026-07-13"
+updated: "2026-10-22"
 rtp_id: "c4abf9da-53f0-4bb4-b08d-db30689c7aae"
 ---
 # Appreciative Inquiry
@@ -105,6 +105,7 @@ In neighborhood-scale work, AI has been used by communities recovering from disa
 ### Phase 2: Dream (a session or two), **Gather the broader community.** A summit format works well. People share the stories they heard., **Invite the room to imagine.** "If our community amplified what was happening in these stories, what would it look like in five years?" Visual, narrative, sometimes embodied.
 ### Phase 3: Design (a session or two), **Create provocative propositions.** Statements describing the community as if the dream were already true. Bold, specific, written in present tense. Example: *"In our neighborhood, every newcomer is greeted within their first week and has at least three named connections by the end of their first month."*, **Identify the structures that make each proposition real.** Practices, programs, agreements, infrastructure, decision-making processes.
 ### Phase 4: Destiny (ongoing), **Commit to specific actions.** Who is doing what, by when. Tied to the propositions., **Implement and reflect.** What's working? What needs adjustment? AI sees implementation as another cycle of inquiry, not an end point.
+- **location:** {"lat":41.4996574,"lng":-81.6936772,"basis":"research","label":"Cleveland, Ohio","precision":"origin"}
 - **file path:** recipes/04-gathering-design/appreciative-inquiry.md
 - **variations:** **Mini-AI for a specific question.** A weekend version focused on one specific community challenge. Interview phase compressed; summit lasts a day.
 

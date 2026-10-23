@@ -9,7 +9,7 @@ author: "Marshall Ganz"
 attribution_source: "Organizing: People, Power, Change (2014), adapted from the work of Marshall Ganz, the Leading Change Network & the New Organizing Institute"
 web: "https://relationalbuilder.org/commons/e/people-power-change"
 created: "2026-08-13"
-updated: "2026-08-13"
+updated: "2026-10-22"
 rtp_id: "e9eb6379-2cc6-4fec-90c0-fe8b143dccfd"
 ---
 # People, Power, Change
@@ -28,6 +28,7 @@ Five practices turn these definitions into work: telling stories, building relat
 
 ## Details
 
+- **location:** {"lat":42.3656347,"lng":-71.1040018,"basis":"research","label":"Cambridge, Massachusetts","precision":"origin"}
 - **source note:** Definitions from 'Organizing: People, Power, Change' (Dogwood Initiative, Leadnow, One Cowichan, David Suzuki Foundation, Stonehouse Institute, 2014), adapted from Marshall Ganz / Leading Change Network / New Organizing Institute. MLK quote from 'Where Do We Go From Here?' (SCLC, 1967).
 - **practice kind:** framework
 - **five practices:** telling stories, building relationships, structuring teams, strategizing, acting

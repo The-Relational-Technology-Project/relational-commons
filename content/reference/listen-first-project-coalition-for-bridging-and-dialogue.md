@@ -10,7 +10,7 @@ attribution_source: "neighboring-commons-skill-kb"
 source_url: "https://www.listenfirstproject.org/"
 web: "https://relationalbuilder.org/commons/e/listen-first-project-coalition-for-bridging-and-dialogue"
 created: "2026-05-22"
-updated: "2026-05-22"
+updated: "2026-10-22"
 rtp_id: "c9b43501-3d98-45a7-a6c8-35515c7d5c99"
 ---
 # Listen First Project: Coalition for Bridging and Dialogue

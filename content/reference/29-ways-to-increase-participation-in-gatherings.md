@@ -10,7 +10,7 @@ attribution_source: "neighboring-commons-skill-kb"
 source_url: "https://grouphug.substack.com/p/pluralize-the-power-group-participation-ideas"
 web: "https://relationalbuilder.org/commons/e/29-ways-to-increase-participation-in-gatherings"
 created: "2026-05-22"
-updated: "2026-05-22"
+updated: "2026-10-22"
 rtp_id: "3d465ff3-ace4-403a-a512-f0a1c2b5784b"
 ---
 # 29 Ways to Increase Participation in Gatherings

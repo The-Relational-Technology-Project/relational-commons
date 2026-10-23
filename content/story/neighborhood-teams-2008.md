@@ -10,7 +10,7 @@ attribution_source: "Ganz, 'Organizing Obama' (2009); Zack Exley, 'The New Organ
 source_url: "https://dash.harvard.edu/bitstream/handle/1/27306258/Organizing-Obama-Final.pdf"
 web: "https://relationalbuilder.org/commons/e/neighborhood-teams-2008"
 created: "2026-08-13"
-updated: "2026-08-13"
+updated: "2026-10-22"
 rtp_id: "835990ff-8492-4d92-b88f-888a7f376643"
 ---
 # Neighborhood Teams: The Snowflake at National Scale
@@ -29,6 +29,7 @@ The question it leaves for a neighborhood: if the model works with 2.2 million p
 
 - **era:** 2007–2008
 - **place:** United States (Ohio's 1,231 neighborhoods as the documented case)
+- **location:** {"lat":39.7837304,"lng":-100.445882,"also":[{"lat":40.2253569,"lng":-82.6881395,"label":"Ohio"}],"basis":"attribution","label":"United States","precision":"country"}
 - **illustrates:** snowflake-model, story-of-self-us-now, launch-a-team
 - **source note:** Team counts and training figures per Ganz's 'Organizing Obama' and Exley's embedded reporting; 2.2M volunteer figure per 'Groundbreakers' (Oxford, 2014). Ohio figures use different units (teams vs. defined turfs) across sources.
 - **practice kind:** story

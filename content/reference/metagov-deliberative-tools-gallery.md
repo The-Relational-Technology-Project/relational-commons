@@ -10,7 +10,7 @@ attribution_source: "metagov.org/delib-tools"
 source_url: "https://metagov.org/delib-tools"
 web: "https://relationalbuilder.org/commons/e/metagov-deliberative-tools-gallery"
 created: "2026-10-08"
-updated: "2026-10-08"
+updated: "2026-10-22"
 rtp_id: "fc1b9ea5-8167-4181-b166-e540e6d5e94a"
 ---
 # Metagov's Deliberative Tools Gallery

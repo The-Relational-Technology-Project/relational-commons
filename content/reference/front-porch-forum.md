@@ -10,7 +10,7 @@ attribution_source: "neighboring-commons-skill-kb"
 source_url: "https://frontporchforum.com/"
 web: "https://relationalbuilder.org/commons/e/front-porch-forum"
 created: "2026-05-22"
-updated: "2026-05-22"
+updated: "2026-10-22"
 rtp_id: "e67def6c-a45d-48c0-919f-b759b36917fe"
 ---
 # Front Porch Forum
@@ -61,6 +61,7 @@ Grows from the insight that the internet went wrong when it became global and al
 ## Details
 
 - **category:** Digital Neighboring
+- **location:** {"lat":44.4761601,"lng":-73.212906,"basis":"research","label":"Burlington, Vermont","precision":"origin"}
 - **entry type:** Practice
 - **key ingredients raw:** - *Time*: 5-10 minutes daily to check posts
 - *People*: Neighborhood with 100+ households, volunteer moderators

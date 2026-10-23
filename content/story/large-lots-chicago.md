@@ -11,7 +11,7 @@ attribution_source: "Smart Chicago Collaborative; Journal of the American Planni
 source_url: "https://largelots.org/"
 web: "https://relationalbuilder.org/commons/e/large-lots-chicago"
 created: "2026-08-13"
-updated: "2026-08-13"
+updated: "2026-10-22"
 rtp_id: "3b8814f2-d9d3-4d8f-b091-0f15f718ceb6"
 ---
 # Large Lots: The $1 Lot and the One-Page Form
@@ -28,6 +28,7 @@ What it teaches: civic tech's highest leverage is often *subtraction* — the ap
 
 - **era:** 2014–present
 - **place:** Englewood → citywide, Chicago
+- **location:** {"lat":41.7797559,"lng":-87.6458836,"basis":"attribution","label":"Englewood, Chicago, Illinois","precision":"neighborhood"}
 - **illustrates:** six-lessons-neighborhood-tech
 - **source note:** Program history per Smart Chicago and DataMade; crime findings per JAPA 2021 (Univ. of Illinois research).
 - **practice kind:** story

@@ -11,7 +11,7 @@ attribution_source: "Civic Media Cookbook (2026), Appendix 2: Field Guide"
 source_url: "https://www.newsfutures.org/library/civic-media-cookbook"
 web: "https://relationalbuilder.org/commons/e/asset-framing-post-it-notes"
 created: "2026-07-10"
-updated: "2026-07-13"
+updated: "2026-10-22"
 rtp_id: "cf75beb0-31d5-4309-9cab-c0a2d1f6d88e"
 ---
 # Asset-Framing Post-It Notes
@@ -27,6 +27,7 @@ At a community listening session, organizers put out Post-it notes with asset-fr
 ## Details
 
 - **format:** in-person listening prompt
+- **location:** {"lat":41.8505874,"lng":-87.7936685,"also":[{"lat":41.8455398,"lng":-87.7540199,"label":"Cicero, Illinois"}],"basis":"attribution","label":"Berwyn, Illinois","precision":"neighborhood"}
 - **patterns:** amplifying_unheard_voices
 - **source tag:** CB
 - **source note:** Civic Media Cookbook Appendix 2 Field Guide — as submitted by practitioners (2025).

@@ -9,7 +9,7 @@ author: "News Futures Studio working group"
 attribution_source: "NF Studio foundation"
 web: "https://relationalbuilder.org/commons/e/format-two-way-sms"
 created: "2026-07-10"
-updated: "2026-07-10"
+updated: "2026-10-22"
 rtp_id: "823defd6-2dad-4d62-b693-951d62799cf5"
 ---
 # Two-Way SMS Info Line (civic media format)

@@ -9,7 +9,7 @@ author: "News Futures Studio working group"
 attribution_source: "NF Studio foundation"
 web: "https://relationalbuilder.org/commons/e/format-story-circle"
 created: "2026-07-10"
-updated: "2026-07-10"
+updated: "2026-10-22"
 rtp_id: "b71777bf-c292-40cd-b76c-a964177ae77c"
 ---
 # Story Circle (civic media format)

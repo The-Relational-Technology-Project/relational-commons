@@ -11,7 +11,7 @@ source_url: "https://www.repaircafe.org/en/"
 neighboring_recipes: "https://github.com/The-Relational-Technology-Project/neighboring-recipes/blob/main/recipes/03-mutual-aid/repair-cafe.md"
 web: "https://relationalbuilder.org/commons/e/repair-cafe"
 created: "2026-05-22"
-updated: "2026-05-22"
+updated: "2026-10-22"
 rtp_id: "890898c8-c0f0-44ad-b69e-b89e7aa80953"
 ---
 # Repair Cafe
@@ -84,6 +84,7 @@ Today over 2,000 Repair Cafes operate in 37 countries. The Foundation provides s
 ## Details
 
 - **steps:** **Request the starter kit from [repaircafe.org](https://www.repaircafe.org/en/).** It includes templates, intake forms, liability language, and signage. Use it. The Foundation makes this freely available., **Recruit fixers.** Reach out to local makers, hobbyists, retired engineers, seamstresses, bike mechanics, electronics tinkerers. Most communities have more skilled fixers than people realize. Three to five categories of repair is plenty: electrical, textiles, bikes, small appliances, ceramics., **Find a venue.** Library meeting rooms, faith spaces, community centers, school cafeterias. Free or low-cost. Make sure there's enough power, light, and table space., **Set up intake.** Each participant fills out a short intake card describing the item and the problem. This helps fixers triage and protects both parties around liability., **Promote 3 to 4 weeks out.** Flyers, neighborhood mailing lists, Nextdoor, [Front Porch Forum](../reference/front-porch-forum.md). List the categories of repair you'll have available. People won't bring things if they don't know it's possible., **Day of: set up zones.** One area per repair category. Refreshments away from electronics. A welcome table for intake. A "next steps" sign for items that can't be fixed today., **Pace the event.** 3 to 4 hours is right. Longer drains fixers. Encourage participants to stay for the whole repair, not just drop off., **Close warmly.** Group photo of what got fixed. Thanks to fixers. Date for the next one.
+- **location:** {"lat":52.3730796,"lng":4.8924534,"basis":"text","label":"Amsterdam, North Holland, Netherlands","precision":"origin"}
 - **file path:** recipes/03-mutual-aid/repair-cafe.md
 - **variations:** **Monthly Cafe.** Smaller, more regular. Lower bar to attend. Higher relationship density over time.
 

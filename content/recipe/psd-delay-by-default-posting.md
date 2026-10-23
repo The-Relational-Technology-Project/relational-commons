@@ -11,7 +11,7 @@ attribution_source: "prosocialdesign.org"
 source_url: "https://www.prosocialdesign.org/library/delay-by-default-posting"
 web: "https://relationalbuilder.org/commons/e/psd-delay-by-default-posting"
 created: "2026-10-12"
-updated: "2026-10-12"
+updated: "2026-10-22"
 rtp_id: "990eaf29-28c1-400f-bc43-0063f1ab0bb7"
 ---
 # Delay-by-Default Posting

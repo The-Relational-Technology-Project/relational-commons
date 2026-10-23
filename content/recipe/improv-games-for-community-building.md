@@ -11,7 +11,7 @@ source_url: "https://www.sessionlab.com/blog/improv-games/"
 neighboring_recipes: "https://github.com/The-Relational-Technology-Project/neighboring-recipes/blob/main/recipes/10-play-and-joy/improv-games.md"
 web: "https://relationalbuilder.org/commons/e/improv-games-for-community-building"
 created: "2026-05-22"
-updated: "2026-05-22"
+updated: "2026-10-22"
 rtp_id: "544a1966-6615-4678-9d64-0cd6b5962d5a"
 ---
 # Improv Games for Community Building

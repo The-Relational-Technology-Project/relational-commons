@@ -11,7 +11,7 @@ source_url: "https://climateresolve.org/resilience-hubs/"
 neighboring_recipes: "https://github.com/The-Relational-Technology-Project/neighboring-recipes/blob/main/recipes/07-resilience/warming-cooling-center.md"
 web: "https://relationalbuilder.org/commons/e/warmingcooling-center"
 created: "2026-05-22"
-updated: "2026-05-22"
+updated: "2026-10-22"
 rtp_id: "2be42812-7928-4bcb-b77c-4fcf11b178ea"
 ---
 # Warming/Cooling Center

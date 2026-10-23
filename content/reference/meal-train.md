@@ -10,7 +10,7 @@ attribution_source: "neighboring-commons-skill-kb"
 source_url: "https://www.mealtrain.com/"
 web: "https://relationalbuilder.org/commons/e/meal-train"
 created: "2026-05-22"
-updated: "2026-05-22"
+updated: "2026-10-22"
 rtp_id: "24c869b6-2cf2-43ff-bcce-71dc8d76ef82"
 ---
 # Meal Train

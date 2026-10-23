@@ -11,7 +11,7 @@ source_url: "https://www.newsfutures.org/library/civic-media-cookbook"
 neighboring_recipes: "https://github.com/The-Relational-Technology-Project/neighboring-recipes/blob/main/recipes/04-gathering-design/open-space.md"
 web: "https://relationalbuilder.org/commons/e/open-space"
 created: "2026-07-10"
-updated: "2026-07-13"
+updated: "2026-10-22"
 rtp_id: "e88ecf7e-b1ab-47a6-acc5-251b71ac22f0"
 ---
 # Open Space Technology
@@ -31,6 +31,7 @@ Participants build their own agenda around a central question; people move to wh
 
 ## Details
 
+- **location:** {"lat":39.0180508,"lng":-77.1956331,"basis":"research","label":"Potomac, Maryland","precision":"origin"}
 - **source tag:** CB, NC
 - **source note:** From the Civic Media Cookbook: 'Producing Civic Media: Recipes to Produce Civic Media Through Participation, Power and Community' — Jihii Jolly and Jennifer Brandel, with the News Futures Working Group (2026).
 - **practice kind:** technique

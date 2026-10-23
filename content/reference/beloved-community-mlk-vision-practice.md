@@ -10,7 +10,7 @@ attribution_source: "neighboring-commons-skill-kb"
 source_url: "https://thekingcenter.org/about-tkc/the-king-philosophy/"
 web: "https://relationalbuilder.org/commons/e/beloved-community-mlk-vision-practice"
 created: "2026-05-22"
-updated: "2026-05-22"
+updated: "2026-10-22"
 rtp_id: "a1e7a04c-4c3c-4f3e-9fed-cb460a660767"
 ---
 # Beloved Community (MLK Vision & Practice)
@@ -45,6 +45,7 @@ Rooted in King's synthesis of Christian theology, Gandhian nonviolence, and Blac
 ## Details
 
 - **category:** Frameworks & Models
+- **location:** {"lat":33.7544657,"lng":-84.3898151,"basis":"research","label":"Atlanta, Georgia","precision":"origin"}
 - **entry type:** Practice
 - **key ingredients raw:** - *Time*: Ongoing commitment; educational programs: 6-12 months or longer; organizing campaigns: variable
 - *People*: Community organizers, clergy, educators, activists, and community members of all backgrounds; leadership emphasis on people directly affected by injustice

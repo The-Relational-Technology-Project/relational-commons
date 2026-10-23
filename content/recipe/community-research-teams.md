@@ -10,7 +10,7 @@ attribution_source: "Civic Media Cookbook (2026) — Jihii Jolly & Jennifer Bran
 source_url: "https://www.newsfutures.org/library/civic-media-cookbook"
 web: "https://relationalbuilder.org/commons/e/community-research-teams"
 created: "2026-07-10"
-updated: "2026-07-13"
+updated: "2026-10-22"
 rtp_id: "80f8336d-6f31-45ec-81bd-b2c1f64d1e7d"
 ---
 # Community Research Teams

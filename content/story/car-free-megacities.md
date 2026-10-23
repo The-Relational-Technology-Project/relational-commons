@@ -11,7 +11,7 @@ attribution_source: "Civic Media Cookbook (2026), Appendix 2: Field Guide"
 source_url: "https://www.newsfutures.org/library/civic-media-cookbook"
 web: "https://relationalbuilder.org/commons/e/car-free-megacities"
 created: "2026-07-10"
-updated: "2026-07-13"
+updated: "2026-10-22"
 rtp_id: "bfa8f87c-5fb8-4bd9-beb3-e91cb9262f19"
 ---
 # Car Free Megacities
@@ -27,6 +27,7 @@ A campaign to reimagine cities as private-car-free and build policy and public s
 ## Details
 
 - **format:** two-year campaign + report series
+- **location:** {"lat":51.5074456,"lng":-0.1277653,"also":[{"lat":40.7127281,"lng":-74.0060152,"label":"New York"},{"lat":48.8534951,"lng":2.3483915,"label":"Paris, Ile-de-France, France"}],"basis":"attribution","label":"Greater London, England, United Kingdom","precision":"city"}
 - **patterns:** mobilizing_collective_response
 - **source tag:** CB
 - **source note:** Civic Media Cookbook Appendix 2 Field Guide — as submitted by practitioners (2025).

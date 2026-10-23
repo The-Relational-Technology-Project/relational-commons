@@ -10,7 +10,7 @@ attribution_source: "neighboring-commons-skill-kb"
 source_url: "https://www.nolo.com/legal-encyclopedia/how-form-community-babysitting-co-op.html"
 web: "https://relationalbuilder.org/commons/e/community-babysitting-co-op"
 created: "2026-05-22"
-updated: "2026-05-22"
+updated: "2026-10-22"
 rtp_id: "ea29bc8c-a824-4e2f-a873-2758bbc60969"
 ---
 # Community Babysitting Co-op

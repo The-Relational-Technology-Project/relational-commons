@@ -10,7 +10,7 @@ attribution_source: "neighboring-commons-skill-kb"
 source_url: "https://www.hhs.gov/surgeongeneral/reports-and-publications/recipes/index.html"
 web: "https://relationalbuilder.org/commons/e/recipes-for-connection"
 created: "2026-05-22"
-updated: "2026-05-22"
+updated: "2026-10-22"
 rtp_id: "1ea8852e-2720-4b54-a4a6-d3139e4767a7"
 ---
 # Recipes for Connection

@@ -11,7 +11,7 @@ attribution_source: "Civic Media Cookbook (2026), Appendix 2: Field Guide"
 source_url: "https://www.newsfutures.org/library/civic-media-cookbook"
 web: "https://relationalbuilder.org/commons/e/democracy-101"
 created: "2026-07-10"
-updated: "2026-07-13"
+updated: "2026-10-22"
 rtp_id: "a5775f05-94d6-4101-b598-ad753e6ceacf"
 ---
 # Democracy 101
@@ -27,6 +27,7 @@ A bilingual event for Latinos and Pascua Yaqui tribe members mixing culture, art
 ## Details
 
 - **format:** bilingual in-person event
+- **location:** {"lat":32.2228765,"lng":-110.974847,"basis":"research","label":"Tucson, Arizona","precision":"city"}
 - **patterns:** building_civic_muscle, creating_shared_understanding
 - **source tag:** CB
 - **source note:** Civic Media Cookbook Appendix 2 Field Guide — as submitted by practitioners (2025).

@@ -9,7 +9,7 @@ author: "Relational Technology Project, after Marshall Ganz"
 attribution_source: "Organizing: People, Power, Change (2014), adapted from the work of Marshall Ganz, the Leading Change Network & the New Organizing Institute"
 web: "https://relationalbuilder.org/commons/e/organizing-six-questions"
 created: "2026-08-13"
-updated: "2026-08-13"
+updated: "2026-10-22"
 rtp_id: "c5046507-a356-4591-8992-0b3ca1b55a43"
 ---
 # The Six Questions

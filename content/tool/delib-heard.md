@@ -10,7 +10,7 @@ attribution_source: "heard.vote"
 source_url: "https://heard.vote"
 web: "https://relationalbuilder.org/commons/e/delib-heard"
 created: "2026-10-08"
-updated: "2026-10-08"
+updated: "2026-10-22"
 rtp_id: "f332dad2-c1b7-4a55-a7e3-d4fe40596fb8"
 ---
 # Heard
@@ -32,6 +32,7 @@ Builder credit to confirm before wider publishing: the platform is open source a
 - **maker:** Heard Platform
 - **stages:** eliciting, deliberating
 - **license:** MIT
+- **location:** {"lat":38.8950982,"lng":-77.0363849,"basis":"text","label":"Washington, District of Columbia","precision":"origin"}
 - **repo url:** https://github.com/Heard-Platform/heard
 - **image url:** https://texakzqqenzpxawktbgx.supabase.co/storage/v1/object/public/studio-library/tool-screenshots/delib-heard-2026-08.jpg
 - **remix idea:** A neighborhood question board with live results and a steward who carries questions to the agenda.

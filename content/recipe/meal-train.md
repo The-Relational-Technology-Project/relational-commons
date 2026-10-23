@@ -11,7 +11,7 @@ source_url: "https://www.mealtrain.com/"
 neighboring_recipes: "https://github.com/The-Relational-Technology-Project/neighboring-recipes/blob/main/recipes/02-small-groups-for-support/meal-train.md"
 web: "https://relationalbuilder.org/commons/e/meal-train"
 created: "2026-05-22"
-updated: "2026-05-22"
+updated: "2026-10-22"
 rtp_id: "afcd3b9d-fc1e-4fe1-8d45-d389f8583c91"
 ---
 # Meal Train

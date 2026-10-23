@@ -10,7 +10,7 @@ attribution_source: "neighboring-commons-skill-kb"
 source_url: "https://storycorps.org/participate/storycorps-diy/"
 web: "https://relationalbuilder.org/commons/e/storycorps-diy"
 created: "2026-05-22"
-updated: "2026-05-22"
+updated: "2026-10-22"
 rtp_id: "a549122e-4312-4cdc-a4ca-929b04788dc8"
 ---
 # StoryCorps DIY
@@ -49,6 +49,7 @@ StoryCorps DIY draws from oral history traditions, participatory action research
 ## Details
 
 - **category:** Community Building
+- **location:** {"lat":40.6526006,"lng":-73.9497211,"basis":"research","label":"Brooklyn, New York","precision":"origin"}
 - **entry type:** Practice
 - **key ingredients raw:** - *Time*: 2-4 weeks for training; 6-12 months for sustained program
 - *People*: 2-4 core organizers; 10+ interview pairs and willing listeners

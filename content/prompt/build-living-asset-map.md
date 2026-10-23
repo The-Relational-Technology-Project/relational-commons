@@ -9,7 +9,7 @@ author: "Relational Technology Project, after Kretzmann & McKnight"
 attribution_source: "Local Civic Tech shelf starter prompt"
 web: "https://relationalbuilder.org/commons/e/build-living-asset-map"
 created: "2026-08-13"
-updated: "2026-08-13"
+updated: "2026-10-22"
 rtp_id: "67483c14-8c57-4669-9ba6-1315d204b6cb"
 ---
 # Build: A Living Asset Map

@@ -10,7 +10,7 @@ attribution_source: "neighboring-commons-skill-kb"
 source_url: "https://www.vtvnetwork.org/"
 web: "https://relationalbuilder.org/commons/e/village-movement-virtual-villages"
 created: "2026-05-22"
-updated: "2026-05-22"
+updated: "2026-10-22"
 rtp_id: "fa16e26d-68b3-4d1f-95bc-1dac8f0d7346"
 ---
 # Village Movement (Virtual Villages)
@@ -45,6 +45,7 @@ Emerged as response to aging population and desire to age in community rather th
 ## Details
 
 - **category:** Intergenerational
+- **location:** {"lat":42.3587085,"lng":-71.067829,"basis":"research","label":"Beacon Hill, Boston, Massachusetts","precision":"origin"}
 - **entry type:** Practice
 - **key ingredients raw:** - *Time*: Ongoing annual membership; 1-2 hours per week typical engagement
 - *People*: Member elders (typically 55+), volunteer supporters, coordinator/staff, board members

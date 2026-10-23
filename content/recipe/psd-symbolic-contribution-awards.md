@@ -11,7 +11,7 @@ attribution_source: "prosocialdesign.org"
 source_url: "https://www.prosocialdesign.org/library/symbolic-contribution-awards"
 web: "https://relationalbuilder.org/commons/e/psd-symbolic-contribution-awards"
 created: "2026-10-12"
-updated: "2026-10-12"
+updated: "2026-10-22"
 rtp_id: "9cd519c1-553e-474f-8ac9-4088634003cb"
 ---
 # Symbolic Contribution Awards

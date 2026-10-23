@@ -10,7 +10,7 @@ source_repo: "neighboring-recipes/frameworks"
 neighboring_recipes: "https://github.com/The-Relational-Technology-Project/neighboring-recipes/blob/main/frameworks/5-cs-of-community.md"
 web: "https://relationalbuilder.org/commons/e/the-5-cs-of-community"
 created: "2026-05-22"
-updated: "2026-05-22"
+updated: "2026-10-22"
 rtp_id: "9dc73e3f-2faf-4cb8-8956-f2e4a960d16d"
 ---
 # The 5 Cs of Community

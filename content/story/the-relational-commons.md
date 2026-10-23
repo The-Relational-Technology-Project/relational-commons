@@ -9,7 +9,7 @@ topics: ["builder-story"]
 author: "Commons Architect"
 web: "https://relationalbuilder.org/commons/e/the-relational-commons"
 created: "2026-06-10"
-updated: "2026-06-15"
+updated: "2026-10-22"
 rtp_id: "56b5e61c-6db3-4fa6-944b-0983e971c9e5"
 ---
 # The Relational Commons

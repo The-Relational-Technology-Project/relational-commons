@@ -10,7 +10,7 @@ attribution_source: "neighboring-commons-skill-kb"
 source_url: "https://freire.org/paulo-freire"
 web: "https://relationalbuilder.org/commons/e/popular-education-freirean-pedagogy"
 created: "2026-05-22"
-updated: "2026-05-22"
+updated: "2026-10-22"
 rtp_id: "14f8240d-1895-4650-abe6-8ea605506cf5"
 ---
 # Popular Education (Freirean Pedagogy)
@@ -45,6 +45,7 @@ Rooted in Brazilian educator Paulo Freire's work (1970s-1990s); foundational to 
 ## Details
 
 - **category:** Frameworks & Models
+- **location:** {"lat":-8.0584933,"lng":-34.8848193,"basis":"research","label":"Recife, Pernambuco, Brazil","precision":"origin"}
 - **entry type:** Practice
 - **key ingredients raw:** - *Time*: Ongoing; each session: 2-3 hours; sustained work: weeks to months
 - *People*: Facilitator(s) with some Freirean training; diverse group of 8-25 participants with shared stake in the issue

@@ -10,7 +10,7 @@ attribution_source: "report.bloomproject.us/central-oregon-ai"
 source_url: "https://report.bloomproject.us/central-oregon-ai"
 web: "https://relationalbuilder.org/commons/e/central-oregon-ai-civic-assembly"
 created: "2026-10-08"
-updated: "2026-10-08"
+updated: "2026-10-22"
 rtp_id: "fd10b173-ec9d-448e-b07f-68452bcb5492"
 ---
 # AI and Central Oregon: 400+ residents, one Open Poll, six sessions, a civic assembly
@@ -29,6 +29,7 @@ Next: a Civic Assembly in December 2026 where 30 to 40 residents develop policie
 
 - **place:** Central Oregon
 - **sources:** https://report.bloomproject.us/central-oregon-ai, https://centraloregonian.com/2026/05/21/a-new-civic-assembly-on-ai-launches-in-deschutes-crook-and-jefferson-counties/, https://ktvz.com/news/local-news/2026/04/01/deliberative-democracy-takes-center-stage-at-central-oregon-summit/
+- **location:** {"lat":45.4881569,"lng":-122.807836,"also":[{"lat":44.0581728,"lng":-121.3153096,"label":"Bend, Oregon"},{"lat":44.7628855,"lng":-121.2595919,"label":"Warm Springs, Oregon"}],"basis":"attribution","label":"Central Beaverton, Beaverton, Oregon","precision":"region"}
 - **image url:** https://texakzqqenzpxawktbgx.supabase.co/storage/v1/object/public/studio-library/bloom/reporting-layer.png
 
 ---

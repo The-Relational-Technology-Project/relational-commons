@@ -9,7 +9,7 @@ author: "News Futures Studio working group"
 attribution_source: "NF Studio foundation"
 web: "https://relationalbuilder.org/commons/e/format-public-dashboard"
 created: "2026-07-10"
-updated: "2026-07-10"
+updated: "2026-10-22"
 rtp_id: "cedbca60-5e75-4979-a308-0df90945f4d7"
 ---
 # Public Accountability Dashboard (civic media format)

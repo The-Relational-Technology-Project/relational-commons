@@ -11,7 +11,7 @@ attribution_source: "prosocialdesign.org"
 source_url: "https://www.prosocialdesign.org/library/downranking-toxic-political-content"
 web: "https://relationalbuilder.org/commons/e/psd-downranking-toxic-political-content"
 created: "2026-10-12"
-updated: "2026-10-12"
+updated: "2026-10-22"
 rtp_id: "c42c5299-ffdc-46e6-8733-6f6d5d3e6fd9"
 ---
 # Downranking Toxic Content

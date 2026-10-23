@@ -11,7 +11,7 @@ source_url: "https://livingjusticepress.org/"
 neighboring_recipes: "https://github.com/The-Relational-Technology-Project/neighboring-recipes/blob/main/recipes/08-healing-and-conflict/peacemaking-circles.md"
 web: "https://relationalbuilder.org/commons/e/peacemaking-circles"
 created: "2026-05-22"
-updated: "2026-05-22"
+updated: "2026-10-22"
 rtp_id: "5f5bd640-9f82-44c3-b057-6320ef7f8538"
 ---
 # Peacemaking Circles
@@ -111,6 +111,7 @@ Peacemaking circles have been used by Indigenous communities for generations. Co
 - Accountability and repair: what the person who caused harm commits to.
 - Community support: how the community will support both victim and person who caused harm.
 - Closing., **Plan the follow-through.** A circle alone does not produce repair. The plan that emerges from it does. Follow-up circles, check-ins, and continued support are part of the practice.
+- **location:** {"lat":44.9497487,"lng":-93.0931028,"basis":"research","label":"Saint Paul, Minnesota","precision":"origin"}
 - **file path:** recipes/08-healing-and-conflict/peacemaking-circles.md
 - **variations:** **School circle.** Used in schools for discipline, conflict resolution, and community building. Increasingly common as schools move away from suspension-based discipline.
 

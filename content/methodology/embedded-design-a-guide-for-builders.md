@@ -10,7 +10,7 @@ source_repo: "rt-mcp-server"
 source_url: "https://github.com/The-Relational-Technology-Project/rt-mcp-server"
 web: "https://relationalbuilder.org/commons/e/embedded-design-a-guide-for-builders"
 created: "2026-05-22"
-updated: "2026-05-22"
+updated: "2026-10-22"
 rtp_id: "96e9944d-995b-4e8f-99eb-30df44186a86"
 ---
 # Embedded Design: A Guide for Builders

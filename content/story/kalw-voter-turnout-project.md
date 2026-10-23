@@ -11,7 +11,7 @@ attribution_source: "Civic Media Cookbook (2026), Appendix 2: Field Guide"
 source_url: "https://www.newsfutures.org/library/civic-media-cookbook"
 web: "https://relationalbuilder.org/commons/e/kalw-voter-turnout-project"
 created: "2026-07-10"
-updated: "2026-07-13"
+updated: "2026-10-22"
 rtp_id: "84b40d41-1894-403a-a46a-78f3dd8c923b"
 ---
 # KALW Voter Turnout Project
@@ -27,6 +27,7 @@ Identified five lowest-turnout neighborhoods and distributed door hangers descri
 ## Details
 
 - **format:** printed door hangers
+- **location:** {"lat":37.7879363,"lng":-122.4075201,"basis":"research","label":"San Francisco, California","precision":"city"}
 - **patterns:** mobilizing_collective_response
 - **source tag:** CB
 - **source note:** Civic Media Cookbook Appendix 2 Field Guide — as submitted by practitioners (2025).

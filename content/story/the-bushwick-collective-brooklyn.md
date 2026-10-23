@@ -9,7 +9,7 @@ topics: ["builder-story"]
 author: "Referenced in Jesse Evers' guide / multiple sources"
 web: "https://relationalbuilder.org/commons/e/the-bushwick-collective-brooklyn"
 created: "2026-06-10"
-updated: "2026-10-21"
+updated: "2026-10-22"
 rtp_id: "fdfde6e2-a1d2-4c82-9c8c-096f910b83fd"
 ---
 # The Bushwick Collective, Brooklyn
@@ -22,6 +22,10 @@ rtp_id: "fdfde6e2-a1d2-4c82-9c8c-096f910b83fd"
 
 - Mentions: [Block Party](../reference/block-party.md)
 - Mentions: [Placemaking](../recipe/placemaking.md)
+
+## Details
+
+- **location:** {"lat":40.6942696,"lng":-73.9187482,"basis":"text","label":"Brooklyn, New York","precision":"neighborhood"}
 
 ---
 

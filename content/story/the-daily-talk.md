@@ -11,7 +11,7 @@ attribution_source: "Civic Media Cookbook (2026), Appendix 2: Field Guide"
 source_url: "https://www.newsfutures.org/library/civic-media-cookbook"
 web: "https://relationalbuilder.org/commons/e/the-daily-talk"
 created: "2026-07-10"
-updated: "2026-07-13"
+updated: "2026-10-22"
 rtp_id: "b1ac3ad0-18a4-4688-87bc-bf537f295786"
 ---
 # The Daily Talk
@@ -28,6 +28,7 @@ A chalkboard daily newspaper delivering the latest news to locals without TV or 
 ## Details
 
 - **format:** public chalkboard newspaper
+- **location:** {"lat":6.3203562,"lng":-10.8060492,"basis":"attribution","label":"Monrovia, Montserrado County, Liberia","precision":"city"}
 - **patterns:** reimagining_public_resources
 - **source tag:** CB
 - **source note:** Civic Media Cookbook Appendix 2 Field Guide — as submitted by practitioners (2025).

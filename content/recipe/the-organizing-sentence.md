@@ -9,7 +9,7 @@ author: "Marshall Ganz organizing tradition"
 attribution_source: "Organizing: People, Power, Change (2014)"
 web: "https://relationalbuilder.org/commons/e/the-organizing-sentence"
 created: "2026-08-13"
-updated: "2026-08-13"
+updated: "2026-10-22"
 rtp_id: "66ffc85b-17f0-42b2-aab7-ae5cf44aa91d"
 ---
 # The Organizing Sentence
@@ -30,6 +30,7 @@ Write it at the team launch, put it at the top of every agenda, and rewrite it w
 
 ## Details
 
+- **location:** {"lat":42.3656347,"lng":-71.1040018,"basis":"research","label":"Cambridge, Massachusetts","precision":"origin"}
 - **ingredients:** a team, a strategic goal, ten minutes at the end of a planning meeting
 - **source note:** From 'Organizing: People, Power, Change' (2014), Acting: Tactics & Timelines.
 - **how it works:** Fill the frame: we are organizing WHO to WHAT through HOW by WHEN., Make WHO specific people, WHAT a measurable outcome, HOW real tactics, WHEN a date., Each team writes its own; check that local sentences add up to the shared one., Put it at the top of every agenda; rewrite when strategy changes.

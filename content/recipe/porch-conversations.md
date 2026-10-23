@@ -11,7 +11,7 @@ source_url: "https://www.frontporchrepublic.com/"
 neighboring_recipes: "https://github.com/The-Relational-Technology-Project/neighboring-recipes/blob/main/recipes/01-knowing-your-neighbors/porch-conversations.md"
 web: "https://relationalbuilder.org/commons/e/porch-conversations"
 created: "2026-05-22"
-updated: "2026-05-22"
+updated: "2026-10-22"
 rtp_id: "abe241f9-a0c3-4b03-a93e-9e7cb2ca9c2c"
 ---
 # Porch Conversations

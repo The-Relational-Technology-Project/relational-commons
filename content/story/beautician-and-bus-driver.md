@@ -10,7 +10,7 @@ attribution_source: "King Institute (Stanford); SNCC Digital Gateway; Southern C
 source_url: "https://kinginstitute.stanford.edu/highlander-folk-school"
 web: "https://relationalbuilder.org/commons/e/beautician-and-bus-driver"
 created: "2026-08-13"
-updated: "2026-08-13"
+updated: "2026-10-22"
 rtp_id: "4d0b2112-7ce6-44b7-9c2a-9d8e6703f573"
 ---
 # The Beautician and the Bus Driver
@@ -29,6 +29,7 @@ What it teaches the shelf: leadership development is not a credential pipeline. 
 
 - **era:** 1932–1961
 - **place:** Monteagle, Tennessee & Johns Island, South Carolina
+- **location:** {"lat":35.2403119,"lng":-85.8349902,"also":[{"lat":32.7024009,"lng":-80.0481488,"label":"Johns Island, Charleston County, South Carolina"}],"basis":"attribution","label":"Monteagle, Tennessee","precision":"neighborhood"}
 - **illustrates:** coaching-five-steps, beautician-teachers-pattern
 - **source note:** Highlander history, Parks's 1955 workshop, and the citizenship schools per the King Institute at Stanford and the SNCC Digital Gateway; Highlander continues today as the Highlander Research and Education Center in New Market, TN.
 - **practice kind:** story

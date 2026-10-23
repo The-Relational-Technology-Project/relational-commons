@@ -12,7 +12,7 @@ attribution_source: "https://falls-church-forward-microgrant.lovable.app/home"
 source_url: "https://falls-church-forward-microgrant.lovable.app/home"
 web: "https://relationalbuilder.org/commons/e/falls-church-neighbor-gathering-grants"
 created: "2026-10-02"
-updated: "2026-10-02"
+updated: "2026-10-22"
 rtp_id: "8f51c28e-737c-4769-bcef-222aa21b218e"
 ---
 # Neighbor Gathering Grants (Falls Church, VA)
@@ -40,6 +40,7 @@ https://falls-church-forward-microgrant.lovable.app/home — listed on With Neig
 - **maker:** Falls Church Forward
 - **place:** Falls Church, VA
 - **amounts:** $50–$150 per gathering
+- **location:** {"lat":38.882334,"lng":-77.1710914,"basis":"attribution","label":"Falls Church, Virginia","precision":"neighborhood"}
 - **hosted url:** https://falls-church-forward-microgrant.lovable.app/home
 - **grant shape:** range
 - **local object:** welcome bags and backyard gatherings on the block

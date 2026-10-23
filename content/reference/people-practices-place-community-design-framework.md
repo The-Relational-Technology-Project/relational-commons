@@ -10,7 +10,7 @@ attribution_source: "neighboring-commons-skill-kb"
 source_url: "https://medium.com/microsolidarity/people-practices-place-55fb33761c35"
 web: "https://relationalbuilder.org/commons/e/people-practices-place-community-design-framework"
 created: "2026-05-22"
-updated: "2026-05-22"
+updated: "2026-10-22"
 rtp_id: "6b7f775e-8cbc-4dab-b57a-57fcca3963e2"
 ---
 # People, Practices & Place: Community Design Framework

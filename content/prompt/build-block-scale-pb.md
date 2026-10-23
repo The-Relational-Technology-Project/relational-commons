@@ -9,7 +9,7 @@ author: "Relational Technology Project, after the participatory budgeting moveme
 attribution_source: "Local Civic Tech shelf starter prompt"
 web: "https://relationalbuilder.org/commons/e/build-block-scale-pb"
 created: "2026-08-13"
-updated: "2026-08-13"
+updated: "2026-10-22"
 rtp_id: "2b7988c6-2d2b-466c-bd4b-3144dc7283d3"
 ---
 # Build: Participatory Budgeting for a Very Small Budget

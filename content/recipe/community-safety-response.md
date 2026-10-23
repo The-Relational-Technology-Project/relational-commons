@@ -11,7 +11,7 @@ source_url: "https://www.vera.org/behavioral-health-crisis-alternatives/cahoots"
 neighboring_recipes: "https://github.com/The-Relational-Technology-Project/neighboring-recipes/blob/main/recipes/07-resilience/community-safety.md"
 web: "https://relationalbuilder.org/commons/e/community-safety-response"
 created: "2026-05-22"
-updated: "2026-05-22"
+updated: "2026-10-22"
 rtp_id: "74f69faa-ca3d-40e4-8708-6b4bc0fc69e4"
 ---
 # Community Safety Response
@@ -96,6 +96,7 @@ This is one of the recipes in this book that requires formal infrastructure and 
 
 - **steps:** **Map the existing landscape.** What does your city do today? Are 911 calls routed to police automatically? Is there any crisis line that isn't 911?, **Find allies.** Public defenders, social workers, mental health advocates, faith communities, racial justice organizations. They are often already organizing on this., **Build the case.** Most cities respond to data and case studies. CAHOOTS, STAR, and others have published detailed outcomes. Use them., **Pitch a pilot.** A defined neighborhood, a defined time window, a defined set of call types. Smaller pilots build the evidence and the constituency for citywide programs., **Demand community involvement.** Implementation matters. Programs designed without community leadership often default to lighter versions of the same approach. Push for civilian governance and community advisory boards from the start.
 ### If you're standing up a program, **Partner with city and county.** The strongest programs have city or county financial support and 911 dispatch integration. Free-standing community programs without dispatch integration can do useful work but operate at smaller scale., **Recruit and train staff.** Look for paramedics, EMTs, mental health practitioners, peer support specialists, social workers. Training includes mental health first aid, de-escalation, harm reduction, trauma-informed care, and cultural competency., **Decide on dispatch.** Programs vary: some are dispatched by 911, some by their own line, some by hospitals and community calls., **Equip the teams.** Vehicles, communication, basic medical kits. No weapons., **Build the referral network.** A response team can de-escalate a moment but cannot solve underlying issues. Strong programs have warm handoffs to mental health services, substance use treatment, housing programs, food access, and other social services., **Measure and report.** Outcomes that matter: response times, de-escalation rates, transport to care vs. arrest, follow-up engagement. Transparency builds the constituency.
+- **location:** {"lat":44.0505054,"lng":-123.0950506,"basis":"text","label":"Eugene, Oregon","precision":"origin"}
 - **file path:** recipes/07-resilience/community-safety.md
 - **variations:** **Co-responder model.** A clinician rides with a police officer. Slower to deploy but lower political resistance in some cities.
 

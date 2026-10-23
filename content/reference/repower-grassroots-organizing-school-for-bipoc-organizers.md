@@ -10,7 +10,7 @@ attribution_source: "neighboring-commons-skill-kb"
 source_url: "https://repower.org/trainings-events/grassroots-organizing-school/"
 web: "https://relationalbuilder.org/commons/e/repower-grassroots-organizing-school-for-bipoc-organizers"
 created: "2026-05-22"
-updated: "2026-05-22"
+updated: "2026-10-22"
 rtp_id: "f7da6a26-eb18-42d0-bfa8-bd5de27305a5"
 ---
 # re:power Grassroots Organizing School for BIPOC Organizers

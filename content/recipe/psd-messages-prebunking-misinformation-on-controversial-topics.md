@@ -11,7 +11,7 @@ attribution_source: "prosocialdesign.org"
 source_url: "https://www.prosocialdesign.org/library/messages-prebunking-misinformation-on-controversial-topics"
 web: "https://relationalbuilder.org/commons/e/psd-messages-prebunking-misinformation-on-controversial-topics"
 created: "2026-10-12"
-updated: "2026-10-12"
+updated: "2026-10-22"
 rtp_id: "16ba18c3-aa2c-4cfc-afc6-4efb030d2bd2"
 ---
 # Prebunking Misinformation

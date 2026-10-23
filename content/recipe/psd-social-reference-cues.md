@@ -11,7 +11,7 @@ attribution_source: "prosocialdesign.org"
 source_url: "https://www.prosocialdesign.org/library/social-reference-cues"
 web: "https://relationalbuilder.org/commons/e/psd-social-reference-cues"
 created: "2026-10-12"
-updated: "2026-10-12"
+updated: "2026-10-22"
 rtp_id: "ecd94590-1e2b-49a9-b797-4430ab312e5f"
 ---
 # Social Reference Cues

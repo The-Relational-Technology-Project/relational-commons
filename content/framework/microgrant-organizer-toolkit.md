@@ -10,7 +10,7 @@ author: "With Neighbors"
 source_url: "https://withneighbors.org/toolkit"
 web: "https://relationalbuilder.org/commons/e/microgrant-organizer-toolkit"
 created: "2026-08-26"
-updated: "2026-10-02"
+updated: "2026-10-22"
 rtp_id: "2f4c432a-0204-4819-9855-3f7731f7547e"
 ---
 # Microgrant Organizer Toolkit
@@ -56,6 +56,7 @@ The toolkit distills programs run with With Neighbors partners across the countr
 ## Details
 
 - **maker:** With Neighbors
+- **location:** {"lat":37.7879363,"lng":-122.4075201,"basis":"research","label":"San Francisco, California","precision":"origin"}
 - **timeline:** ~4 months from grant design to gathered stories
 - **core model:** permission / accountability / commitment
 - **hosted url:** https://withneighbors.org/toolkit

@@ -11,7 +11,7 @@ attribution_source: "Civic Media Cookbook (2026), Appendix 2: Field Guide"
 source_url: "https://www.newsfutures.org/library/civic-media-cookbook"
 web: "https://relationalbuilder.org/commons/e/my-oakland-agenda"
 created: "2026-07-10"
-updated: "2026-07-13"
+updated: "2026-10-22"
 rtp_id: "92301347-129c-46e8-b1c5-fc64fa239322"
 ---
 # My Oakland Agenda
@@ -29,6 +29,7 @@ Sidewalk and event pop-ups asked Oaklanders 'If you were an elected official, wh
 ## Details
 
 - **format:** pop-up installations
+- **location:** {"lat":37.8044557,"lng":-122.271356,"basis":"attribution","label":"Oakland, California","precision":"city"}
 - **patterns:** building_civic_muscle, mobilizing_collective_response
 - **source tag:** CB
 - **source note:** Civic Media Cookbook Appendix 2 Field Guide — as submitted by practitioners (2025).

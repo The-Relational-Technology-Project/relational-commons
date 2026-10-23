@@ -10,7 +10,7 @@ attribution_source: "Berrett-Koehler (2010)"
 source_url: "https://www.abundantcommunity.com/"
 web: "https://relationalbuilder.org/commons/e/abundant-community-book"
 created: "2026-08-13"
-updated: "2026-08-13"
+updated: "2026-10-22"
 rtp_id: "2b9bd5ea-6cc1-4014-af15-7bd6a0d861fd"
 ---
 # The Abundant Community (McKnight & Block)

@@ -10,7 +10,7 @@ attribution_source: "neighboring-commons-skill-kb"
 source_url: "https://www.mpu.us/"
 web: "https://relationalbuilder.org/commons/e/more-perfect-union-brickyard-service-based-bridge-building"
 created: "2026-05-22"
-updated: "2026-05-22"
+updated: "2026-10-22"
 rtp_id: "901733d2-1b72-4e0c-94bd-56e63ac5edc3"
 ---
 # More Perfect Union Brickyard: Service-Based Bridge Building

@@ -10,7 +10,7 @@ attribution_source: "neighboring-commons-skill-kb"
 source_url: "https://www.uri.org/uri-story/20230210-top-10-tips-designing-and-facilitating-interfaith-dialogue-your-community"
 web: "https://relationalbuilder.org/commons/e/uri-interfaith-dialogue-tips-designing-and-facilitating-dialogue"
 created: "2026-05-22"
-updated: "2026-05-22"
+updated: "2026-10-22"
 rtp_id: "c570c0c0-2c2d-457e-9abf-1ab3f27465a3"
 ---
 # URI Interfaith Dialogue Tips: Designing and Facilitating Dialogue

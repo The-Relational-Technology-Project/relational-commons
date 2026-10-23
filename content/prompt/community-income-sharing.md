@@ -10,7 +10,7 @@ attribution_source: "Relational Tech Studio library"
 parent: "../tool/community-income-sharing.md"
 web: "https://relationalbuilder.org/commons/e/community-income-sharing"
 created: "2026-06-11"
-updated: "2026-10-21"
+updated: "2026-10-22"
 rtp_id: "180eb412-4b86-4650-939d-1b4078deee8d"
 ---
 # Community Income Sharing
@@ -66,6 +66,10 @@ Example User Stories
 
 - Grew from [Community Income Sharing](../tool/community-income-sharing.md)
 - Mentions: [GitHub](../tool/github.md)
+
+## Details
+
+- **location:** {"lat":39.2908816,"lng":-76.610759,"basis":"attribution","label":"Baltimore, Maryland","precision":"city"}
 
 ---
 

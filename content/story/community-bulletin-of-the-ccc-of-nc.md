@@ -11,7 +11,7 @@ attribution_source: "Civic Media Cookbook (2026), Appendix 2: Field Guide"
 source_url: "https://www.newsfutures.org/library/civic-media-cookbook"
 web: "https://relationalbuilder.org/commons/e/community-bulletin-of-the-ccc-of-nc"
 created: "2026-07-10"
-updated: "2026-07-13"
+updated: "2026-10-22"
 rtp_id: "5af28f89-85d1-4483-a17c-512e1969200b"
 ---
 # Community Bulletin of the CCC of NC
@@ -27,6 +27,7 @@ A Khmer-language bulletin providing vaccine information, produced by a cultural 
 ## Details
 
 - **format:** print bulletin (Khmer)
+- **location:** {"lat":36.0726355,"lng":-79.7919754,"basis":"attribution","label":"Greensboro, North Carolina","precision":"city"}
 - **patterns:** creating_shared_understanding, mobilizing_collective_response
 - **source tag:** CB
 - **source note:** Civic Media Cookbook Appendix 2 Field Guide — as submitted by practitioners (2025).

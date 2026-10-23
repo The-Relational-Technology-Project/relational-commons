@@ -10,7 +10,7 @@ attribution_source: "fieldpapers.org"
 source_url: "https://fieldpapers.org/about"
 web: "https://relationalbuilder.org/commons/e/field-papers"
 created: "2026-08-13"
-updated: "2026-08-13"
+updated: "2026-10-22"
 rtp_id: "a9ec0b87-6da7-4098-82f3-102127bbc6e6"
 ---
 # Field Papers + OpenStreetMap

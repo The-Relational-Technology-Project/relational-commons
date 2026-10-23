@@ -10,7 +10,7 @@ attribution_source: "neighboring-commons-skill-kb"
 source_url: "https://gamesforcities.com/about/"
 web: "https://relationalbuilder.org/commons/e/games-for-cities"
 created: "2026-05-22"
-updated: "2026-05-22"
+updated: "2026-10-22"
 rtp_id: "91ad8dac-633f-47dd-a2e8-dd9042bad3ae"
 ---
 # Games for Cities
@@ -28,6 +28,7 @@ Relates to broader civic games movements and participatory urban planning framew
 ## Details
 
 - **category:** Play & Games
+- **location:** {"lat":52.3730796,"lng":4.8924534,"basis":"research","label":"Amsterdam, North Holland, Netherlands","precision":"origin"}
 - **entry type:** Reference
 
 ---

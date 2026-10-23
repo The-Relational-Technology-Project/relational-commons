@@ -11,7 +11,7 @@ attribution_source: "Civic Media Cookbook (2026), Appendix 2: Field Guide"
 source_url: "https://www.newsfutures.org/library/civic-media-cookbook"
 web: "https://relationalbuilder.org/commons/e/desi-connect"
 created: "2026-07-10"
-updated: "2026-07-13"
+updated: "2026-10-22"
 rtp_id: "96476574-a27a-4b8a-8d36-e8e5730194b1"
 ---
 # Desi-Connect
@@ -28,6 +28,7 @@ A WhatsApp network for the Indian diaspora to share resources and event info and
 ## Details
 
 - **format:** WhatsApp network
+- **location:** {"lat":37.3361663,"lng":-121.890591,"basis":"research","label":"San Jose, California","precision":"origin"}
 - **patterns:** building_civic_muscle
 - **source tag:** CB
 - **source note:** Civic Media Cookbook Appendix 2 Field Guide — as submitted by practitioners (2025).

@@ -10,7 +10,7 @@ attribution_source: "neighboring-commons-skill-kb"
 source_url: "https://josephrmyers.com/the-search-to-belong"
 web: "https://relationalbuilder.org/commons/e/the-search-to-belong-rethinking-intimacy-community-and-connection"
 created: "2026-05-22"
-updated: "2026-05-22"
+updated: "2026-10-22"
 rtp_id: "0e52a711-c1d7-4fa4-b4d4-8cecb5722c18"
 ---
 # The Search to Belong: Rethinking Intimacy, Community, and Connection

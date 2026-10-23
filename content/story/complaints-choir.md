@@ -11,7 +11,7 @@ attribution_source: "Civic Media Cookbook (2026), Appendix 2: Field Guide"
 source_url: "https://www.newsfutures.org/library/civic-media-cookbook"
 web: "https://relationalbuilder.org/commons/e/complaints-choir"
 created: "2026-07-10"
-updated: "2026-07-13"
+updated: "2026-10-22"
 rtp_id: "819a5fdd-2078-405f-8073-4d8e9ed3cc7a"
 ---
 # Complaints Choir
@@ -27,6 +27,7 @@ A choir that sings democratically chosen community complaints, turning grievance
 ## Details
 
 - **format:** participatory performance
+- **location:** {"lat":60.1666204,"lng":24.9435408,"basis":"research","label":"Helsinki, Uusimaa, Finland","precision":"origin"}
 - **patterns:** creating_shared_understanding
 - **source tag:** CB
 - **source note:** Civic Media Cookbook Appendix 2 Field Guide — as submitted by practitioners (2025).

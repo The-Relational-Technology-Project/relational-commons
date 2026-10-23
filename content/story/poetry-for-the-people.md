@@ -11,7 +11,7 @@ attribution_source: "Civic Media Cookbook (2026), Appendix 2: Field Guide"
 source_url: "https://www.newsfutures.org/library/civic-media-cookbook"
 web: "https://relationalbuilder.org/commons/e/poetry-for-the-people"
 created: "2026-07-10"
-updated: "2026-07-13"
+updated: "2026-10-22"
 rtp_id: "131bba05-652a-47bb-9cb2-2b7c481cc120"
 ---
 # Poetry for the People
@@ -28,6 +28,7 @@ Empowers students to speak with clarity and urgency and builds supportive commun
 ## Details
 
 - **format:** course + readings + anthologies
+- **location:** {"lat":37.8707751,"lng":-122.2656754,"also":[{"lat":37.7842493,"lng":-122.4139933,"label":"Tenderloin, San Francisco, California"}],"basis":"attribution","label":"Downtown Berkeley, Berkeley, California","precision":"neighborhood"}
 - **patterns:** building_civic_muscle
 - **source tag:** CB
 - **source note:** Civic Media Cookbook Appendix 2 Field Guide — as submitted by practitioners (2025).

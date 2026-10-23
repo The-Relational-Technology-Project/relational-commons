@@ -11,7 +11,7 @@ neighborhood: "Kitsap Peninsula, WA, USA"
 source_url: "https://meshtastic.org/"
 web: "https://relationalbuilder.org/commons/e/meshtastic"
 created: "2026-10-04"
-updated: "2026-10-04"
+updated: "2026-10-22"
 rtp_id: "89330911-af78-4234-923e-c5c674ebb4c8"
 ---
 # Meshtastic

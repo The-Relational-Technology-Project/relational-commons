@@ -9,7 +9,7 @@ topics: ["builder-story"]
 author: "Casper ter Kuile, Community Ritualist"
 web: "https://relationalbuilder.org/commons/e/nuns-nones-and-sacred-hospitality"
 created: "2026-06-10"
-updated: "2026-10-21"
+updated: "2026-10-22"
 rtp_id: "89995fb1-66bf-4830-9650-5d773a4334ec"
 ---
 # Nuns, Nones, and Sacred Hospitality
@@ -31,6 +31,10 @@ rtp_id: "89995fb1-66bf-4830-9650-5d773a4334ec"
 <p>These ideas found a home in The Dinner Party, co-founded by Lennon Flowers, which gathers small groups of people around shared meals and shared losses. What started as a space for grief became a model for how intimate gatherings — organized around vulnerability rather than networking — can form deep bonds.</p>
 
 <p>Casper's work suggests that the most powerful relational technologies may be the oldest ones: a blessing, a shared meal, a seasonal gathering, a commitment to show up again. The innovation isn't in the form but in the willingness to practice these things in places and with people that institutions have stopped reaching. On a Brooklyn rooftop, between a nun and a none, a tradition found a new carrier — and a community found its rhythm.</p>
+
+## Details
+
+- **location:** {"lat":40.6526006,"lng":-73.9497211,"basis":"text","label":"Brooklyn, New York","precision":"city"}
 
 ---
 

@@ -10,7 +10,7 @@ attribution_source: "openfoodnetwork.org"
 source_url: "https://openfoodnetwork.org/"
 web: "https://relationalbuilder.org/commons/e/open-food-network"
 created: "2026-08-13"
-updated: "2026-08-13"
+updated: "2026-10-22"
 rtp_id: "34af4b57-d965-409e-ac75-412f1d58f98a"
 ---
 # Open Food Network
@@ -27,6 +27,7 @@ The governance is as instructive as the code: a foundation stewards the commons 
 
 - **maker:** Open Food Foundation (Melbourne-born, global federation)
 - **license:** AGPL-3.0
+- **location:** {"lat":-37.8142454,"lng":144.9631732,"basis":"attribution","label":"Melbourne, Victoria, Australia","precision":"origin"}
 - **repo url:** https://github.com/openfoodfoundation/openfoodnetwork
 - **remix idea:** Fifteen households, one storefront, one porch drop-off.
 - **practice kind:** tool

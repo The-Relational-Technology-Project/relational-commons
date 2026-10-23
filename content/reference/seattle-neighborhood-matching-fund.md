@@ -10,7 +10,7 @@ attribution_source: "neighboring-commons-skill-kb"
 source_url: "https://www.seattle.gov/neighborhoods/community-grants/neighborhood-matching-fund"
 web: "https://relationalbuilder.org/commons/e/seattle-neighborhood-matching-fund"
 created: "2026-05-22"
-updated: "2026-05-22"
+updated: "2026-10-22"
 rtp_id: "19240ba6-1ddf-4cf9-92e9-63e7efaae027"
 ---
 # Seattle Neighborhood Matching Fund
@@ -50,6 +50,7 @@ Seattle's program draws from participatory budgeting traditions and represents a
 ## Details
 
 - **category:** Civic Engagement
+- **location:** {"lat":47.6038321,"lng":-122.330062,"basis":"text","label":"Seattle, Washington","precision":"city"}
 - **entry type:** Practice
 - **key ingredients raw:** - *Time*: 3-6 months from application to completion
 - *People*: 5+ core organizers; 20+ community members involved in matching contribution

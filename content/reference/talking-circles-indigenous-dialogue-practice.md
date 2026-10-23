@@ -10,7 +10,7 @@ attribution_source: "neighboring-commons-skill-kb"
 source_url: "https://firstnationspedagogy.ca/circletalks.html"
 web: "https://relationalbuilder.org/commons/e/talking-circles-indigenous-dialogue-practice"
 created: "2026-05-22"
-updated: "2026-05-22"
+updated: "2026-10-22"
 rtp_id: "4c8c202a-b591-4e09-b372-be697560557a"
 ---
 # Talking Circles (Indigenous Dialogue Practice)

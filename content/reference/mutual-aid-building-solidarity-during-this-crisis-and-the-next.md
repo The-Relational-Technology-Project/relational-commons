@@ -10,7 +10,7 @@ attribution_source: "neighboring-commons-skill-kb"
 source_url: "https://www.deanspade.net/mutual-aid-building-solidarity-during-this-crisis-and-the-next/"
 web: "https://relationalbuilder.org/commons/e/mutual-aid-building-solidarity-during-this-crisis-and-the-next"
 created: "2026-05-22"
-updated: "2026-05-22"
+updated: "2026-10-22"
 rtp_id: "b46d3afb-65c8-4b20-9d02-b5170c3971b0"
 ---
 # Mutual Aid: Building Solidarity During This Crisis (and the Next)
@@ -32,6 +32,7 @@ Directly informs the Big Door Brigade Toolbox and microsolidarity frameworks; co
 ## Details
 
 - **category:** Frameworks & Models
+- **location:** {"lat":47.6038321,"lng":-122.330062,"basis":"research","label":"Seattle, Washington","precision":"origin"}
 - **entry type:** Reference
 
 ---

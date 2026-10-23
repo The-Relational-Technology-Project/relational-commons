@@ -11,7 +11,7 @@ attribution_source: "Civic Media Cookbook (2026), Appendix 2: Field Guide"
 source_url: "https://www.newsfutures.org/library/civic-media-cookbook"
 web: "https://relationalbuilder.org/commons/e/inclusive-local-ancestry-posters"
 created: "2026-07-10"
-updated: "2026-07-13"
+updated: "2026-10-22"
 rtp_id: "386d73d6-0c96-4bdd-bc6f-e3fffb98dfe3"
 ---
 # Inclusive Local Ancestry Posters
@@ -28,6 +28,7 @@ Families submitted a short story and photos of an ancestor and descendant; volun
 ## Details
 
 - **format:** vinyl banner exhibit
+- **location:** {"lat":40.6701033,"lng":-73.9859723,"basis":"attribution","label":"Park Slope, New York","precision":"neighborhood"}
 - **patterns:** preserving_community_knowledge
 - **source tag:** CB
 - **source note:** Civic Media Cookbook Appendix 2 Field Guide — as submitted by practitioners (2025).

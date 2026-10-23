@@ -10,7 +10,7 @@ attribution_source: "neighboring-commons-skill-kb"
 source_url: "https://www.littlefreepantry.org"
 web: "https://relationalbuilder.org/commons/e/little-free-pantry-community-fridge"
 created: "2026-05-22"
-updated: "2026-05-22"
+updated: "2026-10-22"
 rtp_id: "9a9563fb-63f0-4344-b6e7-40fbd344e782"
 ---
 # Little Free Pantry / Community Fridge
@@ -45,6 +45,7 @@ Builds on the Little Free Library movement and emerges from gift economy princip
 ## Details
 
 - **category:** Mutual Aid & Solidarity
+- **location:** {"lat":36.0625843,"lng":-94.1574328,"basis":"research","label":"Fayetteville, Arkansas","precision":"origin"}
 - **entry type:** Practice
 - **key ingredients raw:** - *Time*: 2-3 weeks setup, 1-2 hours weekly maintenance
 - *People*: 1-2 organizers, 5-10 community volunteers for stocking

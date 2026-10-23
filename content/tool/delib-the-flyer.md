@@ -10,7 +10,7 @@ attribution_source: "theflyer.org"
 source_url: "https://www.theflyer.org"
 web: "https://relationalbuilder.org/commons/e/delib-the-flyer"
 created: "2026-10-08"
-updated: "2026-10-08"
+updated: "2026-10-22"
 rtp_id: "227339d5-f2f1-4647-92e0-223f49a29334"
 ---
 # The Flyer
@@ -29,6 +29,7 @@ A hub for North Oakland neighbors, by Humphrey Obuobi (LETS Studio, Metagov). Th
 
 - **maker:** Humphrey Obuobi
 - **stages:** eliciting, learning, deliberating
+- **location:** {"lat":37.8406581,"lng":-122.2638015,"basis":"text","label":"North Oakland, Oakland, California","precision":"neighborhood"}
 - **image url:** https://texakzqqenzpxawktbgx.supabase.co/storage/v1/object/public/studio-library/tool-screenshots/delib-the-flyer-2026-08.jpg
 - **remix idea:** A neighborhood hub with a print-first front door and one live conversation behind a QR code.
 - **practice kind:** tool

@@ -11,7 +11,7 @@ source_url: "https://www.pps.org/"
 neighboring_recipes: "https://github.com/The-Relational-Technology-Project/neighboring-recipes/blob/main/recipes/06-placemaking/placemaking.md"
 web: "https://relationalbuilder.org/commons/e/placemaking"
 created: "2026-05-22"
-updated: "2026-05-22"
+updated: "2026-10-22"
 rtp_id: "b78ff956-4baa-40f0-87fa-16fd3d69597a"
 ---
 # Placemaking
@@ -122,6 +122,7 @@ The **Great Places** index that PPS has maintained for decades is a useful refer
 - A community garden bed.
 - Music or programming during certain hours.
 Each experiment is a learning opportunity. Document what works., **Manage ongoing activation.** A space that's been transformed needs continued care. Programming, events, maintenance, evolution. Build the community of stewards.
+- **location:** {"lat":40.7127281,"lng":-74.0060152,"basis":"research","label":"New York","precision":"origin"}
 - **file path:** recipes/06-placemaking/placemaking.md
 - **variations:** **Tactical urbanism.** A faster, sometimes guerrilla version of placemaking. Smaller-scale interventions, sometimes done without permission, that demonstrate what's possible. [Tactical Urbanists' Guide](http://tacticalurbanismguide.com/) is a strong resource.
 

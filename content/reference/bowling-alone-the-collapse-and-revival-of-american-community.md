@@ -10,7 +10,7 @@ attribution_source: "neighboring-commons-skill-kb"
 source_url: "http://bowlingalone.com/"
 web: "https://relationalbuilder.org/commons/e/bowling-alone-the-collapse-and-revival-of-american-community"
 created: "2026-05-22"
-updated: "2026-05-22"
+updated: "2026-10-22"
 rtp_id: "3f6a0eeb-3b9e-4fb8-86fb-cd326d73d618"
 ---
 # Bowling Alone: The Collapse and Revival of American Community
@@ -32,6 +32,7 @@ Bowling Alone provides the empirical foundation for contemporary civic renewal e
 ## Details
 
 - **category:** Research & Frameworks
+- **location:** {"lat":42.3656347,"lng":-71.1040018,"basis":"research","label":"Cambridge, Massachusetts","precision":"origin"}
 - **entry type:** Reference
 
 ---

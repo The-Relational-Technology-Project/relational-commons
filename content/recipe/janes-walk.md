@@ -11,7 +11,7 @@ source_url: "https://janeswalk.org/"
 neighboring_recipes: "https://github.com/The-Relational-Technology-Project/neighboring-recipes/blob/main/recipes/01-knowing-your-neighbors/janes-walk.md"
 web: "https://relationalbuilder.org/commons/e/janes-walk"
 created: "2026-05-22"
-updated: "2026-05-22"
+updated: "2026-10-22"
 rtp_id: "0298242c-a967-4a92-bd2c-f95088cb398c"
 ---
 # Jane's Walk
@@ -87,6 +87,7 @@ Walks have been organized by neighborhood residents, community organizations, li
 ## Details
 
 - **steps:** **Pick your route.** Two to three miles is plenty for two hours. Fewer if you have a lot to show. Pick somewhere with stories. Avoid heavy traffic and steep grades unless you're prepared to handle accessibility., **Pick your stops.** Five to ten places where you'll pause and tell a story. Each story is two to five minutes. Examples: where the old grocery store used to be, the corner where someone organized a protest in 1972, the tree planted when a kid was born, the contested intersection., **Walk the route yourself first.** Time it. Note hazards. Note seating for breaks., **Invite people.** A simple flyer, a [Front Porch Forum](../reference/front-porch-forum.md) post, a few words at a neighborhood meeting. Tell people it's free, no signup, all ages, all paces. List start time, start location, expected length., **Start on time.** Welcome people. Set expectations: walking pace, ask questions whenever, stick together at intersections. Two minutes of orientation is enough., **At each stop, tell the story.** Be specific. Name people, dates, what happened. Invite anyone who has their own story about that place to add it. Some of the best Jane's Walk moments come from a neighbor in the group adding a detail the leader didn't know., **End at a place people can linger.** A cafe, a park bench, an ice cream shop. Walks that end at "thanks, bye" lose the relationships they could have made., **Tell people about the next one.** If you only run one, that's fine. If you might run another, mention it.
+- **location:** {"lat":43.6534817,"lng":-79.3839347,"basis":"research","label":"Toronto, Ontario, Canada","precision":"origin"}
 - **file path:** recipes/01-knowing-your-neighbors/janes-walk.md
 - **variations:** **Themed walk.** History walk. Trees and gardens walk. Public art walk. Civil rights walk. Hidden architecture walk. Disability access walk. Food walk.
 

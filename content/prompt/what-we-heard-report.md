@@ -10,7 +10,7 @@ attribution_source: "relationaltechproject.org"
 source_url: "https://ai.objectives.institute/talk-to-the-city"
 web: "https://relationalbuilder.org/commons/e/what-we-heard-report"
 created: "2026-10-08"
-updated: "2026-10-08"
+updated: "2026-10-22"
 rtp_id: "ca3a9dc1-3e21-4cc8-81b4-0945ce40d26a"
 ---
 # A "what we heard" report page

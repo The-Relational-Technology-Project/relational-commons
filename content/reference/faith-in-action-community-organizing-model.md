@@ -10,7 +10,7 @@ attribution_source: "neighboring-commons-skill-kb"
 source_url: "https://faithinaction.org/about-us/the-faith-in-action-community-organizing-model/"
 web: "https://relationalbuilder.org/commons/e/faith-in-action-community-organizing-model"
 created: "2026-05-22"
-updated: "2026-05-22"
+updated: "2026-10-22"
 rtp_id: "68a4605a-4aa3-44e0-a1ce-99df7690d582"
 ---
 # Faith in Action Community Organizing Model
@@ -32,6 +32,7 @@ Evolved from IAF's relational organizing model. Sister to other faith-based netw
 ## Details
 
 - **category:** Organizing Training
+- **location:** {"lat":37.8044557,"lng":-122.271356,"basis":"research","label":"Oakland, California","precision":"origin"}
 - **entry type:** Reference
 
 ---

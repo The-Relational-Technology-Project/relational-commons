@@ -11,7 +11,7 @@ attribution_source: "prosocialdesign.org"
 source_url: "https://www.prosocialdesign.org/library/let-mods-suggest-edits-to-users"
 web: "https://relationalbuilder.org/commons/e/psd-let-mods-suggest-edits-to-users"
 created: "2026-10-12"
-updated: "2026-10-12"
+updated: "2026-10-22"
 rtp_id: "f077b902-ebea-4726-8476-2b1c9746887b"
 ---
 # Let Mods Suggest Edits to Users

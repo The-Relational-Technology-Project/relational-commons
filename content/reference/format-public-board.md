@@ -9,7 +9,7 @@ author: "News Futures Studio working group"
 attribution_source: "NF Studio foundation"
 web: "https://relationalbuilder.org/commons/e/format-public-board"
 created: "2026-07-10"
-updated: "2026-07-10"
+updated: "2026-10-22"
 rtp_id: "0153c96f-4a21-442f-8d84-66208b938294"
 ---
 # Public Board / Chalkboard (civic media format)

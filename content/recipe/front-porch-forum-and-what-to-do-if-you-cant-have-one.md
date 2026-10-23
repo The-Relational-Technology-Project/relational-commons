@@ -10,7 +10,7 @@ source_repo: "neighboring-recipes"
 source_url: "https://frontporchforum.com/"
 web: "https://relationalbuilder.org/commons/e/front-porch-forum-and-what-to-do-if-you-cant-have-one"
 created: "2026-05-22"
-updated: "2026-05-22"
+updated: "2026-10-22"
 rtp_id: "474ce14c-7e83-4b82-93f6-ef34516f370b"
 ---
 # Front Porch Forum (and what to do if you can't have one)
@@ -111,6 +111,7 @@ Facebook Groups work, technically. They are also harvesting your neighbors' atte
 - **A neighborhood-only Discourse or Discord.** More features. More moderation work.
 - **Nextdoor.** Use only if it's already where your neighbors are. The product is built around engagement, not connection. You can get value from it if you're disciplined, but the platform won't help you.
 - **A simple website.** Hand-built using Lovable, Bubble, or similar. Match the Front Porch Forum format: daily digest, real names, simple posting. This is the most open-source-friendly path and is in spirit with this book., **Define the rules.** Three to five rules, written plainly. Examples from FPF: real names, real addresses, posts must be relevant to neighbors, no commercial spam, respectful tone., **Recruit your first 20 neighbors.** Send them a personal invitation. Tell them what the space is and isn't. Be explicit that it's a small space, not a public forum., **Send the first digest.** Even if it has only your own welcome post. The act of sending establishes the rhythm., **Moderate.** Be a presence. Welcome newcomers. Gently redirect off-topic threads. Remove what genuinely violates the rules. Most moderation work is invisible because you've set good norms early., **Recruit a second moderator within 3 months.** A single moderator is a fragile single point of failure. Two or three rotates the load.
+- **location:** {"lat":44.4761601,"lng":-73.212906,"basis":"research","label":"Burlington, Vermont","precision":"origin"}
 - **file path:** recipes/01-knowing-your-neighbors/front-porch-forum.md
 - **variations:** **Group text version.** For very small blocks (10 to 30 households). A shared group text works for active emergencies, lost dogs, package thieves. Lower-friction. Less reflective. Doesn't replace the digest format for everyday neighboring.
 

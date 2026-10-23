@@ -10,7 +10,7 @@ attribution_source: "neighboring-commons-skill-kb"
 source_url: "https://www.gu.org/resources/shared-site-newsletter-volume-1-issue-2/"
 web: "https://relationalbuilder.org/commons/e/generations-united-intergenerational-shared-sites"
 created: "2026-05-22"
-updated: "2026-05-22"
+updated: "2026-10-22"
 rtp_id: "61d4840f-7525-4b69-a591-c6d883116143"
 ---
 # Generations United: Intergenerational Shared Sites
@@ -28,6 +28,7 @@ Foundational framework for AARP Experience Corps and Encore.org initiatives. Inf
 ## Details
 
 - **category:** Intergenerational
+- **location:** {"lat":38.8950982,"lng":-77.0363849,"basis":"research","label":"Washington, District of Columbia","precision":"origin"}
 - **entry type:** Reference
 
 ---

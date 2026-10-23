@@ -11,7 +11,7 @@ attribution_source: "prosocialdesign.org"
 source_url: "https://www.prosocialdesign.org/library/batching-notifications"
 web: "https://relationalbuilder.org/commons/e/psd-batching-notifications"
 created: "2026-10-12"
-updated: "2026-10-12"
+updated: "2026-10-22"
 rtp_id: "a0fe9989-421c-42e2-87de-60d218b30a2b"
 ---
 # Batching Notifications

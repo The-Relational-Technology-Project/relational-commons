@@ -11,7 +11,7 @@ attribution_source: "Civic Media Cookbook (2026), Appendix 2: Field Guide"
 source_url: "https://www.newsfutures.org/library/civic-media-cookbook"
 web: "https://relationalbuilder.org/commons/e/zinester-s-guide-to-nyc"
 created: "2026-07-10"
-updated: "2026-07-13"
+updated: "2026-10-22"
 rtp_id: "65e39445-2393-46eb-93cc-75bb791ded02"
 ---
 # Zinester's Guide to NYC
@@ -27,6 +27,7 @@ An on-the-cheap, opinionated insider guide to NYC with listings from 20+ local z
 ## Details
 
 - **format:** print zine guide
+- **location:** {"lat":40.7127281,"lng":-74.0060152,"basis":"attribution","label":"New York","precision":"city"}
 - **patterns:** reimagining_public_resources
 - **source tag:** CB
 - **source note:** Civic Media Cookbook Appendix 2 Field Guide — as submitted by practitioners (2025).

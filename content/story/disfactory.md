@@ -11,7 +11,7 @@ attribution_source: "CommonWealth Magazine; github.com/Disfactory"
 source_url: "https://english.cw.com.tw/article/article.action?id=2982"
 web: "https://relationalbuilder.org/commons/e/disfactory"
 created: "2026-08-13"
-updated: "2026-08-13"
+updated: "2026-10-22"
 rtp_id: "6c60cede-5886-42fe-83ba-c25eeb49af43"
 ---
 # Disfactory: Anonymity as a Relational Design Choice
@@ -30,6 +30,7 @@ What it teaches: anonymity here isn't anti-social — it's *relational* design, 
 
 - **era:** 2019–present
 - **place:** Taiwan
+- **location:** {"lat":23.9739374,"lng":120.9820179,"basis":"attribution","label":"Taiwan","precision":"country"}
 - **repo url:** https://github.com/Disfactory/Disfactory
 - **illustrates:** design-for-care-not-enforcement
 - **source note:** Figures per CommonWealth Magazine's English coverage and the project's TICTeC presentation.

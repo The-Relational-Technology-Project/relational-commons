@@ -10,7 +10,7 @@ attribution_source: "NPR; KTVU; CalMatters"
 source_url: "https://www.npr.org/2020/01/22/798392207/moms-4-housing-celebrate-win-in-battle-over-vacant-house"
 web: "https://relationalbuilder.org/commons/e/moms-4-housing"
 created: "2026-08-13"
-updated: "2026-08-13"
+updated: "2026-10-22"
 rtp_id: "49b7d584-081f-4b21-a91c-efce1cb22924"
 ---
 # Moms 4 Housing: The Vacant House on Magnolia Street
@@ -27,6 +27,7 @@ What it teaches: direct action works when it *dramatizes* a power analysis rathe
 
 - **era:** 2019–2020
 - **place:** West Oakland, California
+- **location:** {"lat":37.8048919,"lng":-122.2951752,"basis":"attribution","label":"South Prescott, Oakland, California","precision":"neighborhood"}
 - **illustrates:** tracking-down-the-power, theory-of-change-sentence
 - **source note:** Occupation, sale to the Oakland CLT, and SB 1079 per NPR, CBS, KTVU, and CalMatters coverage.
 - **practice kind:** story

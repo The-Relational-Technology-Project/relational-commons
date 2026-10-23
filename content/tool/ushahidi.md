@@ -10,7 +10,7 @@ attribution_source: "ushahidi.com"
 source_url: "https://www.ushahidi.com/"
 web: "https://relationalbuilder.org/commons/e/ushahidi"
 created: "2026-08-13"
-updated: "2026-08-17"
+updated: "2026-10-22"
 rtp_id: "22fc3dbe-8b50-49a4-bebc-ea70381968de"
 ---
 # Ushahidi
@@ -31,6 +31,7 @@ The nonprofit behind it is headquartered in Nairobi and led by Angela Oduor Lung
 - **hosted:** cloud service with free grassroots tier; self-hostable
 - **license:** AGPL-3.0
 - **ctfg url:** https://civictech.guide/listing/ushahidi
+- **location:** {"lat":-1.302398,"lng":36.8288509,"basis":"attribution","label":"Nairobi County, Kenya","precision":"origin"}
 - **repo url:** https://github.com/ushahidi/platform
 - **image url:** https://texakzqqenzpxawktbgx.supabase.co/storage/v1/object/public/studio-library/tool-screenshots/ushahidi-2026-08.jpg
 - **remix idea:** A local Ushahidi map of a neighborhood's third places, with SMS submissions and a neighbor-steward.

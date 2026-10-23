@@ -11,7 +11,7 @@ source_url: "https://www.communitygarden.org/"
 neighboring_recipes: "https://github.com/The-Relational-Technology-Project/neighboring-recipes/blob/main/recipes/06-placemaking/community-garden.md"
 web: "https://relationalbuilder.org/commons/e/community-garden"
 created: "2026-05-22"
-updated: "2026-05-22"
+updated: "2026-10-22"
 rtp_id: "88813029-5100-4726-815c-c14c2f9b499c"
 ---
 # Community Garden

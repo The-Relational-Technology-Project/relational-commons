@@ -11,7 +11,7 @@ attribution_source: "prosocialdesign.org"
 source_url: "https://www.prosocialdesign.org/library/highlight-consensus-posts"
 web: "https://relationalbuilder.org/commons/e/psd-highlight-consensus-posts"
 created: "2026-10-12"
-updated: "2026-10-12"
+updated: "2026-10-22"
 rtp_id: "9f491889-9fc0-466b-abe6-500857aad0b2"
 ---
 # Highlight Consensus Posts

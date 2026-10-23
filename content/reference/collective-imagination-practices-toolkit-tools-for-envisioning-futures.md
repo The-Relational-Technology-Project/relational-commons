@@ -10,7 +10,7 @@ attribution_source: "neighboring-commons-skill-kb"
 source_url: "https://www.collectiveimagination.tools/"
 web: "https://relationalbuilder.org/commons/e/collective-imagination-practices-toolkit-tools-for-envisioning-futures"
 created: "2026-05-22"
-updated: "2026-05-22"
+updated: "2026-10-22"
 rtp_id: "5ed6be86-efd5-437d-9666-fcf00dd6f215"
 ---
 # Collective Imagination Practices Toolkit: Tools for Envisioning Futures

@@ -10,7 +10,7 @@ attribution_source: "Civic Media Cookbook (2026) — Jihii Jolly & Jennifer Bran
 source_url: "https://www.newsfutures.org/library/civic-media-cookbook"
 web: "https://relationalbuilder.org/commons/e/care-webs"
 created: "2026-07-10"
-updated: "2026-07-13"
+updated: "2026-10-22"
 rtp_id: "9ce95711-b39c-4b17-91eb-9b673d0c41bf"
 ---
 # Care Webs

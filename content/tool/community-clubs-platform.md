@@ -11,7 +11,7 @@ attribution_source: "Relational Tech Studio library"
 source_url: "https://buildirl.com/"
 web: "https://relationalbuilder.org/commons/e/community-clubs-platform"
 created: "2026-06-11"
-updated: "2026-10-21"
+updated: "2026-10-22"
 rtp_id: "21e37e6c-30fe-4b8e-92f0-dee3c95e8ac6"
 ---
 # Community Clubs Platform
@@ -40,6 +40,7 @@ Created in San Francisco (est. 2025) by the BuildIRL team; transferred to the Re
 
 ## Details
 
+- **location:** {"lat":37.7879363,"lng":-122.4075201,"basis":"attribution","label":"San Francisco, California","precision":"origin"}
 - **github url:** https://github.com/The-Relational-Technology-Project/buildirl
 - **is joinable:** false
 - **creator name:** BuildIRL team — Saumya Gupta, Colton Heward-Mills, Michael Li, Kiran Prasad, Erin Beachkofski

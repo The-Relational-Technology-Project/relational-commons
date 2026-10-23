@@ -10,7 +10,7 @@ attribution_source: "neighboring-commons-skill-kb"
 source_url: "https://connectivetissue.substack.com/p/the-5-cs-of-community"
 web: "https://relationalbuilder.org/commons/e/the-5-cs-of-community-framework"
 created: "2026-05-22"
-updated: "2026-05-22"
+updated: "2026-10-22"
 rtp_id: "028d31fe-1de1-46e1-965d-1c44891cb7e1"
 ---
 # The 5 C's of Community Framework

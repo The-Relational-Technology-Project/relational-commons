@@ -10,7 +10,7 @@ attribution_source: "neighboring-commons-skill-kb"
 source_url: "https://togetherproject.ca/matching/"
 web: "https://relationalbuilder.org/commons/e/welcome-group-program"
 created: "2026-05-22"
-updated: "2026-05-22"
+updated: "2026-10-22"
 rtp_id: "61de0b2f-78b3-4b1e-a397-0e9f6af195b3"
 ---
 # Welcome Group Program
@@ -32,6 +32,7 @@ This approach reflects best practices in volunteer-led settlement support and bu
 ## Details
 
 - **category:** Community Organizing
+- **location:** {"lat":43.6534817,"lng":-79.3839347,"basis":"research","label":"Toronto, Ontario, Canada","precision":"city"}
 - **entry type:** Reference
 
 ---

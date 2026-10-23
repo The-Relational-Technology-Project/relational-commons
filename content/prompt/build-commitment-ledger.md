@@ -9,7 +9,7 @@ author: "Relational Technology Project"
 attribution_source: "Community Organizing shelf starter prompt"
 web: "https://relationalbuilder.org/commons/e/build-commitment-ledger"
 created: "2026-08-13"
-updated: "2026-08-13"
+updated: "2026-10-22"
 rtp_id: "24b12dd0-cb72-453a-8f63-180244f566f1"
 ---
 # Build: The Commitment Ledger

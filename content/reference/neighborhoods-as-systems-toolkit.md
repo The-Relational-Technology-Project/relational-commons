@@ -10,7 +10,7 @@ attribution_source: "neighboring-commons-skill-kb"
 source_url: "https://neighborhoodtoolkit.org/"
 web: "https://relationalbuilder.org/commons/e/neighborhoods-as-systems-toolkit"
 created: "2026-05-22"
-updated: "2026-05-22"
+updated: "2026-10-22"
 rtp_id: "6610d6a4-d3c3-4f48-b5b1-b5462bab4242"
 ---
 # Neighborhoods as Systems Toolkit
@@ -34,6 +34,7 @@ The toolkit complements placemaking, participatory budgeting, and asset-based co
 ## Details
 
 - **category:** Civic Engagement
+- **location:** {"lat":39.1012809,"lng":-84.5127405,"basis":"text","label":"Cincinnati, Ohio","precision":"city"}
 - **entry type:** Reference
 
 ---

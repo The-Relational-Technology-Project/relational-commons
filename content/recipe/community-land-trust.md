@@ -11,7 +11,7 @@ source_url: "https://groundedsolutions.org/"
 neighboring_recipes: "https://github.com/The-Relational-Technology-Project/neighboring-recipes/blob/main/recipes/12-shared-land-and-home/community-land-trusts.md"
 web: "https://relationalbuilder.org/commons/e/community-land-trust"
 created: "2026-05-22"
-updated: "2026-05-22"
+updated: "2026-10-22"
 rtp_id: "3ee9e48c-ad76-4a21-a572-ddc430fe223a"
 ---
 # Community Land Trust
@@ -106,6 +106,7 @@ The model has demonstrated long-term affordability outcomes that conventional af
 
 - **steps:** **Connect with the [Center for Community Land Trust Innovation](https://cltweb.org/) and [Grounded Solutions Network](https://groundedsolutions.org/).** These are the field's national infrastructure organizations. They provide model documents, training, and connection to other CLTs., **Build the case in your community.** What's the housing problem? Who's being displaced? What land is potentially available (church-owned land, public land, vacant private land)?, **Organize the constituency.** A CLT isn't built by a steering committee alone. It is built by a community organized enough to demand it. Tenant unions, faith communities, racial justice organizations, neighborhood associations are common partners., **Find anchor support.** Most successful CLT launches have anchor funding from local government, a faith community, a foundation, or a philanthropic individual. Multiple anchor partners are stronger than one., **Form the founding board.** CLT governance is typically "tripartite": one-third residents (or future residents), one-third broader community members, one-third public officials or funders. The structure ensures community accountability., **Acquire the first properties.** Often a few homes or units to start. Some CLTs start with a single development; others start with scattered-site acquisitions., **Set the affordability formula.** How will resale prices be calculated? This is where the core CLT logic lives. Common approaches: appreciation tied to area income growth rather than market growth, with formulas that allow homeowners modest equity while preserving long-term affordability., **Operate, grow, learn.** A CLT becomes more impactful over years. The first few homes are proof of concept. A mature CLT can hold hundreds or thousands of units across a community.
 ### If you're considering becoming a CLT homeowner, **Find your local CLT.** [Grounded Solutions](https://groundedsolutions.org/) maintains a directory. Many cities have one or more CLTs., **Understand the model.** You will buy the home but lease the land (typically a 99-year ground lease, renewable). Your equity will be capped by the affordability formula. Your monthly costs will be significantly lower than market-rate ownership., **Apply.** Most CLTs have income qualification (often around 80% of area median income, varies by program). Application processes vary., **Participate.** CLT homeowners typically have a voice in CLT governance. The model is not just a financial product; it is a community.
+- **location:** {"lat":31.5782062,"lng":-84.1556809,"basis":"text","label":"Albany, Georgia","precision":"origin"}
 - **file path:** recipes/12-shared-land-and-home/community-land-trusts.md
 - **variations:** **Permanent affordable rental CLT.** Some CLTs primarily develop and hold rental housing rather than homeownership.
 

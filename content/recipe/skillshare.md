@@ -11,7 +11,7 @@ source_url: "https://www.shareable.net/how-to/how-to-organize-a-successful-skill
 neighboring_recipes: "https://github.com/The-Relational-Technology-Project/neighboring-recipes/blob/main/recipes/03-mutual-aid/skillshare.md"
 web: "https://relationalbuilder.org/commons/e/skillshare"
 created: "2026-05-22"
-updated: "2026-05-22"
+updated: "2026-10-22"
 rtp_id: "1278f767-d23e-431d-a6ca-04d026001ab7"
 ---
 # Skillshare
@@ -87,6 +87,7 @@ Similar events have launched in dozens of communities since. The consistent find
 ## Details
 
 - **steps:** **Start 5 to 6 months out.** Lock down the venue first. Schools, libraries, and community centers often donate space for a community event., **Form the organizing team.** 3 to 5 people. Split the work: instructor outreach, logistics and venue, communications and promotion, day-of operations., **Begin instructor recruitment 4 months out.** Reach out personally to local artists, crafters, hobbyists, small business owners, retired professionals, makers. A simple one-page submission form. Make it easy to say yes., **Curate the class list.** Aim for 30 to 50 classes across a range. Practical (bike repair, mending, simple plumbing). Creative (drawing, songwriting, improv). Civic (organizing, public meeting navigation). Wellness (basic yoga, breathwork). Food (sourdough, pickling, knife skills)., **Confirm instructors 8 to 10 weeks out.** Assign rooms based on equipment needs. Send each instructor a one-page logistics sheet (what time, what room, what supplies provided, what to bring)., **Build partnerships.** A local library, school, neighborhood association, or business will often help promote in exchange for being a co-sponsor., **Open registration.** Many skillshares are first-come-first-served on the day. Some pre-register popular classes. Hybrid models work. Free is essential., **Print the program.** A simple booklet or fold-out map. Lists every class, location, time, instructor, materials needed., **Day-of: clear signage, greeters, breaks.** Three or four sessions through the day with 30-minute breaks between. Refreshments and gathering space in between. Volunteers at every junction., **Close with a debrief and a thank-you.** Group photo. Names of all the instructors read aloud. Decide whether to do it again next year. Most skillshares that happen once happen at least three times.
+- **location:** {"lat":42.3875968,"lng":-71.0994968,"basis":"text","label":"Somerville, Massachusetts","precision":"origin"}
 - **file path:** recipes/03-mutual-aid/skillshare.md
 - **variations:** **Mini-skillshare.** Six to eight classes in one afternoon at a community center. Same energy, much lower planning bar.
 

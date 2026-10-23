@@ -9,7 +9,7 @@ topics: ["relational-tech"]
 attribution_source: "Relational Tech Studio library"
 web: "https://relationalbuilder.org/commons/e/community-apps-dashboard"
 created: "2026-06-10"
-updated: "2026-10-21"
+updated: "2026-10-22"
 rtp_id: "b1baee12-ae65-449d-b32f-744376421656"
 ---
 # Community Apps Dashboard
@@ -31,6 +31,7 @@ A dashboard or directory showcasing community-built digital tools and resources 
 
 ## Details
 
+- **location:** {"lat":37.7541496,"lng":-122.5061507,"basis":"research","label":"Sunset District, San Francisco, California","precision":"origin"}
 - **github url:** https://github.com/The-Relational-Technology-Project/byfor-us
 - **is joinable:** false
 - **tool category:** relational_tech

@@ -12,7 +12,7 @@ attribution_source: "https://hey-neighbor-rome.lovable.app/"
 source_url: "https://hey-neighbor-rome.lovable.app/"
 web: "https://relationalbuilder.org/commons/e/hey-neighbor-rome-ga"
 created: "2026-10-02"
-updated: "2026-10-02"
+updated: "2026-10-22"
 rtp_id: "8434e61e-d980-408f-baac-7c323bec63ba"
 ---
 # Hey, Neighbor! Fund (Rome, GA)
@@ -41,6 +41,7 @@ https://hey-neighbor-rome.lovable.app/ — listed on With Neighbors (https://wit
 - **maker:** Hey, Neighbor! (Bobby Jones)
 - **place:** Rome, GA
 - **amounts:** $50–$150 per event
+- **location:** {"lat":34.257038,"lng":-85.1646726,"also":[{"lat":34.2486338,"lng":-85.1833072,"label":"South Rome, Rome, Georgia"}],"basis":"attribution","label":"Rome, Georgia","precision":"city"}
 - **hosted url:** https://hey-neighbor-rome.lovable.app/
 - **grant shape:** range
 - **local object:** the 'When in Rome' pun; a spin-the-wheel grab bag of gathering ideas

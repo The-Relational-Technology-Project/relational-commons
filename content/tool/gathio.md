@@ -10,7 +10,7 @@ attribution_source: "gath.io"
 source_url: "https://gath.io/"
 web: "https://relationalbuilder.org/commons/e/gathio"
 created: "2026-08-13"
-updated: "2026-08-13"
+updated: "2026-10-22"
 rtp_id: "ff7b587d-f86e-4260-ae38-41833f4f211e"
 ---
 # Gathio

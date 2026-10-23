@@ -11,7 +11,7 @@ attribution_source: "Civic Media Cookbook (2026), Appendix 2: Field Guide"
 source_url: "https://www.newsfutures.org/library/civic-media-cookbook"
 web: "https://relationalbuilder.org/commons/e/community-sports-reporting"
 created: "2026-07-10"
-updated: "2026-07-13"
+updated: "2026-10-22"
 rtp_id: "fe931dc9-c13c-4549-906f-2044427f7130"
 ---
 # Community Sports Reporting
@@ -28,6 +28,7 @@ Lets thin-resourced newsrooms partner with parents, coaches, and athletic direct
 ## Details
 
 - **format:** toolkit + SMS workflow
+- **location:** {"lat":38.951883,"lng":-92.3337366,"basis":"research","label":"Columbia, Missouri","precision":"origin"}
 - **patterns:** building_civic_muscle
 - **source tag:** CB
 - **source note:** Civic Media Cookbook Appendix 2 Field Guide — as submitted by practitioners (2025).

@@ -9,7 +9,7 @@ author: "Relational Technology Project, after Erik Michaels-Ober / Code for Amer
 attribution_source: "Local Civic Tech shelf starter prompt"
 web: "https://relationalbuilder.org/commons/e/build-adopt-a-thing"
 created: "2026-08-13"
-updated: "2026-08-13"
+updated: "2026-10-22"
 rtp_id: "0f43b01d-282d-4336-a705-31a43b9376aa"
 ---
 # Build: Adopt-a-Thing for Your Block

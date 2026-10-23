@@ -11,7 +11,7 @@ attribution_source: "prosocialdesign.org"
 source_url: "https://www.prosocialdesign.org/library/thank-you-button-module"
 web: "https://relationalbuilder.org/commons/e/psd-thank-you-button-module"
 created: "2026-10-12"
-updated: "2026-10-12"
+updated: "2026-10-22"
 rtp_id: "6ee7c6aa-d8bc-4e02-a363-5bc6a482b262"
 ---
 # Thank You Button

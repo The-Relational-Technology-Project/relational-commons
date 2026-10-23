@@ -10,7 +10,7 @@ attribution_source: "neighboring-commons-skill-kb"
 source_url: "https://connectivetissue.substack.com/p/putting-the-principles-of-belonging"
 web: "https://relationalbuilder.org/commons/e/putting-belonging-reciprocity-and-care-into-practice-gatherfor-in-brownsville"
 created: "2026-05-22"
-updated: "2026-05-22"
+updated: "2026-10-22"
 rtp_id: "7bc76170-d24d-4fb3-adb6-1a57fbb44f86"
 ---
 # Putting Belonging, Reciprocity, and Care Into Practice: GatherFor in Brownsville
@@ -28,6 +28,7 @@ Demonstrates practice of relational principles and serves as example of how to e
 ## Details
 
 - **category:** Stories & Examples
+- **location:** {"lat":40.665306,"lng":-73.9124755,"basis":"text","label":"Brownsville, New York","precision":"neighborhood"}
 - **entry type:** Reference
 
 ---

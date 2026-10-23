@@ -10,7 +10,7 @@ attribution_source: "neighboring-commons-skill-kb"
 source_url: "https://grouphug.substack.com/p/social-capital-isnt-meant-to-be-hoarded"
 web: "https://relationalbuilder.org/commons/e/social-capital-isnt-meant-to-be-hoarded"
 created: "2026-05-22"
-updated: "2026-05-22"
+updated: "2026-10-22"
 rtp_id: "ffe9bdd2-8dbf-4d4e-acf3-af8f78415331"
 ---
 # Social Capital Isn't Meant to Be Hoarded

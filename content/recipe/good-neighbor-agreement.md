@@ -11,7 +11,7 @@ source_url: "https://www.chundenver.org/goodneighboragreements.html"
 neighboring_recipes: "https://github.com/The-Relational-Technology-Project/neighboring-recipes/blob/main/recipes/01-knowing-your-neighbors/good-neighbor-agreement.md"
 web: "https://relationalbuilder.org/commons/e/good-neighbor-agreement"
 created: "2026-05-22"
-updated: "2026-05-22"
+updated: "2026-10-22"
 rtp_id: "04078660-8c69-4180-a6c0-4477f8f0672a"
 ---
 # Good Neighbor Agreement
@@ -109,6 +109,7 @@ SIGNED
 ## Details
 
 - **steps:** **Start with a neighborhood organization that has standing.** This is essential. A few angry neighbors writing a document does not carry weight. A neighborhood association, block club, or faith community standing behind the process does., **Run listening sessions with neighbors first.** Two or three small meetings (8 to 15 people each) where residents describe their concerns in specific detail. Not "the bar is loud" but "Friday and Saturday after 11pm we hear shouting that wakes the kids." Specificity is the whole game., **Document everything in writing.** Names attached to issues are stronger than anonymous complaints. With consent., **Invite the business or institution to a negotiation meeting.** A formal letter signed by the neighborhood organization. Explain the process. Frame it as collaboration, not confrontation. Most businesses say yes if asked respectfully., **Convene the first meeting.** Neighborhood reps, business leadership, a neutral facilitator if possible. Each side explains their perspective, their constraints, and what they want., **Identify the specific issues.** List them. Group them. Most agreements address: operating hours, noise management, parking, waste disposal, local hiring or sourcing, security and safety, communication channels for when issues arise., **Draft the agreement.** One section per issue. Specific commitments on both sides. Mention the regular check-in schedule. Keep it readable: 2 to 5 pages, not 20., **Both parties sign.** A public signing is good. Some neighborhoods invite local press. The publicity is part of the accountability., **Hold the check-ins.** Quarterly is best for new agreements, annual once it's stable. The check-in is the difference between an agreement that works and a piece of paper in a drawer.
+- **location:** {"lat":39.7358754,"lng":-104.9799213,"basis":"research","label":"Capitol Hill, Denver, Colorado","precision":"origin"}
 - **file path:** recipes/01-knowing-your-neighbors/good-neighbor-agreement.md
 - **variations:** **Development version.** A larger version used during the planning approval process for a new development. Often includes commitments on traffic mitigation, affordable housing percentages, local hiring, community benefits funding.
 

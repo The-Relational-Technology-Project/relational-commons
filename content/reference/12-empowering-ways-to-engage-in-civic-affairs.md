@@ -10,7 +10,7 @@ attribution_source: "neighboring-commons-skill-kb"
 source_url: "https://www.shareable.net/12-empowering-ways-to-engage-in-civic-affairs/"
 web: "https://relationalbuilder.org/commons/e/12-empowering-ways-to-engage-in-civic-affairs"
 created: "2026-05-22"
-updated: "2026-05-22"
+updated: "2026-10-22"
 rtp_id: "58d3cc5c-6aea-45f2-a734-01922e49dc57"
 ---
 # 12 Empowering Ways to Engage in Civic Affairs

@@ -12,7 +12,7 @@ attribution_source: "Sunset Neighborhood Build-a-thon, October 2026"
 source_url: "https://dearcrisis.com/buildathon"
 web: "https://relationalbuilder.org/commons/e/community-build-day"
 created: "2026-10-14"
-updated: "2026-10-14"
+updated: "2026-10-22"
 rtp_id: "6fc98ca6-a81c-4589-bd56-2789884c2420"
 ---
 # Community Build Day — plan, run, and share yours
@@ -44,6 +44,7 @@ The event page: https://luma.com/tzyvkp9j · The recap: https://dearcrisis.com/b
 
 - **maker:** Sunset Social Club & the Relational Tech Project
 - **featured:** true
+- **location:** {"lat":37.7535418,"lng":-122.4952495,"basis":"attribution","label":"Sunset District, San Francisco, California","precision":"neighborhood"}
 - **artifacts:** plan, agenda, landing page, flyer, social ad, steward request, slides, recap page
 - **event url:** https://luma.com/tzyvkp9j
 - **image url:** https://relationalbuilder.org/media/commons/sunset-build-a-thon.webp

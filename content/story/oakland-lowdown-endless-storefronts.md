@@ -11,7 +11,7 @@ attribution_source: "Civic Media Cookbook (2026), Appendix 2: Field Guide"
 source_url: "https://www.newsfutures.org/library/civic-media-cookbook"
 web: "https://relationalbuilder.org/commons/e/oakland-lowdown-endless-storefronts"
 created: "2026-07-10"
-updated: "2026-07-13"
+updated: "2026-10-22"
 rtp_id: "fe340ec3-2982-4a89-9351-8547a8433456"
 ---
 # Oakland Lowdown: Endless Storefronts
@@ -23,6 +23,7 @@ Talked to owners, organizers, residents, and brokers to understand empty storefr
 ## Details
 
 - **format:** window display investigation
+- **location:** {"lat":37.8044557,"lng":-122.271356,"basis":"attribution","label":"Oakland, California","precision":"city"}
 - **patterns:** making_power_visible, deepening_understanding_of_place
 - **source tag:** CB
 - **source note:** Civic Media Cookbook Appendix 2 Field Guide — as submitted by practitioners (2025).

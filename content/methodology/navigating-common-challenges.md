@@ -10,7 +10,7 @@ source_repo: "rt-mcp-server"
 source_url: "https://github.com/The-Relational-Technology-Project/rt-mcp-server"
 web: "https://relationalbuilder.org/commons/e/navigating-common-challenges"
 created: "2026-05-22"
-updated: "2026-05-22"
+updated: "2026-10-22"
 rtp_id: "51a62111-1fb0-4f46-9545-de2392bcea4f"
 ---
 # Navigating Common Challenges

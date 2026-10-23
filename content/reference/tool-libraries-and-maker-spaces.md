@@ -10,7 +10,7 @@ attribution_source: "neighboring-commons-skill-kb"
 source_url: "https://www.makersinthelibrary.org/"
 web: "https://relationalbuilder.org/commons/e/tool-libraries-and-maker-spaces"
 created: "2026-05-22"
-updated: "2026-05-22"
+updated: "2026-10-22"
 rtp_id: "c963ac46-d3f5-4988-b711-e55c564040f1"
 ---
 # Tool Libraries and Maker Spaces

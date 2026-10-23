@@ -12,7 +12,7 @@ source_repo: "https://github.com/The-Relational-Technology-Project/outer-sunset-
 source_url: "https://github.com/The-Relational-Technology-Project/outer-sunset-today"
 web: "https://relationalbuilder.org/commons/e/todays-news-local-news-by-need"
 created: "2026-09-21"
-updated: "2026-09-21"
+updated: "2026-10-22"
 rtp_id: "094be4bc-c77c-4148-ba2c-2a44b8e209f1"
 ---
 # Today's News: Local News Filtered by What Neighbors Need
@@ -58,6 +58,7 @@ Companion build prompt: "Build: A Today's News Section for a Neighborhood Site" 
 - **tiers:** {"1":"basic needs and safety: housing, transit disruptions, food access, schools, healthcare, active safety alerts","2":"civic participation: votes, hearings, ballot measures, comment periods, community meetings","3":"community connection: events, neighbor initiatives, business openings and closings, parks","4":"general interest, only with a clear local angle"}
 - **example:** {"url":"https://github.com/The-Relational-Technology-Project/outer-sunset-today","name":"Outer Sunset Today","function":"supabase/functions/check-news/index.ts"}
 - **lessons:** full article bodies end summary hallucination, the crime rule must be explicit and past-tense aware, citywide relevance must be stated, never-blank fallback plus a 7-day window keeps slow days alive, headline rewriting sets the tone
+- **location:** {"lat":37.7541496,"lng":-122.5061507,"basis":"attribution","label":"Sunset District, San Francisco, California","precision":"neighborhood"}
 - **pipeline:** {"dedupe":"sha256(source_name + link)","schedule":"twice daily","threshold":0.55,"display_max":4,"window_hours":96,"body_cap_chars":6000,"display_window_days":7}
 - **builds on:** hierarchy-of-needs, news-futures-charter, format-neighborhood-newsletter
 - **practice kind:** recipe

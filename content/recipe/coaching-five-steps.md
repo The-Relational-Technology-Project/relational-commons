@@ -9,7 +9,7 @@ author: "Marshall Ganz organizing tradition"
 attribution_source: "Organizing: People, Power, Change (2014)"
 web: "https://relationalbuilder.org/commons/e/coaching-five-steps"
 created: "2026-08-13"
-updated: "2026-08-13"
+updated: "2026-10-22"
 rtp_id: "fc8f9dd7-8a03-4599-a692-54fe5448f7df"
 ---
 # Coaching: Enabling Others in Five Steps
@@ -31,6 +31,7 @@ Coaching is not false praise, and it's not a performance review. It happens in m
 
 ## Details
 
+- **location:** {"lat":42.3656347,"lng":-71.1040018,"basis":"research","label":"Cambridge, Massachusetts","precision":"origin"}
 - **ingredients:** a coachee with a real challenge, questions instead of answers, restraint
 - **source note:** From 'Organizing: People, Power, Change' (2014), Coaching: Enabling Others — including the head/heart/hands diagnostic and sample coaching questions.
 - **how it works:** Inquire & observe: listen and backtrack before concluding., Diagnose: head (strategy), heart (motivation), or hands (skills)?, Intervene with questions until they own a plan with a date., Let them act without rescue., Check in: debrief, celebrate, re-diagnose, repeat.

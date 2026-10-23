@@ -10,7 +10,7 @@ attribution_source: "pbstanford.org"
 source_url: "https://pbstanford.org/"
 web: "https://relationalbuilder.org/commons/e/stanford-pb-platform"
 created: "2026-08-13"
-updated: "2026-08-17"
+updated: "2026-10-22"
 rtp_id: "5ac7a3ec-ad59-4e60-9225-471548b15fa2"
 ---
 # Stanford Participatory Budgeting Platform
@@ -29,6 +29,7 @@ For a neighborhood, it's the missing piece between 'we should let everyone decid
 
 - **maker:** Stanford Crowdsourced Democracy Team
 - **license:** GPL-3.0
+- **location:** {"lat":37.4265407,"lng":-122.1703055,"basis":"attribution","label":"Palo Alto, California","precision":"origin"}
 - **repo url:** https://github.com/StanfordCDT/pb
 - **image url:** https://texakzqqenzpxawktbgx.supabase.co/storage/v1/object/public/studio-library/tool-screenshots/stanford-pb-platform-2026-08.jpg
 - **remix idea:** The free multilingual ballot box for very small budgets.

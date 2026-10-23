@@ -11,7 +11,7 @@ source_url: "https://www.microsolidarity.cc/practices/how-you-can-get-started"
 neighboring_recipes: "https://github.com/The-Relational-Technology-Project/neighboring-recipes/blob/main/recipes/02-small-groups-for-support/microsolidarity-crew.md"
 web: "https://relationalbuilder.org/commons/e/microsolidarity-crew"
 created: "2026-05-22"
-updated: "2026-05-22"
+updated: "2026-10-22"
 rtp_id: "c5ba6fa7-a8b8-4b73-8047-3587f7455450"
 ---
 # Microsolidarity Crew

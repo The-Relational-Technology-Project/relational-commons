@@ -11,7 +11,7 @@ source_url: "https://www.deepcanvass.org/"
 neighboring_recipes: "https://github.com/The-Relational-Technology-Project/neighboring-recipes/blob/main/recipes/05-bridging-difference/deep-canvassing.md"
 web: "https://relationalbuilder.org/commons/e/deep-canvassing"
 created: "2026-05-22"
-updated: "2026-05-22"
+updated: "2026-10-22"
 rtp_id: "1820ca2a-0124-4b2f-889b-62f0bbdfa8ad"
 ---
 # Deep Canvassing
@@ -86,6 +86,7 @@ The method was developed by **LGBTQ+ rights organizers** working on ballot campa
 ## Details
 
 - **steps:** **Get trained.** Don't try to run a deep canvass program without training. [People's Action](https://peoplesaction.org/deep-canvass/), [Deep Canvass Institute](https://www.deepcanvass.org/), and other organizations offer it. The training is the difference between a deep canvass and an awkward one., **Prepare your personal story.** Each canvasser develops a story related to the issue (e.g., on housing: a story about their own experience with home, displacement, or family). Practice telling it in two minutes., **Open with a soft introduction and a rating.** "Hi, I'm [name], I'm here with [org] to have a conversation about [issue]. On a scale of 1 to 10, how do you feel about [position]?" Most canvassers do not lead with the position they support., **Ask open questions.** "What makes you say that?" "What's your experience been with this?" "Has anyone in your life dealt with this?" Listen genuinely. Take notes if appropriate., **Share your story.** When the moment is right, offer your own. Connect to what the person has just said. Vulnerable, specific, brief., **Invite reflection.** "Given all that, where are you now on that 1 to 10 scale?" If they have shifted, ask what shifted. If they haven't, ask what would change their mind, and listen., **Don't argue.** If they reach a different conclusion than you'd want, thank them for the conversation. The research consistently shows that not pushing produces more durable shifts than pushing does., **Follow up.** A note, a text, a return visit days or weeks later. The follow-up reinforces any shift and deepens the relationship.
+- **location:** {"lat":34.0536923,"lng":-118.2427676,"basis":"text","label":"Los Angeles, California","precision":"origin"}
 - **file path:** recipes/05-bridging-difference/deep-canvassing.md
 - **variations:** **Phone canvass.** Works, though requires more verbal skill since you can't read body language.
 

@@ -10,7 +10,7 @@ attribution_source: "neighboring-commons-skill-kb"
 source_url: "https://www.amazon.com/Well-Played-Game-Players-Philosophy/dp/0262019175"
 web: "https://relationalbuilder.org/commons/e/the-well-played-game-bernard-dekoven"
 created: "2026-05-22"
-updated: "2026-05-22"
+updated: "2026-10-22"
 rtp_id: "4cffb14a-edeb-4656-b29f-06c1b02a941a"
 ---
 # The Well-Played Game (Bernard DeKoven)

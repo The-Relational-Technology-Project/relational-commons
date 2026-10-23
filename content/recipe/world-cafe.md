@@ -12,7 +12,7 @@ source_url: "https://theworldcafe.com/"
 neighboring_recipes: "https://github.com/The-Relational-Technology-Project/neighboring-recipes/blob/main/recipes/04-gathering-design/world-cafe.md"
 web: "https://relationalbuilder.org/commons/e/world-cafe"
 created: "2026-05-22"
-updated: "2026-07-13"
+updated: "2026-10-22"
 rtp_id: "63fb54c7-6f4e-4329-92fb-27c153fc1e13"
 ---
 # World Cafe
@@ -90,6 +90,7 @@ The original framework was developed by Juanita Brown and David Isaacs. The meth
 ## Details
 
 - **steps:** **Design the question.** This is the most important part. The question should be open-ended, matter to the people in the room, and not have a single right answer. Examples: *"What does our neighborhood need?" "What would have to be true for this to work?" "What's at stake for you in this?"* Avoid yes/no questions, leading questions, or questions disguised as advocacy., **Set up the room like a real café.** Multiple small round tables. Tablecloths. Butcher paper covering each table. Markers in colored cups. Flowers in jars. Music as people arrive. Light food and drinks if you can. The atmosphere does real work., **Welcome and frame.** 10 minutes. Welcome people. Explain the format. Read the question aloud. Set the etiquette: listen with curiosity, speak from experience, draw or write on the paper if it helps., **Round one.** 20 to 30 minutes. People talk at their tables. Encourage drawing on the paper. Facilitator does not need to interrupt unless tables are silent., **Rotate.** Everyone moves to a new table. One person (the "table host") stays at the original table and welcomes the newcomers with a brief summary of what was discussed. Rotation usually takes 2 to 3 minutes; build in transition time., **Round two.** 20 to 30 minutes. New group builds on what the host shared., **Optional round three.** Especially useful when the question is layered or complex., **Harvest.** Bring everyone back together. 30 to 45 minutes. Ask: "What themes emerged? What surprised you? What actions are you ready to take?" Write the harvest where everyone can see. If you have a graphic recorder, even better., **Send people home with something.** A photo of the harvest. A summary by email. The butcher paper from their table. The continuity matters.
+- **location:** {"lat":37.9060368,"lng":-122.5449763,"basis":"research","label":"Mill Valley, California","precision":"origin"}
 - **file path:** recipes/04-gathering-design/world-cafe.md
 - **variations:** **Two-question cafe.** Round one and two each have a different question, building on each other. Useful for problem-then-solution arcs.
 

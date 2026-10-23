@@ -10,7 +10,7 @@ attribution_source: "neighboring-commons-skill-kb"
 source_url: "https://www.chundenver.org/goodneighboragreements.html"
 web: "https://relationalbuilder.org/commons/e/good-neighbor-agreement"
 created: "2026-05-22"
-updated: "2026-05-22"
+updated: "2026-10-22"
 rtp_id: "66cb3a74-449d-4c39-a2f4-b796aef1049d"
 ---
 # Good Neighbor Agreement
@@ -52,6 +52,7 @@ Rooted in community organizing and environmental justice traditions, particularl
 ## Details
 
 - **category:** Neighbor Conflict & Agreements
+- **location:** {"lat":39.7358754,"lng":-104.9799213,"basis":"research","label":"Capitol Hill, Denver, Colorado","precision":"origin"}
 - **entry type:** Practice
 - **key ingredients raw:** - *Time*: 3-6 months of negotiation, ongoing annual check-ins
 - *People*: 3-5 community organizers, neighborhood residents, business leadership

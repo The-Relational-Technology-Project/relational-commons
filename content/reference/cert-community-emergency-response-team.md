@@ -10,7 +10,7 @@ attribution_source: "neighboring-commons-skill-kb"
 source_url: "https://www.fema.gov/emergency-managers/individuals-communities/preparedness-activities-webinars/community-emergency-response-team"
 web: "https://relationalbuilder.org/commons/e/cert-community-emergency-response-team"
 created: "2026-05-22"
-updated: "2026-05-22"
+updated: "2026-10-22"
 rtp_id: "2626ab7d-2f9d-4ae3-a757-97a2c40ddbd7"
 ---
 # CERT: Community Emergency Response Team
@@ -28,6 +28,7 @@ Foundational to Building Resilient Neighbourhoods and Neighbor-to-Neighbor disas
 ## Details
 
 - **category:** Community Resilience
+- **location:** {"lat":34.0536923,"lng":-118.2427676,"basis":"text","label":"Los Angeles, California","precision":"origin"}
 - **entry type:** Reference
 
 ---

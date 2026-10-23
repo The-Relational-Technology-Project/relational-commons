@@ -11,7 +11,7 @@ attribution_source: "prosocialdesign.org"
 source_url: "https://www.prosocialdesign.org/library/upranking-civility"
 web: "https://relationalbuilder.org/commons/e/psd-upranking-civility"
 created: "2026-10-12"
-updated: "2026-10-12"
+updated: "2026-10-22"
 rtp_id: "1170656b-726f-4505-925f-5907fec5ac03"
 ---
 # Upranking Civility

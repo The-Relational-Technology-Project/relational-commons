@@ -11,7 +11,7 @@ attribution_source: "prosocialdesign.org"
 source_url: "https://www.prosocialdesign.org/library/toggle-to-focus-mode"
 web: "https://relationalbuilder.org/commons/e/psd-toggle-to-focus-mode"
 created: "2026-10-12"
-updated: "2026-10-12"
+updated: "2026-10-22"
 rtp_id: "c34bd62d-b104-48f1-bd69-8d386a95d402"
 ---
 # Toggle To Focus Mode

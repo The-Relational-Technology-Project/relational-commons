@@ -10,7 +10,7 @@ attribution_source: "neighboring-commons-skill-kb"
 source_url: "https://connectivetissue.substack.com/p/how-our-online-lives-shape-our-lives"
 web: "https://relationalbuilder.org/commons/e/how-our-online-lives-shape-our-community"
 created: "2026-05-22"
-updated: "2026-05-22"
+updated: "2026-10-22"
 rtp_id: "02eccd7f-eb55-463c-bece-9502fc247270"
 ---
 # How Our Online Lives Shape Our Community

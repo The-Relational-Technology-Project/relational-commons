@@ -10,7 +10,7 @@ attribution_source: "neighboring-commons-skill-kb"
 source_url: "https://www.nafcm.org/"
 web: "https://relationalbuilder.org/commons/e/nafcm-national-association-for-community-mediation-network"
 created: "2026-05-22"
-updated: "2026-05-22"
+updated: "2026-10-22"
 rtp_id: "afc6eaf6-0a4b-4b22-8eda-e007ef018a33"
 ---
 # NAFCM: National Association for Community Mediation Network

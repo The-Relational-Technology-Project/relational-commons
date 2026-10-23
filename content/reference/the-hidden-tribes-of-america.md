@@ -10,7 +10,7 @@ attribution_source: "neighboring-commons-skill-kb"
 source_url: "https://hiddentribes.us/"
 web: "https://relationalbuilder.org/commons/e/the-hidden-tribes-of-america"
 created: "2026-05-22"
-updated: "2026-05-22"
+updated: "2026-10-22"
 rtp_id: "5998456f-e8f3-4fea-b760-3e5d78f5bcaa"
 ---
 # The Hidden Tribes of America

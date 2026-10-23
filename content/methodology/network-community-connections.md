@@ -10,7 +10,7 @@ source_repo: "rt-mcp-server"
 source_url: "https://github.com/The-Relational-Technology-Project/rt-mcp-server"
 web: "https://relationalbuilder.org/commons/e/network-community-connections"
 created: "2026-05-22"
-updated: "2026-05-22"
+updated: "2026-10-22"
 rtp_id: "0ed9ddc9-8df0-4626-8aa4-c9251bd474fb"
 ---
 # Network & Community Connections

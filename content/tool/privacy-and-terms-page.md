@@ -10,7 +10,7 @@ attribution_source: "Relational Tech Studio library"
 source_url: "https://outersunset.today/privacy-terms"
 web: "https://relationalbuilder.org/commons/e/privacy-and-terms-page"
 created: "2026-06-10"
-updated: "2026-10-21"
+updated: "2026-10-22"
 rtp_id: "f39f2360-7044-45e7-82bf-1274a10496cd"
 ---
 # Privacy & Terms Page
@@ -32,6 +32,7 @@ A ready-to-use privacy and terms page template for community-built neighborhood 
 
 ## Details
 
+- **location:** {"lat":37.7541496,"lng":-122.5061507,"basis":"text","label":"Sunset District, San Francisco, California","precision":"origin"}
 - **is joinable:** false
 - **tool category:** relational_tech
 

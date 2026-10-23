@@ -10,7 +10,7 @@ attribution_source: "neighboring-commons-skill-kb"
 source_url: "https://visiblenetworklabs.com/2025/04/09/what-is-community-asset-mapping/"
 web: "https://relationalbuilder.org/commons/e/community-mapping-asset-mapping"
 created: "2026-05-22"
-updated: "2026-05-22"
+updated: "2026-10-22"
 rtp_id: "627e8403-3218-4487-b708-b0d76b26a5a0"
 ---
 # Community Mapping & Asset Mapping

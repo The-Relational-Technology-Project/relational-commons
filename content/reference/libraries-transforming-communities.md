@@ -10,7 +10,7 @@ attribution_source: "neighboring-commons-skill-kb"
 source_url: "https://www.ala.org/tools/librariestransform/libraries-transforming-communities"
 web: "https://relationalbuilder.org/commons/e/libraries-transforming-communities"
 created: "2026-05-22"
-updated: "2026-05-22"
+updated: "2026-10-22"
 rtp_id: "12f4c1e9-cd4a-4028-a974-2e52f8028b85"
 ---
 # Libraries Transforming Communities
@@ -32,6 +32,7 @@ Relates to broader library innovation movements emphasizing civic purpose and co
 ## Details
 
 - **category:** Placemaking & Public Space
+- **location:** {"lat":41.8755616,"lng":-87.6244212,"basis":"research","label":"Chicago, Illinois","precision":"origin"}
 - **entry type:** Reference
 
 ---

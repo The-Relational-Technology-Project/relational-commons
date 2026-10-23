@@ -12,7 +12,7 @@ attribution_source: "https://nvp.community/microgrant"
 source_url: "https://nvp.community/microgrant"
 web: "https://relationalbuilder.org/commons/e/nvp-neighborhood-projects-microgrant"
 created: "2026-10-02"
-updated: "2026-10-02"
+updated: "2026-10-22"
 rtp_id: "b5f4defd-1f69-42f3-a548-c37c6da5e35b"
 ---
 # Neighborhood Projects Microgrant (Boulder and Denver, CO)
@@ -41,6 +41,7 @@ https://nvp.community/microgrant — listed on With Neighbors (https://withneigh
 - **maker:** Neighborhood Village Project
 - **place:** Boulder and Denver Metro Area, CO
 - **amounts:** $300 per project, paid within 48 hours of selection
+- **location:** {"lat":40.0149856,"lng":-105.270545,"also":[{"lat":39.7392364,"lng":-104.984862,"label":"Denver, Colorado"}],"basis":"attribution","label":"Boulder, Colorado","precision":"city"}
 - **hosted url:** https://nvp.community/microgrant
 - **grant shape:** fixed
 - **local object:** shared building and planting projects: food forest, pocket park, emergency cache, bulletin board, pizza oven

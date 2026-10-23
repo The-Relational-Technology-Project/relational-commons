@@ -10,7 +10,7 @@ attribution_source: "neighboring-commons-skill-kb"
 source_url: "https://ncoc.org/chi/"
 web: "https://relationalbuilder.org/commons/e/civic-health-index"
 created: "2026-05-22"
-updated: "2026-05-22"
+updated: "2026-10-22"
 rtp_id: "f3ae16d6-6fcf-4461-8335-df41c8f2d2ac"
 ---
 # Civic Health Index
@@ -32,6 +32,7 @@ Civic Health Index data complements community development efforts, informing pri
 ## Details
 
 - **category:** Civic Engagement
+- **location:** {"lat":38.8950982,"lng":-77.0363849,"basis":"research","label":"Washington, District of Columbia","precision":"origin"}
 - **entry type:** Reference
 
 ---

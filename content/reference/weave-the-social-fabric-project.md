@@ -10,7 +10,7 @@ attribution_source: "neighboring-commons-skill-kb"
 source_url: "https://weavers.org/"
 web: "https://relationalbuilder.org/commons/e/weave-the-social-fabric-project"
 created: "2026-05-22"
-updated: "2026-05-22"
+updated: "2026-10-22"
 rtp_id: "a58776c3-fedf-4e39-8d9d-fcf1d1b73daa"
 ---
 # Weave: The Social Fabric Project
@@ -32,6 +32,7 @@ Shares DNA with microsolidarity and relational organizing approaches; provides i
 ## Details
 
 - **category:** Community Building
+- **location:** {"lat":38.8950982,"lng":-77.0363849,"basis":"research","label":"Washington, District of Columbia","precision":"origin"}
 - **entry type:** Reference
 
 ---

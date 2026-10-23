@@ -10,7 +10,7 @@ source_repo: "rt-mcp-server"
 source_url: "https://github.com/The-Relational-Technology-Project/rt-mcp-server"
 web: "https://relationalbuilder.org/commons/e/the-builder-spectrum"
 created: "2026-05-22"
-updated: "2026-05-22"
+updated: "2026-10-22"
 rtp_id: "401f9028-fb18-47ce-8ead-87740b323838"
 ---
 # The Builder Spectrum

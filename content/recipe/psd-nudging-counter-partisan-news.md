@@ -11,7 +11,7 @@ attribution_source: "prosocialdesign.org"
 source_url: "https://www.prosocialdesign.org/library/nudging-counter-partisan-news"
 web: "https://relationalbuilder.org/commons/e/psd-nudging-counter-partisan-news"
 created: "2026-10-12"
-updated: "2026-10-12"
+updated: "2026-10-22"
 rtp_id: "922c135b-116f-48cd-9d3f-67ba7c699876"
 ---
 # Increase Exposure to Counter-partisan Content

@@ -10,7 +10,7 @@ attribution_source: "decidim.org"
 source_url: "https://decidim.org"
 web: "https://relationalbuilder.org/commons/e/delib-decidim"
 created: "2026-10-08"
-updated: "2026-10-08"
+updated: "2026-10-22"
 rtp_id: "a849d475-b3d6-4b1d-b503-ac9a546e48d4"
 ---
 # Decidim
@@ -30,6 +30,7 @@ Open source (AGPL-3.0), used by hundreds of cities, cooperatives, and organizati
 - **maker:** Decidim Free Software Association
 - **stages:** framing, eliciting, deliberating, deciding
 - **license:** AGPL-3.0
+- **location:** {"lat":41.3825802,"lng":2.177073,"basis":"text","label":"Barcelona, Catalonia, Spain","precision":"origin"}
 - **repo url:** https://github.com/decidim/decidim
 - **image url:** https://texakzqqenzpxawktbgx.supabase.co/storage/v1/object/public/studio-library/tool-screenshots/delib-decidim-2026-08.jpg
 - **remix idea:** A small proposals-and-assemblies flow for one neighborhood.

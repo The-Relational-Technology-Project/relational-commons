@@ -11,7 +11,7 @@ source_url: "https://bridgemeadows.org/"
 neighboring_recipes: "https://github.com/The-Relational-Technology-Project/neighboring-recipes/blob/main/recipes/09-intergenerational/bridge-meadows.md"
 web: "https://relationalbuilder.org/commons/e/bridge-meadows-intergenerational-housing"
 created: "2026-05-22"
-updated: "2026-05-22"
+updated: "2026-10-22"
 rtp_id: "77280faa-4605-483b-aaa7-699ba557469c"
 ---
 # Bridge Meadows (Intergenerational Housing)
@@ -89,6 +89,7 @@ The model has expanded to **Portland** and **Redmond, Oregon**, with similar out
 
 ## Details
 
+- **location:** {"lat":45.4871723,"lng":-122.80378,"basis":"text","label":"Beaverton, Oregon","precision":"city"}
 - **file path:** recipes/09-intergenerational/bridge-meadows.md
 - **variations:** **Variations on the population ratio.** Some replication efforts have adjusted: more elders, fewer families, or vice versa. The fundamental insight (cross-generational design with structured reciprocity) holds.
 

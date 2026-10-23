@@ -10,7 +10,7 @@ attribution_source: "neighboring-commons-skill-kb"
 source_url: "https://learning.weavers.org/"
 web: "https://relationalbuilder.org/commons/e/weave-learning-center-training-for-community-weavers"
 created: "2026-05-22"
-updated: "2026-05-22"
+updated: "2026-10-22"
 rtp_id: "70c11d90-b7ab-4c42-9a1f-13c555f0de22"
 ---
 # Weave Learning Center: Training for Community Weavers
@@ -33,6 +33,7 @@ Provides practical training aligned with microsolidarity, Living Room Conversati
 ## Details
 
 - **category:** Skills & Training
+- **location:** {"lat":38.8950982,"lng":-77.0363849,"basis":"research","label":"Washington, District of Columbia","precision":"origin"}
 - **entry type:** Reference
 
 ---

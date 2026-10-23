@@ -10,7 +10,7 @@ attribution_source: "neighboring-commons-skill-kb"
 source_url: "https://www.portland.gov/civic/myneighborhood/about-neighborhood-system"
 web: "https://relationalbuilder.org/commons/e/neighborhood-associations-and-councils"
 created: "2026-05-22"
-updated: "2026-05-22"
+updated: "2026-10-22"
 rtp_id: "d780e654-9860-466f-ab94-dfbfdf6ce411"
 ---
 # Neighborhood Associations and Councils
@@ -45,6 +45,7 @@ Emerged in earnest in late 1980s-early 1990s as cities formalized neighborhood g
 ## Details
 
 - **category:** Civic Engagement
+- **location:** {"lat":45.5202471,"lng":-122.674194,"basis":"research","label":"Portland, Oregon","precision":"origin"}
 - **entry type:** Practice
 - **key ingredients raw:** - *Time*: Monthly meetings minimum; variable ongoing engagement based on role
 - *People*: Resident members, elected officers, committee members, community partners, city liaisons

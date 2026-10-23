@@ -11,7 +11,7 @@ attribution_source: "prosocialdesign.org"
 source_url: "https://www.prosocialdesign.org/library/up-votes"
 web: "https://relationalbuilder.org/commons/e/psd-up-votes"
 created: "2026-10-12"
-updated: "2026-10-12"
+updated: "2026-10-22"
 rtp_id: "42262fbd-acce-4df5-8a5b-34d29b8d8ef8"
 ---
 # Up Votes

@@ -11,7 +11,7 @@ attribution_source: "Civic Media Cookbook (2026), Appendix 2: Field Guide"
 source_url: "https://www.newsfutures.org/library/civic-media-cookbook"
 web: "https://relationalbuilder.org/commons/e/meadowview-community-fair"
 created: "2026-07-10"
-updated: "2026-07-13"
+updated: "2026-10-22"
 rtp_id: "eb35a2ee-4f63-4b56-b803-4c618a97086c"
 ---
 # Meadowview Community Fair
@@ -28,6 +28,7 @@ A fair showcasing activities reporters and residents can do together to build kn
 ## Details
 
 - **format:** community fair
+- **location:** {"lat":38.4831762,"lng":-121.467131,"basis":"attribution","label":"Meadowview, Sacramento, California","precision":"neighborhood"}
 - **patterns:** reimagining_public_resources
 - **source tag:** CB
 - **source note:** Civic Media Cookbook Appendix 2 Field Guide — as submitted by practitioners (2025).

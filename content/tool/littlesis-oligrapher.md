@@ -10,7 +10,7 @@ attribution_source: "littlesis.org"
 source_url: "https://littlesis.org/"
 web: "https://relationalbuilder.org/commons/e/littlesis-oligrapher"
 created: "2026-08-13"
-updated: "2026-08-13"
+updated: "2026-10-22"
 rtp_id: "41175c37-0e66-4ead-b619-b69d35c64676"
 ---
 # LittleSis + Oligrapher
@@ -29,6 +29,7 @@ Everything is GPL-3.0 open source, and the database itself is a commons anyone c
 
 - **maker:** Public Accountability Initiative (nonprofit)
 - **license:** GPL-3.0
+- **location:** {"lat":42.8864163,"lng":-78.8781493,"basis":"research","label":"Buffalo, New York","precision":"origin"}
 - **repo url:** https://github.com/public-accountability/oligrapher
 - **remix idea:** The block's landlord map, from public records to the tenants' meeting.
 - **cross shelf:** community-organizing

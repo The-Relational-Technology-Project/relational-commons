@@ -10,7 +10,7 @@ attribution_source: "neighboring-commons-skill-kb"
 source_url: "https://www.longesttablecommunity.org"
 web: "https://relationalbuilder.org/commons/e/the-longest-table-community-meal"
 created: "2026-05-22"
-updated: "2026-05-22"
+updated: "2026-10-22"
 rtp_id: "d4ba511f-2d93-4fdd-a729-bfc5f79e9633"
 ---
 # The Longest Table Community Meal
@@ -49,6 +49,7 @@ Draws from ancient potlatch traditions, communal feasting, and the slow food mov
 ## Details
 
 - **category:** Neighborhood Gathering
+- **location:** {"lat":40.7464906,"lng":-74.0015283,"basis":"research","label":"Chelsea District, New York","precision":"origin"}
 - **entry type:** Practice
 - **key ingredients raw:** - *Time*: 2-4 weeks planning, 2-3 hours event time, 2-3 hours setup/cleanup
 - *People*: 2-3 core organizers, volunteers, 50-1000+ participants

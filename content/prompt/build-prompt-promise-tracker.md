@@ -10,7 +10,7 @@ attribution_source: "NF Studio foundation"
 parent: "../recipe/community-research-teams.md"
 web: "https://relationalbuilder.org/commons/e/build-prompt-promise-tracker"
 created: "2026-07-10"
-updated: "2026-07-10"
+updated: "2026-10-22"
 rtp_id: "067cda7c-78f9-4bb9-b57d-16ca8a86824e"
 ---
 # Promise Tracker dashboard build prompt

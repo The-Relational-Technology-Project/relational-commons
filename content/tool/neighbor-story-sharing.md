@@ -9,7 +9,7 @@ topics: ["relational-tech"]
 attribution_source: "Relational Tech Studio library"
 web: "https://relationalbuilder.org/commons/e/neighbor-story-sharing"
 created: "2026-06-10"
-updated: "2026-10-21"
+updated: "2026-10-22"
 rtp_id: "72fe17c8-e153-459b-b1d8-9ce88267e35d"
 ---
 # Neighbor Story Sharing
@@ -33,6 +33,7 @@ A platform for collecting and sharing personal stories from community members to
 
 ## Details
 
+- **location:** {"lat":37.7541496,"lng":-122.5061507,"basis":"research","label":"Sunset District, San Francisco, California","precision":"origin"}
 - **github url:** https://github.com/The-Relational-Technology-Project/sunset-story-boxes
 - **is joinable:** false
 - **tool category:** relational_tech

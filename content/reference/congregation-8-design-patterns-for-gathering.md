@@ -10,7 +10,7 @@ attribution_source: "neighboring-commons-skill-kb"
 source_url: "https://medium.com/microsolidarity/congregation-how-to-ffe35c65d70"
 web: "https://relationalbuilder.org/commons/e/congregation-8-design-patterns-for-gathering"
 created: "2026-05-22"
-updated: "2026-05-22"
+updated: "2026-10-22"
 rtp_id: "1c3ec99b-6d8d-4b24-8b22-10284204ffa8"
 ---
 # Congregation: 8 Design Patterns for Gathering

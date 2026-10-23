@@ -9,7 +9,7 @@ author: "Marshall Ganz organizing tradition"
 attribution_source: "Organizing: People, Power, Change (2014)"
 web: "https://relationalbuilder.org/commons/e/the-debrief"
 created: "2026-08-13"
-updated: "2026-08-13"
+updated: "2026-10-22"
 rtp_id: "530e5441-e2c2-4c8c-9e90-0a237dae3f71"
 ---
 # The Debrief: Did It Work, and Are We Stronger?
@@ -30,6 +30,7 @@ Write down the three biggest lessons where the next campaign will find them. The
 
 ## Details
 
+- **location:** {"lat":42.3656347,"lng":-71.1040018,"basis":"research","label":"Cambridge, Massachusetts","precision":"origin"}
 - **ingredients:** the goal you set beforehand, everyone who took part, food helps, somewhere to write lessons the next campaign will find
 - **source note:** From 'Organizing: People, Power, Change' (2014), Acting: evaluation and next steps, extended with the shelf's sixth question.
 - **how it works:** Reconstruct: what did we plan, what actually happened?, Score honestly against the measurable goal — no borrowed victories, no disguised losses., Count strength: new people, new leaders, deeper relationships, new capabilities., Celebrate specific contributions by name., Record three lessons and the next step, then rest.

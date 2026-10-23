@@ -10,7 +10,7 @@ attribution_source: "neighboring-commons-skill-kb"
 source_url: "https://www.shareable.net/toolkit/library-of-things-toolkit/"
 web: "https://relationalbuilder.org/commons/e/library-of-things-toolkit"
 created: "2026-05-22"
-updated: "2026-05-22"
+updated: "2026-10-22"
 rtp_id: "3b62d701-4d5a-4248-96e8-392e8660b832"
 ---
 # Library of Things Toolkit

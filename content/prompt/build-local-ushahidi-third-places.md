@@ -10,7 +10,7 @@ attribution_source: "Local Civic Tech shelf starter prompt"
 source_url: "https://www.ushahidi.com/"
 web: "https://relationalbuilder.org/commons/e/build-local-ushahidi-third-places"
 created: "2026-08-13"
-updated: "2026-08-13"
+updated: "2026-10-22"
 rtp_id: "7e2d5abe-13cc-433d-9459-0a4043a2f57c"
 ---
 # Build: A Third-Places Map for Your Neighborhood

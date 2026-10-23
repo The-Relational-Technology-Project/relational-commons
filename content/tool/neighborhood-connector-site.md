@@ -10,7 +10,7 @@ attribution_source: "Relational Tech Studio library"
 source_url: "https://outersunset.us/"
 web: "https://relationalbuilder.org/commons/e/neighborhood-connector-site"
 created: "2026-06-10"
-updated: "2026-10-21"
+updated: "2026-10-22"
 rtp_id: "26ce9e6a-73a9-468b-a674-e290ebecbb74"
 ---
 # Neighborhood Connector Site
@@ -37,6 +37,7 @@ A welcoming, content-first site that helps neighbors find local groups, gatherin
 
 ## Details
 
+- **location:** {"lat":37.7541496,"lng":-122.5061507,"basis":"text","label":"Sunset District, San Francisco, California","precision":"origin"}
 - **github url:** https://github.com/The-Relational-Technology-Project/sunsetpeople
 - **is joinable:** false
 - **tool category:** relational_tech

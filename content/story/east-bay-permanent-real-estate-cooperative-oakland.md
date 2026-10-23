@@ -9,7 +9,7 @@ topics: ["builder-story"]
 author: "ebprec.org / Sustainable Economies Law Center"
 web: "https://relationalbuilder.org/commons/e/east-bay-permanent-real-estate-cooperative-oakland"
 created: "2026-06-10"
-updated: "2026-10-21"
+updated: "2026-10-22"
 rtp_id: "494ebb89-9ca4-4a7e-b8a3-904cb3b6e549"
 ---
 # East Bay Permanent Real Estate Cooperative, Oakland
@@ -21,6 +21,10 @@ rtp_id: "494ebb89-9ca4-4a7e-b8a3-904cb3b6e549"
 ## Related in the commons
 
 - Mentions: [Community Land Trusts](../reference/community-land-trusts.md)
+
+## Details
+
+- **location:** {"lat":37.8044557,"lng":-122.271356,"basis":"text","label":"Oakland, California","precision":"city"}
 
 ---
 

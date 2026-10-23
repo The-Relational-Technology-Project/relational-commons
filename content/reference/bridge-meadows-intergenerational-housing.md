@@ -10,7 +10,7 @@ attribution_source: "neighboring-commons-skill-kb"
 source_url: "https://bridgemeadows.org/"
 web: "https://relationalbuilder.org/commons/e/bridge-meadows-intergenerational-housing"
 created: "2026-05-22"
-updated: "2026-05-22"
+updated: "2026-10-22"
 rtp_id: "f56f5017-efab-447e-b1b4-e7f4a5b703ef"
 ---
 # Bridge Meadows Intergenerational Housing
@@ -51,6 +51,7 @@ Builds on cohousing practice and intergenerational living traditions. Synthesize
 ## Details
 
 - **category:** Housing & Intentional Community
+- **location:** {"lat":45.4871723,"lng":-122.80378,"basis":"text","label":"Beaverton, Oregon","precision":"city"}
 - **entry type:** Practice
 - **key ingredients raw:** - *Time*: Seniors 8+ hours/week; 3-5 years to develop
 - *People*: 30-50 household units, committed staff for coordination

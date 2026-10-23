@@ -11,7 +11,7 @@ attribution_source: "prosocialdesign.org"
 source_url: "https://www.prosocialdesign.org/library/show-content-reach"
 web: "https://relationalbuilder.org/commons/e/psd-show-content-reach"
 created: "2026-10-12"
-updated: "2026-10-12"
+updated: "2026-10-22"
 rtp_id: "ce91e8a3-2b2c-4ad2-be6a-f00624cef7a5"
 ---
 # Show Content Reach (# of Views)

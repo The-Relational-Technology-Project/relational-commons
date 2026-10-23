@@ -10,7 +10,7 @@ attribution_source: "neighboring-commons-skill-kb"
 source_url: "https://www.democracycollaborative.org/community-wealth-building"
 web: "https://relationalbuilder.org/commons/e/community-wealth-building-democracy-collaborative"
 created: "2026-05-22"
-updated: "2026-05-22"
+updated: "2026-10-22"
 rtp_id: "a13dbf70-4856-4ddc-840d-088332da11c1"
 ---
 # Community Wealth Building (Democracy Collaborative)
@@ -36,6 +36,7 @@ Articulated by The Democracy Collaborative in 2005, drawing on cooperative econo
 ## Details
 
 - **category:** Civic Engagement
+- **location:** {"lat":38.8950982,"lng":-77.0363849,"basis":"research","label":"Washington, District of Columbia","precision":"origin"}
 - **entry type:** Reference
 
 ---

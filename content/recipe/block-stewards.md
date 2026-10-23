@@ -11,7 +11,7 @@ source_url: "https://commonagency.org/"
 neighboring_recipes: "https://github.com/The-Relational-Technology-Project/neighboring-recipes/blob/main/recipes/01-knowing-your-neighbors/block-stewards.md"
 web: "https://relationalbuilder.org/commons/e/block-stewards"
 created: "2026-05-22"
-updated: "2026-05-22"
+updated: "2026-10-22"
 rtp_id: "ae8511a6-3df6-4013-a677-6c2c981c312e"
 ---
 # Block Stewards

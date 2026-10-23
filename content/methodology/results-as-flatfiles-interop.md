@@ -10,7 +10,7 @@ attribution_source: "github.com/metagov/interop"
 source_url: "https://github.com/metagov/interop"
 web: "https://relationalbuilder.org/commons/e/results-as-flatfiles-interop"
 created: "2026-10-08"
-updated: "2026-10-08"
+updated: "2026-10-22"
 rtp_id: "691e1b57-1a6f-4943-858a-7b1c73e4ccee"
 ---
 # Results are commons: export flatfiles so processes hand off

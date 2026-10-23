@@ -11,7 +11,7 @@ attribution_source: "Civic Media Cookbook (2026), Appendix 2: Field Guide"
 source_url: "https://www.newsfutures.org/library/civic-media-cookbook"
 web: "https://relationalbuilder.org/commons/e/hidden-hunger-storybooth"
 created: "2026-07-10"
-updated: "2026-07-13"
+updated: "2026-10-22"
 rtp_id: "3d7210d1-e410-45bc-ad39-5b5b3083a0ed"
 ---
 # Hidden Hunger Storybooth
@@ -28,6 +28,7 @@ Visited food banks to gather stories on a shared platform used for training, edu
 ## Details
 
 - **format:** storybooth + website + documentary
+- **location:** {"lat":38.5810606,"lng":-121.493895,"basis":"attribution","label":"Sacramento, California","precision":"city"}
 - **patterns:** amplifying_unheard_voices
 - **source tag:** CB
 - **source note:** Civic Media Cookbook Appendix 2 Field Guide — as submitted by practitioners (2025).

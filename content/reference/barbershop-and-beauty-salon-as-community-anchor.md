@@ -10,7 +10,7 @@ attribution_source: "neighboring-commons-skill-kb"
 source_url: "https://nmaahc.si.edu/explore/stories/community-roles-barber-shop-and-beauty-salon"
 web: "https://relationalbuilder.org/commons/e/barbershop-and-beauty-salon-as-community-anchor"
 created: "2026-05-22"
-updated: "2026-05-22"
+updated: "2026-10-22"
 rtp_id: "cc51cfac-67f1-424f-bb1e-e178d425cf04"
 ---
 # Barbershop and Beauty Salon as Community Anchor

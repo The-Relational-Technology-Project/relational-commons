@@ -9,7 +9,7 @@ author: "Shea Sinnott & Peter Gibbs (eds.), adapting Marshall Ganz / Leading Cha
 attribution_source: "Dogwood Initiative, Leadnow, One Cowichan, David Suzuki Foundation, Stonehouse Institute & genius (2014)"
 web: "https://relationalbuilder.org/commons/e/organizing-people-power-change-guide"
 created: "2026-08-13"
-updated: "2026-08-13"
+updated: "2026-10-22"
 rtp_id: "26465a77-daa7-40df-925f-f9ecad93e7d4"
 ---
 # Organizing: People, Power, Change (the Organizer's Handbook)
@@ -25,6 +25,7 @@ The guide is free to reproduce, distribute, and adapt for your own training (att
 ## Details
 
 - **contents:** introduction to organizing, telling stories (public narrative), building relationships (1:1s), coaching, structuring teams (snowflake), strategizing, acting: tactics & timelines, worksheets
+- **location:** {"lat":49.2608724,"lng":-123.113952,"also":[{"lat":42.3656347,"lng":-71.1040018,"label":"Cambridge, Massachusetts"}],"basis":"research","label":"Vancouver, British Columbia, Canada","precision":"origin"}
 - **license note:** Free to reproduce, distribute, and adapt with attribution; may not be sold. Significant modifications to be shared with Dr. Marshall Ganz.
 - **practice kind:** reference
 

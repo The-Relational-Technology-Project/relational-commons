@@ -11,7 +11,7 @@ source_url: "https://cityrepair.org"
 neighboring_recipes: "https://github.com/The-Relational-Technology-Project/neighboring-recipes/blob/main/recipes/06-placemaking/intersection-repair.md"
 web: "https://relationalbuilder.org/commons/e/intersection-repair"
 created: "2026-05-22"
-updated: "2026-05-22"
+updated: "2026-10-22"
 rtp_id: "ac67b172-6d6d-49c3-a351-27c55be4f5c9"
 ---
 # Intersection Repair
@@ -96,6 +96,7 @@ The model has spread to many neighborhoods. The City Repair website maintains st
 - Apply for a temporary art installation permit. Some cities have these.
 - Build relationships with city staff and councilmembers. Many cities will work with you if you start the conversation early.
 - Do it without permission and accept the risk. Some communities have done this; outcomes vary. Not generally recommended unless you've thought it through., **Design.** The painted mural is the centerpiece. Bold geometric shapes work; so do figurative designs, mandalas, neighborhood maps, native plants, ancestral imagery. The design should reflect the specific block, not be downloaded from somewhere else., **Plan the build.** Identify the side structures: a sitting bench, a tiny library, a community board, a tea or coffee station, a tool exchange. Distribute the build tasks., **Hold the build day(s).** A "barn raising" weekend. Food, music, all ages. Different tasks for different skills. End each day with celebration., **Identify stewards.** Who is going to maintain this? Repaint when it fades? Keep the tiny library stocked? A pair or trio of nearby neighbors usually steps up., **Throw a dedication.** A block party at the new intersection. Invite the city. Invite the press.
+- **location:** {"lat":45.4652622,"lng":-122.6530035,"basis":"text","label":"Sellwood-Moreland, Portland, Oregon","precision":"origin"}
 - **file path:** recipes/06-placemaking/intersection-repair.md
 - **variations:** **Mini repair.** A single corner rather than a whole intersection. Lower bar, smaller impact, easier first attempt.
 

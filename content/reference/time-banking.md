@@ -10,7 +10,7 @@ attribution_source: "neighboring-commons-skill-kb"
 source_url: "https://www.timebanks.org/"
 web: "https://relationalbuilder.org/commons/e/time-banking"
 created: "2026-05-22"
-updated: "2026-05-22"
+updated: "2026-10-22"
 rtp_id: "8563411d-2b8c-4d05-9ae3-134f095d418d"
 ---
 # Time Banking
@@ -56,6 +56,7 @@ Time banking builds on principles of reciprocal exchange found in traditional cu
 ## Details
 
 - **category:** Mutual Aid & Solidarity
+- **location:** {"lat":38.8950982,"lng":-77.0363849,"basis":"research","label":"Washington, District of Columbia","precision":"origin"}
 - **entry type:** Practice
 - **key ingredients raw:** - *Time*: 1-3 months to establish; ongoing indefinitely
 - *People*: 10-30 founding members; grows organically

@@ -9,7 +9,7 @@ author: "News Futures Studio working group"
 attribution_source: "NF Studio foundation"
 web: "https://relationalbuilder.org/commons/e/format-neighborhood-newsletter"
 created: "2026-07-10"
-updated: "2026-07-10"
+updated: "2026-10-22"
 rtp_id: "bd0a6c19-88e2-4cee-99dc-617220980a00"
 ---
 # Neighborhood Newsletter (civic media format)

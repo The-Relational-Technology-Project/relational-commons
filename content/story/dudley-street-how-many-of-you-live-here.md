@@ -10,7 +10,7 @@ attribution_source: "National Park Service; DSNI's historic timeline; Medoff & S
 source_url: "https://www.nps.gov/mabi/learn/historyculture/che-madyun.htm"
 web: "https://relationalbuilder.org/commons/e/dudley-street-how-many-of-you-live-here"
 created: "2026-08-13"
-updated: "2026-08-13"
+updated: "2026-10-22"
 rtp_id: "d3edf3f2-3a7f-41a4-9b43-c828c54627d8"
 ---
 # Dudley Street: 'How Many of You Live in This Neighborhood?'
@@ -29,6 +29,7 @@ What it teaches: governance design is a power question, not a formality. A resid
 
 - **era:** 1984–present
 - **place:** Roxbury / North Dorchester, Boston
+- **location:** {"lat":42.3294113,"lng":-71.0887127,"basis":"attribution","label":"Roxbury Crossing, Boston, Massachusetts","precision":"neighborhood"}
 - **illustrates:** launch-a-team, campaign-timeline-peaks, tracking-down-the-power
 - **source note:** Madyun's question and board structure per the National Park Service and DSNI's own timeline; eminent-domain approval dated by the BRA's Report and Decision of Nov. 10, 1988 (cited in Medoff & Sklar, 'Streets of Hope', 1994; DSNI's timeline agrees — some later retellings misdate the vote to 1989).
 - **practice kind:** story

@@ -11,7 +11,7 @@ attribution_source: "Civic Media Cookbook (2026), Appendix 2: Field Guide"
 source_url: "https://www.newsfutures.org/library/civic-media-cookbook"
 web: "https://relationalbuilder.org/commons/e/community-newsroom"
 created: "2026-07-10"
-updated: "2026-07-13"
+updated: "2026-10-22"
 rtp_id: "86f2b654-5327-4b84-8208-cadd39ba5b03"
 ---
 # Community Newsroom
@@ -29,6 +29,7 @@ A shared physical space for training, workshops, drop-ins, town halls, an FOI cl
 ## Details
 
 - **format:** physical newsroom space
+- **location:** {"lat":55.8377427,"lng":-4.256413,"basis":"attribution","label":"Govanhill, Glasgow, Scotland, United Kingdom","precision":"neighborhood"}
 - **patterns:** creating_shared_understanding
 - **source tag:** CB
 - **source note:** Civic Media Cookbook Appendix 2 Field Guide — as submitted by practitioners (2025).

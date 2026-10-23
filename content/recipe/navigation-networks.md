@@ -10,7 +10,7 @@ attribution_source: "Civic Media Cookbook (2026) — Jihii Jolly & Jennifer Bran
 source_url: "https://www.newsfutures.org/library/civic-media-cookbook"
 web: "https://relationalbuilder.org/commons/e/navigation-networks"
 created: "2026-07-10"
-updated: "2026-07-13"
+updated: "2026-10-22"
 rtp_id: "59012624-53c0-41c5-bd47-3b8bc1e34740"
 ---
 # Navigation Networks

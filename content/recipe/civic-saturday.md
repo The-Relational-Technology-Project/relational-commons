@@ -11,7 +11,7 @@ source_url: "https://citizenuniversity.us/participate/civic-saturday/"
 neighboring_recipes: "https://github.com/The-Relational-Technology-Project/neighboring-recipes/blob/main/recipes/05-bridging-difference/civic-saturday.md"
 web: "https://relationalbuilder.org/commons/e/civic-saturday"
 created: "2026-05-22"
-updated: "2026-05-22"
+updated: "2026-10-22"
 rtp_id: "68930d82-6234-4223-a67f-7ab420111920"
 ---
 # Civic Saturday
@@ -101,6 +101,7 @@ In another city, Civic Saturday became a platform for emerging leaders, delibera
 - Closing song (5 min)
 - Recommitment ritual (10 to 20 min)
 - Refreshments and gathering after, **The recommitment ritual.** People share, one at a time or in pairs, what they're committing to civically in the coming weeks or months. Some communities pass a candle or a token. Some have people write their commitments on cards that go into a basket. Some read commitments aloud., **Promote with care.** This is a strange form to many people. Lead with the experience, not the format. "Come gather around what it means to be a citizen together.", **Hold it as if it's sacred.** If you treat it casually, it will feel like a meeting. The ritual is the whole point.
+- **location:** {"lat":47.6038321,"lng":-122.330062,"basis":"research","label":"Seattle, Washington","precision":"origin"}
 - **file path:** recipes/05-bridging-difference/civic-saturday.md
 - **variations:** **Recurring Civic Saturday.** Monthly or quarterly. Build the community of regular attendees over time.
 

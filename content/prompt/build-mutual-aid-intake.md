@@ -9,7 +9,7 @@ author: "Relational Technology Project, after Bed-Stuy Strong & MAMAS"
 attribution_source: "Local Civic Tech shelf starter prompt"
 web: "https://relationalbuilder.org/commons/e/build-mutual-aid-intake"
 created: "2026-08-13"
-updated: "2026-08-13"
+updated: "2026-10-22"
 rtp_id: "a9853ec0-0536-4880-ae0c-8ca28106f3f1"
 ---
 # Build: Phone-First Mutual Aid Intake

@@ -10,7 +10,7 @@ attribution_source: "neighboring-commons-skill-kb"
 source_url: "https://www.mutualaidhub.org/"
 web: "https://relationalbuilder.org/commons/e/mutual-aid-hub"
 created: "2026-05-22"
-updated: "2026-05-22"
+updated: "2026-10-22"
 rtp_id: "6e13b563-d3ba-4806-9168-e14346989b83"
 ---
 # Mutual Aid Hub

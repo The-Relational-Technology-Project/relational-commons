@@ -9,7 +9,7 @@ topics: ["builder-story"]
 author: "Hillary Do, BOLT Founder"
 web: "https://relationalbuilder.org/commons/e/the-school-for-grassroots-leaders"
 created: "2026-06-10"
-updated: "2026-10-21"
+updated: "2026-10-22"
 rtp_id: "7df7d619-34e0-483d-a359-2e64c5168a59"
 ---
 # The School for Grassroots Leaders
@@ -29,6 +29,10 @@ rtp_id: "7df7d619-34e0-483d-a359-2e64c5168a59"
 <p>One young person in the program — Mecca — was inspired by watching neighborhood people build from nothing. Now she wants to open an arts rec center and understands how to access the resources and support to do it. Young people in BOLT have higher school attendance than the district average.</p>
 
 <p>Hillary's critique of drive-by solutions is sharp: too many programs treat communities as problems to be solved from the outside. BOLT's approach is different. If you want to understand a community, you should be invited to dinner — not parachute in with a plan. The leaders are already there, already working. The question is whether the rest of the system will recognize, resource, and connect them.</p>
+
+## Details
+
+- **location:** {"lat":39.9527237,"lng":-75.1635262,"basis":"text","label":"Philadelphia, Pennsylvania","precision":"city"}
 
 ---
 

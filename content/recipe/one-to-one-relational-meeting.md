@@ -9,7 +9,7 @@ author: "Marshall Ganz & the broad-based organizing tradition (IAF's 'relational
 attribution_source: "Organizing: People, Power, Change (2014), adapted from the work of Marshall Ganz, the Leading Change Network & the New Organizing Institute"
 web: "https://relationalbuilder.org/commons/e/one-to-one-relational-meeting"
 created: "2026-08-13"
-updated: "2026-08-13"
+updated: "2026-10-22"
 rtp_id: "ccf3bb89-2ff8-4c9e-8d72-e5d809b86a1c"
 ---
 # The One-to-One
@@ -31,6 +31,7 @@ Organizers use three types of 1:1s: **recruitment** (start a relationship), **ma
 
 ## Details
 
+- **location:** {"lat":42.3656347,"lng":-71.1040018,"basis":"research","label":"Cambridge, Massachusetts","precision":"origin"}
 - **field tips:** Listen 70%, talk 30%, Ask 'why?' more than 'what?', Split the bill, Maintenance 1:1s every two weeks, before problems, not after
 - **ingredients:** two people, 30-60 scheduled minutes, a public-ish place (coffee shop, park, porch), a real question and a real ask
 - **source note:** Structure (purpose / exploration / exchange / commitment), the three types of 1:1s, and sustainable relationship ratios from 'Organizing: People, Power, Change' (2014). The relational meeting as a named discipline descends from the Industrial Areas Foundation.

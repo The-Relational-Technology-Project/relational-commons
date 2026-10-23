@@ -11,7 +11,7 @@ attribution_source: "prosocialdesign.org"
 source_url: "https://www.prosocialdesign.org/library/give-audio-option-for-user-input"
 web: "https://relationalbuilder.org/commons/e/psd-give-audio-option-for-user-input"
 created: "2026-10-12"
-updated: "2026-10-12"
+updated: "2026-10-22"
 rtp_id: "55c7fc65-e6de-47db-b660-983d1112c6a7"
 ---
 # Audio Option for User Input

@@ -10,7 +10,7 @@ source_repo: "rt-mcp-server"
 source_url: "https://github.com/The-Relational-Technology-Project/rt-mcp-server"
 web: "https://relationalbuilder.org/commons/e/three-layers-of-neighborhood-infrastructure"
 created: "2026-05-22"
-updated: "2026-05-22"
+updated: "2026-10-22"
 rtp_id: "d5229d8c-0fa0-4792-bfe9-1dfc1c71b952"
 ---
 # Three Layers of Neighborhood Infrastructure

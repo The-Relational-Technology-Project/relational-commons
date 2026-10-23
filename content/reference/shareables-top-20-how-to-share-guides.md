@@ -10,7 +10,7 @@ attribution_source: "neighboring-commons-skill-kb"
 source_url: "https://www.shareable.net/shareables-top-20-how-to-share-guides/"
 web: "https://relationalbuilder.org/commons/e/shareables-top-20-how-to-share-guides"
 created: "2026-05-22"
-updated: "2026-05-22"
+updated: "2026-10-22"
 rtp_id: "f660c9be-1373-405e-83c5-f3d247c68bbb"
 ---
 # Shareable's Top 20 How-to Share Guides

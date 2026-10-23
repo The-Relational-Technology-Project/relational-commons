@@ -10,7 +10,7 @@ attribution_source: "neighboring-commons-skill-kb"
 source_url: "https://www.shareable.net/how-to/how-to-organize-a-successful-skillshare/"
 web: "https://relationalbuilder.org/commons/e/how-to-organize-a-skillshare"
 created: "2026-05-22"
-updated: "2026-05-22"
+updated: "2026-10-22"
 rtp_id: "6b09aa68-f74b-47c4-a8fc-48856cfd2b6f"
 ---
 # How to Organize a Skillshare

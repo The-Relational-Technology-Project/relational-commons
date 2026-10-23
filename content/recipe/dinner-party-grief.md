@@ -11,7 +11,7 @@ source_url: "https://www.thedinnerparty.org/"
 neighboring_recipes: "https://github.com/The-Relational-Technology-Project/neighboring-recipes/blob/main/recipes/02-small-groups-for-support/dinner-party-grief.md"
 web: "https://relationalbuilder.org/commons/e/dinner-party-grief"
 created: "2026-05-22"
-updated: "2026-05-22"
+updated: "2026-10-22"
 rtp_id: "22767b46-37d7-4493-bf7c-381752614770"
 ---
 # Dinner Party Grief
@@ -85,6 +85,7 @@ A peer Table changes both. Same life stage, same loss landscape, food on the tab
 ## Details
 
 - **steps:** **If you can, join an existing Table first.** [The Dinner Party](https://www.thedinnerparty.org/) matches you with peers near you or virtually. Going through the experience is the best way to learn the format., **Or, start your own.** Reach out to 5 to 10 people you know who've experienced significant loss. Be specific about the format and the loss type if there's a shared one., **Pick a host home or rotation.** Many Tables rotate hosting; the host cooks or coordinates potluck., **Set the meeting rhythm.** Most Tables meet every 4 to 6 weeks. Frequent enough to maintain relationships, sparse enough to fit in real life., **Open with a check-in.** Each person, briefly: how grief showed up since last time. No fixing. No ranking. Listen., **Share the meal.** Conversation moves naturally between grief, work, relationships, what's hard, what's surprising. The Table is the structure; the meal is the medium., **Hold confidentiality.** What's said at the Table stays at the Table. Members can choose to talk outside, but it's not assumed., **End with a closing ritual if you want one.** A toast, a poem, a moment of silence. Or just goodnight., **Stay together over time.** The relationships are the work. The Table that runs for two years is doing something different than the one that runs for two months.
+- **location:** {"lat":34.0536923,"lng":-118.2427676,"basis":"research","label":"Los Angeles, California","precision":"origin"}
 - **file path:** recipes/02-small-groups-for-support/dinner-party-grief.md
 - **variations:** **Loss-specific Table.** A Table for people who've lost parents, partners, siblings, or children. The shared loss type deepens recognition.
 

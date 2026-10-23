@@ -11,7 +11,7 @@ source_url: "https://www.portland.gov/civic/myneighborhood/about-neighborhood-sy
 neighboring_recipes: "https://github.com/The-Relational-Technology-Project/neighboring-recipes/blob/main/recipes/11-civic-rhythms/neighborhood-associations.md"
 web: "https://relationalbuilder.org/commons/e/neighborhood-association"
 created: "2026-05-22"
-updated: "2026-05-22"
+updated: "2026-10-22"
 rtp_id: "e5ba3fe0-cdd3-48e3-a1c3-e6c2c4c0010a"
 ---
 # Neighborhood Association

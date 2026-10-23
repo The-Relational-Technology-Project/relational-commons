@@ -10,7 +10,7 @@ attribution_source: "neighboring-commons-skill-kb"
 source_url: "https://theworldcafe.com/key-concepts-resources/world-cafe-method/"
 web: "https://relationalbuilder.org/commons/e/the-world-caf"
 created: "2026-05-22"
-updated: "2026-05-22"
+updated: "2026-10-22"
 rtp_id: "f12d836f-7807-455a-90e0-e80f9e69f59a"
 ---
 # The World Café

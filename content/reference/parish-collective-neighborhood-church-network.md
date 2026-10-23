@@ -10,7 +10,7 @@ attribution_source: "neighboring-commons-skill-kb"
 source_url: "https://www.parishcollective.org/"
 web: "https://relationalbuilder.org/commons/e/parish-collective-neighborhood-church-network"
 created: "2026-05-22"
-updated: "2026-05-22"
+updated: "2026-10-22"
 rtp_id: "f0345690-6ae7-4723-b4c7-b8513de8d266"
 ---
 # Parish Collective: Neighborhood Church Network

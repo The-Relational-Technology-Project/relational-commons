@@ -9,7 +9,7 @@ author: "Marshall Ganz"
 attribution_source: "Organizing: People, Power, Change (2014)"
 web: "https://relationalbuilder.org/commons/e/theory-of-change-sentence"
 created: "2026-08-13"
-updated: "2026-08-13"
+updated: "2026-10-22"
 rtp_id: "41ae669c-177f-4dd1-8ef7-fabf57eaab47"
 ---
 # A Strategy You Can Say Out Loud
@@ -32,6 +32,7 @@ Big goals nest: the "mountaintop" goal is reached through smaller goals that eac
 
 ## Details
 
+- **location:** {"lat":42.3656347,"lng":-71.1040018,"basis":"research","label":"Cambridge, Massachusetts","precision":"origin"}
 - **ingredients:** your people, named, their problem, analyzed (why hasn't it been solved?), a measurable goal, one honest sentence
 - **source note:** Strategy framework and theory-of-change format from 'Organizing: People, Power, Change' (2014); Montgomery example follows the guide's own treatment (see Taylor Branch, 'Parting the Waters').
 - **how it works:** Answer in order: who are our people? what is the problem? what is our goal?, Draft: if we do X, then Y, because Z., Test the goal: measurable, focused, capacity-building, leveraged, motivating, repeatable., Nest it: what smaller goal builds the capacity to reach the mountaintop?, Say it out loud to someone outside the team. If the 'because' wobbles, rework it.

@@ -11,7 +11,7 @@ attribution_source: "Civic Media Cookbook (2026), Appendix 2: Field Guide"
 source_url: "https://www.newsfutures.org/library/civic-media-cookbook"
 web: "https://relationalbuilder.org/commons/e/denver-community-museum"
 created: "2026-07-10"
-updated: "2026-07-13"
+updated: "2026-10-22"
 rtp_id: "631ca167-7476-446f-968b-4da866d96578"
 ---
 # Denver Community Museum
@@ -28,6 +28,7 @@ A temporary storefront museum (2008-2009) with monthly community-generated exhib
 ## Details
 
 - **format:** pop-up storefront museum
+- **location:** {"lat":39.7392364,"lng":-104.984862,"basis":"attribution","label":"Denver, Colorado","precision":"city"}
 - **patterns:** reimagining_public_resources, deepening_understanding_of_place
 - **source tag:** CB
 - **source note:** Civic Media Cookbook Appendix 2 Field Guide — as submitted by practitioners (2025).

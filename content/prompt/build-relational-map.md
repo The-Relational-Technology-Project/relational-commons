@@ -9,7 +9,7 @@ author: "Relational Technology Project"
 attribution_source: "Community Organizing shelf starter prompt"
 web: "https://relationalbuilder.org/commons/e/build-relational-map"
 created: "2026-08-13"
-updated: "2026-08-13"
+updated: "2026-10-22"
 rtp_id: "92bd2858-6c82-4a29-b20e-f830a6447a2a"
 ---
 # Build: A Relational Map for Your Block

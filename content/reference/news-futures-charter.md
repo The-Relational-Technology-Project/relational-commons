@@ -10,7 +10,7 @@ attribution_source: "News Futures working group"
 source_url: "https://newsfutures.org/charter"
 web: "https://relationalbuilder.org/commons/e/news-futures-charter"
 created: "2026-07-10"
-updated: "2026-07-10"
+updated: "2026-10-22"
 rtp_id: "a47edc0a-879e-4e01-a14a-ee9c7d923781"
 ---
 # The News Futures Charter

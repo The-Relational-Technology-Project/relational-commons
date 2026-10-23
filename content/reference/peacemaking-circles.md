@@ -10,7 +10,7 @@ attribution_source: "neighboring-commons-skill-kb"
 source_url: "https://livingjusticepress.org/product/peacemaking-circles-from-conflict-to-community/"
 web: "https://relationalbuilder.org/commons/e/peacemaking-circles"
 created: "2026-05-22"
-updated: "2026-05-22"
+updated: "2026-10-22"
 rtp_id: "254c12f1-3f7a-4bf2-b35c-3cd162f188ac"
 ---
 # Peacemaking Circles
@@ -55,6 +55,7 @@ Emerges from indigenous wisdom traditions, particularly Haudenosaunee and other 
 ## Details
 
 - **category:** Restorative & Transformative Justice
+- **location:** {"lat":44.9497487,"lng":-93.0931028,"basis":"research","label":"Saint Paul, Minnesota","precision":"origin"}
 - **entry type:** Practice
 - **key ingredients raw:** - *Time*: Multiple sessions: pre-circles (2-4 weeks), main circle (2-4 hours), follow-up circles (ongoing)
 - *People*: Facilitators with training; affected community members; 8-50+ participants

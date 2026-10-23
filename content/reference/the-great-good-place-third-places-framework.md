@@ -10,7 +10,7 @@ attribution_source: "neighboring-commons-skill-kb"
 source_url: "https://www.amazon.com/Great-Good-Place-Bookstores-Community/dp/1569246815"
 web: "https://relationalbuilder.org/commons/e/the-great-good-place-third-places-framework"
 created: "2026-05-22"
-updated: "2026-05-22"
+updated: "2026-10-22"
 rtp_id: "e89b309a-34a7-4dec-8d2b-6fd6a461567e"
 ---
 # The Great Good Place (Third Places Framework)

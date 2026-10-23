@@ -10,7 +10,7 @@ source_repo: "neighboring-recipes/frameworks"
 neighboring_recipes: "https://github.com/The-Relational-Technology-Project/neighboring-recipes/blob/main/frameworks/minimal-viable-structure.md"
 web: "https://relationalbuilder.org/commons/e/minimal-viable-structure"
 created: "2026-05-22"
-updated: "2026-05-22"
+updated: "2026-10-22"
 rtp_id: "ddd3720f-7cf0-4334-ad8c-6e0ad68ab073"
 ---
 # Minimal Viable Structure

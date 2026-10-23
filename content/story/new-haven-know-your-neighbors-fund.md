@@ -12,7 +12,7 @@ attribution_source: "https://knowyourneighborsfund.org/"
 source_url: "https://knowyourneighborsfund.org/"
 web: "https://relationalbuilder.org/commons/e/new-haven-know-your-neighbors-fund"
 created: "2026-10-02"
-updated: "2026-10-02"
+updated: "2026-10-22"
 rtp_id: "fedcde18-8458-4ff2-aa8a-9a3d6e2f073b"
 ---
 # Know Your Neighbors Fund (New Haven, CT)
@@ -41,6 +41,7 @@ https://knowyourneighborsfund.org/ (redirects to https://www.civicworksct.org/kn
 - **maker:** Civic Works
 - **place:** New Haven, CT
 - **amounts:** $200 per project
+- **location:** {"lat":41.3082138,"lng":-72.9250518,"basis":"attribution","label":"New Haven, Connecticut","precision":"city"}
 - **hosted url:** https://knowyourneighborsfund.org/
 - **grant shape:** fixed
 - **local object:** morning chess clubs and block potlucks; recurring neighborhood traditions

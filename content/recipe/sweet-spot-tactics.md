@@ -9,7 +9,7 @@ author: "Marshall Ganz organizing tradition"
 attribution_source: "Organizing: People, Power, Change (2014)"
 web: "https://relationalbuilder.org/commons/e/sweet-spot-tactics"
 created: "2026-08-13"
-updated: "2026-08-13"
+updated: "2026-10-22"
 rtp_id: "0de2e94d-3d0a-444f-8227-21fa2e89bbe2"
 ---
 # The Sweet Spot Test for Tactics
@@ -32,6 +32,7 @@ Nearly any task can be redesigned to meet these criteria — turning data entry 
 
 ## Details
 
+- **location:** {"lat":42.3656347,"lng":-71.1040018,"basis":"research","label":"Cambridge, Massachusetts","precision":"origin"}
 - **ingredients:** a proposed tactic, the three-circle test, willingness to cut beloved-but-pointless activities
 - **source note:** From 'Organizing: People, Power, Change' (2014): the tactics 'sweet spot' and motivational engagement criteria (after Hackman & Oldham's job-design research).
 - **how it works:** Score the tactic: strategic? strengthens the organization? develops individuals?, Redesign until it hits all three, or cut it., Design for motivation: meaningful, autonomous, feedback-rich., Check: whole task, visible impact, varied skills, real choices, visible results., After the action, ask participants: would you do this again? Why?

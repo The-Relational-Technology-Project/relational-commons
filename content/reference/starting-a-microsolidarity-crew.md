@@ -10,7 +10,7 @@ attribution_source: "neighboring-commons-skill-kb"
 source_url: "https://www.microsolidarity.cc/practices/how-you-can-get-started"
 web: "https://relationalbuilder.org/commons/e/starting-a-microsolidarity-crew"
 created: "2026-05-22"
-updated: "2026-05-22"
+updated: "2026-10-22"
 rtp_id: "f221d1f0-4225-4265-874a-204ad26e89f8"
 ---
 # Starting a Microsolidarity Crew

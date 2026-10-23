@@ -10,7 +10,7 @@ attribution_source: "neighboring-commons-skill-kb"
 source_url: "https://fasola.org/"
 web: "https://relationalbuilder.org/commons/e/sacred-harp-and-shape-note-singing"
 created: "2026-05-22"
-updated: "2026-05-22"
+updated: "2026-10-22"
 rtp_id: "0c71ce10-310b-411b-9cc2-5d5eb5caf0aa"
 ---
 # Sacred Harp and Shape Note Singing
@@ -45,6 +45,7 @@ Emerged from singing school traditions of 1700s-1800s New England, perpetuated i
 ## Details
 
 - **category:** Neighborhood Gathering
+- **location:** {"lat":32.3293809,"lng":-83.1137366,"basis":"research","label":"Georgia","precision":"origin"}
 - **entry type:** Practice
 - **key ingredients raw:** - *Time*: 2-3 hours per singing; monthly or more frequent regular singings
 - *People*: All are welcome regardless of experience; rotating leaders and singers

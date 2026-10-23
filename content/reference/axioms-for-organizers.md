@@ -10,7 +10,7 @@ attribution_source: "'Axioms for Organizers' (1989); Gabriel Thompson, 'America'
 source_url: "https://coloradojobswithjustice.blogspot.com/2011/05/axioms-for-organizers-by-fred-ross-sr.html"
 web: "https://relationalbuilder.org/commons/e/axioms-for-organizers"
 created: "2026-08-13"
-updated: "2026-08-13"
+updated: "2026-10-22"
 rtp_id: "ad9f29e7-4b51-43a8-a159-101d4700c3cf"
 ---
 # Axioms for Organizers (Fred Ross Sr.)

@@ -10,7 +10,7 @@ attribution_source: "neighboring-commons-skill-kb"
 source_url: "https://thenapministry.com/"
 web: "https://relationalbuilder.org/commons/e/the-nap-ministry-rest-as-resistance-communal-rest"
 created: "2026-05-22"
-updated: "2026-05-22"
+updated: "2026-10-22"
 rtp_id: "7684cb82-e416-4add-809b-9911d6b5bfb4"
 ---
 # The Nap Ministry: Rest as Resistance & Communal Rest
@@ -45,6 +45,7 @@ Rooted in Black radical tradition, disability justice, and somatic practices. Co
 ## Details
 
 - **category:** Community Care & Healing
+- **location:** {"lat":33.7544657,"lng":-84.3898151,"basis":"research","label":"Atlanta, Georgia","precision":"origin"}
 - **entry type:** Practice
 - **key ingredients raw:** - *Time*: Nap sessions: 30 min-2 hours; immersive events: 4-8 hours; training/workshops: 2-4 hours
 - *People*: Facilitators trained in somatic and healing practices (ideally from Black communities); community participants; optional: musicians, artists, healers

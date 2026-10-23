@@ -11,7 +11,7 @@ attribution_source: "Knight Foundation; Twin Cities Daily Planet"
 source_url: "https://knightfoundation.org/articles/democracy-bringing-new-voices-civic-tech/"
 web: "https://relationalbuilder.org/commons/e/e-democracy-doorsteps"
 created: "2026-08-13"
-updated: "2026-08-13"
+updated: "2026-10-22"
 rtp_id: "cbb68000-691f-441f-9866-cbf99b1f7822"
 ---
 # E-Democracy: The Forums Built by Door-Knocking
@@ -30,6 +30,7 @@ What it teaches: this is the bridge between this shelf and the organizing one. T
 
 - **era:** 2007–2010s
 - **place:** Minneapolis–St. Paul, Minnesota
+- **location:** {"lat":44.9696027,"lng":-93.2469098,"also":[{"lat":44.9593583,"lng":-93.1263071,"label":"Frogtown, Saint Paul, Minnesota"}],"basis":"attribution","label":"Cedar-Riverside, Minneapolis, Minnesota","precision":"neighborhood"}
 - **illustrates:** six-lessons-neighborhood-tech
 - **source note:** Outreach figures per the Knight Foundation's own account; forums now archived — the inclusion method is the durable artifact.
 - **practice kind:** story

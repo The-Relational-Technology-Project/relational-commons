@@ -11,7 +11,7 @@ attribution_source: "prosocialdesign.org"
 source_url: "https://www.prosocialdesign.org/library/suggest-constructive-rephrased-messages"
 web: "https://relationalbuilder.org/commons/e/psd-suggest-constructive-rephrased-messages"
 created: "2026-10-12"
-updated: "2026-10-12"
+updated: "2026-10-22"
 rtp_id: "f269d0a5-5b6a-48ec-ab22-08057f8eebc5"
 ---
 # Suggest Constructive Rephrased Messages

@@ -11,7 +11,7 @@ attribution_source: "prosocialdesign.org"
 source_url: "https://www.prosocialdesign.org/library/list-tips-for-checking-accuracy-of-shared-headlines"
 web: "https://relationalbuilder.org/commons/e/psd-list-tips-for-checking-accuracy-of-shared-headlines"
 created: "2026-10-12"
-updated: "2026-10-12"
+updated: "2026-10-22"
 rtp_id: "69fa7ffa-0f0c-4f4b-a341-c1bd2e28e4e5"
 ---
 # Misinformation literacy

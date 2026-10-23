@@ -11,7 +11,7 @@ source_url: "https://www.pocacoop.com/"
 neighboring_recipes: "https://github.com/The-Relational-Technology-Project/neighboring-recipes/blob/main/recipes/08-healing-and-conflict/community-acupuncture.md"
 web: "https://relationalbuilder.org/commons/e/community-acupuncture"
 created: "2026-05-22"
-updated: "2026-05-22"
+updated: "2026-10-22"
 rtp_id: "a0b3a6f7-2cdb-4d3e-8e63-02c363771acd"
 ---
 # Community Acupuncture
@@ -90,6 +90,7 @@ The model has expanded substantially in response to healthcare access gaps. It p
 
 - **steps:** **Connect with the [People's Organization of Community Acupuncture (POCA)](https://www.pocacoop.com/).** This is the field's cooperative network. They support new clinics with model documents, training, and a community of practitioners., **Find space.** A storefront, a community center room, sometimes a faith space. Quiet, accessible, large enough for 8 to 12 reclining chairs., **Set the sliding scale.** Common ranges: $10 to $70. No income verification. Trust., **Stock simply.** Needles, basic equipment, comfortable seating, soft lighting and sound., **Open for treatments.** Many community clinics run drop-in or short-appointment models. Sessions can overlap (one patient is receiving needles while two others are resting)., **Build the practice.** Word of mouth is the dominant channel. Patients return weekly or biweekly for chronic conditions, pain management, mental health, fertility, and many other concerns., **Hold trust.** Some patients will overpay. Some will underpay. Most will pay close to the middle. This is the design. Don't audit. Don't enforce.
 ### If you're a community member supporting an existing clinic, **Try it.** A single session is the cheapest way to find out what the model is., **Pay generously if you can.** The sliding scale only works if some patients pay above the middle., **Spread the word.** Most community acupuncture clinics grow through word of mouth in their neighborhoods., **Pay-it-forward.** Some clinics accept donations earmarked to subsidize treatments for people who can't afford even the minimum. Often a few hundred dollars covers many sessions.
+- **location:** {"lat":45.5202471,"lng":-122.674194,"basis":"research","label":"Portland, Oregon","precision":"origin"}
 - **file path:** recipes/08-healing-and-conflict/community-acupuncture.md
 - **variations:** **Mobile community acupuncture.** Some clinics travel to schools, recovery programs, shelters, and other community spaces.
 

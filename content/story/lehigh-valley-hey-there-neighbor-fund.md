@@ -12,7 +12,7 @@ attribution_source: "https://bikebiscuits.org/apply"
 source_url: "https://bikebiscuits.org/apply"
 web: "https://relationalbuilder.org/commons/e/lehigh-valley-hey-there-neighbor-fund"
 created: "2026-10-02"
-updated: "2026-10-02"
+updated: "2026-10-22"
 rtp_id: "cadbe14c-d244-4f38-8d46-7bb0718226db"
 ---
 # Hey There Neighbor! (Lehigh Valley, PA)
@@ -41,6 +41,7 @@ https://bikebiscuits.org/apply — listed on With Neighbors (https://withneighbo
 - **maker:** Bike Biscuits
 - **place:** Lehigh Valley (Allentown, Easton, Bethlehem), PA
 - **amounts:** up to $100 per gathering
+- **location:** {"lat":40.5947552,"lng":-75.5679786,"also":[{"lat":40.6178915,"lng":-75.3786521,"label":"Bethlehem, Pennsylvania"},{"lat":40.6022552,"lng":-75.4716115,"label":"Allentown, Pennsylvania"},{"lat":40.6916081,"lng":-75.2099866,"label":"Easton, Pennsylvania"}],"basis":"attribution","label":"Crackersport, South Whitehall Township, Pennsylvania","precision":"region"}
 - **hosted url:** https://bikebiscuits.org/apply
 - **grant shape:** fixed
 - **local object:** a hand-drawn horse; art-and-play gatherings

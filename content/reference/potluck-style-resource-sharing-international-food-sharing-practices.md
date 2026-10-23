@@ -10,7 +10,7 @@ attribution_source: "neighboring-commons-skill-kb"
 source_url: "https://www.interfaithamerica.org/resources/americas-potluck-toolkit/"
 web: "https://relationalbuilder.org/commons/e/potluck-style-resource-sharing-international-food-sharing-practices"
 created: "2026-05-22"
-updated: "2026-05-22"
+updated: "2026-10-22"
 rtp_id: "9eea717c-3e21-4197-ac1f-0045e2f0b443"
 ---
 # Potluck-Style Resource Sharing (International Food-Sharing Practices)

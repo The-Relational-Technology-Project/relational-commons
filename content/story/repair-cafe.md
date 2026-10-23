@@ -10,7 +10,7 @@ author: "repaircafe.org / multiple sources"
 neighboring_recipes: "https://github.com/The-Relational-Technology-Project/neighboring-recipes/blob/main/recipes/03-mutual-aid/repair-cafe.md"
 web: "https://relationalbuilder.org/commons/e/repair-cafe"
 created: "2026-06-10"
-updated: "2026-10-21"
+updated: "2026-10-22"
 rtp_id: "275f2b89-2b41-432d-8dc8-1a6d7482520c"
 ---
 # Repair Cafe
@@ -29,6 +29,10 @@ rtp_id: "275f2b89-2b41-432d-8dc8-1a6d7482520c"
 - Mentions: [Tool Library](../recipe/tool-library.md)
 - Mentioned in: [Topic Index](../framework/topic-index.md)
 - Mentioned in: [Transition Town](../recipe/transition-town.md)
+
+## Details
+
+- **location:** {"lat":52.3730796,"lng":4.8924534,"basis":"text","label":"Amsterdam, North Holland, Netherlands","precision":"origin"}
 
 ---
 

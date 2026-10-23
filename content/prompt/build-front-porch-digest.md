@@ -9,7 +9,7 @@ author: "Relational Technology Project, after Front Porch Forum"
 attribution_source: "Local Civic Tech shelf starter prompt"
 web: "https://relationalbuilder.org/commons/e/build-front-porch-digest"
 created: "2026-08-13"
-updated: "2026-08-13"
+updated: "2026-10-22"
 rtp_id: "c84d57db-adfd-45cb-a52d-2e2d00c8aee0"
 ---
 # Build: A Front-Porch Digest for One Block

@@ -10,7 +10,7 @@ attribution_source: "localwiki.org"
 source_url: "https://localwiki.org/about/"
 web: "https://relationalbuilder.org/commons/e/localwiki"
 created: "2026-08-13"
-updated: "2026-08-13"
+updated: "2026-10-22"
 rtp_id: "7f835cf0-d979-4c92-a77d-7adf211f19a9"
 ---
 # LocalWiki
@@ -28,6 +28,7 @@ Honest status: the sites are online, but development has been largely dormant fo
 - **maker:** LocalWiki (nonprofit, born from DavisWiki)
 - **hosted:** localwiki.org (maintenance mode)
 - **license:** GPL-2.0 (backend); content CC BY
+- **location:** {"lat":38.5435526,"lng":-121.739005,"basis":"text","label":"Davis, California","precision":"origin"}
 - **repo url:** https://github.com/localwiki/localwiki-backend-server
 - **remix idea:** A block-scale living field guide: every place and unwritten rule gets an editable page.
 - **status note:** Sites online; development largely dormant — a proven model awaiting its next builder.

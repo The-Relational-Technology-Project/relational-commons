@@ -10,7 +10,7 @@ attribution_source: "neighboring-commons-skill-kb"
 source_url: "https://beautifultrouble.org/"
 web: "https://relationalbuilder.org/commons/e/beautiful-trouble-a-toolbox-for-revolution"
 created: "2026-05-22"
-updated: "2026-05-22"
+updated: "2026-10-22"
 rtp_id: "d5e38ac7-8cd9-4859-a0b0-a15e67ef53f5"
 ---
 # Beautiful Trouble: A Toolbox for Revolution

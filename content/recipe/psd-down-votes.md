@@ -11,7 +11,7 @@ attribution_source: "prosocialdesign.org"
 source_url: "https://www.prosocialdesign.org/library/down-votes"
 web: "https://relationalbuilder.org/commons/e/psd-down-votes"
 created: "2026-10-12"
-updated: "2026-10-12"
+updated: "2026-10-22"
 rtp_id: "d1a07986-6690-4a35-8bae-9f6caefb9e10"
 ---
 # Down Votes

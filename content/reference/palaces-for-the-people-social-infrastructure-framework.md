@@ -10,7 +10,7 @@ attribution_source: "neighboring-commons-skill-kb"
 source_url: "https://www.amazon.com/Palaces-People-Infrastructure-Inequality-Polarization/dp/1524761168"
 web: "https://relationalbuilder.org/commons/e/palaces-for-the-people-social-infrastructure-framework"
 created: "2026-05-22"
-updated: "2026-05-22"
+updated: "2026-10-22"
 rtp_id: "5907d491-996c-4dd4-8aa2-d2fe969e6432"
 ---
 # Palaces for the People (Social Infrastructure Framework)
@@ -32,6 +32,7 @@ Klinenberg's work extends Oldenburg's third place concept, emphasizing public in
 ## Details
 
 - **category:** Placemaking & Public Space
+- **location:** {"lat":40.7127281,"lng":-74.0060152,"basis":"research","label":"New York","precision":"origin"}
 - **entry type:** Reference
 
 ---

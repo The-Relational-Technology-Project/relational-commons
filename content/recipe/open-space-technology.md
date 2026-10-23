@@ -11,7 +11,7 @@ source_repo: "neighboring-recipes"
 source_url: "https://openspaceworld.org/wp2/hho/papers/brief-users-guide-open-space-technology/"
 web: "https://relationalbuilder.org/commons/e/open-space-technology"
 created: "2026-05-22"
-updated: "2026-07-13"
+updated: "2026-10-22"
 rtp_id: "635797bf-486a-4e20-b900-4950f7da73d1"
 ---
 # Open Space Technology

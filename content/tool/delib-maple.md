@@ -10,7 +10,7 @@ attribution_source: "mapletestimony.org"
 source_url: "https://mapletestimony.org"
 web: "https://relationalbuilder.org/commons/e/delib-maple"
 created: "2026-10-08"
-updated: "2026-10-08"
+updated: "2026-10-22"
 rtp_id: "cbaf6381-8e62-43a8-9443-3e3b04c6a381"
 ---
 # MAPLE
@@ -30,6 +30,7 @@ Open source (MIT). Listed in Metagov's gallery for deliberating.
 - **maker:** Code for Boston
 - **stages:** deliberating
 - **license:** MIT
+- **location:** {"lat":42.3788774,"lng":-72.032366,"also":[{"lat":42.3588336,"lng":-71.0578303,"label":"Boston, Massachusetts"}],"basis":"text","label":"Massachusetts","precision":"region"}
 - **repo url:** https://github.com/codeforboston/maple
 - **image url:** https://texakzqqenzpxawktbgx.supabase.co/storage/v1/object/public/studio-library/tool-screenshots/delib-maple-2026-08.jpg
 - **remix idea:** A neighborhood testimony page for one local decision, with a plain explainer and public statements.

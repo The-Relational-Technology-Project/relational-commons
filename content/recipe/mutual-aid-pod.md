@@ -11,7 +11,7 @@ source_url: "https://bigdoorbrigade.com/mutual-aid-toolbox/"
 neighboring_recipes: "https://github.com/The-Relational-Technology-Project/neighboring-recipes/blob/main/recipes/02-small-groups-for-support/mutual-aid-pod.md"
 web: "https://relationalbuilder.org/commons/e/mutual-aid-pod"
 created: "2026-05-22"
-updated: "2026-05-22"
+updated: "2026-10-22"
 rtp_id: "4a358fa1-2db5-4ded-9a14-8ee1691060b1"
 ---
 # Mutual Aid Pod

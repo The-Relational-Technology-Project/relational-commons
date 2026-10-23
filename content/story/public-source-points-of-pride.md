@@ -11,7 +11,7 @@ attribution_source: "Civic Media Cookbook (2026), Appendix 2: Field Guide"
 source_url: "https://www.newsfutures.org/library/civic-media-cookbook"
 web: "https://relationalbuilder.org/commons/e/public-source-points-of-pride"
 created: "2026-07-10"
-updated: "2026-07-13"
+updated: "2026-10-22"
 rtp_id: "c3cea09f-b679-4e4e-890a-3f3e2b317533"
 ---
 # Public Source Points of Pride
@@ -23,6 +23,7 @@ An asset-framing initiative mapping community strengths in underresourced areas,
 ## Details
 
 - **format:** asset map + photo stories
+- **location:** {"lat":40.4418068,"lng":-79.8819609,"basis":"attribution","label":"Wilkinsburg, Pennsylvania","precision":"neighborhood"}
 - **patterns:** amplifying_unheard_voices
 - **source tag:** CB
 - **source note:** Civic Media Cookbook Appendix 2 Field Guide — as submitted by practitioners (2025).

@@ -10,7 +10,7 @@ attribution_source: "neighboring-commons-skill-kb"
 source_url: "https://connectivetissue.substack.com/p/connection-grift"
 web: "https://relationalbuilder.org/commons/e/connection-grift-critique-of-the-connection-industry"
 created: "2026-05-22"
-updated: "2026-05-22"
+updated: "2026-10-22"
 rtp_id: "296bd589-d912-4008-97bf-8b97fe749398"
 ---
 # Connection Grift: Critique of the Connection Industry

@@ -9,7 +9,7 @@ topics: ["builder-story"]
 author: "Referenced in Jesse Evers' guide / growfoodnorthampton.org"
 web: "https://relationalbuilder.org/commons/e/grow-food-northampton-massachusetts"
 created: "2026-06-10"
-updated: "2026-10-21"
+updated: "2026-10-22"
 rtp_id: "7f1141db-0246-4ced-b0ef-d5ad2ee3b3df"
 ---
 # Grow Food Northampton, Massachusetts
@@ -21,6 +21,10 @@ rtp_id: "7f1141db-0246-4ced-b0ef-d5ad2ee3b3df"
 ## Related in the commons
 
 - Mentions: [Community Garden](../recipe/community-garden.md)
+
+## Details
+
+- **location:** {"lat":42.3178989,"lng":-72.6311006,"basis":"text","label":"Northampton, Massachusetts","precision":"city"}
 
 ---
 

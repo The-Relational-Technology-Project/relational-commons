@@ -10,7 +10,7 @@ attribution_source: "neighboring-commons-skill-kb"
 source_url: "https://trustforciviclife.org/wp-content/uploads/2025/04/Trust-Community-Survey-Report_Apr2025.pdf"
 web: "https://relationalbuilder.org/commons/e/action-over-dialogue-report"
 created: "2026-05-22"
-updated: "2026-05-22"
+updated: "2026-10-22"
 rtp_id: "5165d249-c477-4906-abdb-f70ec4f02c28"
 ---
 # Action Over Dialogue Report

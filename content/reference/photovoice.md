@@ -10,7 +10,7 @@ attribution_source: "neighboring-commons-skill-kb"
 source_url: "https://photovoice.org/"
 web: "https://relationalbuilder.org/commons/e/photovoice"
 created: "2026-05-22"
-updated: "2026-05-22"
+updated: "2026-10-22"
 rtp_id: "159bf1ad-445e-4c82-9f3e-94cd9059cbb9"
 ---
 # Photovoice

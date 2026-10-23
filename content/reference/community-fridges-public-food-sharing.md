@@ -10,7 +10,7 @@ attribution_source: "neighboring-commons-skill-kb"
 source_url: "https://en.wikipedia.org/wiki/Community_fridge"
 web: "https://relationalbuilder.org/commons/e/community-fridges-public-food-sharing"
 created: "2026-05-22"
-updated: "2026-05-22"
+updated: "2026-10-22"
 rtp_id: "65234a13-ad23-4e9e-826d-922a58ab293f"
 ---
 # Community Fridges (Public Food Sharing)

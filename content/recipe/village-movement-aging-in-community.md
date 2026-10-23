@@ -11,7 +11,7 @@ source_url: "https://www.vtvnetwork.org/"
 neighboring_recipes: "https://github.com/The-Relational-Technology-Project/neighboring-recipes/blob/main/recipes/09-intergenerational/village-movement.md"
 web: "https://relationalbuilder.org/commons/e/village-movement-aging-in-community"
 created: "2026-05-22"
-updated: "2026-05-22"
+updated: "2026-10-22"
 rtp_id: "0bf79f0e-cc9d-486e-af77-6c13dc4631b8"
 ---
 # Village Movement (Aging in Community)
@@ -80,6 +80,7 @@ The model has demonstrated outcomes in member health, social connection, and abi
 ## Details
 
 - **steps:** **Connect with [the Village to Village Network](https://www.vtvnetwork.org/).** This national network supports new Villages with model documents, training, governance frameworks, and a community of established Villages willing to share what they've learned. Don't start from scratch., **Form a founding committee.** 5 to 15 people, often a mix of current elders, family members of elders, professionals (social workers, geriatricians), and community organizers., **Conduct community assessment.** What do older neighbors want and need? Surveys, focus groups, one-on-one conversations. The Village should fit the specific community., **Choose governance.** Most Villages are 501(c)(3) nonprofits. Some are fiscally sponsored. Some have municipal partnerships., **Set the membership model.** Annual dues. Sliding scale or reduced-fee membership for income-qualified members. Define services included., **Build the volunteer pool.** Vetted neighbors and family members who can help with rides, light home help, technology, social calls. Background checks and basic training are standard., **Launch programming.** Educational events. Social gatherings. Wellness activities. Trips. Programming builds the community that makes the help feel mutual rather than transactional., **Operate and adjust.** Most Villages take 2 to 5 years to find their groove. Member feedback is the primary tool for adjustment.
+- **location:** {"lat":42.3587085,"lng":-71.067829,"basis":"text","label":"Beacon Hill, Boston, Massachusetts","precision":"origin"}
 - **file path:** recipes/09-intergenerational/village-movement.md
 - **variations:** **Virtual Village.** A Village with a strong online component, useful in rural areas or for elders with mobility limitations.
 

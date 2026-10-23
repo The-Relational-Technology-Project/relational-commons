@@ -9,7 +9,7 @@ author: "Relational Technology Project"
 attribution_source: "Community Organizing shelf starter prompt"
 web: "https://relationalbuilder.org/commons/e/build-debrief-ritual"
 created: "2026-08-13"
-updated: "2026-08-13"
+updated: "2026-10-22"
 rtp_id: "9b04426a-feb2-48e4-b813-d6739ac5f335"
 ---
 # Build: A Debrief That Asks Both Questions

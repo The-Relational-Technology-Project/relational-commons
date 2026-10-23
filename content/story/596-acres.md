@@ -11,7 +11,7 @@ attribution_source: "596acres.org; Next City; Sunlight Foundation"
 source_url: "https://596acres.org/mission-and-story/"
 web: "https://relationalbuilder.org/commons/e/596-acres"
 created: "2026-08-13"
-updated: "2026-08-13"
+updated: "2026-10-22"
 rtp_id: "1a0608d9-a154-488a-821f-8252f0114c99"
 ---
 # 596 Acres: Signs on Fences
@@ -28,6 +28,7 @@ What it teaches: public data becomes neighborhood power through three moves — 
 
 - **era:** 2011–2018
 - **place:** New York City
+- **location:** {"lat":40.6526006,"lng":-73.9497211,"basis":"attribution","label":"Brooklyn, New York","precision":"city"}
 - **illustrates:** six-lessons-neighborhood-tech, remix-at-neighborhood-scale
 - **source note:** 143 campaigns per 596acres.org's own record; organizational sunset ~2018 with Living Lots continuing — Living Lots platform code: django-livinglots core is BSD-3-Clause, the NYC deployment AGPL-3.0.
 - **practice kind:** story

@@ -12,7 +12,7 @@ attribution_source: "https://www.peoriagov.org/1224/Hello-Neighbor"
 source_url: "https://www.peoriagov.org/1224/Hello-Neighbor"
 web: "https://relationalbuilder.org/commons/e/peoria-hello-neighbor-gathering-fund"
 created: "2026-10-02"
-updated: "2026-10-02"
+updated: "2026-10-22"
 rtp_id: "e37f737e-2ac5-4f08-a5bd-85e1b62f2bd1"
 ---
 # Hello Neighbor Gathering Fund (Peoria, IL)
@@ -41,6 +41,7 @@ https://www.peoriagov.org/1224/Hello-Neighbor — listed on With Neighbors (http
 - **maker:** City of Peoria Community Development Department
 - **place:** Peoria, IL
 - **amounts:** $100 per host, 15 awards
+- **location:** {"lat":40.6938609,"lng":-89.5891008,"basis":"attribution","label":"Peoria, Illinois","precision":"city"}
 - **hosted url:** https://www.peoriagov.org/1224/Hello-Neighbor
 - **grant shape:** fixed
 - **local object:** the city hello; pizza parties, ice cream socials, pancake breakfasts

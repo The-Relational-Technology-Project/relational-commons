@@ -9,7 +9,7 @@ topics: ["builder-story"]
 author: "Dale King and Community, Portsmouth, OH"
 web: "https://relationalbuilder.org/commons/e/the-pain-clinic"
 created: "2026-06-10"
-updated: "2026-10-21"
+updated: "2026-10-22"
 rtp_id: "336259df-ee44-4165-b2b5-bf4c5f4a07e1"
 ---
 # The Pain Clinic
@@ -31,6 +31,10 @@ rtp_id: "336259df-ee44-4165-b2b5-bf4c5f4a07e1"
 <p>The tragic loss of Billy Dever to an accidental fentanyl overdose during the filming deepened the urgency of the story. Billy had been so instrumental in the community's comeback that the filmmakers knew they couldn't let it go untold.</p>
 
 <p>What made Portsmouth's recovery remarkable was that the solution didn't come from Washington. Nobody from outside showed up with an answer. The town that invented the pill mills invented a way out, too. As Dale put it, you have to care that somebody in your neighborhood is dying. If you can start there, you can start seeing that we all have a responsibility for this whole thing. Community starts with a willingness to do something hard alongside someone — and saying "hi" after.</p>
+
+## Details
+
+- **location:** {"lat":38.7345374,"lng":-82.9962742,"basis":"attribution","label":"Portsmouth, Ohio","precision":"city"}
 
 ---
 

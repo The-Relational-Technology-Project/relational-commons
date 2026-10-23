@@ -11,7 +11,7 @@ attribution_source: "Civic Media Cookbook (2026), Appendix 2: Field Guide"
 source_url: "https://www.newsfutures.org/library/civic-media-cookbook"
 web: "https://relationalbuilder.org/commons/e/sound-off"
 created: "2026-07-10"
-updated: "2026-07-13"
+updated: "2026-10-22"
 rtp_id: "4437e2e0-4b19-410a-82a9-98dc17d191b9"
 ---
 # Sound OFF
@@ -28,6 +28,7 @@ Semi-facilitated small-group conversations in a welcoming space (food required, 
 ## Details
 
 - **format:** community listening session
+- **location:** {"lat":39.9527237,"lng":-75.1635262,"basis":"attribution","label":"Philadelphia, Pennsylvania","precision":"city"}
 - **patterns:** creating_shared_understanding
 - **source tag:** CB
 - **source note:** Civic Media Cookbook Appendix 2 Field Guide — as submitted by practitioners (2025).

@@ -9,7 +9,7 @@ topics: ["builder-story"]
 author: "Daniel Marshall, Camp Co-Founder"
 web: "https://relationalbuilder.org/commons/e/lamplight-summer-camp"
 created: "2026-06-10"
-updated: "2026-10-21"
+updated: "2026-10-22"
 rtp_id: "267d00c2-df1d-4d19-a9fc-0b14a8493bd8"
 ---
 # Lamplight Summer Camp
@@ -31,6 +31,10 @@ rtp_id: "267d00c2-df1d-4d19-a9fc-0b14a8493bd8"
 <p>Daniel's long-term vision is patient and specific. Over many years, teenagers from Guntersville and Birmingham who know each other — trained in action civics and self-governance — might collaborate on regional change. As he puts it, if you take a really long time with something, you actually get really good at it by the time it matters.</p>
 
 <p>Lamplight isn't trying to scale or replicate itself in distant places. It's trying to go deep in a particular place, with particular people, over a particular stretch of time. The results aren't quick, but the relationships are real — and the young people running the show are building muscles they'll use for life.</p>
+
+## Details
+
+- **location:** {"lat":34.3581474,"lng":-86.2947041,"basis":"text","label":"Guntersville, Alabama","precision":"neighborhood"}
 
 ---
 

@@ -11,7 +11,7 @@ source_url: "https://www.usdn.org/resilience-hubs.html"
 neighboring_recipes: "https://github.com/The-Relational-Technology-Project/neighboring-recipes/blob/main/recipes/07-resilience/resilience-hub.md"
 web: "https://relationalbuilder.org/commons/e/resilience-hub"
 created: "2026-05-22"
-updated: "2026-05-22"
+updated: "2026-10-22"
 rtp_id: "56d39a96-af4a-4d17-8543-8a230118cee7"
 ---
 # Resilience Hub

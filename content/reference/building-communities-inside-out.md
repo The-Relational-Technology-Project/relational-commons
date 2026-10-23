@@ -10,7 +10,7 @@ attribution_source: "Institute for Policy Research, Northwestern University (199
 source_url: "https://mn.gov/mnddc/parallels2/pdf/90s/90/90-MCC-McKnight_Kretzmann.pdf"
 web: "https://relationalbuilder.org/commons/e/building-communities-inside-out"
 created: "2026-08-13"
-updated: "2026-08-13"
+updated: "2026-10-22"
 rtp_id: "9f60012f-d0ca-402b-8557-f883b81226cd"
 ---
 # Building Communities from the Inside Out (the Green Book)
@@ -25,6 +25,7 @@ Companions worth knowing: 'Discovering Community Power' (2005 workbook, free to 
 
 ## Details
 
+- **location:** {"lat":42.0693991,"lng":-87.682932,"basis":"attribution","label":"Evanston, Illinois","precision":"origin"}
 - **companions:** Mapping Community Capacity (1990), Discovering Community Power (2005), The Four Essential Elements of an ABCD Process (2018), The Abundant Community (2010), The Connected Community (2022)
 - **license note:** Introduction reprintable with attribution; 'Four Essential Elements' (2018) is CC BY-NC 4.0; 'Mapping Community Capacity' (1990) is freely mirrored. Full Green Book is a sold publication.
 - **practice kind:** reference

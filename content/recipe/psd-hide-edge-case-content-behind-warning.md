@@ -11,7 +11,7 @@ attribution_source: "prosocialdesign.org"
 source_url: "https://www.prosocialdesign.org/library/hide-edge-case-content-behind-warning"
 web: "https://relationalbuilder.org/commons/e/psd-hide-edge-case-content-behind-warning"
 created: "2026-10-12"
-updated: "2026-10-12"
+updated: "2026-10-22"
 rtp_id: "829e9dc3-d9ce-4ea9-86b1-51ccc365c53b"
 ---
 # Hide Edge-case Content Behind Warning

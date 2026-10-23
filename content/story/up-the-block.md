@@ -11,7 +11,7 @@ attribution_source: "Civic Media Cookbook (2026), Appendix 2: Field Guide"
 source_url: "https://www.newsfutures.org/library/civic-media-cookbook"
 web: "https://relationalbuilder.org/commons/e/up-the-block"
 created: "2026-07-10"
-updated: "2026-07-13"
+updated: "2026-10-22"
 rtp_id: "f7abdc53-782a-47e5-b9d5-f3e962e9fbe8"
 ---
 # Up the Block
@@ -29,6 +29,7 @@ A guide connecting anyone affected by or at risk of gun violence to services, su
 ## Details
 
 - **format:** resource guide
+- **location:** {"lat":39.9527237,"lng":-75.1635262,"basis":"attribution","label":"Philadelphia, Pennsylvania","precision":"city"}
 - **patterns:** reimagining_public_resources, deepening_understanding_of_place
 - **source tag:** CB
 - **source note:** Civic Media Cookbook Appendix 2 Field Guide — as submitted by practitioners (2025).

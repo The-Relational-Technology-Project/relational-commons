@@ -10,7 +10,7 @@ attribution_source: "NF Studio foundation"
 parent: "../recipe/connection-infrastructure.md"
 web: "https://relationalbuilder.org/commons/e/build-prompt-neighbor-hub"
 created: "2026-07-10"
-updated: "2026-07-10"
+updated: "2026-10-22"
 rtp_id: "d4bc86dd-6d36-4d9f-919a-caf7d6b8eb0f"
 ---
 # Hyperlocal Neighbor Hub build prompt

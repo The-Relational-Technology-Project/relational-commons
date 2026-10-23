@@ -10,7 +10,7 @@ attribution_source: "Relational Tech Studio library"
 source_url: "https://communitysupplies.org"
 web: "https://relationalbuilder.org/commons/e/local-supplies-sharing"
 created: "2026-06-10"
-updated: "2026-10-21"
+updated: "2026-10-22"
 rtp_id: "1a5f73cb-cca0-467b-96b6-71259beefe5f"
 ---
 # Local Supplies Sharing
@@ -34,6 +34,7 @@ A resource sharing system where neighbors can lend and borrow party supplies and
 
 ## Details
 
+- **location:** {"lat":37.7541496,"lng":-122.5061507,"basis":"research","label":"Sunset District, San Francisco, California","precision":"origin"}
 - **github url:** https://github.com/The-Relational-Technology-Project/community-supplies
 - **is joinable:** false
 - **tool category:** relational_tech

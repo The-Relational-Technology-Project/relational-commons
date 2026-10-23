@@ -10,7 +10,7 @@ attribution_source: "neighboring-commons-skill-kb"
 source_url: "https://www.nationalequityproject.org/tools/developing-community-agreements"
 web: "https://relationalbuilder.org/commons/e/community-agreements-group-agreements"
 created: "2026-05-22"
-updated: "2026-05-22"
+updated: "2026-10-22"
 rtp_id: "baed423a-3d0e-4cd1-b50d-20f6ccfea338"
 ---
 # Community Agreements & Group Agreements

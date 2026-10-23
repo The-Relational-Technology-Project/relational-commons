@@ -10,7 +10,7 @@ attribution_source: "neighboring-commons-skill-kb"
 source_url: "https://centerforappreciativeinquiry.net/appreciative-inquiry-offering/appreciative-inquiry-community-development/"
 web: "https://relationalbuilder.org/commons/e/appreciative-inquiry-for-community-development"
 created: "2026-05-22"
-updated: "2026-05-22"
+updated: "2026-10-22"
 rtp_id: "52d812d4-0f3b-420b-9701-edd72023cc83"
 ---
 # Appreciative Inquiry for Community Development
@@ -50,6 +50,7 @@ Appreciative Inquiry builds on strength-based social work, asset-based community
 ## Details
 
 - **category:** Facilitation & Gathering Design
+- **location:** {"lat":41.4996574,"lng":-81.6936772,"basis":"research","label":"Cleveland, Ohio","precision":"origin"}
 - **entry type:** Practice
 - **key ingredients raw:** - *Time*: 3-12 months for full cycle; 2-4 day summit for intensive work
 - *People*: 30+ community members representing diversity of perspectives; trained interviewers

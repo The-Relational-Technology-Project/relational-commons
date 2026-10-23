@@ -9,7 +9,7 @@ author: "News Futures Studio working group"
 attribution_source: "NF Studio foundation"
 web: "https://relationalbuilder.org/commons/e/the-shared-spine-civic-media-and-relational-tech"
 created: "2026-07-10"
-updated: "2026-07-10"
+updated: "2026-10-22"
 rtp_id: "459292ad-87a0-4eeb-bcd5-bfbc77a92e2c"
 ---
 # The Shared Spine: Civic Media and Relational Tech

@@ -10,7 +10,7 @@ attribution_source: "metagov.org/delib-tools"
 source_url: "https://metagov.org/delib-tools"
 web: "https://relationalbuilder.org/commons/e/deliberation-cycle-eight-stages"
 created: "2026-10-08"
-updated: "2026-10-08"
+updated: "2026-10-22"
 rtp_id: "ac9a4fce-6beb-4157-8e18-1a43657958ed"
 ---
 # The deliberation cycle: eight stages

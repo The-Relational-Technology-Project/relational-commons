@@ -11,7 +11,7 @@ source_url: "https://www.comeoutandplay.org/"
 neighboring_recipes: "https://github.com/The-Relational-Technology-Project/neighboring-recipes/blob/main/recipes/10-play-and-joy/come-out-and-play.md"
 web: "https://relationalbuilder.org/commons/e/come-out-play"
 created: "2026-05-22"
-updated: "2026-05-22"
+updated: "2026-10-22"
 rtp_id: "bd811f86-7348-4bd2-bb88-ed0aaaaeb74c"
 ---
 # Come Out & Play
@@ -103,6 +103,7 @@ The pattern across all of these: when adults are given permission and structure 
 
 - **steps:** **Pick a park or plaza.** Public, accessible, large enough for the games you want to run., **Pick the games.** Three or four short, easy-to-explain games. Examples: red rover, capture the flag, hide and seek (adult version), parkour tag, freeze tag, Mafia in a park., **Promote modestly.** A flyer, a few posts on local forums, friends of friends. The first session doesn't need to be huge., **Bring simple props.** Bandanas for teams. Whistles. A speaker for music. Snacks and water., **Run the session.** Welcome, explain each game in 90 seconds, play, switch games every 20 to 30 minutes., **Repeat.** Monthly or weekly during good weather. Build the rhythm. Regulars will emerge.
 ### Larger version (festival), **Build the organizing team.** Logistics, game curation, designer recruitment, communications, day-of operations. 10 to 20 people across multiple weekends and the festival itself., **Identify locations.** Multiple sites across a neighborhood or city. Get permits., **Recruit game designers.** Local game designers, game studios, and individuals who've designed street games. Many designers will contribute games for the visibility., **Schedule.** A multi-day festival typically has different days for different vibes: After Dark (evening, adult-leaning), Field Day (outdoor athletic), Family Day (kid-friendly)., **Promote across communities.** Universities, design schools, neighborhood groups, families, gamers, libraries., **Run the festival.** Volunteers at each site running specific games. Players move between sites., **Document.** Photos and videos that show what was possible. They will recruit next year's players.
+- **location:** {"lat":40.7127281,"lng":-74.0060152,"basis":"text","label":"New York","precision":"origin"}
 - **file path:** recipes/10-play-and-joy/come-out-and-play.md
 - **variations:** **Themed play night.** Mafia, escape room, scavenger hunt. Specific format, deeper play.
 

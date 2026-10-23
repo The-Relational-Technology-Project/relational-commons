@@ -12,7 +12,7 @@ attribution_source: "https://moreparades.org/welcome-wagon-1"
 source_url: "https://moreparades.org/welcome-wagon-1"
 web: "https://relationalbuilder.org/commons/e/more-parades-welcome-wagon"
 created: "2026-10-02"
-updated: "2026-10-02"
+updated: "2026-10-22"
 rtp_id: "bd460600-9b8a-422a-b780-17d44290b937"
 ---
 # Welcome Wagon (Palouse, WA)
@@ -40,6 +40,7 @@ https://moreparades.org/welcome-wagon-1 — listed on With Neighbors (https://wi
 - **maker:** More Parades
 - **place:** Palouse, WA
 - **amounts:** $250 per the With Neighbors listing (amount not stated on the site)
+- **location:** {"lat":46.9099519,"lng":-117.0755847,"basis":"attribution","label":"Palouse, Washington","precision":"neighborhood"}
 - **hosted url:** https://moreparades.org/welcome-wagon-1
 - **grant shape:** fixed
 - **local object:** the Palouse Days parade; puppets and a drum corps for Main Street

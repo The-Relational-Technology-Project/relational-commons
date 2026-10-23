@@ -11,7 +11,7 @@ source_url: "https://deathcafe.com/"
 neighboring_recipes: "https://github.com/The-Relational-Technology-Project/neighboring-recipes/blob/main/recipes/02-small-groups-for-support/death-cafe.md"
 web: "https://relationalbuilder.org/commons/e/death-cafe"
 created: "2026-05-22"
-updated: "2026-05-22"
+updated: "2026-10-22"
 rtp_id: "1350d234-fe0c-4039-a3a9-1ba50aae24a0"
 ---
 # Death Cafe
@@ -83,6 +83,7 @@ Today Death Cafes are held in homes, hospices, churches, libraries, hospitals, a
 ## Details
 
 - **steps:** **Read the [Death Cafe guide](https://deathcafe.com/how/).** It is short and useful. The model has principles: no agenda, no advertising of products or services, free or by donation, refreshments. Honor them., **Pick a venue and date.** A space that feels safe and not clinical. Avoid funeral homes and hospitals for first-time attendees. Cafes, libraries, and community rooms work well., **Invite broadly.** Flyer in cafes and libraries. Post in local online forums. Note that all ages, beliefs, and backgrounds are welcome., **Set up the space simply.** Tables of 4 to 6 people if you have more than 8 attendees. Refreshments out. A welcoming sign., **Open with the guidelines.** Confidentiality. No advice. No agenda. People share or listen as they choose. There are no right answers., **Let conversation flow.** Optionally seed with one or two prompts: *What do you wish someone had told you about death? What does a good death look like to you? What unfinished business would you want to address?* But mostly, let people speak., **Move tables if you want.** Halfway through, suggest people change tables to mix the conversations., **Close with a brief round.** Each person, one or two sentences. What they're taking with them., **Register your event.** [Death Cafe](https://deathcafe.com/) maintains a global calendar. Adding yours helps the practice grow.
+- **location:** {"lat":51.5074456,"lng":-0.1277653,"also":[{"lat":46.7985624,"lng":8.2319736,"label":"Switzerland"}],"basis":"research","label":"Greater London, England, United Kingdom","precision":"origin"}
 - **file path:** recipes/02-small-groups-for-support/death-cafe.md
 - **variations:** **Themed Cafe.** Around grief specifically, around medical aid in dying, around legacy, around faith traditions. Different prompt, same form.
 

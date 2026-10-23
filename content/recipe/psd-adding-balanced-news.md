@@ -11,7 +11,7 @@ attribution_source: "prosocialdesign.org"
 source_url: "https://www.prosocialdesign.org/library/adding-balanced-news"
 web: "https://relationalbuilder.org/commons/e/psd-adding-balanced-news"
 created: "2026-10-12"
-updated: "2026-10-12"
+updated: "2026-10-22"
 rtp_id: "77e4ced6-392d-474b-920c-9a001ae5d49d"
 ---
 # Adding Balanced News

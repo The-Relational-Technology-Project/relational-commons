@@ -11,7 +11,7 @@ attribution_source: "Civic Media Cookbook (2026), Appendix 2: Field Guide"
 source_url: "https://www.newsfutures.org/library/civic-media-cookbook"
 web: "https://relationalbuilder.org/commons/e/how-to-make-and-celebrate-a-podcast-with-community"
 created: "2026-07-10"
-updated: "2026-07-13"
+updated: "2026-10-22"
 rtp_id: "629cc4da-3718-4987-aa83-c1f79a92701e"
 ---
 # How to Make (and Celebrate) a Podcast with Community
@@ -23,6 +23,7 @@ A 250-person celebration of the 'Making Meadowview' documentary podcast with 25 
 ## Details
 
 - **format:** live celebration event
+- **location:** {"lat":38.4831762,"lng":-121.467131,"basis":"attribution","label":"Meadowview, Sacramento, California","precision":"neighborhood"}
 - **patterns:** building_civic_muscle
 - **source tag:** CB
 - **source note:** Civic Media Cookbook Appendix 2 Field Guide — as submitted by practitioners (2025).

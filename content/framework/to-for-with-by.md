@@ -10,7 +10,7 @@ attribution_source: "Russell, 'From What's Wrong to What's Strong' (TEDxExeter, 
 source_url: "https://www.nurturedevelopment.org/wp-content/uploads/2018/09/4_Essential_Elements_of_ABCD_Process.pdf"
 web: "https://relationalbuilder.org/commons/e/to-for-with-by"
 created: "2026-08-13"
-updated: "2026-08-13"
+updated: "2026-10-22"
 rtp_id: "2b0c0dc9-4bf0-48ff-b675-b8dc0c494f30"
 ---
 # To, For, With, By
@@ -32,6 +32,7 @@ For builders: every feature can be sorted with the same four words. A dashboard 
 
 ## Details
 
+- **location:** {"lat":53.3493795,"lng":-6.2605593,"basis":"research","label":"Dublin, Ireland","precision":"origin"}
 - **source note:** The four modes per Russell's community-driven development framework; the ordering rule verbatim in spirit from 'The Four Essential Elements of an ABCD Process' (CC BY-NC 4.0).
 - **practice kind:** framework
 - **ordering questions:** What can communities do best themselves?, What do communities require help with?, What do communities need outside agencies to do for them?

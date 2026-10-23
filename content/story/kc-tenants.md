@@ -10,7 +10,7 @@ attribution_source: "Next City; Shelterforce; WBUR On Point (Caldwell's first-pe
 source_url: "https://nextcity.org/urbanist-news/kansas-city-adopts-a-tenants-bill-of-rights"
 web: "https://relationalbuilder.org/commons/e/kc-tenants"
 created: "2026-08-13"
-updated: "2026-08-13"
+updated: "2026-10-22"
 rtp_id: "3d1569ce-c96f-400c-a167-f2b907fd0d67"
 ---
 # KC Tenants: Evicted People Run the Union
@@ -29,6 +29,7 @@ What it teaches: Ganz's definition made flesh — the constituency's commitment 
 
 - **era:** 2019–present
 - **place:** Kansas City, Missouri
+- **location:** {"lat":39.100105,"lng":-94.5781416,"basis":"attribution","label":"Kansas City, Missouri","precision":"city"}
 - **illustrates:** one-to-one-relational-meeting, campaign-timeline-peaks, people-power-change
 - **source note:** Bill of Rights and right-to-counsel dates per Next City, Shelterforce, and the City of Kansas City; Caldwell's story in her own words via WBUR.
 - **practice kind:** story

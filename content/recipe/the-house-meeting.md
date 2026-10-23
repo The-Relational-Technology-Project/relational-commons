@@ -10,7 +10,7 @@ attribution_source: "Gabriel Thompson, 'America's Social Arsonist' (2016); Zinn 
 source_url: "https://www.zinnedproject.org/materials/ross-fred/"
 web: "https://relationalbuilder.org/commons/e/the-house-meeting"
 created: "2026-08-13"
-updated: "2026-08-13"
+updated: "2026-10-22"
 rtp_id: "9fdf1ea9-a76f-4f4a-8ad6-7df2b523dc45"
 ---
 # The House Meeting
@@ -29,6 +29,7 @@ A chain of house meetings is the six questions running on hospitality: who are m
 
 ## Details
 
+- **location:** {"lat":34.0436892,"lng":-118.2097684,"basis":"research","label":"Boyle Heights, Los Angeles, California","precision":"origin"}
 - **ingredients:** a host with real relationships, their living room, food, a story, an ear, and an ask, the next host
 - **source note:** Method and three-week cycle structure per the Zinn Education Project and Beyond Chron's history of the Ross house-meeting tradition; leader-spotting function per Thompson's biography.
 - **how it works:** Find a host; the host invites their own people — the organizer never supplies the list., Gather small: a living room's worth, with food., Share story and purpose briefly; spend most of the time listening., Close with commitments — including who will host the next meeting., Run cycles of meetings toward one big founding gathering; watch for who convenes and follows through — those are your leaders.

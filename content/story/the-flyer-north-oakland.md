@@ -10,7 +10,7 @@ attribution_source: "theflyer.org"
 source_url: "https://www.theflyer.org"
 web: "https://relationalbuilder.org/commons/e/the-flyer-north-oakland"
 created: "2026-10-08"
-updated: "2026-10-08"
+updated: "2026-10-22"
 rtp_id: "63a88098-d415-4489-8fef-9070e4af681b"
 ---
 # The Flyer: zine issues as the neighborhood's front page
@@ -27,6 +27,7 @@ Recent issues carried community food resources, a park discussion, back-to-schoo
 
 - **place:** North Oakland, California
 - **sources:** https://www.theflyer.org, https://metagov.org/people/humphrey-obuobi
+- **location:** {"lat":37.8406581,"lng":-122.2638015,"basis":"attribution","label":"North Oakland, Oakland, California","precision":"neighborhood"}
 
 ---
 

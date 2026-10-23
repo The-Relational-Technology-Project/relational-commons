@@ -10,7 +10,7 @@ attribution_source: "neighboring-commons-skill-kb"
 source_url: "https://www.sundayassembly.org/"
 web: "https://relationalbuilder.org/commons/e/sunday-assembly"
 created: "2026-05-22"
-updated: "2026-05-22"
+updated: "2026-10-22"
 rtp_id: "c0af1056-80fe-4e8c-a328-a4f979a26577"
 ---
 # Sunday Assembly
@@ -54,6 +54,7 @@ Sunday Assembly emerged from the broader 'secular community' and 'ethical gather
 ## Details
 
 - **category:** Civic Engagement
+- **location:** {"lat":51.5074456,"lng":-0.1277653,"basis":"text","label":"Greater London, England, United Kingdom","precision":"origin"}
 - **entry type:** Practice
 - **key ingredients raw:** - *Time*: Weekly to monthly gatherings depending on chapter; 1-2 hours per meeting
 - *People*: 10-20 core organizers; 50-300+ attendees per chapter

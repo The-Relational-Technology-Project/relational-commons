@@ -10,7 +10,7 @@ attribution_source: "neighboring-commons-skill-kb"
 source_url: "https://www.thedinnerparty.org/"
 web: "https://relationalbuilder.org/commons/e/the-dinner-party-grief-community"
 created: "2026-05-22"
-updated: "2026-05-22"
+updated: "2026-10-22"
 rtp_id: "2e4811bd-58e6-4127-889c-cf4f1c4f016e"
 ---
 # The Dinner Party (Grief Community)
@@ -49,6 +49,7 @@ Draws from peer support traditions and the understanding that informal community
 ## Details
 
 - **category:** Community Care & Healing
+- **location:** {"lat":34.0536923,"lng":-118.2427676,"basis":"research","label":"Los Angeles, California","precision":"origin"}
 - **entry type:** Practice
 - **key ingredients raw:** - *Time*: 2-3 hours per gathering every 2-6 weeks, ongoing indefinitely
 - *People*: 6-8 peer participants, trained facilitator/peer leader

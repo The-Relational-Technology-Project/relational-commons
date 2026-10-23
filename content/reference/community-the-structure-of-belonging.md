@@ -10,7 +10,7 @@ attribution_source: "neighboring-commons-skill-kb"
 source_url: "https://www.amazon.com/Community-Structure-Belonging-Peter-Block/dp/1523095563"
 web: "https://relationalbuilder.org/commons/e/community-the-structure-of-belonging"
 created: "2026-05-22"
-updated: "2026-05-22"
+updated: "2026-10-22"
 rtp_id: "e9157c8a-6a1d-431d-9e8d-ab6ec2cc4b45"
 ---
 # Community: The Structure of Belonging
@@ -53,6 +53,7 @@ Builds on traditions of participatory community development, appreciative inquir
 ## Details
 
 - **category:** Frameworks & Models
+- **location:** {"lat":39.1012809,"lng":-84.5127405,"basis":"research","label":"Cincinnati, Ohio","precision":"origin"}
 - **entry type:** Practice
 - **key ingredients raw:** - *Time*: Months to years for deep community shift; individual conversations 1-2 hours
 - *People*: Start with 5-10 core people, build to 50-100+ in community

@@ -11,7 +11,7 @@ source_url: "https://www.journeymen.us/mens-council"
 neighboring_recipes: "https://github.com/The-Relational-Technology-Project/neighboring-recipes/blob/main/recipes/02-small-groups-for-support/mens-council.md"
 web: "https://relationalbuilder.org/commons/e/mens-council"
 created: "2026-05-22"
-updated: "2026-05-22"
+updated: "2026-10-22"
 rtp_id: "b63531c2-9ee9-4520-8ec4-38b3b53e0d26"
 ---
 # Men's Council

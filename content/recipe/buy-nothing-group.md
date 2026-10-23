@@ -11,7 +11,7 @@ source_url: "https://buynothingproject.org/"
 neighboring_recipes: "https://github.com/The-Relational-Technology-Project/neighboring-recipes/blob/main/recipes/03-mutual-aid/buy-nothing.md"
 web: "https://relationalbuilder.org/commons/e/buy-nothing-group"
 created: "2026-05-22"
-updated: "2026-05-22"
+updated: "2026-10-22"
 rtp_id: "345c3a06-47c0-4f51-bed4-a1a1dda6e245"
 ---
 # Buy Nothing Group
@@ -83,6 +83,7 @@ Buy Nothing now has 7,500+ groups and millions of members. The movement has been
 ## Details
 
 - **steps:** **Check first if your area has one.** Search Facebook for "Buy Nothing" plus your neighborhood. If one exists, join it. The boundaries are intentionally tight; you have to live within them to participate., **If none exists, start one.** Read the [Buy Nothing Project guidelines](https://buynothingproject.org/guidelines). Define your boundaries precisely. The group should cover a walkable area or a tight neighborhood, not a whole city. Tight boundaries are the whole point., **Create the group.** Facebook is the dominant platform. The Buy Nothing app also exists (some early adopters resist it for product reasons). Some groups have moved to Discord, Signal, or custom platforms., **Write the group rules clearly.** No buying, selling, bartering, or trading. Items given without expectation. No commercial posts. Be kind. Pickup arrangements are between members. Three to five rules, plain language., **Seed the group.** Post 5 to 10 things from your house in the first week. Make it look active. Invite neighbors directly. Cross-post in nearby neighborhood groups., **Moderate gently.** Most moderation is welcoming new members and removing commercial spam. Heavy-handed moderation kills groups. Let the culture set norms., **Add a second admin within a few months.** Single admins burn out. A pair or trio is more sustainable., **Hold an in-person event once or twice a year.** A potluck, a yard sale style giveaway, a tool-share day. The relationships built online deepen when people actually meet.
+- **location:** {"lat":47.6515096,"lng":-122.5246791,"basis":"text","label":"Bainbridge Island, Washington","precision":"origin"}
 - **file path:** recipes/03-mutual-aid/buy-nothing.md
 - **variations:** **Buy Nothing block.** A very tight version: just one block. Often runs on a group text rather than a platform. Lighter, more intimate.
 

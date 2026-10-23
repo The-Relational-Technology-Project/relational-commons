@@ -9,7 +9,7 @@ author: "Marshall Ganz organizing tradition"
 attribution_source: "Organizing: People, Power, Change (2014), 'Tracking down the power' worksheet"
 web: "https://relationalbuilder.org/commons/e/tracking-down-the-power"
 created: "2026-08-13"
-updated: "2026-08-13"
+updated: "2026-10-22"
 rtp_id: "9f01dee5-81f2-4fcb-b37e-de793f485991"
 ---
 # Tracking Down the Power
@@ -30,6 +30,7 @@ For each key actor, ask the power questions: what do they want, and what do we h
 
 ## Details
 
+- **location:** {"lat":42.3656347,"lng":-71.1040018,"basis":"research","label":"Cambridge, Massachusetts","precision":"origin"}
 - **ingredients:** your leadership team, post-it notes and markers, two flipchart sheets or a whiteboard, an hour
 - **source note:** The 'Map the Actors' and 'Field of Play' exercise from the appendix of 'Organizing: People, Power, Change' (2014). Kin to the Midwest Academy strategy chart tradition of power mapping.
 - **how it works:** Map the actors: constituency, leadership, supporters, competitors, opposition., Place every actor on the field of play, from 'wants change' to 'wants status quo', noting who's on the sidelines., Debrief: who could we pull off the sidelines? Who could we convert? Who must we neutralize?, For the few actors who matter most, answer: what do they want, and what do we hold that they need?, Revisit the map at every campaign peak — power shifts as you build it.

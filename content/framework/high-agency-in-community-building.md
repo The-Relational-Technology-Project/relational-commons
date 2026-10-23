@@ -10,7 +10,7 @@ source_repo: "neighboring-recipes/frameworks"
 neighboring_recipes: "https://github.com/The-Relational-Technology-Project/neighboring-recipes/blob/main/frameworks/high-agency.md"
 web: "https://relationalbuilder.org/commons/e/high-agency-in-community-building"
 created: "2026-05-22"
-updated: "2026-05-22"
+updated: "2026-10-22"
 rtp_id: "1a63c3ca-d700-4821-85a3-52f38ce1f360"
 ---
 # High Agency in Community Building

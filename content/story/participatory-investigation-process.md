@@ -11,7 +11,7 @@ attribution_source: "Civic Media Cookbook (2026), Appendix 2: Field Guide"
 source_url: "https://www.newsfutures.org/library/civic-media-cookbook"
 web: "https://relationalbuilder.org/commons/e/participatory-investigation-process"
 created: "2026-07-10"
-updated: "2026-07-13"
+updated: "2026-10-22"
 rtp_id: "34d5efa4-06ce-48c0-9418-bb895128a733"
 ---
 # Participatory Investigation Process
@@ -28,6 +28,7 @@ Lets people directly affected by issues raise challenges, then supports them to 
 ## Details
 
 - **format:** participatory investigation model
+- **location:** {"lat":51.5074456,"lng":-0.1277653,"basis":"research","label":"Greater London, England, United Kingdom","precision":"origin"}
 - **patterns:** making_power_visible, building_civic_muscle
 - **source tag:** CB
 - **source note:** Civic Media Cookbook Appendix 2 Field Guide — as submitted by practitioners (2025).

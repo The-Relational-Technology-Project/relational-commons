@@ -10,7 +10,7 @@ attribution_source: "neighboring-commons-skill-kb"
 source_url: "https://www.vera.org/behavioral-health-crisis-alternatives/cahoots"
 web: "https://relationalbuilder.org/commons/e/alternatives-to-policing-community-safety-programs"
 created: "2026-05-22"
-updated: "2026-05-22"
+updated: "2026-10-22"
 rtp_id: "4d8fb765-2316-4423-b99f-f64f90a7ddae"
 ---
 # Alternatives to Policing (Community Safety Programs)
@@ -45,6 +45,7 @@ Related to harm reduction, public health approaches, community organizing, and r
 ## Details
 
 - **category:** Community Resilience
+- **location:** {"lat":44.0505054,"lng":-123.0950506,"basis":"research","label":"Eugene, Oregon","precision":"origin"}
 - **entry type:** Practice
 - **key ingredients raw:** - *Time*: Planning: 6-12 months; training: 4-8 weeks; ongoing operation: 24/7 or expanding hours
 - *People*: Medics/paramedics, crisis counselors/social workers, dispatchers, program coordinators, community members from served areas in leadership

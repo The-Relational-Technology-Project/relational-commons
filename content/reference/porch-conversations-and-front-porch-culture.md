@@ -10,7 +10,7 @@ attribution_source: "neighboring-commons-skill-kb"
 source_url: "https://www.frontporchrepublic.com/2017/07/sitting-on-the-porch/"
 web: "https://relationalbuilder.org/commons/e/porch-conversations-and-front-porch-culture"
 created: "2026-05-22"
-updated: "2026-05-22"
+updated: "2026-10-22"
 rtp_id: "67e3bf72-0f8e-4623-b942-f2032c29c6d5"
 ---
 # Porch Conversations and Front Porch Culture

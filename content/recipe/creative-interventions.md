@@ -11,7 +11,7 @@ source_url: "https://www.creative-interventions.org/toolkit/"
 neighboring_recipes: "https://github.com/The-Relational-Technology-Project/neighboring-recipes/blob/main/recipes/08-healing-and-conflict/creative-interventions.md"
 web: "https://relationalbuilder.org/commons/e/creative-interventions"
 created: "2026-05-22"
-updated: "2026-05-22"
+updated: "2026-10-22"
 rtp_id: "35ec614b-643f-46c2-8f95-9dd4af5f2aca"
 ---
 # Creative Interventions
@@ -112,6 +112,7 @@ The broader transformative justice tradition has produced significant practition
 ### For friends and family supporting someone, **Believe them.** This is the first and most important step., **Offer practical help.** Meals, childcare, housing, money, transportation, accompaniment. Don't push toward any particular choice., **Don't take over.** It is not your harm. The survivor's agency drives the process., **Tend to yourself.** Supporting someone through harm is hard work that can become unsustainable. Distribute the support across multiple people.
 ### For someone who has caused harm, **The toolkit has guidance for you too.** Accountability is not the same as self-flagellation, and not the same as performance. The work is: understand the impact, take responsibility, change behavior., **Don't initiate contact with the survivor.** Let them set the terms., **Find your own support.** Often a separate set of friends or a process facilitator. People who can hold accountability without colluding with denial.
 ### For the broader community, **Name what happened clearly.** Vague community responses produce vague accountability., **Identify who should be involved.** The survivor decides., **Direct conversations.** Not group pile-ons. Structured conversations with prepared participants., **Build an accountability plan.** Specific commitments from the person who caused harm. Specific support for the survivor. Specific community changes that reduce future risk., **Monitor and adjust.** Check in over months. Adjust the plan when needed., **Evaluate honestly.** Did this work? What didn't? What did we learn for next time?
+- **location:** {"lat":37.8044557,"lng":-122.271356,"basis":"text","label":"Oakland, California","precision":"origin"}
 - **file path:** recipes/08-healing-and-conflict/creative-interventions.md
 - **variations:** **Pod-mapping.** A practice from the Bay Area Transformative Justice Collective. Before harm happens, identify the people in your "pod" who you could call on if you were harmed or if you caused harm. Building the pod in advance is foundational.
 

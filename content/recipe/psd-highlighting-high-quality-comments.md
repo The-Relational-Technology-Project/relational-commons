@@ -11,7 +11,7 @@ attribution_source: "prosocialdesign.org"
 source_url: "https://www.prosocialdesign.org/library/highlighting-high-quality-comments"
 web: "https://relationalbuilder.org/commons/e/psd-highlighting-high-quality-comments"
 created: "2026-10-12"
-updated: "2026-10-12"
+updated: "2026-10-22"
 rtp_id: "3c411825-d008-4ee7-af51-8dd3bf47b611"
 ---
 # Highlighting High Quality Comments

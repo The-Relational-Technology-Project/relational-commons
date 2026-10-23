@@ -11,7 +11,7 @@ source_url: "https://www.littlefreepantry.org"
 neighboring_recipes: "https://github.com/The-Relational-Technology-Project/neighboring-recipes/blob/main/recipes/03-mutual-aid/little-free-pantry.md"
 web: "https://relationalbuilder.org/commons/e/little-free-pantry"
 created: "2026-05-22"
-updated: "2026-05-22"
+updated: "2026-10-22"
 rtp_id: "c4355cbb-23c3-492c-9610-168db83bea96"
 ---
 # Little Free Pantry
@@ -86,6 +86,7 @@ The movement proved especially vital during COVID-19. Cities that had a few pant
 ## Details
 
 - **steps:** **Find the right spot.** Visible from the street. Reachable on foot. Safe to access at night. Talk to the property owner: a church, school, library, business, or a neighbor with a corner lot. Get written permission., **Check zoning.** Most cities allow these as accessory structures, but a quick call to your city or a permit search avoids surprises., **Build the structure.** Three options. Buy a kit ($150 to $400, search "little free pantry kit"). Repurpose a bookcase, old cabinet, or newspaper box, weatherproofed. Build from scratch. Whatever it is, it should have a roof, a door, a shelf or two, and weatherproofing., **Stock it.** First fill: canned vegetables, fruit, soup, beans, peanut butter, pasta, rice, granola bars, hygiene products (soap, toothpaste, toothbrushes, menstrual products), basic kitchen items (Ziploc bags, plastic utensils). Skip anything that needs refrigeration (for that, see [Community Fridge](../recipe/community-fridge.md)) or anything that can melt or expire fast., **Add signage.** "Take what you need. Leave what you can." Plus your contact info as the steward. Optionally a printed list of common items needed., **Promote.** Post in neighborhood forums, Buy Nothing groups, church bulletins, library boards. Both for users and for donors., **Maintain weekly.** Once a week, walk over. Remove damaged items, expired food, and anything that looks unsafe. Restock the gaps. Note what runs out fastest. Some pantries become very busy; others stay quiet. Both are fine., **Build a stocking team.** 5 to 10 neighbors who commit to dropping off items regularly. A simple group text or shared sheet helps coordinate.
+- **location:** {"lat":36.0625843,"lng":-94.1574328,"basis":"text","label":"Fayetteville, Arkansas","precision":"origin"}
 - **file path:** recipes/03-mutual-aid/little-free-pantry.md
 - **variations:** **With fridge.** A community fridge can be co-located with a pantry for perishables. See [Community Fridge](../recipe/community-fridge.md).
 

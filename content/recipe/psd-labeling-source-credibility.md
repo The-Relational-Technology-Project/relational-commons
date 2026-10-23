@@ -11,7 +11,7 @@ attribution_source: "prosocialdesign.org"
 source_url: "https://www.prosocialdesign.org/library/labeling-source-credibility"
 web: "https://relationalbuilder.org/commons/e/psd-labeling-source-credibility"
 created: "2026-10-12"
-updated: "2026-10-12"
+updated: "2026-10-22"
 rtp_id: "7c734cb8-7bf2-42d7-9ed2-f2af3681c4cd"
 ---
 # Labeling: Source Credibility

@@ -9,7 +9,7 @@ topics: ["builder-story"]
 author: "Tool Library Founder"
 web: "https://relationalbuilder.org/commons/e/community-supplies"
 created: "2026-06-10"
-updated: "2026-06-15"
+updated: "2026-10-22"
 rtp_id: "d87b8e36-a39c-4794-b8c9-c99d0712330f"
 ---
 # Community Supplies

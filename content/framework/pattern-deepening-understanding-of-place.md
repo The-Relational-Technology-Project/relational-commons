@@ -10,7 +10,7 @@ attribution_source: "Civic Media Cookbook (2026)"
 source_url: "https://www.newsfutures.org/library/civic-media-cookbook"
 web: "https://relationalbuilder.org/commons/e/pattern-deepening-understanding-of-place"
 created: "2026-07-10"
-updated: "2026-07-13"
+updated: "2026-10-22"
 rtp_id: "51ded6c7-14a4-41ea-a6fe-efbc3fc9f1cc"
 ---
 # Deepening Understanding of Place (civic media pattern)

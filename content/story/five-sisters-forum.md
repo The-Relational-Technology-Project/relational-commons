@@ -11,7 +11,7 @@ attribution_source: "Center for Media Engagement study; Seven Days; frontporchfo
 source_url: "https://mediaengagement.org/research/front-porch-forum-civic-engagement/"
 web: "https://relationalbuilder.org/commons/e/five-sisters-forum"
 created: "2026-08-13"
-updated: "2026-08-13"
+updated: "2026-10-22"
 rtp_id: "31d7e696-983e-4b0b-9d00-e36ea27449ec"
 ---
 # The Five Sisters Forum: Slow by Design
@@ -30,6 +30,7 @@ What it teaches: the code was never the product — the *pace* was. You can't fo
 
 - **era:** 2000–present
 - **place:** Burlington, Vermont → statewide
+- **location:** {"lat":44.4653059,"lng":-73.2110756,"also":[{"lat":44.5990718,"lng":-72.5002608,"label":"Vermont"}],"basis":"attribution","label":"Five Sisters, Burlington, Vermont","precision":"neighborhood"}
 - **illustrates:** learn-from-the-graveyard, six-lessons-neighborhood-tech
 - **source note:** Membership 250,000 per FPF's own 2025 Annual Benefit Corporation Report (linked from frontporchforum.com/about-us); study findings per the Center for Media Engagement report. CTFG notes a pivot toward employee ownership.
 - **practice kind:** story

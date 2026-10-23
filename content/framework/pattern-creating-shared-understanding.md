@@ -10,7 +10,7 @@ attribution_source: "Civic Media Cookbook (2026)"
 source_url: "https://www.newsfutures.org/library/civic-media-cookbook"
 web: "https://relationalbuilder.org/commons/e/pattern-creating-shared-understanding"
 created: "2026-07-10"
-updated: "2026-07-13"
+updated: "2026-10-22"
 rtp_id: "df6e5af6-1fbc-4510-9e30-4f30e12dde3e"
 ---
 # Creating Shared Understanding (civic media pattern)

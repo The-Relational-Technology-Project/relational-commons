@@ -10,7 +10,7 @@ attribution_source: "neighboring-commons-skill-kb"
 source_url: "https://www.resilientneighbourhoods.ca/"
 web: "https://relationalbuilder.org/commons/e/building-resilient-neighbourhoods-brn-neighbour-to-neighbour-preparedness"
 created: "2026-05-22"
-updated: "2026-05-22"
+updated: "2026-10-22"
 rtp_id: "79d96c32-fd79-4130-bb51-ae5c0bd1e883"
 ---
 # Building Resilient Neighbourhoods (BRN): Neighbour-to-Neighbour Preparedness
@@ -28,6 +28,7 @@ Operationalizes Neighbor-to-Neighbor and WHO Age-Friendly approaches in Canadian
 ## Details
 
 - **category:** Community Resilience
+- **location:** {"lat":48.4283182,"lng":-123.364953,"basis":"research","label":"Victoria, British Columbia, Canada","precision":"city"}
 - **entry type:** Reference
 
 ---

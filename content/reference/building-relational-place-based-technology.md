@@ -10,7 +10,7 @@ attribution_source: "neighboring-commons-skill-kb"
 source_url: "https://connectivetissue.substack.com/p/building-tech-thats-relational-place"
 web: "https://relationalbuilder.org/commons/e/building-relational-place-based-technology"
 created: "2026-05-22"
-updated: "2026-05-22"
+updated: "2026-10-22"
 rtp_id: "8db73758-f3da-4b83-8845-54f04d460595"
 ---
 # Building Relational, Place-Based Technology

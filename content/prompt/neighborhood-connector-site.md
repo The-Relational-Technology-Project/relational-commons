@@ -10,7 +10,7 @@ attribution_source: "Relational Tech Studio library"
 parent: "../tool/neighborhood-connector-site.md"
 web: "https://relationalbuilder.org/commons/e/neighborhood-connector-site"
 created: "2026-06-10"
-updated: "2026-10-21"
+updated: "2026-10-22"
 rtp_id: "d4c33761-2bf6-4b17-aa0e-27bf9727d77f"
 ---
 # Neighborhood Connector Site
@@ -177,6 +177,10 @@ and then
 - Mentions: [Community Garden](../recipe/community-garden.md)
 - Mentions: [GitHub](../tool/github.md)
 - Mentions: [Lovable](../tool/lovable.md)
+
+## Details
+
+- **location:** {"lat":37.7541496,"lng":-122.5061507,"basis":"text","label":"Sunset District, San Francisco, California","precision":"origin"}
 
 ---
 

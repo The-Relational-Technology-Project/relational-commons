@@ -11,7 +11,7 @@ source_url: "https://www.circlesusa.org/"
 neighboring_recipes: "https://github.com/The-Relational-Technology-Project/neighboring-recipes/blob/main/recipes/05-bridging-difference/circles-usa.md"
 web: "https://relationalbuilder.org/commons/e/circles-usa"
 created: "2026-05-22"
-updated: "2026-05-22"
+updated: "2026-10-22"
 rtp_id: "460c6e69-26f1-49c7-81ee-eb76295e2b9c"
 ---
 # Circles USA
@@ -83,6 +83,7 @@ A common pattern: Allies report that Circles changed them as much as it changed 
 ## Details
 
 - **steps:** **Connect with [Circles USA](https://www.circlesusa.org/).** This is one of the recipes in the book that benefits significantly from formal training and a curriculum. The national organization licenses the model and supports local chapters with materials, training, and evaluation., **Build the host organization.** Most local Circles are anchored in a community organization, faith community, or social service agency that can provide space, coordination, and continuity., **Recruit and train Circle Leaders.** People living in or near poverty who are ready for an 18-month commitment to a relational program. The screening is mutual: this isn't for everyone., **Recruit and train Allies.** Volunteers from middle- or upper-income backgrounds. The training is significant. It addresses class assumptions, helps Allies see structural poverty rather than personal failing, and prepares them for the long arc of the relationship., **Match thoughtfully.** Circle Leader and Ally pairings are made carefully, with attention to compatibility, scheduling, and proximity. Not all matches stick; some are re-paired in the first months., **Hold weekly group meetings.** All Circle Leaders and Allies gather weekly. Includes a shared meal, education on relevant topics (employment, finance, mental health, parenting), and time for pair meetings., **Run pair meetings.** Circle Leaders and Allies meet weekly outside the group time. Goal-setting, network introductions, mutual learning. The Ally is not a savior; they are a partner., **Track outcomes.** Most Circles programs track income, employment, education, and network growth. National data shows 71% average income increase after 18 months, alongside expanded networks and life satisfaction.
+- **location:** {"lat":35.0841034,"lng":-106.650985,"basis":"research","label":"Albuquerque, New Mexico","precision":"origin"}
 - **file path:** recipes/05-bridging-difference/circles-usa.md
 - **variations:** **Workplace Circles.** Some employers host Circles as a benefit, pairing employees in financial distress with executive-level Allies.
 

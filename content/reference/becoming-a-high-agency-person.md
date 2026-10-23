@@ -10,7 +10,7 @@ attribution_source: "neighboring-commons-skill-kb"
 source_url: "https://grouphug.substack.com/p/becoming-a-high-agency-person"
 web: "https://relationalbuilder.org/commons/e/becoming-a-high-agency-person"
 created: "2026-05-22"
-updated: "2026-05-22"
+updated: "2026-10-22"
 rtp_id: "fb379c40-95a7-4e95-b53d-a6f95db13cd5"
 ---
 # Becoming a High Agency Person

@@ -10,7 +10,7 @@ attribution_source: "neighboring-commons-skill-kb"
 source_url: "https://kaboom.org/"
 web: "https://relationalbuilder.org/commons/e/community-built-playspace-kaboom"
 created: "2026-05-22"
-updated: "2026-05-22"
+updated: "2026-10-22"
 rtp_id: "0df6839a-1c74-408e-8ca5-4762293e5512"
 ---
 # Community-Built Playspace (KABOOM!)
@@ -45,6 +45,7 @@ Emerges from participatory design, co-design methodology, and the recognition th
 ## Details
 
 - **category:** Placemaking & Public Space
+- **location:** {"lat":38.8950982,"lng":-77.0363849,"basis":"research","label":"Washington, District of Columbia","precision":"origin"}
 - **entry type:** Practice
 - **key ingredients raw:** - *Time*: 5-12 weeks planning, 4 concentrated build days
 - *People*: 50-200+ volunteers, children and adults from community, KABOOM! facilitators

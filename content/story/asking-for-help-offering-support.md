@@ -9,7 +9,7 @@ topics: ["builder-story"]
 author: "Neighborhood Organizer"
 web: "https://relationalbuilder.org/commons/e/asking-for-help-offering-support"
 created: "2026-06-10"
-updated: "2026-06-15"
+updated: "2026-10-22"
 rtp_id: "df7dd4b1-329e-4fbc-b64f-eab35ba4706a"
 ---
 # Asking for Help, Offering Support

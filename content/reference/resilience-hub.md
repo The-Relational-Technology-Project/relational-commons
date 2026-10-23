@@ -10,7 +10,7 @@ attribution_source: "neighboring-commons-skill-kb"
 source_url: "https://www.usdn.org/resilience-hubs.html"
 web: "https://relationalbuilder.org/commons/e/resilience-hub"
 created: "2026-05-22"
-updated: "2026-05-22"
+updated: "2026-10-22"
 rtp_id: "1de7d44c-b063-40c0-ac73-10fd2966fb94"
 ---
 # Resilience Hub

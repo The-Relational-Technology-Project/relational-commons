@@ -10,7 +10,7 @@ attribution_source: "neighboring-commons-skill-kb"
 source_url: "https://livingroomconversations.org/topics-a-z/"
 web: "https://relationalbuilder.org/commons/e/living-room-conversations-150-structured-dialogue-guides"
 created: "2026-05-22"
-updated: "2026-05-22"
+updated: "2026-10-22"
 rtp_id: "96e58c7a-d48f-49e0-8a7e-f49749b9cc6f"
 ---
 # Living Room Conversations: 150+ Structured Dialogue Guides

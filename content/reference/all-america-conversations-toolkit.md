@@ -10,7 +10,7 @@ attribution_source: "neighboring-commons-skill-kb"
 source_url: "https://www.nationalcivicleague.org/resources/america-conversations-toolkit/"
 web: "https://relationalbuilder.org/commons/e/all-america-conversations-toolkit"
 created: "2026-05-22"
-updated: "2026-05-22"
+updated: "2026-10-22"
 rtp_id: "2ef19fe9-6454-40ec-87b0-8c1bf3d24c8d"
 ---
 # All-America Conversations Toolkit
@@ -41,6 +41,7 @@ All-America Conversations draws from dialogue facilitation, deliberative democra
 ## Details
 
 - **category:** Facilitation & Gathering Design
+- **location:** {"lat":39.7392364,"lng":-104.984862,"basis":"research","label":"Denver, Colorado","precision":"origin"}
 - **entry type:** Practice
 - **key ingredients raw:** - *Time*: Varies
 - *People*: Varies

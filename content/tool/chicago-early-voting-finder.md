@@ -11,7 +11,7 @@ neighborhood: "Lincoln Square, Chicago, IL"
 source_url: "https://chivotes.fyi"
 web: "https://relationalbuilder.org/commons/e/chicago-early-voting-finder"
 created: "2026-10-05"
-updated: "2026-10-05"
+updated: "2026-10-22"
 rtp_id: "3154e5e2-da39-4214-ab3a-067a8ec655cc"
 ---
 # Chicago Early Voting Finder
@@ -28,6 +28,7 @@ Find your closest early voting site.
 
 ## Details
 
+- **location:** {"lat":41.8755616,"lng":-87.6244212,"basis":"text","label":"Chicago, Illinois","precision":"city"}
 - **submit ip:** 172.59.185.128
 - **source url:** https://chivotes.fyi
 - **studio slug:** rt

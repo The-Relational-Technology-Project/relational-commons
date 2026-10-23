@@ -11,7 +11,7 @@ attribution_source: "Civic Media Cookbook (2026), Appendix 2: Field Guide"
 source_url: "https://www.newsfutures.org/library/civic-media-cookbook"
 web: "https://relationalbuilder.org/commons/e/after-the-assault"
 created: "2026-07-10"
-updated: "2026-07-13"
+updated: "2026-10-22"
 rtp_id: "bbd96d44-0d6e-4a2b-9ebc-314d48cf2e1d"
 ---
 # After the Assault
@@ -28,6 +28,7 @@ A participatory project with sexual assault survivors, law enforcement, and advo
 ## Details
 
 - **format:** multiplatform participatory journalism
+- **location:** {"lat":38.5810606,"lng":-121.493895,"basis":"attribution","label":"Sacramento, California","precision":"city"}
 - **patterns:** amplifying_unheard_voices
 - **source tag:** CB
 - **source note:** Civic Media Cookbook Appendix 2 Field Guide — as submitted by practitioners (2025).

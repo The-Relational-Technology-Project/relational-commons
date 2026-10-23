@@ -10,7 +10,7 @@ attribution_source: "neighboring-commons-skill-kb"
 source_url: "https://civicwell.org/civic-resources/participation-tools-for-better-community-planning/"
 web: "https://relationalbuilder.org/commons/e/civicwell-participation-tools-for-better-community-planning"
 created: "2026-05-22"
-updated: "2026-05-22"
+updated: "2026-10-22"
 rtp_id: "97f71eaa-67c4-442e-98fd-dec86aec00be"
 ---
 # CivicWell Participation Tools for Better Community Planning
@@ -28,6 +28,7 @@ Operationalizes Maine Visioning Handbook methods. Pairs with IAF and Faith in Ac
 ## Details
 
 - **category:** Civic Imagination
+- **location:** {"lat":38.5810606,"lng":-121.493895,"basis":"research","label":"Sacramento, California","precision":"origin"}
 - **entry type:** Reference
 
 ---

@@ -10,7 +10,7 @@ attribution_source: "loomio.com"
 source_url: "https://www.loomio.com/"
 web: "https://relationalbuilder.org/commons/e/loomio"
 created: "2026-08-13"
-updated: "2026-08-13"
+updated: "2026-10-22"
 rtp_id: "4e5707cb-fd84-4ae4-82c6-93c3946842ce"
 ---
 # Loomio
@@ -31,6 +31,7 @@ Loomio is built and run by a worker-owned cooperative in Aotearoa New Zealand â€
 - **hosted:** paid hosting funds the co-op; self-host via Docker
 - **license:** AGPL-3.0
 - **ctfg url:** https://civictech.guide/listing/loomio
+- **location:** {"lat":-41.2887953,"lng":174.7772114,"basis":"attribution","label":"Wellington, New Zealand","precision":"origin"}
 - **repo url:** https://github.com/loomio/loomio
 - **remix idea:** Garden governance with 72-hour consent rounds and a permanent decision log.
 - **practice kind:** tool

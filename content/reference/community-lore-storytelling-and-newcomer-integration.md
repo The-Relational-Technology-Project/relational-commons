@@ -10,7 +10,7 @@ attribution_source: "neighboring-commons-skill-kb"
 source_url: "https://grouphug.substack.com/p/community-lore"
 web: "https://relationalbuilder.org/commons/e/community-lore-storytelling-and-newcomer-integration"
 created: "2026-05-22"
-updated: "2026-05-22"
+updated: "2026-10-22"
 rtp_id: "b5176155-e8f1-4aa2-b7d3-707c6f074df2"
 ---
 # Community Lore: Storytelling and Newcomer Integration

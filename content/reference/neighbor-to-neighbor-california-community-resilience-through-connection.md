@@ -10,7 +10,7 @@ attribution_source: "neighboring-commons-skill-kb"
 source_url: "https://www.californiavolunteers.ca.gov/neighbor-to-neighbor-california-connects-neighbors-to-create-community-increase-belonging-prepare-for-disasters/"
 web: "https://relationalbuilder.org/commons/e/neighbor-to-neighbor-california-community-resilience-through-connection"
 created: "2026-05-22"
-updated: "2026-05-22"
+updated: "2026-10-22"
 rtp_id: "8d37e2eb-8f75-4ac2-bdbe-4e6d79e2c883"
 ---
 # Neighbor-to-Neighbor California: Community Resilience Through Connection
@@ -28,6 +28,7 @@ Implements WHO Age-Friendly and Building Resilient Neighbourhoods models in Cali
 ## Details
 
 - **category:** Community Resilience
+- **location:** {"lat":36.7014631,"lng":-118.755997,"basis":"text","label":"California","precision":"region"}
 - **entry type:** Reference
 
 ---

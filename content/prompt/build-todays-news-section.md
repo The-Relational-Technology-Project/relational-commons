@@ -11,7 +11,7 @@ attribution_source: "Civic Media shelf starter prompt"
 source_url: "https://github.com/The-Relational-Technology-Project/outer-sunset-today"
 web: "https://relationalbuilder.org/commons/e/build-todays-news-section"
 created: "2026-09-21"
-updated: "2026-09-21"
+updated: "2026-10-22"
 rtp_id: "ba8c1a54-60f2-4e17-8ad4-49edf548452c"
 ---
 # Build: A Today's News Section for a Neighborhood Site
@@ -37,6 +37,7 @@ Before generating, ask the builder for: their neighborhood and city, 2 to 5 RSS 
 ## Details
 
 - **category:** Neighborhood Sites
+- **location:** {"lat":37.7541496,"lng":-122.5061507,"basis":"attribution","label":"Sunset District, San Francisco, California","precision":"neighborhood"}
 - **builds on:** todays-news-local-news-by-need, hierarchy-of-needs
 - **guardrails:** ask for the local nouns before writing the curator prompt, never summarize from RSS snippets alone, never leave the section blank, crime only when neighbors must act now
 - **stack notes:** scheduled function: api/check-news.ts + vercel.json crons (Vercel publish), or the builder's own Supabase edge function with pg_cron, LLM key stays in a secret env var, server-side only, storage: Supabase news_items or a Community Cloud collection

@@ -10,7 +10,7 @@ attribution_source: "neighboring-commons-skill-kb"
 source_url: "https://sinsinvalid.org/10-principles-of-disability-justice/"
 web: "https://relationalbuilder.org/commons/e/disability-justice-10-principles-sins-invalid"
 created: "2026-05-22"
-updated: "2026-05-22"
+updated: "2026-10-22"
 rtp_id: "511cabcd-c3e3-42c7-8ed7-af065b45037b"
 ---
 # Disability Justice - 10 Principles (Sins Invalid)
@@ -28,6 +28,7 @@ Relates to broader disability rights, accessibility movements, and liberation fr
 ## Details
 
 - **category:** Disability Justice
+- **location:** {"lat":37.8708393,"lng":-122.272863,"basis":"research","label":"Berkeley, California","precision":"origin"}
 - **entry type:** Reference
 
 ---

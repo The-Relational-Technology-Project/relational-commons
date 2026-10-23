@@ -9,7 +9,7 @@ author: "News Futures Studio working group"
 attribution_source: "NF Studio foundation"
 web: "https://relationalbuilder.org/commons/e/format-walking-tour"
 created: "2026-07-10"
-updated: "2026-07-10"
+updated: "2026-10-22"
 rtp_id: "8655cdc9-f3dd-4935-a3f2-4bfcab8527f4"
 ---
 # Walking Tour (civic media format)

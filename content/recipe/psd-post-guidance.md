@@ -11,7 +11,7 @@ attribution_source: "prosocialdesign.org"
 source_url: "https://www.prosocialdesign.org/library/post-guidance"
 web: "https://relationalbuilder.org/commons/e/psd-post-guidance"
 created: "2026-10-12"
-updated: "2026-10-12"
+updated: "2026-10-22"
 rtp_id: "0a32c3aa-a8bf-4b5f-a41b-8ef6f708538d"
 ---
 # Post Guidance

@@ -10,7 +10,7 @@ attribution_source: "relationaltechproject.org"
 source_url: "https://pol.is"
 web: "https://relationalbuilder.org/commons/e/neighborhood-listening-wall"
 created: "2026-10-08"
-updated: "2026-10-08"
+updated: "2026-10-22"
 rtp_id: "b39e334e-cd96-40d4-8011-2e797ac76baa"
 ---
 # A listening wall for one neighborhood question

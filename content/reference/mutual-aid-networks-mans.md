@@ -10,7 +10,7 @@ attribution_source: "neighboring-commons-skill-kb"
 source_url: "https://madisonman.coop/"
 web: "https://relationalbuilder.org/commons/e/mutual-aid-networks-mans"
 created: "2026-05-22"
-updated: "2026-05-22"
+updated: "2026-10-22"
 rtp_id: "3b108a2c-eaa1-4a01-a752-6faab2ea1455"
 ---
 # Mutual Aid Networks (MANs)
@@ -45,6 +45,7 @@ Evolved from 20 years of local economic development work in Wisconsin, building 
 ## Details
 
 - **category:** Mutual Aid & Solidarity
+- **location:** {"lat":43.07469,"lng":-89.3841663,"basis":"text","label":"Madison, Wisconsin","precision":"city"}
 - **entry type:** Practice
 - **key ingredients raw:** - *Time*: Ongoing weekly/monthly participation; initial training 2-4 hours
 - *People*: 15-50+ active participants per fledgling network; diverse skill sets and backgrounds

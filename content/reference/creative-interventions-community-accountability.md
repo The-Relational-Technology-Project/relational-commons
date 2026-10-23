@@ -10,7 +10,7 @@ attribution_source: "neighboring-commons-skill-kb"
 source_url: "https://www.creative-interventions.org/toolkit/"
 web: "https://relationalbuilder.org/commons/e/creative-interventions-community-accountability"
 created: "2026-05-22"
-updated: "2026-05-22"
+updated: "2026-10-22"
 rtp_id: "ec8fed49-351a-4e83-8927-e0dcc1a01098"
 ---
 # Creative Interventions (Community Accountability)

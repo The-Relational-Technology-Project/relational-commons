@@ -11,7 +11,7 @@ attribution_source: "prosocialdesign.org"
 source_url: "https://www.prosocialdesign.org/library/warning-that-topic-is-sensitive"
 web: "https://relationalbuilder.org/commons/e/psd-warning-that-topic-is-sensitive"
 created: "2026-10-12"
-updated: "2026-10-12"
+updated: "2026-10-22"
 rtp_id: "97eb258c-524f-46fd-ac95-4306d76d61f2"
 ---
 # Warning that Topic is Sensitive

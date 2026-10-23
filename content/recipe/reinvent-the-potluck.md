@@ -11,7 +11,7 @@ source_url: "https://www.shareable.net/how-to/how-to-reinvent-the-potluck/"
 neighboring_recipes: "https://github.com/The-Relational-Technology-Project/neighboring-recipes/blob/main/recipes/04-gathering-design/reinvent-the-potluck.md"
 web: "https://relationalbuilder.org/commons/e/reinvent-the-potluck"
 created: "2026-05-22"
-updated: "2026-05-22"
+updated: "2026-10-22"
 rtp_id: "5be18239-a50e-4324-9103-663ee49636a6"
 ---
 # Reinvent the Potluck

@@ -10,7 +10,7 @@ source_repo: "rt-mcp-server"
 source_url: "https://github.com/The-Relational-Technology-Project/rt-mcp-server"
 web: "https://relationalbuilder.org/commons/e/playbooks-for-common-builder-needs"
 created: "2026-05-22"
-updated: "2026-05-22"
+updated: "2026-10-22"
 rtp_id: "115b37d4-4da6-4bed-8b44-951890d4d401"
 ---
 # Playbooks for Common Builder Needs

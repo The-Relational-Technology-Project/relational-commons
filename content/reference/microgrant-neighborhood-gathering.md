@@ -10,7 +10,7 @@ attribution_source: "neighboring-commons-skill-kb"
 source_url: "https://connectivetissue.substack.com/p/a-simple-act-to-strengthen-civic"
 web: "https://relationalbuilder.org/commons/e/microgrant-neighborhood-gathering"
 created: "2026-05-22"
-updated: "2026-05-22"
+updated: "2026-10-22"
 rtp_id: "dccc50ae-62ec-48dd-ae22-d8ea637db327"
 ---
 # Microgrant Neighborhood Gathering

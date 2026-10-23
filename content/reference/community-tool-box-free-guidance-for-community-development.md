@@ -10,7 +10,7 @@ attribution_source: "neighboring-commons-skill-kb"
 source_url: "https://ctb.ku.edu/en"
 web: "https://relationalbuilder.org/commons/e/community-tool-box-free-guidance-for-community-development"
 created: "2026-05-22"
-updated: "2026-05-22"
+updated: "2026-10-22"
 rtp_id: "3e498275-9ac0-4744-a77d-c52d3925f099"
 ---
 # Community Tool Box: Free Guidance for Community Development
@@ -28,6 +28,7 @@ Serves as foundational resource for organizing efforts described in Training for
 ## Details
 
 - **category:** Organizing Training
+- **location:** {"lat":38.9719137,"lng":-95.2359403,"basis":"text","label":"Lawrence, Kansas","precision":"origin"}
 - **entry type:** Reference
 
 ---

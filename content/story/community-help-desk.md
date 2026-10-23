@@ -11,7 +11,7 @@ attribution_source: "Civic Media Cookbook (2026), Appendix 2: Field Guide"
 source_url: "https://www.newsfutures.org/library/civic-media-cookbook"
 web: "https://relationalbuilder.org/commons/e/community-help-desk"
 created: "2026-07-10"
-updated: "2026-07-13"
+updated: "2026-10-22"
 rtp_id: "d496f4b9-3602-47e0-b972-d958e3707cc9"
 ---
 # Community Help Desk
@@ -29,6 +29,7 @@ Viewers file 'tickets' with information needs; the station answers, builds FAQs,
 ## Details
 
 - **format:** virtual help desk (Zendesk)
+- **location:** {"lat":42.3315509,"lng":-83.0466403,"basis":"attribution","label":"Detroit, Michigan","precision":"city"}
 - **patterns:** reimagining_public_resources
 - **source tag:** CB
 - **source note:** Civic Media Cookbook Appendix 2 Field Guide — as submitted by practitioners (2025).

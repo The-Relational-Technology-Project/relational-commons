@@ -10,7 +10,7 @@ source_repo: "rt-mcp-server"
 source_url: "https://github.com/The-Relational-Technology-Project/rt-mcp-server"
 web: "https://relationalbuilder.org/commons/e/measuring-what-matters-agency-belonging-trust"
 created: "2026-05-22"
-updated: "2026-05-22"
+updated: "2026-10-22"
 rtp_id: "bbf5baec-2109-404b-b017-3225180da362"
 ---
 # Measuring What Matters: Agency, Belonging, Trust

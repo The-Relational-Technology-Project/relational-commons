@@ -10,7 +10,7 @@ attribution_source: "neighboring-commons-skill-kb"
 source_url: "https://connectivetissue.substack.com/p/how-to-think-structurally-about-connection"
 web: "https://relationalbuilder.org/commons/e/how-to-think-structurally-about-connection"
 created: "2026-05-22"
-updated: "2026-05-22"
+updated: "2026-10-22"
 rtp_id: "aa4c70a0-03f8-4621-b4a9-b35ac686bfa2"
 ---
 # How to Think Structurally About Connection

@@ -10,7 +10,7 @@ attribution_source: "neighboring-commons-skill-kb"
 source_url: "https://leadingchangenetwork.org/resource_center/public-narrative-online-course-by-marshall-ganz-videos/"
 web: "https://relationalbuilder.org/commons/e/public-narrative-marshall-ganz"
 created: "2026-05-22"
-updated: "2026-05-22"
+updated: "2026-10-22"
 rtp_id: "58bdd46b-83c0-4b71-b963-73d08f89017b"
 ---
 # Public Narrative (Marshall Ganz)
@@ -45,6 +45,7 @@ Draws on centuries of oral tradition, religious teaching, and grassroots organiz
 ## Details
 
 - **category:** Organizing Training
+- **location:** {"lat":42.3656347,"lng":-71.1040018,"basis":"research","label":"Cambridge, Massachusetts","precision":"origin"}
 - **entry type:** Practice
 - **key ingredients raw:** - *Time*: 2-3 hours for initial training, ongoing practice to refine
 - *People*: Facilitator trained in Public Narrative, group of 5-50

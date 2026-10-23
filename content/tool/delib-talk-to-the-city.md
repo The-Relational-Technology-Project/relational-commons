@@ -10,7 +10,7 @@ attribution_source: "ai.objectives.institute"
 source_url: "https://ai.objectives.institute/talk-to-the-city"
 web: "https://relationalbuilder.org/commons/e/delib-talk-to-the-city"
 created: "2026-10-08"
-updated: "2026-10-08"
+updated: "2026-10-22"
 rtp_id: "e24ff4e6-8d08-4d74-a710-8cd3bd5bc838"
 ---
 # Talk to the City
@@ -29,6 +29,7 @@ By the AI Objectives Institute (program lead Colleen McKenzie). Listed in Metago
 
 - **maker:** AI Objectives Institute
 - **stages:** framing, eliciting
+- **location:** {"lat":37.7879363,"lng":-122.4075201,"basis":"research","label":"San Francisco, California","precision":"origin"}
 - **repo url:** https://github.com/AIObjectives/talk-to-the-city-reports
 - **image url:** https://texakzqqenzpxawktbgx.supabase.co/storage/v1/object/public/studio-library/tool-screenshots/delib-talk-to-the-city-2026-08.jpg
 - **remix idea:** A what-we-heard report page: themes with quotes, minority views kept visible, a summary for the flyer.

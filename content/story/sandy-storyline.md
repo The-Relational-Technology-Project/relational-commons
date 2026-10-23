@@ -11,7 +11,7 @@ attribution_source: "Civic Media Cookbook (2026), Appendix 2: Field Guide"
 source_url: "https://www.newsfutures.org/library/civic-media-cookbook"
 web: "https://relationalbuilder.org/commons/e/sandy-storyline"
 created: "2026-07-10"
-updated: "2026-07-13"
+updated: "2026-10-22"
 rtp_id: "c1fe6de9-dacc-4554-94bb-14a1671a3fc4"
 ---
 # Sandy Storyline
@@ -29,6 +29,7 @@ Used storytelling to amplify community voices during the multi-year rebuilding a
 ## Details
 
 - **format:** participatory documentary
+- **location:** {"lat":40.7127281,"lng":-74.0060152,"also":[{"lat":40.0757384,"lng":-74.4041622,"label":"New Jersey"}],"basis":"attribution","label":"New York","precision":"city"}
 - **patterns:** preserving_community_knowledge
 - **source tag:** CB
 - **source note:** Civic Media Cookbook Appendix 2 Field Guide — as submitted by practitioners (2025).

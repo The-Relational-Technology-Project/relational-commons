@@ -11,7 +11,7 @@ attribution_source: "Relational Tech Studio library"
 source_url: "https://studio.relationaltechproject.org/Builders_Guide_RTP.pdf"
 web: "https://relationalbuilder.org/commons/e/relational-tech-process-guide"
 created: "2026-06-16"
-updated: "2026-10-21"
+updated: "2026-10-22"
 rtp_id: "cba970a9-989f-4d49-80cc-890df1d7291c"
 ---
 # Relational Tech Process Guide
@@ -106,6 +106,7 @@ Created by Relational Tech Project.
 
 ## Details
 
+- **location:** {"lat":37.7541496,"lng":-122.5061507,"basis":"research","label":"Sunset District, San Francisco, California","precision":"origin"}
 - **is joinable:** false
 - **creator name:** Relational Tech Project
 - **tool category:** tech_for_building

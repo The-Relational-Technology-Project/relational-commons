@@ -10,7 +10,7 @@ attribution_source: "neighboring-commons-skill-kb"
 source_url: "https://deathcafe.com/"
 web: "https://relationalbuilder.org/commons/e/death-cafs"
 created: "2026-05-22"
-updated: "2026-05-22"
+updated: "2026-10-22"
 rtp_id: "9f74626c-cad6-45b7-b785-8dba68457e7e"
 ---
 # Death Cafés
@@ -45,6 +45,7 @@ Rooted in Swiss and European traditions of death discussion (café mortel). Alig
 ## Details
 
 - **category:** Community Care & Healing
+- **location:** {"lat":51.5074456,"lng":-0.1277653,"basis":"research","label":"Greater London, England, United Kingdom","precision":"origin"}
 - **entry type:** Practice
 - **key ingredients raw:** - *Time*: 2-3 hours for a session; minimum 1 month for planning and outreach
 - *People*: 1 trained facilitator; 5-20 participants

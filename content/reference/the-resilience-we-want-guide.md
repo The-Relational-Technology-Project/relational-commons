@@ -10,7 +10,7 @@ attribution_source: "neighboring-commons-skill-kb"
 source_url: "https://www.shareable.net/the-resilience-we-want/"
 web: "https://relationalbuilder.org/commons/e/the-resilience-we-want-guide"
 created: "2026-05-22"
-updated: "2026-05-22"
+updated: "2026-10-22"
 rtp_id: "7cb8c933-cd8c-4673-997a-6d006e2f1b2f"
 ---
 # The Resilience We Want Guide

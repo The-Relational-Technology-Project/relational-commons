@@ -10,7 +10,7 @@ attribution_source: "neighboring-commons-skill-kb"
 source_url: "https://moreincommonus.com/publication/the-connection-opportunity/"
 web: "https://relationalbuilder.org/commons/e/the-connection-opportunity-how-social-connection-reduces-polarization"
 created: "2026-05-22"
-updated: "2026-05-22"
+updated: "2026-10-22"
 rtp_id: "ca506298-0316-4c02-8d83-c2f05bf8f395"
 ---
 # The Connection Opportunity: How Social Connection Reduces Polarization

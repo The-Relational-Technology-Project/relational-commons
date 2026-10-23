@@ -10,7 +10,7 @@ attribution_source: "neighboring-commons-skill-kb"
 source_url: "https://www.sundayassembly.org/start"
 web: "https://relationalbuilder.org/commons/e/sunday-assembly-start-your-own-chapter"
 created: "2026-05-22"
-updated: "2026-05-22"
+updated: "2026-10-22"
 rtp_id: "9bac4d2c-9aee-4d6b-b7da-24f44bae24cc"
 ---
 # Sunday Assembly - Start Your Own Chapter
@@ -45,6 +45,7 @@ Directly connected to the Sunday Assembly movement (see main entry). The startup
 ## Details
 
 - **category:** Civic Engagement
+- **location:** {"lat":51.5074456,"lng":-0.1277653,"basis":"research","label":"Greater London, England, United Kingdom","precision":"origin"}
 - **entry type:** Practice
 - **key ingredients raw:** - *Time*: Varies by level: Level 1 can start with single 1-2 hour event; progression to Level 4 typically takes 1-2 years
 - *People*: 1-3 founding organizers to start; growth to 10-20 core volunteers at mature chapters

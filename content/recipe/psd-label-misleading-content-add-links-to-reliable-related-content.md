@@ -11,7 +11,7 @@ attribution_source: "prosocialdesign.org"
 source_url: "https://www.prosocialdesign.org/library/label-misleading-content-add-links-to-reliable-related-content"
 web: "https://relationalbuilder.org/commons/e/psd-label-misleading-content-add-links-to-reliable-related-content"
 created: "2026-10-12"
-updated: "2026-10-12"
+updated: "2026-10-22"
 rtp_id: "2c689dbd-15ad-441b-ad3b-ae108eb6d707"
 ---
 # Fact-checking Labels

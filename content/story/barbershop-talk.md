@@ -11,7 +11,7 @@ attribution_source: "Civic Media Cookbook (2026), Appendix 2: Field Guide"
 source_url: "https://www.newsfutures.org/library/civic-media-cookbook"
 web: "https://relationalbuilder.org/commons/e/barbershop-talk"
 created: "2026-07-10"
-updated: "2026-07-13"
+updated: "2026-10-22"
 rtp_id: "6c4d1d17-3cd2-4ccb-9d83-fa33ccae99d3"
 ---
 # Barbershop Talk
@@ -28,6 +28,7 @@ Free haircuts in exchange for conversations about civic engagement and entrepren
 ## Details
 
 - **format:** in-person, trusted space
+- **location:** {"lat":35.2272086,"lng":-80.8430827,"basis":"attribution","label":"Charlotte, North Carolina","precision":"neighborhood"}
 - **patterns:** creating_shared_understanding
 - **source tag:** CB
 - **source note:** Civic Media Cookbook Appendix 2 Field Guide — as submitted by practitioners (2025).

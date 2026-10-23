@@ -10,7 +10,7 @@ attribution_source: "neighboring-commons-skill-kb"
 source_url: "https://www.ala.org/pla/resources/tools/community-engagement-outreach/civic-community-engagement"
 web: "https://relationalbuilder.org/commons/e/pla-civic-community-engagement-toolkit"
 created: "2026-05-22"
-updated: "2026-05-22"
+updated: "2026-10-22"
 rtp_id: "1c9ed99a-bd9c-46b1-bb20-d953f13bb968"
 ---
 # PLA Civic & Community Engagement Toolkit

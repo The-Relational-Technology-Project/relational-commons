@@ -10,7 +10,7 @@ attribution_source: "neighboring-commons-skill-kb"
 source_url: "https://grouphug.substack.com/p/interdependence-is-a-survival-skill"
 web: "https://relationalbuilder.org/commons/e/interdependence-is-a-survival-skill-building-sustainable-mutual-support"
 created: "2026-05-22"
-updated: "2026-05-22"
+updated: "2026-10-22"
 rtp_id: "4830d821-5ca3-460d-af85-7c13d3f50fff"
 ---
 # Interdependence Is a Survival Skill: Building Sustainable Mutual Support

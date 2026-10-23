@@ -11,7 +11,7 @@ source_url: "https://localtools.org/"
 neighboring_recipes: "https://github.com/The-Relational-Technology-Project/neighboring-recipes/blob/main/recipes/03-mutual-aid/tool-library.md"
 web: "https://relationalbuilder.org/commons/e/tool-library"
 created: "2026-05-22"
-updated: "2026-05-22"
+updated: "2026-10-22"
 rtp_id: "c9c98841-ead6-4fdd-82a0-7021d0481a51"
 ---
 # Tool Library

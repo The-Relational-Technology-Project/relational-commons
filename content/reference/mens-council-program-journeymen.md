@@ -10,7 +10,7 @@ attribution_source: "neighboring-commons-skill-kb"
 source_url: "https://www.journeymen.us/mens-council"
 web: "https://relationalbuilder.org/commons/e/mens-council-program-journeymen"
 created: "2026-05-22"
-updated: "2026-05-22"
+updated: "2026-10-22"
 rtp_id: "0fc39d00-2245-4fbc-84ec-5bd4ef9b254f"
 ---
 # Men's Council Program (Journeymen)

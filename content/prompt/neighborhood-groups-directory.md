@@ -10,7 +10,7 @@ attribution_source: "Relational Tech Studio library"
 parent: "../tool/neighborhood-connector-site.md"
 web: "https://relationalbuilder.org/commons/e/neighborhood-groups-directory"
 created: "2026-06-10"
-updated: "2026-10-21"
+updated: "2026-10-22"
 rtp_id: "569f50c7-d5e7-49d4-ac12-82cb38288c0a"
 ---
 # Neighborhood Groups Directory
@@ -55,6 +55,10 @@ Start by asking me about my neighborhood context, and I will provide the specifi
 ## Related in the commons
 
 - Grew from [Neighborhood Connector Site](../tool/neighborhood-connector-site.md)
+
+## Details
+
+- **location:** {"lat":37.7541496,"lng":-122.5061507,"basis":"text","label":"Sunset District, San Francisco, California","precision":"origin"}
 
 ---
 

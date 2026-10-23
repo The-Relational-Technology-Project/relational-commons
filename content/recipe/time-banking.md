@@ -11,7 +11,7 @@ source_url: "https://www.hourworld.org/"
 neighboring_recipes: "https://github.com/The-Relational-Technology-Project/neighboring-recipes/blob/main/recipes/03-mutual-aid/timebanking.md"
 web: "https://relationalbuilder.org/commons/e/time-banking"
 created: "2026-05-22"
-updated: "2026-05-22"
+updated: "2026-10-22"
 rtp_id: "a8ff19e2-24b8-474a-bc81-df242138b54d"
 ---
 # Time Banking
@@ -86,6 +86,7 @@ Reports from active time banks consistently show two things: members save $300 t
 ## Details
 
 - **steps:** **Recruit 10 to 20 founding members.** People who share enough trust to make the first exchanges feel safe. Mix of life stages, skills, and needs., **Hold a launch meeting.** Explain the model. Each member writes a short list of what they can offer and what they might want. Examples: home cooking, dog walking, basic plumbing, tutoring, computer help, listening, garden work, transportation, hair cuts., **Pick a tracking system.** [hOurworld](https://www.hourworld.org/) is the most-used open platform. Some banks use Time and Talents or in-house spreadsheets. Whatever you pick, it should let people see offers and needs and log hours., **Set the agreements.** One hour = one credit. Each member gets a starting balance (often 5 to 10 hours) so people can begin asking immediately. Cancellation norms. Confidentiality. What happens if someone goes into significant negative balance., **Run the first exchanges.** A member posts a need. Another member responds. They arrange the help. Afterward, the hours are logged., **Hold monthly gatherings.** Potlucks, skill-shares, celebrations. The bank is more than logged hours. The relationships are the substance., **Build a steward team.** 2 to 4 people who manage onboarding, troubleshoot stuck exchanges, and run the gatherings., **Welcome new members slowly.** Each new member should be introduced. Trust scales with shared experience.
+- **location:** {"lat":38.8950982,"lng":-77.0363849,"basis":"research","label":"Washington, District of Columbia","precision":"origin"}
 - **file path:** recipes/03-mutual-aid/timebanking.md
 - **variations:** **Senior-focused.** Many of the most successful time banks center older adults. They have time. They have skills. The bank reduces isolation. See the Member Connect models that AARP and others have run.
 

@@ -11,7 +11,7 @@ attribution_source: "prosocialdesign.org"
 source_url: "https://www.prosocialdesign.org/library/default-quote-reshare"
 web: "https://relationalbuilder.org/commons/e/psd-default-quote-reshare"
 created: "2026-10-12"
-updated: "2026-10-12"
+updated: "2026-10-22"
 rtp_id: "b54291f5-9844-4b78-b3e2-b96accebd159"
 ---
 # Default Quote Reshare

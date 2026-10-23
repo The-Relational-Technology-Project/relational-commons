@@ -11,7 +11,7 @@ source_url: "https://www.interfaithamerica.org/"
 neighboring_recipes: "https://github.com/The-Relational-Technology-Project/neighboring-recipes/blob/main/recipes/05-bridging-difference/interfaith-bridge.md"
 web: "https://relationalbuilder.org/commons/e/interfaith-bridge"
 created: "2026-05-22"
-updated: "2026-05-22"
+updated: "2026-10-22"
 rtp_id: "a829ca39-38e1-404b-84f0-0c70c510f26f"
 ---
 # Interfaith Bridge

@@ -10,7 +10,7 @@ attribution_source: "Parent Engagement Institute; Institute for Educational Lead
 source_url: "https://www.parentengagement.institute/history"
 web: "https://relationalbuilder.org/commons/e/parent-mentors-logan-square"
 created: "2026-08-13"
-updated: "2026-08-13"
+updated: "2026-10-22"
 rtp_id: "d9137b79-8203-4ab9-aad8-67dda986921e"
 ---
 # Parent Mentors: The Program Where the Win Is the People
@@ -29,6 +29,7 @@ What it teaches: this is the ladder of engagement built as a program — support
 
 - **era:** 1995–present
 - **place:** Logan Square, Chicago
+- **location:** {"lat":41.9283727,"lng":-87.7067636,"basis":"attribution","label":"Logan Square, Chicago, Illinois","precision":"neighborhood"}
 - **illustrates:** snowflake-model, coaching-five-steps, the-debrief
 - **source note:** Program design and replication figures per the Parent Engagement Institute's own history and the Institute for Educational Leadership profile.
 - **practice kind:** story

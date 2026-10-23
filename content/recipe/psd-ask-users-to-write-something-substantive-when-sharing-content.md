@@ -11,7 +11,7 @@ attribution_source: "prosocialdesign.org"
 source_url: "https://www.prosocialdesign.org/library/ask-users-to-write-something-substantive-when-sharing-content"
 web: "https://relationalbuilder.org/commons/e/psd-ask-users-to-write-something-substantive-when-sharing-content"
 created: "2026-10-12"
-updated: "2026-10-12"
+updated: "2026-10-22"
 rtp_id: "70480c9b-d1e0-488b-80b8-2790ac60e97f"
 ---
 # Ask Users to Write Something Substantive When Sharing Content

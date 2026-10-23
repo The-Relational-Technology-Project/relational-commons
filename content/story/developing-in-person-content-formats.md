@@ -11,7 +11,7 @@ attribution_source: "Civic Media Cookbook (2026), Appendix 2: Field Guide"
 source_url: "https://www.newsfutures.org/library/civic-media-cookbook"
 web: "https://relationalbuilder.org/commons/e/developing-in-person-content-formats"
 created: "2026-07-10"
-updated: "2026-07-13"
+updated: "2026-10-22"
 rtp_id: "7d0ebb8d-835e-4200-87d8-1961df274926"
 ---
 # Developing In-Person Content Formats
@@ -23,6 +23,7 @@ A quarterly series ('Social Studies') that moved in-depth journalism into live, 
 ## Details
 
 - **format:** quarterly live event series
+- **location:** {"lat":33.7544657,"lng":-84.3898151,"basis":"attribution","label":"Atlanta, Georgia","precision":"city"}
 - **patterns:** creating_shared_understanding
 - **source tag:** CB
 - **source note:** Civic Media Cookbook Appendix 2 Field Guide — as submitted by practitioners (2025).

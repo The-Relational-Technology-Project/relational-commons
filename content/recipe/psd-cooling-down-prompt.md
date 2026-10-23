@@ -11,7 +11,7 @@ attribution_source: "prosocialdesign.org"
 source_url: "https://www.prosocialdesign.org/library/cooling-down-prompt"
 web: "https://relationalbuilder.org/commons/e/psd-cooling-down-prompt"
 created: "2026-10-12"
-updated: "2026-10-12"
+updated: "2026-10-22"
 rtp_id: "74db85c8-d2e8-45df-9d4d-ebd7daf8d262"
 ---
 # Cooling Down Prompt

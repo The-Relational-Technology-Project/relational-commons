@@ -10,7 +10,7 @@ attribution_source: "neighboring-commons-skill-kb"
 source_url: "https://www.shareable.net/how-to/how-to-reinvent-the-potluck/"
 web: "https://relationalbuilder.org/commons/e/how-to-reinvent-the-potluck"
 created: "2026-05-22"
-updated: "2026-05-22"
+updated: "2026-10-22"
 rtp_id: "3f3eff82-cc67-4a44-ab52-1bed7b375b3b"
 ---
 # How to Reinvent the Potluck
