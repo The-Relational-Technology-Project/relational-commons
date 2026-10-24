@@ -10,7 +10,7 @@ author: "Concept by Alex Zhu; platform co-created by Alex Zhu, Tyler Heath, Debo
 attribution_source: "Relational Tech Studio library"
 web: "https://relationalbuilder.org/commons/e/community-income-sharing"
 created: "2026-06-11"
-updated: "2026-10-22"
+updated: "2026-10-23"
 rtp_id: "a46fc097-d890-4d74-bbb4-ae9e9fa05799"
 ---
 # Community Income Sharing
@@ -40,7 +40,6 @@ Started in Baltimore in spring 2025. Concept by Alex Zhu; platform co-created by
 
 ## Details
 
-- **location:** {"lat":39.2908816,"lng":-76.610759,"basis":"attribution","label":"Baltimore, Maryland","precision":"city"}
 - **hosted by:** Community Guaranteed Income Club (Baltimore chapter)
 - **github url:** https://github.com/The-Relational-Technology-Project/community-guaranteed-income-club
 - **is joinable:** false

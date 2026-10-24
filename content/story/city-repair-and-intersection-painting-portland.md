@@ -9,7 +9,7 @@ topics: ["builder-story"]
 author: "cityrepair.org / communitecture.net"
 web: "https://relationalbuilder.org/commons/e/city-repair-and-intersection-painting-portland"
 created: "2026-06-10"
-updated: "2026-10-22"
+updated: "2026-10-23"
 rtp_id: "23ea9ccc-e214-4253-8221-c238857ea606"
 ---
 # City Repair and Intersection Painting, Portland
@@ -22,10 +22,6 @@ rtp_id: "23ea9ccc-e214-4253-8221-c238857ea606"
 
 - Mentions: [Intersection Repair](../recipe/intersection-repair.md)
 - Mentions: [Placemaking](../recipe/placemaking.md)
-
-## Details
-
-- **location:** {"lat":45.4652622,"lng":-122.6530035,"basis":"text","label":"Sellwood-Moreland, Portland, Oregon","precision":"neighborhood"}
 
 ---
 

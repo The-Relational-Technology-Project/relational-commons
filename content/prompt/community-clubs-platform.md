@@ -10,7 +10,7 @@ attribution_source: "Relational Tech Studio library"
 parent: "../tool/community-clubs-platform.md"
 web: "https://relationalbuilder.org/commons/e/community-clubs-platform"
 created: "2026-06-11"
-updated: "2026-10-22"
+updated: "2026-10-23"
 rtp_id: "a8a3beb1-4d0a-464d-9e5d-21832f76e9a8"
 ---
 # Community Clubs Platform
@@ -62,10 +62,6 @@ Example User Stories
 
 - Grew from [Community Clubs Platform](../tool/community-clubs-platform.md)
 - Mentions: [GitHub](../tool/github.md)
-
-## Details
-
-- **location:** {"lat":37.7879363,"lng":-122.4075201,"basis":"attribution","label":"San Francisco, California","precision":"origin"}
 
 ---
 

@@ -10,7 +10,7 @@ attribution_source: "Relational Tech Studio library"
 source_url: "https://cozycorner.place"
 web: "https://relationalbuilder.org/commons/e/hyperlocal-neighbor-hub"
 created: "2026-06-10"
-updated: "2026-10-22"
+updated: "2026-10-23"
 rtp_id: "ee89c155-7416-4cb9-a161-28db27111b74"
 ---
 # Hyperlocal Neighbor Hub
@@ -34,7 +34,6 @@ A hyperlocal neighbor hub that brings care, resources, and connection to a speci
 
 ## Details
 
-- **location:** {"lat":37.7541496,"lng":-122.5061507,"basis":"text","label":"Sunset District, San Francisco, California","precision":"neighborhood"}
 - **github url:** https://github.com/The-Relational-Technology-Project/cozy-corner
 - **is joinable:** false
 - **tool category:** relational_tech

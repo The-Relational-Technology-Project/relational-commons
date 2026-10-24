@@ -10,7 +10,7 @@ attribution_source: "Relational Tech Studio library"
 source_url: "https://outersunset.today"
 web: "https://relationalbuilder.org/commons/e/our-neighborhood-today"
 created: "2026-06-10"
-updated: "2026-10-22"
+updated: "2026-10-23"
 rtp_id: "e4b889c5-57a2-4ee8-b93e-704f5f3f7012"
 ---
 # Our Neighborhood Today
@@ -34,7 +34,6 @@ A local events and community calendar system to keep neighbors informed about wh
 
 ## Details
 
-- **location:** {"lat":37.7541496,"lng":-122.5061507,"basis":"text","label":"Sunset District, San Francisco, California","precision":"neighborhood"}
 - **github url:** https://github.com/The-Relational-Technology-Project/outer-sunset-today
 - **is joinable:** false
 - **tool category:** relational_tech

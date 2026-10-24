@@ -9,7 +9,7 @@ topics: ["builder-story"]
 author: "Teju Ravilochan, Neighbor Organizer"
 web: "https://relationalbuilder.org/commons/e/the-kindness-party"
 created: "2026-06-10"
-updated: "2026-10-22"
+updated: "2026-10-23"
 rtp_id: "a8a782f8-9beb-48ff-92f7-b47c7f459951"
 ---
 # The Kindness Party
@@ -39,10 +39,6 @@ rtp_id: "a8a782f8-9beb-48ff-92f7-b47c7f459951"
 ## Related in the commons
 
 - Mentions: [Block Party](../reference/block-party.md)
-
-## Details
-
-- **location:** {"lat":40.665306,"lng":-73.9124755,"basis":"text","label":"Brownsville, New York","precision":"neighborhood"}
 
 ---
 

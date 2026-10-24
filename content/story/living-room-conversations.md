@@ -9,7 +9,7 @@ topics: ["builder-story"]
 author: "livingroomconversations.org / Joan Blades"
 web: "https://relationalbuilder.org/commons/e/living-room-conversations"
 created: "2026-06-10"
-updated: "2026-10-22"
+updated: "2026-10-23"
 rtp_id: "df777a39-90e1-4141-a78c-4732f69c93aa"
 ---
 # Living Room Conversations
@@ -29,10 +29,6 @@ rtp_id: "df777a39-90e1-4141-a78c-4732f69c93aa"
 - Mentioned in: [The Hidden Tribes of America](../reference/the-hidden-tribes-of-america.md)
 - Mentioned in: [The Search to Belong: Rethinking Intimacy, Community, and Connection](../reference/the-search-to-belong-rethinking-intimacy-community-and-connection.md)
 - Mentioned in: [Weave Learning Center: Training for Community Weavers](../reference/weave-learning-center-training-for-community-weavers.md)
-
-## Details
-
-- **location:** {"lat":37.8708393,"lng":-122.272863,"basis":"research","label":"Berkeley, California","precision":"origin"}
 
 ---
 

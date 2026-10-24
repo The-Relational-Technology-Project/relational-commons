@@ -9,7 +9,7 @@ topics: ["builder-story"]
 author: "JRF paper / ujimaboston.com"
 web: "https://relationalbuilder.org/commons/e/boston-ujima-project"
 created: "2026-06-10"
-updated: "2026-10-22"
+updated: "2026-10-23"
 rtp_id: "6f3b3e77-78b7-4fdb-a5c9-8f0461b63a07"
 ---
 # Boston Ujima Project
@@ -21,10 +21,6 @@ rtp_id: "6f3b3e77-78b7-4fdb-a5c9-8f0461b63a07"
 ## Related in the commons
 
 - Mentions: [Participatory Budgeting](../recipe/participatory-budgeting.md)
-
-## Details
-
-- **location:** {"lat":42.3588336,"lng":-71.0578303,"also":[{"lat":42.3289067,"lng":-71.0850853,"label":"Roxbury, Boston, Massachusetts"},{"lat":42.2973205,"lng":-71.0744952,"label":"Dorchester, Boston, Massachusetts"},{"lat":42.3116046,"lng":-71.1143838,"label":"Jamaica Plain, Boston, Massachusetts"},{"lat":42.2723208,"lng":-71.0869953,"label":"Mattapan, Boston, Massachusetts"}],"basis":"text","label":"Boston, Massachusetts","precision":"city"}
 
 ---
 

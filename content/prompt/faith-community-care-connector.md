@@ -9,7 +9,7 @@ topics: ["Mutual Aid"]
 attribution_source: "Relational Tech Studio library"
 web: "https://relationalbuilder.org/commons/e/faith-community-care-connector"
 created: "2026-06-10"
-updated: "2026-10-22"
+updated: "2026-10-23"
 rtp_id: "4d8fd70e-ee66-4db3-a850-e3c5075fe00a"
 ---
 # Faith Community Care Connector
@@ -35,10 +35,6 @@ TECHNICAL & DATA
 - Authentication: Simple passwordless login (email magic link) for members only.
 - Privacy: No tracking, no ads.
 - Mobile First: Must work perfectly on phone browsers.
-
-## Details
-
-- **location:** {"lat":42.2813722,"lng":-83.7484616,"basis":"text","label":"Ann Arbor, Michigan","precision":"origin"}
 
 ---
 

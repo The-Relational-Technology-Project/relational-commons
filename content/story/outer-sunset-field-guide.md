@@ -9,7 +9,7 @@ topics: ["builder-story"]
 author: "Josh Nesbit / outersunset.place"
 web: "https://relationalbuilder.org/commons/e/outer-sunset-field-guide"
 created: "2026-06-10"
-updated: "2026-10-22"
+updated: "2026-10-23"
 rtp_id: "46cc3d09-d3db-405b-b070-dc8d0848811d"
 ---
 # Outer Sunset Field Guide
@@ -22,10 +22,6 @@ rtp_id: "46cc3d09-d3db-405b-b070-dc8d0848811d"
 
 - Mentioned in: [Walking Tour (civic media format)](../reference/format-walking-tour.md)
 - Mentioned in: [Neighborhood History (and Future) Walking App](../tool/neighborhood-history-and-future-walking-app.md)
-
-## Details
-
-- **location:** {"lat":37.7541496,"lng":-122.5061507,"basis":"attribution","label":"Sunset District, San Francisco, California","precision":"neighborhood"}
 
 ---
 

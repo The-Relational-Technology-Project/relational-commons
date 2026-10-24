@@ -10,7 +10,7 @@ attribution_source: "Relational Tech Studio library"
 source_url: "https://cozycorner.place/block-party-2025"
 web: "https://relationalbuilder.org/commons/e/block-party-organizing"
 created: "2026-06-10"
-updated: "2026-10-22"
+updated: "2026-10-23"
 rtp_id: "8c17c54f-be31-4aa6-98a2-7085c4a60441"
 ---
 # Block Party Organizing
@@ -32,7 +32,6 @@ Tools and resources for organizing neighborhood block parties, including plannin
 
 ## Details
 
-- **location:** {"lat":37.7541496,"lng":-122.5061507,"basis":"research","label":"Sunset District, San Francisco, California","precision":"neighborhood"}
 - **is joinable:** false
 - **tool category:** relational_tech
 

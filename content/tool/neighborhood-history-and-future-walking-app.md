@@ -10,7 +10,7 @@ attribution_source: "Relational Tech Studio library"
 source_url: "https://outersunset.place/"
 web: "https://relationalbuilder.org/commons/e/neighborhood-history-and-future-walking-app"
 created: "2026-06-10"
-updated: "2026-10-22"
+updated: "2026-10-23"
 rtp_id: "0d6983b7-b0ef-4705-886b-803e57e64f8d"
 ---
 # Neighborhood History (and Future) Walking App
@@ -106,7 +106,6 @@ The guide includes roughly 25-30 places spanning all three time layers — local
 
 ## Details
 
-- **location:** {"lat":37.7541496,"lng":-122.5061507,"basis":"text","label":"Sunset District, San Francisco, California","precision":"neighborhood"}
 - **github url:** https://github.com/The-Relational-Technology-Project/sunset-walking-guide
 - **is joinable:** false
 - **tool category:** tools_for_crafting

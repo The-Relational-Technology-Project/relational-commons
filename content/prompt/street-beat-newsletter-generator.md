@@ -9,7 +9,7 @@ topics: ["Communication"]
 attribution_source: "Relational Tech Studio library"
 web: "https://relationalbuilder.org/commons/e/street-beat-newsletter-generator"
 created: "2026-06-10"
-updated: "2026-10-22"
+updated: "2026-10-23"
 rtp_id: "b2fd07f8-28ed-47d9-9bf4-e51bf3117693"
 ---
 # Street Beat Newsletter Generator
@@ -70,10 +70,6 @@ TECHNICAL STACK:
 
 - Mentioned in: [Neighborhood Newsletter (civic media format)](../reference/format-neighborhood-newsletter.md)
 - Mentions: [Supabase](../tool/supabase.md)
-
-## Details
-
-- **location:** {"lat":37.7786189,"lng":-122.4641875,"basis":"text","label":"Richmond District, San Francisco, California","precision":"origin"}
 
 ---
 

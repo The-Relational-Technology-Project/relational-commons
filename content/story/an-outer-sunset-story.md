@@ -9,7 +9,7 @@ topics: ["builder-story"]
 author: "Josh Nesbit"
 web: "https://relationalbuilder.org/commons/e/an-outer-sunset-story"
 created: "2026-06-10"
-updated: "2026-10-22"
+updated: "2026-10-23"
 rtp_id: "c8f698e2-3032-4b20-9b5e-4e827c83d7fe"
 ---
 # An Outer Sunset Story
@@ -59,10 +59,6 @@ rtp_id: "c8f698e2-3032-4b20-9b5e-4e827c83d7fe"
 - Mentions: [Block Party](../reference/block-party.md)
 - Mentions: [Community Supplies](../prompt/community-supplies.md)
 - Mentions: [Neighborhood API](../tool/neighborhood-api.md)
-
-## Details
-
-- **location:** {"lat":37.7541496,"lng":-122.5061507,"basis":"text","label":"Sunset District, San Francisco, California","precision":"neighborhood"}
 
 ---
 

@@ -10,7 +10,7 @@ attribution_source: "Relational Tech Studio library"
 source_url: "https://withneighbors.org"
 web: "https://relationalbuilder.org/commons/e/microgrant-management"
 created: "2026-08-26"
-updated: "2026-10-22"
+updated: "2026-10-23"
 rtp_id: "c55aeb97-f643-414d-894d-49e66d948dc0"
 ---
 # Microgrant Management
@@ -32,7 +32,6 @@ A site to help streamline microgrants to community members (e.g. to cover costs 
 
 ## Details
 
-- **location:** {"lat":38.029306,"lng":-78.4766781,"basis":"research","label":"Charlottesville, Virginia","precision":"origin"}
 - **is joinable:** false
 - **tool category:** relational_tech
 

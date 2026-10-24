@@ -9,7 +9,7 @@ topics: ["builder-story"]
 author: "Sam Pressler, Civic Experimenter"
 web: "https://relationalbuilder.org/commons/e/the-neighbor-gathering-microgrant"
 created: "2026-06-10"
-updated: "2026-10-22"
+updated: "2026-10-23"
 rtp_id: "aa9802f3-9028-44d4-845a-f3f3d51bd7e6"
 ---
 # The Neighbor Gathering Microgrant
@@ -36,10 +36,6 @@ rtp_id: "aa9802f3-9028-44d4-845a-f3f3d51bd7e6"
 
 - Mentioned in: [Microgrant Gathering](../recipe/microgrant-gathering.md)
 - Mentioned in: [Microgrant Organizer Toolkit](../framework/microgrant-organizer-toolkit.md)
-
-## Details
-
-- **location:** {"lat":38.029306,"lng":-78.4766781,"basis":"text","label":"Charlottesville, Virginia","precision":"city"}
 
 ---
 
