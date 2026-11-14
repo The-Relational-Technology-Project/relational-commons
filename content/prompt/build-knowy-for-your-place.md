@@ -13,7 +13,7 @@ source_repo: "The-Relational-Technology-Project/neighborhood-agent"
 source_url: "https://github.com/The-Relational-Technology-Project/neighborhood-agent"
 web: "https://relationalbuilder.org/commons/e/build-knowy-for-your-place"
 created: "2026-11-09"
-updated: "2026-11-09"
+updated: "2026-11-13"
 rtp_id: "cae58819-6722-4cd6-b74f-092d7e43064d"
 ---
 # Build: A Knowy for Your Place
@@ -45,9 +45,11 @@ Then build this, and keep these rules:
 - **Plain pages beside the chat:** what this is and who stewards it, what it reads, open proposals, and how to correct it.
 - **AI runs only when a person asks something.** Never on page load or in loops.
 
+- **A door for other builds, if the place is public.** Write the public notes (events, places, groups, resources) to one plain file, `records.json`, shaped `{ records: [{ id, kind, title, date?, location?, text, url?, source, fetched_at }] }`, and keep it in step whenever a steward accepts a change. Other tools built for this place can read it instead of inventing data, the same way they read the original's place pack. Leave out people, anything still waiting on a steward, and everything from a place that is not public.
+
 Also write `STEWARDING.md` in plain language for the stewards: how to review a draft, how to ask for consent before listing someone, how to correct the agent, and what it never does.
 
-Say plainly what this version does not do yet compared with the original (live tool use, pull requests opened by the agent, adapters for outside sources), so I can decide later whether to run the full agent on the same notes.
+Say plainly what this version does not do yet compared with the original (live tool use, pull requests opened by the agent, adapters for outside sources, search by meaning, the full place pack other builders' AI tools can connect to), so I can decide later whether to run the full agent on the same notes.
 
 ## Details
 
